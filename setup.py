@@ -17,7 +17,7 @@ setup(
         'nltk==3.4.5'
     ],
     classifiers=[
-        'Development Status :: 35 - Production/Stable',
+        'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
         'Intended Audience :: Science/Research',
         'Topic :: Scientific/Engineering :: Artificial Intelligence',
