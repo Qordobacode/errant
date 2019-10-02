@@ -39,11 +39,11 @@ class M2ToM2:
         # Part of speech map file
         tag_map = Toolbox.load_tag_map(basename + "/resources/en-ptb_map")
         # Setup output m2 file
-        out_m2 = open(output_file, "w")
+        out_m2 = open(output_file, 'w', encoding='utf8')
 
         print("Processing files...")
         # Open the m2 file and split into sentence+edit chunks.
-        m2_file_strings = open(m2_file).read().strip().split("\n\n")
+        m2_file_strings = open(m2_file, encoding='utf8').read().strip().split("\n\n")
         for info in m2_file_strings:
             # Get the original and corrected sentence + edits for each annotator.
             orig_sent, coder_dict = Toolbox.process_m2(info)

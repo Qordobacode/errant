@@ -27,8 +27,8 @@ class CompareM2:
         if filters is None:
             filters = []
         # Open hypothesis and reference m2 files and split into chunks
-        hyp_m2_strings = open(hyp_m2).read().strip().split("\n\n")
-        ref_m2_strings = open(ref_m2).read().strip().split("\n\n")
+        hyp_m2_strings = open(hyp_m2, encoding='utf8').read().strip().split("\n\n")
+        ref_m2_strings = open(ref_m2, encoding='utf8').read().strip().split("\n\n")
         # Make sure they have the same number of sentences
         assert len(hyp_m2_strings) == len(ref_m2_strings)
 

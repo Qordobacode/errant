@@ -11,7 +11,7 @@ class Toolbox:
         :param path: dictionary path
         :return: list of dictionary words
         """
-        return set(open(path).read().split())
+        return set(open(path, encoding='utf8').read().split())
 
     @staticmethod
     def load_tag_map(path):
@@ -22,7 +22,7 @@ class Toolbox:
         :return: map of dependency labels to parts-of-speech.
         """
         map_dict = {}
-        open_file = open(path).readlines()
+        open_file = open(path, encoding='utf8').readlines()
         for line in open_file:
             line = line.strip().split("\t")
             # Change ADP to PREP; makes it clearer

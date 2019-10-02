@@ -37,13 +37,13 @@ class ParallelToM2:
         # Part of speech map file
         tag_map = Toolbox.load_tag_map(basename + "/resources/en-ptb_map")
         # Setup output m2 file
-        out_m2 = open(output_file, "w")
+        out_m2 = open(output_file, 'w', encoding='utf8')
 
         # ExitStack lets us process an arbitrary number of files line by line simultaneously.
         # See https://stackoverflow.com/questions/24108769/how-to-read-and-process-multiple-files-simultaneously-in-python
         print("Processing files...")
         with ExitStack() as stack:
-            in_files = [stack.enter_context(open(i)) for i in [original_file] + corrected_files]
+            in_files = [stack.enter_context(open(i, encoding='utf8')) for i in [original_file] + corrected_files]
             # Process each line of all input files.
             for line_id, line in enumerate(zip(*in_files)):
                 orig_sent = line[0].strip()
