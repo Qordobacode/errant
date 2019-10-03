@@ -3,14 +3,15 @@ from distutils.core import setup
 setup(
     name='errant',
     packages=['errant'],
-    version='1.0.0',
+    version='1.1.0',
     license='MIT',
     description='ERRor ANnotation Toolkit: Automatically extract and classify grammatical errors in parallel original and corrected sentences.',
     author='Christopher Bryant, Mariano Felice',
-    author_email='manhal.daaboul@gmail.com',
+    maintainer='Sam Havens, Melisa Stahl, Manhal Daaboul',
+    maintainer_email='sam.havens@qordoba.com, melisa@qordoba.com, manhal@qordoba.com',
     python_requires='>=3.4.0',
     url='https://github.com/Qordobacode/errant',
-    download_url='https://github.com/Qordobacode/errant/archive/1.0.0.tar.gz',
+    download_url='https://github.com/Qordobacode/errant/archive/1.1.0.tar.gz',
     keywords=['error annotation toolkit', 'grammatical correction errors', '', 'grammatical errors', '', 'grammatical correction', 'GEC'],
     install_requires=[
         'spacy==1.9.0',

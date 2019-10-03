@@ -47,14 +47,11 @@ class Toolbox:
     @staticmethod
     def process_m2(info):
         """
-        Input: A sentence + edit block in an m2 file.
-        Output 1: The original sentence (a list of tokens)
-        Output 2: A dictionary; key is coder id, value is a tuple.
-        tuple[0] is the corrected sentence (a list of tokens), tuple[1] is the edits.
-        Process M2 to extract sentences and edits.
-
-        :param info:
-        :return:
+        :param info: A sentence + edit block in an m2 file.
+        :return: Output 1: The original sentence (a list of tokens)
+                Output 2: A dictionary; key is coder id, value is a tuple.
+                tuple[0] is the corrected sentence (a list of tokens), tuple[1] is the edits.
+                Process M2 to extract sentences and edits.
         """
         info = info.split("\n")
         orig_sent = info[0][2:].split()  # [2:] ignore the leading "S "
@@ -95,11 +92,8 @@ class Toolbox:
     @staticmethod
     def process_edits(edits):
         """
-        Input: A list of edit lines for a sentence in an m2 file.
-        Output: An edit dictionary; key is coder id, value is a list of edits.
-
-        :param edits:
-        :return:
+        :param edits: A list of edit lines for a sentence in an m2 file.
+        :return: An edit dictionary; key is coder id, value is a list of edits.
         """
         edit_dict = {}
         for edit in edits:
@@ -122,13 +116,9 @@ class Toolbox:
     @staticmethod
     def apply_spacy(sent, nlp):
         """
-        Input 1: A list of token strings in a sentence.
-        Input 2: A preloaded Spacy processing object.
-        Annotate tokens with POS, lemma and parse info.
-
-        :param sent:
-        :param nlp:
-        :return:
+        :param sent: A list of token strings in a sentence.
+        :param nlp: A preloaded Spacy processing object.
+        :return: Annotate tokens with POS, lemma and parse info.
         """
         # Convert tokens to spacy tokens and POS tag and parse.
         sent = nlp.tokenizer.tokens_from_list(sent)
@@ -139,16 +129,11 @@ class Toolbox:
     @staticmethod
     def minimise_edit(edit, orig, cor):
         """
-        Input 1: An edit list. [orig_start, orig_end, cat, cor, cor_start, cor_end]
-        Input 2: An original SpaCy sentence.
-        Input 3: A corrected SpaCy sentence.
-        Output: A minimised edit with duplicate words on both sides removed.
-        E.g. [was eaten -> has eaten] becomes [was -> has]
-
-        :param edit:
-        :param orig:
-        :param cor:
-        :return:
+        :param edit: An edit list. [orig_start, orig_end, cat, cor, cor_start, cor_end]
+        :param orig: An original SpaCy sentence.
+        :param cor: A corrected SpaCy sentence.
+        :return: A minimised edit with duplicate words on both sides removed.
+                    e.g. [was eaten -> has eaten] becomes [was -> has]
         """
         # edit = [orig_start, orig_end, cat, cor, cor_start, cor_end]
         orig_toks = orig[edit[0]:edit[1]]
@@ -175,13 +160,9 @@ class Toolbox:
     @staticmethod
     def format_edit(edit, coder_id=0):
         """
-        Input 1: An edit list = [orig_start, orig_end, cat, cor, cor_start, cor_end]
-        Input 2: A coder id for the specific annotator.
-        Output: An edit in m2 file format.
-
-        :param edit:
-        :param coder_id:
-        :return:
+        :param edit: An edit list = [orig_start, orig_end, cat, cor, cor_start, cor_end]
+        :param coder_id: A coder id for the specific annotator.
+        :return: An edit in m2 file format.
         """
         span = " ".join(["A", str(edit[0]), str(edit[1])])
         return "|||".join([span, edit[2], edit[3], "REQUIRED", "-NONE-", str(coder_id)])

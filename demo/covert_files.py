@@ -2,7 +2,6 @@ from errant import ParallelToM2
 from errant import M2ToM2
 from errant import CompareM2
 
-
 # from command line
 # python errant/parallel_to_m2.py -orig demo/orig.txt -cor demo/cor1.txt demo/cor2.txt -out manhal.m2
 # python errant/m2_to_m2.py -gold demo/out.m2 -out demo/out.m2.m2
@@ -29,5 +28,3 @@ M2ToM2.convert(m2_file, output_file, edit_type)
 
 # CompareM2 example
 res = CompareM2.compare(output_file1, output_file2, detection_spans=True, score_category=3)
-#print(res)
-
