@@ -67,7 +67,7 @@ class Checker:
 
             Checker.__instance = self
 
-    def convert(self, original_tokenized_sentence, corrected_tokenized_sentence, merge_strategy='rules', levenshtein=False):
+    def check(self, original_tokenized_sentence, corrected_tokenized_sentence, merge_strategy='rules', levenshtein=False):
         """
         :param original_tokenized_sentence: original tokenized sentence
         :param corrected_tokenized_sentence: corrected tokenized sentence

@@ -10,7 +10,7 @@ corrected_tokenized_sentences = ['This is a great sentence .', 'Can you see the 
 checker = Checker()
 for (original_tokenized_sentence, corrected_tokenized_sentence) in zip(original_tokenized_sentences,
                                                                        corrected_tokenized_sentences):
-    errors, edits = checker.convert(original_tokenized_sentence, corrected_tokenized_sentence)
+    errors, edits = checker.check(original_tokenized_sentence, corrected_tokenized_sentence)
     if errors:
         print('original: ' + original_tokenized_sentence + ' - corrected: ' + corrected_tokenized_sentence +
               ' - errors: ' + str(errors) + ' - edits: ' + str(edits))

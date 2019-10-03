@@ -7,6 +7,7 @@ setup(
     license='MIT',
     description='ERRor ANnotation Toolkit: Automatically extract and classify grammatical errors in parallel original and corrected sentences.',
     author='Christopher Bryant, Mariano Felice',
+    author_email='manhal.daaboul@gmail.com',
     maintainer='Sam Havens, Melisa Stahl, Manhal Daaboul',
     maintainer_email='sam.havens@qordoba.com, melisa@qordoba.com, manhal@qordoba.com',
     python_requires='>=3.4.0',
