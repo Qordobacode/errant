@@ -2,6 +2,7 @@ import os
 
 import spacy
 from nltk.stem.lancaster import LancasterStemmer
+from nltk.tokenize.treebank import TreebankWordTokenizer
 
 from errant import AlignText
 from errant import CatRules
@@ -53,9 +54,9 @@ class Checker:
         if Checker.__instance is not None:
             raise Exception("This class is a singleton!")
         else:
+            self.tokenizer = TreebankWordTokenizer()
             # Get base working directory.
             basename = os.path.dirname(os.path.realpath(__file__))
-            print('Loading resources...')
             # Load Tokenizer and other resources
             self.nlp = spacy.load("en")
             # Lancaster Stemmer
@@ -67,7 +68,7 @@ class Checker:
 
             Checker.__instance = self
 
-    def check(self, original_tokenized_sentence, corrected_tokenized_sentence, merge_strategy='rules', levenshtein=False):
+    def check_tokenized(self, original_tokenized_sentence, corrected_tokenized_sentence, merge_strategy='rules', levenshtein=False):
         """
         :param original_tokenized_sentence: original tokenized sentence
         :param corrected_tokenized_sentence: corrected tokenized sentence
@@ -104,3 +105,19 @@ class Checker:
                     errors.append(ErrorType(cat))
                     edits.append(Edit(auto_edit[0], auto_edit[1], cat, auto_edit[3], auto_edit[4], auto_edit[5]))
                 return errors, edits
+
+    def check(self, original_sentence, corrected_sentence, merge_strategy='rules', levenshtein=False):
+        """
+        :param original_sentence: original sentence
+        :param corrected_sentence: corrected sentence
+        :param merge_strategy: Choose a merging strategy for automatic alignment, possible values:
+                                rules: Use a rule-based merging strategy (default)
+                                all-split: Merge nothing; e.g. MSSDI -> M, S, S, D, I
+                                all-merge: Merge adjacent non-matches; e.g. MSSDI -> M, SSDI
+                                all-equal: Merge adjacent same-type non-matches; e.g. MSSDI -> M, SS, D, I
+        :param levenshtein: Use standard Levenshtein to align sentences
+        :return: errors list of class ErrorType, edits list of class Edit
+        """
+        original_tokenized_sentence = ' '.join(self.tokenizer.tokenize(original_sentence)).strip()
+        corrected_tokenized_sentence = ' '.join(self.tokenizer.tokenize(corrected_sentence)).strip()
+        return self.check_tokenized(original_tokenized_sentence, corrected_tokenized_sentence, merge_strategy, levenshtein)

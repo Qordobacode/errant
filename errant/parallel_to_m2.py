@@ -14,8 +14,8 @@ class ParallelToM2:
     @staticmethod
     def convert(original_file, corrected_files, output_file, merge_strategy='rules', levenshtein=False):
         """
-        :param original_file: The path to the original text file
-        :param corrected_files: list - The paths to >= 1 corrected text files
+        :param original_file: The path to the original tokenized text file
+        :param corrected_files: list - The paths to >= 1 corrected tokenized text files
         :param output_file: The output file path
         :param merge_strategy: Choose a merging strategy for automatic alignment, possible values:
                                 rules: Use a rule-based merging strategy (default)
@@ -87,8 +87,8 @@ The default uses Damerau-Levenshtein and merging rules and assumes tokenized tex
 ''',
         formatter_class=argparse.RawTextHelpFormatter,
         usage="%(prog)s [-h] [options] -orig ORIG -cor COR [COR ...] -out OUT")
-    parser.add_argument("-orig", help="The path to the original text file.", required=True)
-    parser.add_argument("-cor", help="The paths to >= 1 corrected text files.", nargs="+", default=[], required=True)
+    parser.add_argument("-orig", help="The path to the original tokenized text file.", required=True)
+    parser.add_argument("-cor", help="The paths to >= 1 corrected tokenized text files.", nargs="+", default=[], required=True)
     parser.add_argument("-out", help="The output file path.", required=True)
     parser.add_argument("-lev", help="Use standard Levenshtein to align sentences.", action="store_true")
     parser.add_argument(

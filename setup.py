@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='errant',
     packages=['errant'],
-    version='1.1.3',
+    version='1.1.4',
     license='MIT',
     description='ERRor ANnotation Toolkit: Automatically extract and classify grammatical errors in parallel original and corrected sentences.',
     author='Christopher Bryant, Mariano Felice',
