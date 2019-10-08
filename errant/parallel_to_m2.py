@@ -14,8 +14,8 @@ class ParallelToM2:
     @staticmethod
     def convert(original_file, corrected_files, output_file, merge_strategy='rules', levenshtein=False):
         """
-        :param original_file: The path to the original tokenized text file
-        :param corrected_files: list - The paths to >= 1 corrected tokenized text files
+        :param original_file: The path to the original text file
+        :param corrected_files: list - The paths to >= 1 corrected text files
         :param output_file: The output file path
         :param merge_strategy: Choose a merging strategy for automatic alignment, possible values:
                                 rules: Use a rule-based merging strategy (default)
@@ -52,8 +52,6 @@ class ParallelToM2:
                 if not orig_sent: continue
                 # Write the original sentence to the output m2 file.
                 out_m2.write("S " + orig_sent + "\n")
-                # Markup the original sentence with spacy (assume tokenized)
-                proc_orig = Toolbox.apply_spacy(orig_sent.split(), nlp)
                 # Loop through the corrected sentences
                 for cor_id, cor_sent in enumerate(cor_sents):
                     cor_sent = cor_sent.strip()
@@ -62,8 +60,10 @@ class ParallelToM2:
                         out_m2.write("A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||" + str(cor_id) + "\n")
                     # Otherwise, do extra processing.
                     else:
-                        # Markup the corrected sentence with spacy (assume tokenized)
-                        proc_cor = Toolbox.apply_spacy(cor_sent.strip().split(), nlp)
+                        # Markup the original sentence with spacy
+                        proc_orig = nlp(orig_sent)
+                        # Markup the corrected sentence with spacy
+                        proc_cor = nlp(cor_sent)
                         # Auto align the parallel sentences and extract the edits.
                         auto_edits = AlignText.get_auto_aligned_edits(proc_orig, proc_cor, merge_strategy, levenshtein)
                         # Loop through the edits.
@@ -87,8 +87,8 @@ The default uses Damerau-Levenshtein and merging rules and assumes tokenized tex
 ''',
         formatter_class=argparse.RawTextHelpFormatter,
         usage="%(prog)s [-h] [options] -orig ORIG -cor COR [COR ...] -out OUT")
-    parser.add_argument("-orig", help="The path to the original tokenized text file.", required=True)
-    parser.add_argument("-cor", help="The paths to >= 1 corrected tokenized text files.", nargs="+", default=[], required=True)
+    parser.add_argument("-orig", help="The path to the original text file.", required=True)
+    parser.add_argument("-cor", help="The paths to >= 1 corrected text files.", nargs="+", default=[], required=True)
     parser.add_argument("-out", help="The output file path.", required=True)
     parser.add_argument("-lev", help="Use standard Levenshtein to align sentences.", action="store_true")
     parser.add_argument(

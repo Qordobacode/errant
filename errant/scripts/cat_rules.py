@@ -1,4 +1,5 @@
 from difflib import SequenceMatcher
+from spacy.lemmatizer import Lemmatizer
 
 import spacy.parts_of_speech as spos
 
@@ -361,12 +362,15 @@ class CatRules:
                     Spacy only finds lemma for its predicted POS tag. Sometimes these are wrong,
                     so we also consider alternative POS tags to improve chance of a match.
         """
-        orig_lemmas = []
-        cor_lemmas = []
+        orig_lemmas = set()
+        cor_lemmas = set()
+
+        lemmatizer = Lemmatizer(nlp.vocab.lookups)
+
         for pos in CatRules.OPEN_POS:
             # Pass the lower cased form of the word for lemmatization; improves accuracy.
-            orig_lemmas.append(nlp.vocab.morphology.lemmatize(pos, orig_tok.lower, nlp.vocab.morphology.tag_map))
-            cor_lemmas.append(nlp.vocab.morphology.lemmatize(pos, cor_tok.lower, nlp.vocab.morphology.tag_map))
+            orig_lemmas.update(lemmatizer(orig_tok.text.lower(), pos))
+            cor_lemmas.update(lemmatizer(cor_tok.text.lower(), pos))
         if set(orig_lemmas).intersection(set(cor_lemmas)):
             return True
         return False

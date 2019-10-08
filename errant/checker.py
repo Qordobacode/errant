@@ -52,7 +52,7 @@ class Checker:
 
     def __init__(self):
         if Checker.__instance is not None:
-            raise Exception("This class is a singleton!")
+            raise Exception("Checker class is a singleton!")
         else:
             self.tokenizer = TreebankWordTokenizer()
             # Get base working directory.
@@ -68,44 +68,6 @@ class Checker:
 
             Checker.__instance = self
 
-    def check_tokenized(self, original_tokenized_sentence, corrected_tokenized_sentence, merge_strategy='rules', levenshtein=False):
-        """
-        :param original_tokenized_sentence: original tokenized sentence
-        :param corrected_tokenized_sentence: corrected tokenized sentence
-        :param merge_strategy: Choose a merging strategy for automatic alignment, possible values:
-                                rules: Use a rule-based merging strategy (default)
-                                all-split: Merge nothing; e.g. MSSDI -> M, S, S, D, I
-                                all-merge: Merge adjacent non-matches; e.g. MSSDI -> M, SSDI
-                                all-equal: Merge adjacent same-type non-matches; e.g. MSSDI -> M, SS, D, I
-        :param levenshtein: Use standard Levenshtein to align sentences
-        :return: errors list of class ErrorType, edits list of class Edit
-        """
-        orig_sent = original_tokenized_sentence.strip()
-        cor_sent = corrected_tokenized_sentence.strip()
-
-        # ensure sentences are not empty
-        if orig_sent and cor_sent:
-            errors = []
-            edits = []
-            # Markup the original sentence with spacy (assume tokenized)
-            proc_orig = Toolbox.apply_spacy(orig_sent.split(), self.nlp)
-            # Identical sentences have no edits, so just write noop.
-            if orig_sent == cor_sent:
-                return errors, edits
-            # Otherwise, do extra processing.
-            else:
-                # Markup the corrected sentence with spacy (assume tokenized)
-                proc_cor = Toolbox.apply_spacy(cor_sent.strip().split(), self.nlp)
-                # Auto align the parallel sentences and extract the edits.
-                auto_edits = AlignText.get_auto_aligned_edits(proc_orig, proc_cor, merge_strategy, levenshtein)
-                # Loop through the edits.
-                for auto_edit in auto_edits:
-                    # Give each edit an automatic error type.
-                    cat = CatRules.auto_type_edit(auto_edit, proc_orig, proc_cor, self.gb_spell, self.tag_map, self.nlp, self.stemmer)
-                    errors.append(ErrorType(cat))
-                    edits.append(Edit(auto_edit[0], auto_edit[1], cat, auto_edit[3], auto_edit[4], auto_edit[5]))
-                return errors, edits
-
     def check(self, original_sentence, corrected_sentence, merge_strategy='rules', levenshtein=False):
         """
         :param original_sentence: original sentence
@@ -118,6 +80,28 @@ class Checker:
         :param levenshtein: Use standard Levenshtein to align sentences
         :return: errors list of class ErrorType, edits list of class Edit
         """
-        original_tokenized_sentence = ' '.join(self.tokenizer.tokenize(original_sentence)).strip()
-        corrected_tokenized_sentence = ' '.join(self.tokenizer.tokenize(corrected_sentence)).strip()
-        return self.check_tokenized(original_tokenized_sentence, corrected_tokenized_sentence, merge_strategy, levenshtein)
+        original_sentence = original_sentence.strip()
+        corrected_sentence = corrected_sentence.strip()
+
+        # ensure sentences are not empty
+        if original_sentence and corrected_sentence:
+            errors = []
+            edits = []
+            # Identical sentences have no edits, so just write noop.
+            if original_sentence == corrected_sentence:
+                return errors, edits
+            # Otherwise, do extra processing.
+            else:
+                # Markup the corrected sentence with spacy
+                original_sentence_doc = self.nlp(original_sentence)
+                corrected_sentence_doc = self.nlp(corrected_sentence)
+                # Auto align the parallel sentences and extract the edits.
+                auto_edits = AlignText.get_auto_aligned_edits(original_sentence_doc, corrected_sentence_doc, merge_strategy, levenshtein)
+                # Loop through the edits.
+                for auto_edit in auto_edits:
+                    # Give each edit an automatic error type.
+                    cat = CatRules.auto_type_edit(auto_edit, original_sentence_doc, corrected_sentence_doc, self.gb_spell, self.tag_map, self.nlp,
+                                                  self.stemmer)
+                    errors.append(ErrorType(cat))
+                    edits.append(Edit(auto_edit[0], auto_edit[1], cat, auto_edit[3], auto_edit[4], auto_edit[5]))
+                return errors, edits

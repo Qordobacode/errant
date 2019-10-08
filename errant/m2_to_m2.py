@@ -63,8 +63,8 @@ class M2ToM2:
                         continue
                     # Markup the orig and cor sentence with spacy (assume tokenized)
                     # Orig is marked up only once for the first coder that needs it.
-                    proc_orig = Toolbox.apply_spacy(orig_sent, nlp) if not proc_orig else proc_orig
-                    proc_cor = Toolbox.apply_spacy(cor_sent, nlp)
+                    proc_orig = nlp(' '.join(orig_sent)) if not proc_orig else proc_orig
+                    proc_cor = nlp(' '.join(cor_sent))
                     # Loop through gold edits.
                     for gold_edit in gold_edits:
                         # Um and UNK edits (uncorrected errors) are always preserved.

@@ -1,0 +1,26 @@
+1.9
+
+"EX": {POS: ADV, "AdvType": "ex"},
+"LS": {POS: PUNCT, "NumType": "ord"},
+"MD": {POS: VERB, "VerbType": "mod"},
+"PDT": {POS: ADJ, "AdjType": "pdt", "PronType": "prn"},
+"PRP$": {POS: ADJ, "PronType": "prs", "Poss": "yes"},
+"RP": {POS: PART},
+"WDT": {POS: ADJ, "PronType": "int|rel"},
+"WP": {POS: NOUN, "PronType": "int|rel"},
+"WP$": {POS: ADJ, "Poss": "yes", "PronType": "int|rel"},
+
+
+
+2.2.1
+"EX": {POS: PRON, "AdvType": "ex"},
+"LS": {POS: X, "NumType": "ord"},
+"MD": {POS: AUX, "VerbType": "mod"},
+"PDT": {POS: DET},
+"RP": {POS: ADP},
+"WDT": {POS: PRON},
+"WP": {POS: PRON},
+"WP$": {POS: PRON, "Poss": "yes"},
+ 
+new tag:
+"_SP": {POS: SPACE},
