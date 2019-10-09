@@ -4,4 +4,4 @@ rm -f MANIFEST
 rm -rf sdist
 
 python setup.py sdist
-twine -u $1 -p $2 upload dist/*
+twine upload -u $1 -p $2 dist/*
