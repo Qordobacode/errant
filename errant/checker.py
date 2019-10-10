@@ -50,7 +50,7 @@ class Checker:
             Checker()
         return Checker.__instance
 
-    def __init__(self):
+    def __init__(self, nlp=None):
         if Checker.__instance is not None:
             raise Exception("Checker class is a singleton!")
         else:
@@ -58,7 +58,9 @@ class Checker:
             # Get base working directory.
             basename = os.path.dirname(os.path.realpath(__file__))
             # Load Tokenizer and other resources
-            self.nlp = spacy.load("en")
+            self.nlp = nlp
+            if not self.nlp:
+                self.nlp = spacy.load("en")
             # Lancaster Stemmer
             self.stemmer = LancasterStemmer()
             # GB English word list (inc -ise and -ize)

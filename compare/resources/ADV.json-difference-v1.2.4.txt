@@ -1,0 +1,252 @@
+1.9.0: Counter({'M:ADV': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[3, 3, 'M:ADV', 'about', 3, 4]], 'sentence_gt': 'This had cost 25.000 human lives .', 'sentence': 'This had cost about 25.000 human lives .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bitola&diff=prev&oldid=69335391'}
+===================================================
+1.9.0: Counter({'M:PREP': 1, 'M:ADV': 1})
+2.2.1: Counter({'M:ADV': 2})
+{'edits': [[7, 7, 'M:PREP', 'at', 7, 8], [11, 11, 'M:ADV', 'not', 12, 13]], 'sentence_gt': 'Medication can help people not to tic all or at least as much .', 'sentence': 'Medication can help people not to tic at all or at least not as much .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:ATC&diff=prev&oldid=211672080'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'R:ADV': 1})
+2.2.1: Counter({'R:PUNCT': 1, 'R:VERB': 1})
+{'edits': [[5, 7, 'R:PUNCT', '"', 5, 6], [9, 10, 'R:ADV', 'Be"\'\'\'Music', 8, 9]], 'sentence_gt': "'''Song Performed : ' '' ' ' I Could Be'''''Music Produced by : ' '' Michael Wolff , Michael A. Levine'''Music Supervised by : ' '' Michael Wolff ' ' ' Music Composed by : ' '' Alex Wolff", 'sentence': '\'\'\'Song Performed : \' \'\' " I Could Be"\'\'\'Music Produced by : \' \'\' Michael Wolff , Michael A. Levine\'\'\'Music Supervised by : \' \'\' Michael Wolff \' \' \' Music Composed by : \' \'\' Alex Wolff', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_The_Naked_Brothers_Band_episodes&diff=prev&oldid=438253268'}
+===================================================
+1.9.0: Counter({'U:ADV': 1, 'R:VERB': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[16, 17, 'U:ADV', '', 16, 16], [17, 18, 'R:VERB', 'indisclosed', 16, 17]], 'sentence_gt': 'Jack arrives seconds later , but Tony drifts into unconciousness , and his vital status is not disclosed .', 'sentence': 'Jack arrives seconds later , but Tony drifts into unconciousness , and his vital status is indisclosed .', 'url': 'https://en.wikipedia.org/w/index.php?title=24_(season_5)&diff=prev&oldid=43668635'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1, 'U:ADV': 1})
+2.2.1: Counter({'M:NOUN': 1, 'U:ADV': 1})
+{'edits': [[0, 0, 'M:ADJ', 'Cumulative', 0, 1], [1, 3, 'U:ADV', '', 2, 2]], 'sentence_gt': 'Goals so far', 'sentence': 'Cumulative Goals', 'url': 'https://en.wikipedia.org/w/index.php?title=Pel%C3%A9&diff=prev&oldid=847514991'}
+===================================================
+1.9.0: Counter({'U:ADV': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[28, 29, 'U:ADV', '', 28, 28]], 'sentence_gt': 'This places the idea in the Archaic period in Greece , when Greeks discovered that the world was wider , wealthier , and more cultured than they had hitherto imagined .', 'sentence': 'This places the idea in the Archaic period in Greece , when Greeks discovered that the world was wider , wealthier , and more cultured than they had imagined .', 'url': 'https://en.wikipedia.org/w/index.php?title=Greeks&diff=prev&oldid=49095442'}
+===================================================
+1.9.0: Counter({'U:ADV': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[9, 10, 'U:ADV', '', 9, 9], [10, 12, 'R:PUNCT', 'now".v', 9, 10]], 'sentence_gt': 'did , a lot of people know about it now " .', 'sentence': 'did , a lot of people know about it now".v', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Tic_Code&diff=prev&oldid=280294420'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:ADV': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'R:ADV': 1, 'M:ADV': 1})
+{'edits': [[58, 59, 'R:VERB:TENSE', 'were', 58, 59], [59, 60, 'R:ADV', 'no longer', 59, 61]], 'sentence_gt': 'As the result of a 2011 ruling by the Massachusetts Department of Early Education and Care , governor Deval Patrick ’s administration imposed rules that only residents whose treatment plans were approved before that time and included the use of the GED , were still permitted to use it , but new students and residents enrolling into JRC are not allowed , by law , to receive the GED as part of their treatment plan .', 'sentence': 'As the result of a 2011 ruling by the Massachusetts Department of Early Education and Care , governor Deval Patrick ’s administration imposed rules that only residents whose treatment plans were approved before that time and included the use of the GED , were still permitted to use it , but new students and residents enrolling into JRC were no longer allowed , by law , to receive the GED as part of their treatment plan .', 'url': 'https://en.wikipedia.org/w/index.php?title=Judge_Rotenberg_Educational_Center&diff=prev&oldid=741530510'}
+===================================================
+1.9.0: Counter({'M:ADV': 1})
+2.2.1: Counter({'M:CONJ': 1})
+{'edits': [[4, 4, 'M:ADV', 'either', 4, 5]], 'sentence_gt': 'The resulting oil is used as fuel oil or Upgrader to meet oil refinery feedstock specifications by adding hydrogen and removing sulfur and nitrogen Impurity .', 'sentence': 'The resulting oil is either used as fuel oil or Upgrader to meet oil refinery feedstock specifications by adding hydrogen and removing sulfur and nitrogen Impurity .', 'url': 'https://en.wikipedia.org/w/index.php?title=Shale_oil_extraction&diff=prev&oldid=251226803'}
+===================================================
+1.9.0: Counter({'U:ADV': 1, 'R:ORTH': 1})
+2.2.1: Counter({'U:ADV': 1})
+{'edits': [[7, 8, 'U:ADV', '', 7, 7], [26, 28, 'R:ORTH', 'delegates.', 25, 26]], 'sentence_gt': 'The decisions made by the communities are then passed to elected delegates whose only job is to give the decided upon information to a council of delegates .', 'sentence': 'The decisions made by the communities are passed to elected delegates whose only job is to give the decided upon information to a council of delegates.', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_anarchist_communities&diff=prev&oldid=280966167'}
+===================================================
+1.9.0: Counter({'U:ADV': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[24, 25, 'U:ADV', '', 24, 24]], 'sentence_gt': "The flies are hosts for the mites in a symbiosis association known as ' ' phoresis '' , whereby the mites are mechanically carried about by its host .", 'sentence': "The flies are hosts for the mites in a symbiosis association known as ' ' phoresis '' , whereby the mites are mechanically carried by its host .", 'url': 'https://en.wikipedia.org/w/index.php?title=Lactifluus_volemus&diff=prev&oldid=397487100'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[24, 25, 'R:ADV', 'bellows_interview_1.authcheckdam.pdf', 24, 25]], 'sentence_gt': 'In this role , Bellows drafted elements of the Constitution of Illinois .https://www.americanbar.org / content / dam / aba / directories / women_trailblazers / bellows_interview_2.authcheckdam.pdf', 'sentence': 'In this role , Bellows drafted elements of the Constitution of Illinois .https://www.americanbar.org / content / dam / aba / directories / women_trailblazers / bellows_interview_1.authcheckdam.pdf', 'url': 'https://en.wikipedia.org/w/index.php?title=Carole_Bellows&diff=prev&oldid=846750735'}
+===================================================
+1.9.0: Counter({'U:ADV': 1, 'M:NOUN': 1})
+2.2.1: Counter({'U:VERB': 1, 'M:NOUN': 1})
+{'edits': [[20, 21, 'U:ADV', '', 20, 20], [26, 26, 'M:NOUN', 'afterwords', 25, 26]], 'sentence_gt': 'The Roman army , for its success , depended on the use of highways to prepare for battle and to afterward refresh and re - equip .', 'sentence': 'The Roman army , for its success , depended on the use of highways to prepare for battle and to refresh and re - equip afterwords .', 'url': 'https://en.wikipedia.org/w/index.php?title=Appian_Way&diff=prev&oldid=230704723'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:ADV': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [6, 7, 'R:ADV', 'articles==', 5, 6]], 'sentence_gt': "= = = Do n't edit articles===", 'sentence': "= = Do n't edit articles==", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Best_practices_for_editors_with_close_associations&diff=prev&oldid=619132113'}
+===================================================
+1.9.0: Counter({'U:ADV': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[23, 24, 'U:ADV', '', 23, 23]], 'sentence_gt': "It has Big O notation(''n''2 ) complexity , making it inefficient on large lists , and generally performs worse than the similar insertion ver sort .", 'sentence': "It has Big O notation(''n''2 ) complexity , making it inefficient on large lists , and generally performs worse than the similar insertion sort .", 'url': 'https://en.wikipedia.org/w/index.php?title=Selection_sort&diff=prev&oldid=271815810'}
+===================================================
+1.9.0: Counter({'M:ADV': 1})
+2.2.1: Counter({'M:PART': 1})
+{'edits': [[17, 17, 'M:ADV', 'up', 17, 18]], 'sentence_gt': 'When she was announced of being eliminated Simon said , " You could leave with your head high . "', 'sentence': 'When she was announced of being eliminated Simon said , " You could leave with your head up high . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Carly_Smithson&diff=prev&oldid=209340536'}
+===================================================
+1.9.0: Counter({'R:ADV': 1, 'U:NOUN': 1})
+2.2.1: Counter({'R:OTHER': 1, 'U:PREP': 1})
+{'edits': [[3, 4, 'R:ADV', 'also==', 3, 4], [4, 5, 'U:NOUN', '', 4, 4]], 'sentence_gt': '= = See also Amir==', 'sentence': '= = See also==', 'url': 'https://en.wikipedia.org/w/index.php?title=Orifice&diff=prev&oldid=672131427'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'M:ADV': 1})
+2.2.1: Counter({'U:ADJ': 1, 'M:ADJ': 1})
+{'edits': [[19, 20, 'U:ADJ', '', 19, 19], [21, 21, 'M:ADV', 'short', 20, 21]], 'sentence_gt': 'Some of the footage from the film was used by Billy Wilder shortly after the war to produce a shorter film on the concentration camps , \' \' Death Mills \'\' , which Bradshaw describes as different than the " grieving meditation on inhumanity that Bernstein conceived . "', 'sentence': 'Some of the footage from the film was used by Billy Wilder shortly after the war to produce a film short on the concentration camps , \' \' Death Mills \'\' , which Bradshaw describes as different than the " grieving meditation on inhumanity that Bernstein conceived . "', 'url': 'https://en.wikipedia.org/w/index.php?title=German_Concentration_Camps_Factual_Survey&diff=prev&oldid=645194851'}
+===================================================
+1.9.0: Counter({'M:ADV': 1, 'U:ADV': 1})
+2.2.1: Counter({'M:ADV': 1, 'U:NOUN': 1})
+{'edits': [[18, 18, 'M:ADV', 'so', 18, 19], [24, 25, 'U:ADV', '', 25, 25]], 'sentence_gt': 'The following day , the committee found the charge of bringing the party into disrepute proved , and expelled Galloway from the Labour Party forthwith .', 'sentence': 'The following day , the committee found the charge of bringing the party into disrepute proved , and so expelled Galloway from the Labour Party .', 'url': 'https://en.wikipedia.org/w/index.php?title=George_Galloway&diff=prev&oldid=276406323'}
+===================================================
+1.9.0: Counter({'U:ADV': 1})
+2.2.1: Counter({'U:ADJ': 1})
+{'edits': [[19, 20, 'U:ADV', '', 19, 19]], 'sentence_gt': "Over the years , his style of production has progressed from gritty and dark in early projects to a more jazzy and soulful approach with the albums ' ' Cherry Bomb ( album ) '' and ' ' Flower Boy '' .", 'sentence': "Over the years , his style of production has progressed from gritty and dark in early projects to a jazzy and soulful approach with the albums ' ' Cherry Bomb ( album ) '' and ' ' Flower Boy '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Tyler,_the_Creator&diff=prev&oldid=862282359'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'M:ADV': 1})
+2.2.1: Counter({'U:DET': 1, 'M:ADJ': 1})
+{'edits': [[1, 2, 'U:DET', '', 1, 1], [3, 3, 'M:ADV', 'more', 2, 3]], 'sentence_gt': '( another 5 )', 'sentence': '( 5 more )', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipediholism_test&diff=prev&oldid=674448915'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[11, 12, 'R:ADV', 'sometimes', 11, 12]], 'sentence_gt': 'He makes a number of appearances in the Foster home , oftentimes presenting himself as the paternal figure to the other Foster children .', 'sentence': 'He makes a number of appearances in the Foster home , sometimes presenting himself as the paternal figure to the other Foster children .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Fosters_(American_TV_series)&diff=prev&oldid=733178934'}
+===================================================
+1.9.0: Counter({'M:ADV': 1, 'R:NOUN': 1})
+2.2.1: Counter({'M:NOUN': 1, 'R:NOUN': 1, 'M:PUNCT': 1})
+{'edits': [[3, 3, 'M:ADV', 'Second', 3, 4], [4, 5, 'R:NOUN', 'Court proceeding===', 5, 7]], 'sentence_gt': '= = = High Court===', 'sentence': '= = = Second High Court proceeding===', 'url': 'https://en.wikipedia.org/w/index.php?title=Charlie_Gard_case&diff=prev&oldid=798038124'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'U:ADV': 1, 'R:ADV': 1})
+{'edits': [[0, 3, 'R:ADV', 'Soon', 0, 1]], 'sentence_gt': 'Not too long after that statement , Clark announced his candidacy in his hometown of Little Rock , Arkansas , citing that he was pulled in by the people to run for the presidency .', 'sentence': 'Soon after that statement , Clark announced his candidacy in his hometown of Little Rock , Arkansas , citing that he was pulled in by the people to run for the presidency .', 'url': 'https://en.wikipedia.org/w/index.php?title=Draft_(politics)&diff=prev&oldid=30299026'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:ADV': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [4, 5, 'R:ADV', 'also==', 3, 4]], 'sentence_gt': '= = = See also===', 'sentence': '= = See also==', 'url': 'https://en.wikipedia.org/w/index.php?title=Coxswain_Insignia&diff=prev&oldid=42289208'}
+===================================================
+1.9.0: Counter({'M:ADV': 1, 'U:ADV': 1})
+2.2.1: Counter({'M:ADV': 1, 'U:NOUN': 1})
+{'edits': [[7, 7, 'M:ADV', 'apart', 7, 8], [11, 12, 'U:ADV', '', 12, 12]], 'sentence_gt': "But in a gambit that could tear the fabric of time asunder , Mondo takes advantage to Time Robo 's hammer time space to call MaxLiner and GoLiner from 1999 so the GoGoFive can form Victory Robo .", 'sentence': "But in a gambit that could tear apart the fabric of time , Mondo takes advantage to Time Robo 's hammer time space to call MaxLiner and GoLiner from 1999 so the GoGoFive can form Victory Robo .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mirai_Sentai_Timeranger&diff=prev&oldid=566375057'}
+===================================================
+1.9.0: Counter({'U:ADV': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[3, 4, 'U:ADV', '', 3, 3]], 'sentence_gt': '= = Shows Shown on Nick Jr.==', 'sentence': '= = Shows on Nick Jr.==', 'url': 'https://en.wikipedia.org/w/index.php?title=Nick_Jr._(British_and_Irish_TV_channel)&diff=prev&oldid=68018013'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:ADJ': 1})
+{'edits': [[18, 19, 'R:ADV', 'fewer', 18, 19]], 'sentence_gt': 'There will be , however , a certain spread : sometimes a little more , sometimes a little less , once in a while nothing at all .', 'sentence': 'There will be , however , a certain spread : sometimes a little more , sometimes a little fewer , once in a while nothing at all .', 'url': 'https://en.wikipedia.org/w/index.php?title=Poisson_distribution&diff=prev&oldid=584739719'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:ADV': 1})
+2.2.1: Counter({'R:NOUN': 2})
+{'edits': [[5, 6, 'R:NOUN', 'Earth100[[Special', 5, 6], [9, 10, 'R:ADV', 'Earth100|Contribs', 9, 10]], 'sentence_gt': 'User : Earth100User talk : Earth100Special : Contributions / Earth100', 'sentence': 'User : Earth100User talk : Earth100[[Special : Contributions / Earth100|Contribs', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Solarra/sandbox&diff=prev&oldid=498332119'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[25, 26, 'R:ADV', 'later', 25, 26]], 'sentence_gt': "' ' ' Norman Schiller ' '' - The coach of the football team , believed that the Wave would benefit the team but is lat3er disappointed when the team loses .", 'sentence': "' ' ' Norman Schiller ' '' - The coach of the football team , believed that the Wave would benefit the team but is later disappointed when the team loses .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Wave_(novel)&diff=prev&oldid=231665712'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:ADV': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:ADJ': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [4, 5, 'R:ADV', 'Nonsense===', 5, 6]], 'sentence_gt': '= = And More Nonsense==', 'sentence': '= = = And More Nonsense===', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators%27_noticeboard/Incidents&diff=prev&oldid=617955840'}
+===================================================
+1.9.0: Counter({'U:ADV': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[10, 11, 'U:ADV', '', 10, 10]], 'sentence_gt': 'It is my belief that the optimal solution will take way too long to finish .', 'sentence': 'It is my belief that the optimal solution will take too long to finish .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Bots/Requests_for_approval/RemindMeBot&diff=prev&oldid=729127949'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'R:ADV': 1})
+2.2.1: Counter({'R:ADV': 1})
+{'edits': [[0, 1, 'U:ADJ', '', 0, 0], [1, 3, 'R:ADV', 'Thereafter', 0, 1]], 'sentence_gt': 'Much later on , the entire group speaks at a press conference in which Alex is looking at a calendar on the wall .', 'sentence': 'Thereafter , the entire group speaks at a press conference in which Alex is looking at a calendar on the wall .', 'url': 'https://en.wikipedia.org/w/index.php?title=Polar_Bears_(film)&diff=prev&oldid=390756961'}
+===================================================
+1.9.0: Counter({'U:ADV': 1})
+2.2.1: Counter({'U:ADJ': 1})
+{'edits': [[3, 4, 'U:ADV', '', 3, 3]], 'sentence_gt': '\' \' \' Little Alexander James Jeffrey " Alex " Horne \' \'\' ( born 10 September 1978 ) is a British comedian .', 'sentence': '\' \' \' Alexander James Jeffrey " Alex " Horne \' \'\' ( born 10 September 1978 ) is a British comedian .', 'url': 'https://en.wikipedia.org/w/index.php?title=Alex_Horne&diff=prev&oldid=840899249'}
+===================================================
+1.9.0: Counter({'M:PART': 1, 'U:ADV': 1})
+2.2.1: Counter({'M:PART': 1, 'U:PART': 1})
+{'edits': [[24, 24, 'M:PART', 'down', 24, 25], [27, 28, 'U:ADV', '', 28, 28]], 'sentence_gt': 'On Microsoft Windows , an en dash may be entered as Alt+0150 , where the digits are typed on the numeric keypad while holding the Alt key down .', 'sentence': 'On Microsoft Windows , an en dash may be entered as Alt+0150 , where the digits are typed on the numeric keypad while holding down the Alt key .', 'url': 'https://en.wikipedia.org/w/index.php?title=Dash&diff=prev&oldid=309929400'}
+===================================================
+1.9.0: Counter({'U:ADV': 1, 'R:SPELL': 1})
+2.2.1: Counter({'U:NOUN': 1, 'R:SPELL': 1})
+{'edits': [[3, 4, 'U:ADV', '', 3, 3], [4, 5, 'R:SPELL', 'introduced', 3, 4]], 'sentence_gt': "Cole Matthews , lamw assintroduced as the book 's main character , is a fifteen - year - old juvenile delinquent living in Minneapolis , Minnesota .", 'sentence': "Cole Matthews , introduced as the book 's main character , is a fifteen - year - old juvenile delinquent living in Minneapolis , Minnesota .", 'url': 'https://en.wikipedia.org/w/index.php?title=Touching_Spirit_Bear&diff=prev&oldid=386792223'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[7, 8, 'R:ADV', 'no', 7, 8]], 'sentence_gt': 'You can help to so it is not longer WP : OWN .', 'sentence': 'You can help to so it is no longer WP : OWN .', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Polly_Draper&diff=prev&oldid=598791585'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[4, 5, 'R:ADV', 'annulled.', 4, 5]], 'sentence_gt': 'All their results were annuled.', 'sentence': 'All their results were annulled.', 'url': 'https://en.wikipedia.org/w/index.php?title=2010_A_Lyga&diff=prev&oldid=375917197'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[6, 7, 'R:ADV', 'as', 6, 7]], 'sentence_gt': 'without the " H " , so have a few other sources .', 'sentence': 'without the " H " , as have a few other sources .', 'url': 'https://en.wikipedia.org/w/index.php?title=Chandralekha_(1948_film)&diff=prev&oldid=594751867'}
+===================================================
+1.9.0: Counter({'U:ADV': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[7, 8, 'U:ADV', '', 7, 7]], 'sentence_gt': 'Jimmy talks George and Tom into flying out to Los Angeles , where Lloyd and Allan have fled .', 'sentence': 'Jimmy talks George and Tom into flying to Los Angeles , where Lloyd and Allan have fled .', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_The_Jeffersons_episodes&diff=prev&oldid=580122102'}
+===================================================
+1.9.0: Counter({'U:SPACE': 1, 'M:ADV': 1})
+2.2.1: Counter({'M:ADV': 1})
+{'edits': [[12, 13, 'U:SPACE', '', 12, 12], [25, 25, 'M:ADV', 'inadvertently', 24, 25]], 'sentence_gt': "' ' ' Temporary semi - protection : ' '' Persistent vandalism \xa0 – This page has been vandalized so much that automated users are restoring vandalized versions .", 'sentence': "' ' ' Temporary semi - protection : ' '' Persistent vandalism \xa0 – This page has been vandalized so much that automated users are inadvertently restoring vandalized versions .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_page_protection&diff=prev&oldid=685780190'}
+===================================================
+1.9.0: Counter({'M:VERB': 1, 'U:ADV': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:ADV': 1})
+{'edits': [[6, 6, 'M:VERB', 'following', 6, 7], [7, 8, 'U:ADV', '', 8, 8]], 'sentence_gt': 'The song was finally released the week after .', 'sentence': 'The song was finally released the following week .', 'url': 'https://en.wikipedia.org/w/index.php?title=Pardonne-moi_(Myl%C3%A8ne_Farmer_song)&diff=prev&oldid=430448481'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[3, 4, 'R:ADV', 'Backward', 3, 4]], 'sentence_gt': "' ' ' Posteriorly rotated ears'''&nbsp;–''(over 90% ) ''", 'sentence': "' ' ' Backward rotated ears'''&nbsp;–''(over 90% ) ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Noonan_syndrome&diff=prev&oldid=613674055'}
+===================================================
+1.9.0: Counter({'M:DET': 1, 'U:ADV': 1})
+2.2.1: Counter({'M:DET': 1, 'U:ADJ': 1})
+{'edits': [[11, 11, 'M:DET', 'a', 11, 12], [14, 15, 'U:ADV', '', 15, 15]], 'sentence_gt': 'After his succession to the throne , he planned to begin unification campaign by first attacking Nuwakot in 1800 B.S.', 'sentence': 'After his succession to the throne , he planned to begin a unification campaign by attacking Nuwakot in 1800 B.S.', 'url': 'https://en.wikipedia.org/w/index.php?title=Unification_of_Nepal&diff=prev&oldid=824833549'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[7, 8, 'R:ADV', '240-year', 7, 8]], 'sentence_gt': "Taiwan 's oldest living bonsai is a 1000000-year - old banyan housed in Tainan .", 'sentence': "Taiwan 's oldest living bonsai is a 240-year - old banyan housed in Tainan .", 'url': 'https://en.wikipedia.org/w/index.php?title=Banyan&diff=prev&oldid=539252462'}
+===================================================
+1.9.0: Counter({'U:ADV': 1})
+2.2.1: Counter({'U:OTHER': 1})
+{'edits': [[4, 6, 'U:ADV', '', 4, 4]], 'sentence_gt': 'Category : Comics superheroes forever nigel', 'sentence': 'Category : Comics superheroes', 'url': 'https://en.wikipedia.org/w/index.php?title=Ragneron&diff=prev&oldid=901625937'}
+===================================================
+1.9.0: Counter({'M:ADV': 1, 'U:ADV': 1})
+2.2.1: Counter({'M:ADV': 1, 'U:NOUN': 1})
+{'edits': [[18, 18, 'M:ADV', 'so', 18, 19], [24, 25, 'U:ADV', '', 25, 25]], 'sentence_gt': 'The following day , the committee found the charge of bringing the party into disrepute proved , and expelled Galloway from the Labour Party forthwith .', 'sentence': 'The following day , the committee found the charge of bringing the party into disrepute proved , and so expelled Galloway from the Labour Party .', 'url': 'https://en.wikipedia.org/w/index.php?title=George_Galloway&diff=prev&oldid=276406323'}
+===================================================
+1.9.0: Counter({'M:PRON': 1, 'R:ADV': 1})
+2.2.1: Counter({'M:PRON': 1, 'R:OTHER': 1})
+{'edits': [[13, 13, 'M:PRON', 'me', 13, 14], [13, 14, 'R:ADV', 'as', 14, 15]], 'sentence_gt': 'Your " outing " protestations here , which seem totally unfair , strike mas particularly inappropriate in light of your involvement in this article that you did n\'t care to tell us about .', 'sentence': 'Your " outing " protestations here , which seem totally unfair , strike me as particularly inappropriate in light of your involvement in this article that you did n\'t care to tell us about .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Jimbo_Wales&diff=prev&oldid=591009608'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[2, 3, 'R:ADV', "x''''k", 2, 3]], 'sentence_gt': "' ' x''''j , i '' is the ' ' i''th student 's score for the ' ' j''th subject", 'sentence': "' ' x''''k , i '' is the ' ' i''th student 's score for the ' ' j''th subject", 'url': 'https://en.wikipedia.org/w/index.php?title=Factor_analysis&diff=prev&oldid=47459395'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:ADV': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [4, 5, 'R:ADV', 'also==', 3, 4]], 'sentence_gt': '= = = See also===', 'sentence': '= = See also==', 'url': 'https://en.wikipedia.org/w/index.php?title=1st_meridian&diff=prev&oldid=899942258'}
+===================================================
+1.9.0: Counter({'U:ADV': 1})
+2.2.1: Counter({'U:ADJ': 1})
+{'edits': [[2, 3, 'U:ADV', '', 2, 2]], 'sentence_gt': 'Many thousands more were forced to move from their homes in Colombo to the north and east .', 'sentence': 'Many thousands were forced to move from their homes in Colombo to the north and east .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sri_Lanka&diff=prev&oldid=36400894'}
+===================================================
+1.9.0: Counter({'U:ADV': 1})
+2.2.1: Counter({'U:ADJ': 1})
+{'edits': [[6, 7, 'U:ADV', '', 6, 6]], 'sentence_gt': '= = = Graduate employee unions=== True', 'sentence': '= = = Graduate employee unions===', 'url': 'https://en.wikipedia.org/w/index.php?title=Graduate_school&diff=prev&oldid=333903986'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[3, 4, 'R:ADV', 'approximately', 3, 4]], 'sentence_gt': 'The game sold about 314,000 copies during its first week in Japan', 'sentence': 'The game sold approximately 314,000 copies during its first week in Japan', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Legend_of_Zelda:_Majora%27s_Mask&diff=prev&oldid=224956958'}
+===================================================
+1.9.0: Counter({'M:ADV': 1})
+2.2.1: Counter({'M:NOUN': 1})
+{'edits': [[32, 32, 'M:ADV', 'executive', 32, 33]], 'sentence_gt': "By early 2007 , it became the pilot to the Nickelodeon musical comedy series ' ' The Naked Brothers Band ( TV series ) '' for which she created , wrote , produced , directed , and obtained a WGA award for Children 's Script : Long Form or Special .", 'sentence': "By early 2007 , it became the pilot to the Nickelodeon musical comedy series ' ' The Naked Brothers Band ( TV series ) '' for which she created , wrote , executive produced , directed , and obtained a WGA award for Children 's Script : Long Form or Special .", 'url': 'https://en.wikipedia.org/w/index.php?title=Polly_Draper&diff=prev&oldid=596706836'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:ADV': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [4, 5, 'R:ADV', 'also==', 3, 4]], 'sentence_gt': '= = = See also===', 'sentence': '= = See also==', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:User_link/doc&diff=prev&oldid=637207921'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'M:ADV': 1})
+2.2.1: Counter({'R:SPELL': 1, 'M:VERB': 1})
+{'edits': [[10, 11, 'R:SPELL', 'improve', 10, 11], [21, 21, 'M:ADV', 'OBVIOUSLY', 21, 22]], 'sentence_gt': "I 'm starting to realize that the best way to imporve Wikipedia is to steamroll over certain factions that do not adhere to policy by using frank , but hopefully not uncivil , comments .", 'sentence': "I 'm starting to realize that the best way to improve Wikipedia is to steamroll over certain factions that do not OBVIOUSLY adhere to policy by using frank , but hopefully not uncivil , comments .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Deckiller/Philosophy&diff=prev&oldid=115596228'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[57, 58, 'R:ADV', 'also', 57, 58]], 'sentence_gt': "The film 's screenplay was written by Polly Draper ( star of ABC 's drama series , ' ' Thirtysomething ( TV series ) ) '' , and her husband — jazz musician Michael Wolff ( band - leader / musical director of ' ' The Arsenio Hall Show'')—contibuted the music score ; Wolff and Draper , both produced the film .", 'sentence': "The film 's screenplay was written by Polly Draper ( star of ABC 's drama series , ' ' Thirtysomething ( TV series ) ) '' , and her husband — jazz musician Michael Wolff ( band - leader / musical director of ' ' The Arsenio Hall Show'')—contibuted the music score ; Wolff and Draper , also produced the film .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Tic_Code&diff=prev&oldid=213590251'}
+===================================================
+1.9.0: Counter({'R:ADV': 1, 'U:NOUN': 1})
+2.2.1: Counter({'R:OTHER': 1, 'U:VERB': 1})
+{'edits': [[3, 4, 'R:ADV', 'also==', 3, 4], [4, 5, 'U:NOUN', '', 4, 4]], 'sentence_gt': '= = See also FET==', 'sentence': '= = See also==', 'url': 'https://en.wikipedia.org/w/index.php?title=Field-effect_transistor&diff=prev&oldid=673355650'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'M:ADV': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[26, 27, 'R:VERB:TENSE', 'changed', 26, 27], [27, 27, 'M:ADV', 'not', 27, 28]], 'sentence_gt': 'How do you make an Info Box anyway and whenever I try to add or change some stuff on their it just make what ever I change show .', 'sentence': 'How do you make an Info Box anyway and whenever I try to add or change some stuff on their it just make what ever I changed not show .', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Nat_and_Alex_Wolff_discography&diff=prev&oldid=170666880'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[6, 7, 'R:ADV', '13', 6, 7]], 'sentence_gt': "We have completed ' ' ' 12 ' '' of 15 articles .", 'sentence': "We have completed ' ' ' 13 ' '' of 15 articles .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Pok%C3%A9mon_Adoption_Center&diff=prev&oldid=26557979'}
+===================================================
+1.9.0: Counter({'R:ADV': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[7, 8, 'R:ADV', 'archive2', 7, 8]], 'sentence_gt': 'Wikipedia talk : WikiProject Star Wars / acrhive2', 'sentence': 'Wikipedia talk : WikiProject Star Wars / archive2', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Star_Wars&diff=prev&oldid=42864605'}
+===================================================
+1.9.0: Counter({'M:ADV': 1, 'U:ADV': 1})
+2.2.1: Counter({'M:ADV': 1, 'U:NOUN': 1})
+{'edits': [[7, 7, 'M:ADV', 'apart', 7, 8], [11, 12, 'U:ADV', '', 12, 12]], 'sentence_gt': "But in a gambit that could tear the fabric of time asunder , Mondo takes advantage to Time Robo 's hammer time space to call MaxLiner and GoLiner from 1999 so the GoGoFive can form Victory Robo .", 'sentence': "But in a gambit that could tear apart the fabric of time , Mondo takes advantage to Time Robo 's hammer time space to call MaxLiner and GoLiner from 1999 so the GoGoFive can form Victory Robo .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mirai_Sentai_Timeranger&diff=prev&oldid=566375057'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:ADV': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [4, 5, 'R:ADV', 'also==', 3, 4]], 'sentence_gt': '= = = See also===', 'sentence': '= = See also==', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Cat_Who...&diff=prev&oldid=368182329'}
+===================================================

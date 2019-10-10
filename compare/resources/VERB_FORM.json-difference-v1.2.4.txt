@@ -1,0 +1,556 @@
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[28, 29, 'R:VERB:FORM', 'left', 28, 29]], 'sentence_gt': 'At last , Li remained 40,000 came back to eastern Guangdong , the Guangdong was many Taiping forces of the first generation ( The Old brothers ) homeland leaved from 1850 , Zuo Zongtang ordered 6 major generals lead 70,000 Qing army sieged them in Jiaoling County May 1 , 1865 , 20,000 Taiping forces surrender .', 'sentence': 'At last , Li remained 40,000 came back to eastern Guangdong , the Guangdong was many Taiping forces of the first generation ( The Old brothers ) homeland left from 1850 , Zuo Zongtang ordered 6 major generals lead 70,000 Qing army sieged them in Jiaoling County May 1 , 1865 , 20,000 Taiping forces surrender .', 'url': 'https://en.wikipedia.org/w/index.php?title=Li_Shixian&diff=prev&oldid=400456332'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[11, 12, 'R:VERB:FORM', 'honeymooned', 11, 12]], 'sentence_gt': 'They were married in Pontycymer , Bridgend , South Wales and Honeymoon in Crete .', 'sentence': 'They were married in Pontycymer , Bridgend , South Wales and honeymooned in Crete .', 'url': 'https://en.wikipedia.org/w/index.php?title=Ryan_Day_(snooker_player)&diff=prev&oldid=282653770'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB': 1, 'R:VERB:FORM': 1})
+{'edits': [[27, 30, 'R:VERB:FORM', 'withdrew', 27, 28]], 'sentence_gt': 'In 1757 he fought against the invading Russian troops , but after the Battle of Gross - Jägersdorf and a new Russian advance in 1758 , he had to withdraw to the fortress of Kolberg with his troops .', 'sentence': 'In 1757 he fought against the invading Russian troops , but after the Battle of Gross - Jägersdorf and a new Russian advance in 1758 , he withdrew to the fortress of Kolberg with his troops .', 'url': 'https://en.wikipedia.org/w/index.php?title=Heinrich_Sigismund_von_der_Heyde&diff=prev&oldid=757288861'}
+===================================================
+1.9.0: Counter({'M:VERB:FORM': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[3, 3, 'M:VERB:FORM', 'to', 3, 4]], 'sentence_gt': "The Jamaat adheres and follows Ahlus'Sunnah , and all its teachings are found to be within shari'ah permissibility .", 'sentence': "The Jamaat adheres to and follows Ahlus'Sunnah , and all its teachings are found to be within shari'ah permissibility .", 'url': 'https://en.wikipedia.org/w/index.php?title=Tablighi_Jamaat&diff=prev&oldid=160021069'}
+===================================================
+1.9.0: Counter({'U:VERB': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[16, 17, 'U:VERB', '', 16, 16], [18, 19, 'R:VERB:FORM', 'declined', 17, 18]], 'sentence_gt': 'While the species as a whole is not threatened , the typical variety of Cuba has been markedly declines due to deforestation and is now considered a Vulnerable species by the IUCN .', 'sentence': 'While the species as a whole is not threatened , the typical variety of Cuba has markedly declined due to deforestation and is now considered a Vulnerable species by the IUCN .', 'url': 'https://en.wikipedia.org/w/index.php?title=Caribbean_pine&diff=prev&oldid=225875393'}
+===================================================
+1.9.0: Counter({'M:PRON': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'M:PRON': 1, 'R:VERB:TENSE': 1})
+{'edits': [[37, 37, 'M:PRON', 'they', 37, 38], [37, 38, 'R:VERB:FORM', 'surrendered', 38, 39]], 'sentence_gt': 'Fujimori was publicly acclaimed for the decisive action , but the affair was later tainted by subsequent revelations that at least three , and perhaps as many as eight , of the MRTistas were summarily executed after surrendering .', 'sentence': 'Fujimori was publicly acclaimed for the decisive action , but the affair was later tainted by subsequent revelations that at least three , and perhaps as many as eight , of the MRTistas were summarily executed after they surrendered .', 'url': 'https://en.wikipedia.org/w/index.php?title=T%C3%BApac_Amaru_Revolutionary_Movement&diff=prev&oldid=693561835'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[10, 11, 'R:VERB:FORM', 'led', 10, 11]], 'sentence_gt': 'They were also the Great Warrior Clan of Chola and leaded crucial war for Chola Kings as Generals of Chola Army .', 'sentence': 'They were also the Great Warrior Clan of Chola and led crucial war for Chola Kings as Generals of Chola Army .', 'url': 'https://en.wikipedia.org/w/index.php?title=Chozhia_Vellalar&diff=prev&oldid=398955101'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:VERB:FORM': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'M:VERB:TENSE': 1})
+{'edits': [[16, 16, 'M:PUNCT', '/', 16, 17], [17, 17, 'M:VERB:FORM', 'to', 18, 19]], 'sentence_gt': 'It was very much a " no consensus " discussion rather than a " consensus to not X " discussion .', 'sentence': 'It was very much a " no consensus " discussion rather than a " consensus to / not to X " discussion .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Arbitration/Requests/Case/Lightbreather/Proposed_decision&diff=prev&oldid=671181026'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[11, 12, 'R:VERB:FORM', 'involves', 11, 12]], 'sentence_gt': ": : : : : Yes , real - world triage involved the sorting out of those that ca n't be helped , those that do n't need ( much ) help , and those that need to be helped ASAP .", 'sentence': ": : : : : Yes , real - world triage involves the sorting out of those that ca n't be helped , those that do n't need ( much ) help , and those that need to be helped ASAP .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Page_Curation&diff=prev&oldid=480513988'}
+===================================================
+1.9.0: Counter({'U:VERB:FORM': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'M:PUNCT': 1})
+{'edits': [[1, 2, 'U:VERB:FORM', '', 1, 1], [8, 8, 'M:PUNCT', ',', 7, 8]], 'sentence_gt': "Unlike to ' ' ex situ '' processing it does not involve mining or spent oil shale disposal aboveground as spent oil shale stays underground .", 'sentence': "Unlike ' ' ex situ '' processing , it does not involve mining or spent oil shale disposal aboveground as spent oil shale stays underground .", 'url': 'https://en.wikipedia.org/w/index.php?title=Shale_oil_extraction&diff=prev&oldid=400659985'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[19, 20, 'R:VERB:FORM', 'constructed', 19, 20]], 'sentence_gt': 'Officials of Barangay Gao , headed by Barangay Captain Inocencio Deyro , the older brother of Maria , immediately construct classrooms using roofs , bamboos and nipa .', 'sentence': 'Officials of Barangay Gao , headed by Barangay Captain Inocencio Deyro , the older brother of Maria , immediately constructed classrooms using roofs , bamboos and nipa .', 'url': 'https://en.wikipedia.org/w/index.php?title=Commonwealth_Elementary_School&diff=prev&oldid=337574057'}
+===================================================
+1.9.0: Counter({'R:PREP': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'R:PREP': 1, 'U:PREP': 1, 'R:VERB:FORM': 1})
+{'edits': [[0, 2, 'R:PREP', 'Because', 0, 1], [3, 4, 'R:VERB:FORM', 'is', 2, 3]], 'sentence_gt': 'Due to water being a very good solvent , it is rarely pure and some of the properties of impure water can vary from those of the pure substance .', 'sentence': 'Because water is a very good solvent , it is rarely pure and some of the properties of impure water can vary from those of the pure substance .', 'url': 'https://en.wikipedia.org/w/index.php?title=Properties_of_water&diff=prev&oldid=793739695'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[2, 3, 'R:VERB:FORM', 'led', 2, 3]], 'sentence_gt': 'This sometimes lead to the Sassanids controlling some parts of the region , including Transjordan .', 'sentence': 'This sometimes led to the Sassanids controlling some parts of the region , including Transjordan .', 'url': 'https://en.wikipedia.org/w/index.php?title=Jordan&diff=prev&oldid=716549526'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'R:VERB': 1, 'R:VERB:FORM': 1, 'U:PUNCT': 1})
+{'edits': [[1, 4, 'R:VERB:FORM', 'wanted to refuse', 1, 4], [8, 9, 'U:PUNCT', '', 8, 8]], 'sentence_gt': "Shaw would have refused his Nobel Prize outright , because he had no desire for public honors , but accepted it at his wife 's behest : she considered it a tribute to Ireland .", 'sentence': "Shaw wanted to refuse his Nobel Prize outright because he had no desire for public honors , but accepted it at his wife 's behest : she considered it a tribute to Ireland .", 'url': 'https://en.wikipedia.org/w/index.php?title=George_Bernard_Shaw&diff=prev&oldid=237019025'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'R:ORTH': 1, 'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[6, 7, 'R:ORTH', 'convener', 6, 7], [7, 11, 'R:VERB:FORM', 'takes', 7, 8]], 'sentence_gt': 'A transport committee headed by a Convener is formed to take care of the smooth operation of buses .', 'sentence': 'A transport committee headed by a convener takes care of the smooth operation of buses .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sri_Venkateswara_College_of_Engineering&diff=prev&oldid=206900486'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[21, 25, 'R:VERB:FORM', 'executes', 21, 22]], 'sentence_gt': "Viewing Lizzie as too dangerous to be around other people , Carol and Tyreese discuss Lizzie 's fate , and Carol is forced to execute Lizzie by shooting her in the head .", 'sentence': "Viewing Lizzie as too dangerous to be around other people , Carol and Tyreese discuss Lizzie 's fate , and Carol executes Lizzie by shooting her in the head .", 'url': 'https://en.wikipedia.org/w/index.php?title=Carol_Peletier&diff=prev&oldid=710013109'}
+===================================================
+1.9.0: Counter({'M:VERB:FORM': 1, 'U:VERB:TENSE': 1})
+2.2.1: Counter({'M:PREP': 1, 'U:VERB:TENSE': 1})
+{'edits': [[3, 3, 'M:VERB:FORM', 'to', 3, 4], [5, 6, 'U:VERB:TENSE', '', 6, 6]], 'sentence_gt': 'These luminarias have some extent have replaced the older tradition of the luminaria ( vigil fire ) with which they became confused .', 'sentence': 'These luminarias have to some extent replaced the older tradition of the luminaria ( vigil fire ) with which they became confused .', 'url': 'https://en.wikipedia.org/w/index.php?title=Luminaria&diff=prev&oldid=378801949'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB': 1, 'U:VERB:FORM': 1, 'R:VERB:TENSE': 1})
+{'edits': [[13, 16, 'R:VERB:FORM', 'had', 13, 14]], 'sentence_gt': 'On 15 November 1914 , McGee married Eileen Rose Bailey ; the couple were to have daughter Nada the following year .', 'sentence': 'On 15 November 1914 , McGee married Eileen Rose Bailey ; the couple had daughter Nada the following year .', 'url': 'https://en.wikipedia.org/w/index.php?title=Lewis_McGee&diff=prev&oldid=319131967'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'modeling', 3, 4]], 'sentence_gt': 'Category : Data modelling', 'sentence': 'Category : Data modeling', 'url': 'https://en.wikipedia.org/w/index.php?title=Corticon&diff=prev&oldid=329235507'}
+===================================================
+1.9.0: Counter({'M:VERB:FORM': 1, 'U:PREP': 1})
+2.2.1: Counter({'M:PART': 1, 'U:PREP': 1})
+{'edits': [[38, 38, 'M:VERB:FORM', 'to', 38, 39], [47, 48, 'U:PREP', '', 48, 48]], 'sentence_gt': 'This sometimes takes the form of random phone calls , http://www.byfaith.co.uk / paul20053.htm " Mobile Phone Evangelism " , ByFaith media , Retrieved March 24 , 2007 or is done after someone contacts the evangelist to recommend people whom a person may want the evangelist to evangelize to .', 'sentence': 'This sometimes takes the form of random phone calls , http://www.byfaith.co.uk / paul20053.htm " Mobile Phone Evangelism " , ByFaith media , Retrieved March 24 , 2007 or is done after someone contacts the evangelist to recommend people to whom a person may want the evangelist to evangelize .', 'url': 'https://en.wikipedia.org/w/index.php?title=Approaches_to_evangelism&diff=prev&oldid=313723464'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[17, 21, 'R:VERB:FORM', 'received', 17, 18]], 'sentence_gt': 'On January 1 , 1901 , after a watch night service , the students prayed for and were said to receive the baptism with the Holy Spirit with the evidence of speaking in tongues .', 'sentence': 'On January 1 , 1901 , after a watch night service , the students prayed for and received the baptism with the Holy Spirit with the evidence of speaking in tongues .', 'url': 'https://en.wikipedia.org/w/index.php?title=Pentecostalism&diff=prev&oldid=532016559'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'signaling', 3, 4]], 'sentence_gt': 'Category : Cell signalling', 'sentence': 'Category : Cell signaling', 'url': 'https://en.wikipedia.org/w/index.php?title=Fus3&diff=prev&oldid=607918278'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[2, 3, 'R:VERB:FORM', 'Counseling', 2, 3]], 'sentence_gt': 'Category : Counselling', 'sentence': 'Category : Counseling', 'url': 'https://en.wikipedia.org/w/index.php?title=Marriage_guidance&diff=prev&oldid=34744351'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'M:VERB:FORM': 1, 'M:VERB:TENSE': 1})
+{'edits': [[1, 2, 'R:VERB:FORM', 'is to be', 1, 4]], 'sentence_gt': 'It was released in May 2019 by Roc Nation .', 'sentence': 'It is to be released in May 2019 by Roc Nation .', 'url': 'https://en.wikipedia.org/w/index.php?title=Yo_(album)&diff=prev&oldid=895626437'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB': 1, 'R:VERB:FORM': 1})
+{'edits': [[16, 19, 'R:VERB:FORM', 'left', 16, 17]], 'sentence_gt': 'By the terms of the Peace of Basel ( 22&nbsp;July 1795 ) , the Prussian army was to leave the Rhine river and Main river river valleys ; as it did so , the French quickly over - ran these territories .', 'sentence': 'By the terms of the Peace of Basel ( 22&nbsp;July 1795 ) , the Prussian army left the Rhine river and Main river river valleys ; as it did so , the French quickly over - ran these territories .', 'url': 'https://en.wikipedia.org/w/index.php?title=Johann_von_Klenau&diff=prev&oldid=338111227'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:ADJ:FORM': 1})
+{'edits': [[23, 24, 'R:VERB:FORM', 'despairing', 23, 24]], 'sentence_gt': "On 6 September 2014 , Driver won the Volpi Cup for Best Actor at the 71st Venice International Film Festival for portraying a despaired father in ' ' Hungry Hearts ( 2014 film ) '' , a film by Italian director Saverio Constanzo .", 'sentence': "On 6 September 2014 , Driver won the Volpi Cup for Best Actor at the 71st Venice International Film Festival for portraying a despairing father in ' ' Hungry Hearts ( 2014 film ) '' , a film by Italian director Saverio Constanzo .", 'url': 'https://en.wikipedia.org/w/index.php?title=Adam_Driver&diff=prev&oldid=650983613'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'U:VERB:FORM': 1})
+2.2.1: Counter({'U:DET': 1, 'U:PART': 1})
+{'edits': [[8, 9, 'U:DET', '', 8, 8], [10, 11, 'U:VERB:FORM', '', 9, 9]], 'sentence_gt': 'The Prussian cavalry protected the flanks , and this provided to tactically important charges , which turned the defeat into a rout .', 'sentence': 'The Prussian cavalry protected the flanks , and provided tactically important charges , which turned the defeat into a rout .', 'url': 'https://en.wikipedia.org/w/index.php?title=Battle_of_Leuthen&diff=prev&oldid=772507160'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB': 1, 'R:VERB:FORM': 1})
+{'edits': [[6, 9, 'R:VERB:FORM', 'agreed to collaborate', 6, 9]], 'sentence_gt': "Rooney 's conservator and Jan Rooney will be collaborating on a small funeral for family members , which Christopher and Christina Aber , whom Rooney had accused of abuse , will not be permitted to attend .", 'sentence': "Rooney 's conservator and Jan Rooney agreed to collaborate on a small funeral for family members , which Christopher and Christina Aber , whom Rooney had accused of abuse , will not be permitted to attend .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mickey_Rooney&diff=prev&oldid=603782210'}
+===================================================
+1.9.0: Counter({'M:PREP': 1, 'U:VERB:FORM': 1})
+2.2.1: Counter({'M:PREP': 1, 'U:PREP': 1})
+{'edits': [[8, 8, 'M:PREP', 'to', 8, 9], [13, 14, 'U:VERB:FORM', '', 14, 14]], 'sentence_gt': "Unfortunately , Kitab does n't exactly take us where we would want it to .", 'sentence': "Unfortunately , Kitab does n't exactly take us to where we would want it .", 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Islam/Archive_16&diff=prev&oldid=21819551'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'R:PREP': 1, 'R:VERB:FORM': 1})
+{'edits': [[0, 1, 'R:PART', 'To', 0, 1], [1, 2, 'R:VERB:FORM', 'access', 1, 2]], 'sentence_gt': "In accessing DRAM , controllers first select a memory bank , then a row ( using the ' ' row address strobe '' , RAS ) , then a column ( using the CAS ) , and finally request to read the data from the physical location of the memory cell .", 'sentence': "To access DRAM , controllers first select a memory bank , then a row ( using the ' ' row address strobe '' , RAS ) , then a column ( using the CAS ) , and finally request to read the data from the physical location of the memory cell .", 'url': 'https://en.wikipedia.org/w/index.php?title=CAS_latency&diff=prev&oldid=56257996'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:SPELL': 1, 'R:VERB:FORM': 1})
+{'edits': [[11, 12, 'R:CONTR', 'have', 11, 12], [12, 13, 'R:VERB:FORM', 'began', 12, 13]], 'sentence_gt': "Since the border post has been in rebel hands , they 've begun bringing supplies from Tunisia into the besieged towns of the Nafusa Mountains .", 'sentence': 'Since the border post has been in rebel hands , they have began bringing supplies from Tunisia into the besieged towns of the Nafusa Mountains .', 'url': 'https://en.wikipedia.org/w/index.php?title=Battle_of_Wazzin&diff=prev&oldid=426525437'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[6, 10, 'R:VERB:FORM', 'shifted', 6, 7]], 'sentence_gt': 'On the other hand , DOH is planning to shift into policy of mitigation where patients with symptoms anomaly exhibiting swine flu will just go see a doctor .', 'sentence': 'On the other hand , DOH shifted into policy of mitigation where patients with symptoms anomaly exhibiting swine flu will just go see a doctor .', 'url': 'https://en.wikipedia.org/w/index.php?title=2009_flu_pandemic_in_the_Philippines&diff=prev&oldid=296965848'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1, 'R:ORTH': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[5, 6, 'R:VERB:FORM', 'awarded', 5, 6], [17, 21, 'R:ORTH', 'Award").', 17, 18]], 'sentence_gt': 'In 1987 , Isaksson was award the Swedish \' \' Stora Journalistpriset \'\' ( " Great Journalist Award " ) .', 'sentence': 'In 1987 , Isaksson was awarded the Swedish \' \' Stora Journalistpriset \'\' ( " Great Journalist Award").', 'url': 'https://en.wikipedia.org/w/index.php?title=Anders_Isaksson&diff=prev&oldid=264811380'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'modeling', 3, 4]], 'sentence_gt': 'Category : Data model', 'sentence': 'Category : Data modeling', 'url': 'https://en.wikipedia.org/w/index.php?title=Data_center_predictive_modeling&diff=prev&oldid=469390841'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'modeling', 3, 4]], 'sentence_gt': 'Category : Data modelling diagrams', 'sentence': 'Category : Data modeling diagrams', 'url': 'https://en.wikipedia.org/w/index.php?title=Control_Structure_Diagram&diff=prev&oldid=388102368'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[6, 10, 'R:VERB:FORM', 'witnessed', 6, 7]], 'sentence_gt': '– On 20 June , Edelstein was forced to witness the murder of his family before being killed himself .', 'sentence': '– On 20 June , Edelstein witnessed the murder of his family before being killed himself .', 'url': 'https://en.wikipedia.org/w/index.php?title=Theresienstadt_family_camp&diff=prev&oldid=864800975'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'R:ADJ:FORM': 1, 'R:VERB:FORM': 1})
+{'edits': [[6, 7, 'R:MORPH', 'obscure', 6, 7], [14, 15, 'R:VERB:FORM', 'learning', 14, 15]], 'sentence_gt': "They are rediscovering their Order 's obscured origins , and in that process , learned that much of recorded history is a lie ; that it has been honed like a weapon by their enemies , the Templars , who historically sought to suppress ' The Truth ' .", 'sentence': "They are rediscovering their Order 's obscure origins , and in that process , learning that much of recorded history is a lie ; that it has been honed like a weapon by their enemies , the Templars , who historically sought to suppress ' The Truth ' .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Assassin%27s_Creed_characters&diff=prev&oldid=615084482'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[6, 10, 'R:VERB:FORM', 'changed', 6, 7]], 'sentence_gt': 'To avoid confusion , the church was forced to change its name in 1919 to the Church of the Nazarene .', 'sentence': 'To avoid confusion , the church changed its name in 1919 to the Church of the Nazarene .', 'url': 'https://en.wikipedia.org/w/index.php?title=Pentecostalism&diff=prev&oldid=440262075'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[30, 31, 'R:VERB:FORM', 'left', 30, 31]], 'sentence_gt': 'In the Christmas of 1660 , Newton had visited the house of John Pyne and asked to be given a piece of beef , and when she was denied , leaved mumbling curses .', 'sentence': 'In the Christmas of 1660 , Newton had visited the house of John Pyne and asked to be given a piece of beef , and when she was denied , left mumbling curses .', 'url': 'https://en.wikipedia.org/w/index.php?title=Florence_Newton&diff=prev&oldid=400455617'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[24, 25, 'R:VERB:FORM', 'disregarding', 24, 25]], 'sentence_gt': 'The user does not appear to be reading sources , or has been reading them and not understanding them , and generally ignoring / disregard / not grasping what is said to him .', 'sentence': 'The user does not appear to be reading sources , or has been reading them and not understanding them , and generally ignoring / disregarding / not grasping what is said to him .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators%27_noticeboard/Incidents&diff=prev&oldid=642060486'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[12, 13, 'R:VERB:FORM', 'provide', 12, 13]], 'sentence_gt': 'A waiting shelter is located on the eastbound platform , whilst canopies provided a covered waiting area on the opposite side .', 'sentence': 'A waiting shelter is located on the eastbound platform , whilst canopies provide a covered waiting area on the opposite side .', 'url': 'https://en.wikipedia.org/w/index.php?title=Penmaenmawr_railway_station&diff=prev&oldid=799225912'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[2, 3, 'R:VERB:FORM', 'indicates', 2, 3]], 'sentence_gt': 'A release indicated something sanctioned .', 'sentence': 'A release indicates something sanctioned .', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:United_States_diplomatic_cables_leak&diff=prev&oldid=400873405'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[20, 21, 'R:VERB:FORM', 'replaced', 20, 21]], 'sentence_gt': 'Similar to the Top Gear : Polar Special , the show \'s credits included each crew member \'s first name replace with the words " Archbishop Desmond " ( e.g. "', 'sentence': 'Similar to the Top Gear : Polar Special , the show \'s credits included each crew member \'s first name replaced with the words " Archbishop Desmond " ( e.g. "', 'url': 'https://en.wikipedia.org/w/index.php?title=Top_Gear_(series_10)&diff=prev&oldid=337820781'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[2, 3, 'R:VERB:FORM', 'led', 2, 3]], 'sentence_gt': 'The race leaded over 15 laps , which corresponded to a distance of 63 kilometres ( length of one lap : 4,2&nbsp;km ) .', 'sentence': 'The race led over 15 laps , which corresponded to a distance of 63 kilometres ( length of one lap : 4,2&nbsp;km ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Helmut_Krackowizer&diff=prev&oldid=398954953'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'modeling', 3, 4]], 'sentence_gt': 'Category : Transistor modelling', 'sentence': 'Category : Transistor modeling', 'url': 'https://en.wikipedia.org/w/index.php?title=Non-Quasi_Static_model&diff=prev&oldid=335510009'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'M:VERB:FORM': 1, 'R:VERB:TENSE': 1})
+{'edits': [[6, 7, 'R:VERB:FORM', 'to be', 6, 8]], 'sentence_gt': 'However , she thought this scene was too horrific .', 'sentence': 'However , she thought this scene to be too horrific .', 'url': 'https://en.wikipedia.org/w/index.php?title=Yu_Kanda&diff=prev&oldid=728890301'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1, 'U:CONJ': 1})
+2.2.1: Counter({'R:ADJ:FORM': 1, 'U:CONJ': 1})
+{'edits': [[23, 24, 'R:VERB:FORM', 'renowned', 23, 24], [29, 30, 'U:CONJ', '', 29, 29]], 'sentence_gt': 'It was only in the 1980s , however , that the mall , acknowledging the affluence of the region , the world - renown Long Island Gold Coast , and gradually evolved into a luxurious boutique - style shopping area .', 'sentence': 'It was only in the 1980s , however , that the mall , acknowledging the affluence of the region , the world - renowned Long Island Gold Coast , gradually evolved into a luxurious boutique - style shopping area .', 'url': 'https://en.wikipedia.org/w/index.php?title=Americana_Manhasset&diff=prev&oldid=220466590'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1, 'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:VERB:FORM': 2})
+{'edits': [[3, 4, 'R:VERB:FORM', 'served', 3, 4], [14, 15, 'R:VERB:TENSE', 'served', 14, 15]], 'sentence_gt': 'In addition to serving on the Capitol Police Board , the Sergeant at Arms serves with the Senate Sergeant at Arms and the Architect of the Capitol on the Capitol Guide Board .', 'sentence': 'In addition to served on the Capitol Police Board , the Sergeant at Arms served with the Senate Sergeant at Arms and the Architect of the Capitol on the Capitol Guide Board .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sergeant_at_Arms_of_the_United_States_House_of_Representatives&diff=prev&oldid=767980387'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[17, 18, 'R:VERB:FORM', 'left', 17, 18]], 'sentence_gt': 'Quarterback Ronald Curry took off on a 48 yard touchdown run , but a missed extra point leaved the score at 12 - 7 , North Carolina .', 'sentence': 'Quarterback Ronald Curry took off on a 48 yard touchdown run , but a missed extra point left the score at 12 - 7 , North Carolina .', 'url': 'https://en.wikipedia.org/w/index.php?title=1998_Las_Vegas_Bowl&diff=prev&oldid=400455573'}
+===================================================
+1.9.0: Counter({'U:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1})
+{'edits': [[9, 10, 'U:VERB:FORM', '', 9, 9]], 'sentence_gt': 'At the start of the leg , the teams to traveled to the Palace Hotel in Tunis for their next clue .', 'sentence': 'At the start of the leg , the teams traveled to the Palace Hotel in Tunis for their next clue .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Amazing_Race_1&diff=prev&oldid=718750288'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:SVA': 1})
+{'edits': [[5, 6, 'R:VERB:FORM', 'affects', 5, 6]], 'sentence_gt': 'After seeing how badly this affected Connor at an LGBTQ dance in season 3 , he comes out .', 'sentence': 'After seeing how badly this affects Connor at an LGBTQ dance in season 3 , he comes out .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Fosters_(American_TV_series)&diff=prev&oldid=734520934'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[27, 28, 'R:VERB:FORM', 'concerned', 27, 28]], 'sentence_gt': "I really do n't think page size is something we have to worry about , as I 've explained in depth above , but if others are concerns about it , this would be a great way to cut down on the article 's size without losing content .", 'sentence': "I really do n't think page size is something we have to worry about , as I 've explained in depth above , but if others are concerned about it , this would be a great way to cut down on the article 's size without losing content .", 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Deaths_in_2012&diff=prev&oldid=496657597'}
+===================================================
+1.9.0: Counter({'M:VERB:FORM': 1, 'R:ORTH': 1})
+2.2.1: Counter({'M:PREP': 1, 'R:ORTH': 1})
+{'edits': [[7, 7, 'M:VERB:FORM', 'to', 7, 8], [7, 10, 'R:ORTH', 'lieutenant field marshal', 8, 11]], 'sentence_gt': 'Additional promotions occurred on 5 July 1745 Lieutenant Field Marshal ; 12 June 1754 with rank retroactive to 3 December 1748 General of the Cavalry .', 'sentence': 'Additional promotions occurred on 5 July 1745 to lieutenant field marshal ; 12 June 1754 with rank retroactive to 3 December 1748 General of the Cavalry .', 'url': 'https://en.wikipedia.org/w/index.php?title=Battle_of_Leuthen&diff=prev&oldid=777713448'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[21, 22, 'R:VERB:FORM', 'swam', 21, 22]], 'sentence_gt': "The ' ' ' United States Virgin Islands Records ' '' in Swimming ( sport ) are the fastest times ever swum by a swimmer representing United States Virgin Islands .", 'sentence': "The ' ' ' United States Virgin Islands Records ' '' in Swimming ( sport ) are the fastest times ever swam by a swimmer representing United States Virgin Islands .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_United_States_Virgin_Islands_records_in_swimming&diff=prev&oldid=881414296'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB': 1, 'R:VERB:FORM': 1})
+{'edits': [[14, 17, 'R:VERB:FORM', 'went', 14, 15]], 'sentence_gt': "Later that year , Section Chief Fallen Angel ( The X - Files ) had to go over Blevins 's head in an attempt to order a shut down of the X - files .", 'sentence': "Later that year , Section Chief Fallen Angel ( The X - Files ) went over Blevins 's head in an attempt to order a shut down of the X - files .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_The_X-Files_characters&diff=prev&oldid=363329141'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'consists', 3, 4]], 'sentence_gt': 'Their typical design consisted of a series of enclosed halls , open courts , and massive entrance pylon ( architecture ) aligned along the path used for festival processions .', 'sentence': 'Their typical design consists of a series of enclosed halls , open courts , and massive entrance pylon ( architecture ) aligned along the path used for festival processions .', 'url': 'https://en.wikipedia.org/w/index.php?title=Egyptian_temple&diff=prev&oldid=432029073'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'signaling', 3, 4]], 'sentence_gt': 'Category : Cell signalling', 'sentence': 'Category : Cell signaling', 'url': 'https://en.wikipedia.org/w/index.php?title=MEK_inhibitor&diff=prev&oldid=535985600'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[5, 6, 'R:VERB:FORM', 'assess', 5, 6]], 'sentence_gt': 'The PMAI is designed to asses the strength of the traits of the twelve core archetypes in a moment of time .', 'sentence': 'The PMAI is designed to assess the strength of the traits of the twelve core archetypes in a moment of time .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:HullIntegrity/sandbox&diff=prev&oldid=602861149'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB': 1, 'R:VERB:SVA': 1})
+{'edits': [[22, 25, 'R:VERB:FORM', 'says is', 22, 24]], 'sentence_gt': 'Hyman responded that the high benchmark used in the testing was necessary due to the higher levels of statistical significance which he claims to be necessary when testing paranormal claims ,', 'sentence': 'Hyman responded that the high benchmark used in the testing was necessary due to the higher levels of statistical significance which he says is necessary when testing paranormal claims ,', 'url': 'https://en.wikipedia.org/w/index.php?title=Natasha_Demkina&diff=prev&oldid=828244197'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[15, 16, 'R:VERB:FORM', 'abolish', 15, 16]], 'sentence_gt': 'It was also intended to further his emancipation policy by insisting that the new governments abolished slavery .', 'sentence': 'It was also intended to further his emancipation policy by insisting that the new governments abolish slavery .', 'url': 'https://en.wikipedia.org/w/index.php?title=Ten_percent_plan&diff=prev&oldid=882428403'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'force', 3, 4]], 'sentence_gt': 'and thus hopefully forced the browser to check further down the list of fonts .', 'sentence': 'and thus hopefully force the browser to check further down the list of fonts .', 'url': 'https://en.wikipedia.org/w/index.php?title=International_Phonetic_Alphabet&diff=prev&oldid=30993767'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[13, 17, 'R:VERB:FORM', 'made', 13, 14]], 'sentence_gt': "After making guest appearances in ' ' MTV Roadies 5.0 '' , Raghu is set to make an appearance in MTV 's reality show ' ' MTV Splitsvilla '' on June 28 2008 .", 'sentence': "After making guest appearances in ' ' MTV Roadies 5.0 '' , Raghu made an appearance in MTV 's reality show ' ' MTV Splitsvilla '' on June 28 2008 .", 'url': 'https://en.wikipedia.org/w/index.php?title=Raghu_Ram&diff=prev&oldid=223100142'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1, 'R:VERB:FORM': 1})
+{'edits': [[16, 18, 'R:VERB:TENSE', 'focuses', 16, 17], [21, 25, 'R:VERB:FORM', 'was', 20, 21]], 'sentence_gt': "' ' ' ' ' Munchkin Booty ' '' '' , the ninth standalone game , will focus on Piracy and is planned to be released in September 2008 .", 'sentence': "' ' ' ' ' Munchkin Booty ' '' '' , the ninth standalone game , focuses on Piracy and was released in September 2008 .", 'url': 'https://en.wikipedia.org/w/index.php?title=Munchkin_(card_game)&diff=prev&oldid=248188035'}
+===================================================
+1.9.0: Counter({'U:VERB:FORM': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:VERB:FORM': 1, 'R:OTHER': 1})
+{'edits': [[30, 31, 'U:VERB:FORM', '', 30, 30], [35, 36, 'R:NOUN', 'extent', 34, 35]], 'sentence_gt': 'The basis of the research , headed by E. Sue Savage - Rumbaugh , a US anthropologist , is to study the language faculties of non - human primates and to find out to what depth their upbringing affects their ability to use language .', 'sentence': 'The basis of the research , headed by E. Sue Savage - Rumbaugh , a US anthropologist , is to study the language faculties of non - human primates and find out to what extent their upbringing affects their ability to use language .', 'url': 'https://en.wikipedia.org/w/index.php?title=Panbanisha&diff=prev&oldid=63893826'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1, 'U:PREP': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'U:PREP': 1})
+{'edits': [[2, 3, 'R:VERB:FORM', 'Lynching', 2, 3], [3, 4, 'U:PREP', '', 3, 3]], 'sentence_gt': 'Category : Lynchings in', 'sentence': 'Category : Lynching', 'url': 'https://en.wikipedia.org/w/index.php?title=Death_of_Lennon_Lacy&diff=prev&oldid=916952030'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1, 'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:ADJ:FORM': 2})
+{'edits': [[5, 6, 'R:VERB:FORM', 'squared', 5, 6], [41, 42, 'R:ADJ:FORM', 'squared', 41, 42]], 'sentence_gt': "Also considered a chi - square test is a test in which this is ' ' asymptotically '' true , meaning that the sampling distribution ( if the null hypothesis is true ) can be made to approximate a chi - square distribution as closely as desired by making the sample size large enough .", 'sentence': "Also considered a chi - squared test is a test in which this is ' ' asymptotically '' true , meaning that the sampling distribution ( if the null hypothesis is true ) can be made to approximate a chi - squared distribution as closely as desired by making the sample size large enough .", 'url': 'https://en.wikipedia.org/w/index.php?title=Chi-squared_test&diff=prev&oldid=839223758'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[5, 6, 'R:VERB:FORM', 'showed', 5, 6]], 'sentence_gt': 'On 15 December , he shown sudden unprovoked movements compatible with infantile / epileptic spasms .', 'sentence': 'On 15 December , he showed sudden unprovoked movements compatible with infantile / epileptic spasms .', 'url': 'https://en.wikipedia.org/w/index.php?title=Alfie_Evans_case&diff=prev&oldid=838336504'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[7, 8, 'R:VERB:FORM', 'detailed', 7, 8]], 'sentence_gt': 'Thanks for recognising the importance of adding detail images of snakes in Wikipedia and your note to me .', 'sentence': 'Thanks for recognising the importance of adding detailed images of snakes in Wikipedia and your note to me .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Nabokov&diff=prev&oldid=170903187'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[23, 27, 'R:VERB:FORM', 'permeates', 23, 24]], 'sentence_gt': "The ' ' ' electromagnetic field ' '' is a physical influence ( more precisely , a Field ( physics ) ) that is imagined to permeate through all of space and which arises from charged objects and describes one of the four fundamental forces of nature - electromagnetism .", 'sentence': "The ' ' ' electromagnetic field ' '' is a physical influence ( more precisely , a Field ( physics ) ) that permeates through all of space and which arises from charged objects and describes one of the four fundamental forces of nature - electromagnetism .", 'url': 'https://en.wikipedia.org/w/index.php?title=Electromagnetic_field&diff=prev&oldid=47081287'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[19, 20, 'R:VERB:FORM', 'Christianized', 19, 20]], 'sentence_gt': 'A third of the colony were wiped out that day ; were it not for last minute warnings by Christianize natives , a higher toll would have been certain .', 'sentence': 'A third of the colony were wiped out that day ; were it not for last minute warnings by Christianized natives , a higher toll would have been certain .', 'url': 'https://en.wikipedia.org/w/index.php?title=Anglo-Powhatan_Wars&diff=prev&oldid=753672434'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 2})
+2.2.1: Counter({'R:ADJ:FORM': 2})
+{'edits': [[7, 8, 'R:VERB:FORM', 'squared', 7, 8], [20, 21, 'R:VERB:FORM', 'squared', 20, 21]], 'sentence_gt': "Without other qualification , ' chi - square test ' often is used as short for Pearson 's chi - square test .", 'sentence': "Without other qualification , ' chi - squared test ' often is used as short for Pearson 's chi - squared test .", 'url': 'https://en.wikipedia.org/w/index.php?title=Chi-squared_test&diff=prev&oldid=839223758'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:FORM': 1, 'R:VERB:SVA': 1})
+{'edits': [[12, 14, 'R:VERB:FORM', 'is', 12, 13]], 'sentence_gt': 'Soon , Edward and Bella fall in love , claiming each other to be their soul mate .', 'sentence': 'Soon , Edward and Bella fall in love , claiming each other is their soul mate .', 'url': 'https://en.wikipedia.org/w/index.php?title=Twilight_(Meyer_novel)&diff=prev&oldid=223117507'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[1, 5, 'R:VERB:FORM', 'rendered', 1, 2]], 'sentence_gt': 'This was done to render him controllable .', 'sentence': 'This rendered him controllable .', 'url': 'https://en.wikipedia.org/w/index.php?title=Doomsday_(DC_Comics)&diff=prev&oldid=571321209'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[17, 18, 'R:VERB:TENSE', 'was', 17, 18], [23, 27, 'R:VERB:FORM', 'took', 23, 24]], 'sentence_gt': "The ' ' ' 2017 ICC World Cricket League East Asia - Pacific Region Qualifiers ' '' is an international cricket tournament that is scheduled to take place in Bendigo , Australia.https://www.icc - cricket.com / media - releases/374290 The teams competing in the tournament are Vanuatu , Fiji , Indonesia , Japan , Philippines and Samoa .", 'sentence': "The ' ' ' 2017 ICC World Cricket League East Asia - Pacific Region Qualifiers ' '' was an international cricket tournament that took place in Bendigo , Australia.https://www.icc - cricket.com / media - releases/374290 The teams competing in the tournament are Vanuatu , Fiji , Indonesia , Japan , Philippines and Samoa .", 'url': 'https://en.wikipedia.org/w/index.php?title=2017_ICC_World_Cricket_League_East_Asia-Pacific_Region_Qualifiers&diff=prev&oldid=789277615'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'M:VERB:FORM': 1, 'M:VERB:TENSE': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'is to be', 3, 6]], 'sentence_gt': 'A music video was filmed for every song on \' \' Yo \'\' , displaying their " mood and story " , although not forming an overall plot .', 'sentence': 'A music video is to be filmed for every song on \' \' Yo \'\' , displaying their " mood and story " , although not forming an overall plot .', 'url': 'https://en.wikipedia.org/w/index.php?title=Yo_(album)&diff=prev&oldid=865633731'}
+===================================================
+1.9.0: Counter({'M:VERB:FORM': 1})
+2.2.1: Counter({'M:VERB:TENSE': 1})
+{'edits': [[29, 29, 'M:VERB:FORM', 'to', 29, 30]], 'sentence_gt': 'There were those by the late 1500s who subscribed to presbyterian polity , and these English Presbyterianism would gain enough power during the First English Civil War to attempt refashion the Church of England into a presbyterian church .', 'sentence': 'There were those by the late 1500s who subscribed to presbyterian polity , and these English Presbyterianism would gain enough power during the First English Civil War to attempt to refashion the Church of England into a presbyterian church .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Ltwin/sandboxUPCI&diff=prev&oldid=887352900'}
+===================================================
+1.9.0: Counter({'M:PREP': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'M:VERB:FORM': 1, 'R:VERB:FORM': 1})
+{'edits': [[4, 4, 'M:PREP', 'to', 4, 5], [6, 7, 'R:VERB:FORM', 'graduating', 7, 8]], 'sentence_gt': 'And then went on ultimately onto graduate from Brown University with a degree in Bioethics .', 'sentence': 'And then went on to ultimately onto graduating from Brown University with a degree in Bioethics .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:ATC&diff=prev&oldid=307825467'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[23, 27, 'R:VERB:FORM', 'took', 23, 24]], 'sentence_gt': 'After a year , Green began her own private practice there , which prospered until Green became pregnant for a third time and was forced to take time off work for another maternity leave .', 'sentence': 'After a year , Green began her own private practice there , which prospered until Green became pregnant for a third time and took time off work for another maternity leave .', 'url': 'https://en.wikipedia.org/w/index.php?title=Debora_Green&diff=prev&oldid=511286382'}
+===================================================
+1.9.0: Counter({'U:VERB:FORM': 1})
+2.2.1: Counter({'U:PART': 1})
+{'edits': [[16, 17, 'U:VERB:FORM', '', 16, 16]], 'sentence_gt': 'Although they were initially reluctant , Draper and Wolff later decided to under certain conditions , to which Nickelodeon approved .', 'sentence': 'Although they were initially reluctant , Draper and Wolff later decided to under certain conditions , which Nickelodeon approved .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band_(TV_series)&diff=prev&oldid=880323662'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[14, 15, 'R:VERB:FORM', 'passed', 14, 15]], 'sentence_gt': 'An extensive survey of three genera of frogs in Montana show that all three pass through the K – T event apparently unchanged .', 'sentence': 'An extensive survey of three genera of frogs in Montana show that all three passed through the K – T event apparently unchanged .', 'url': 'https://en.wikipedia.org/w/index.php?title=Cretaceous%E2%80%93Paleogene_extinction_event&diff=prev&oldid=145659962'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'modeling', 3, 4]], 'sentence_gt': 'Category : Data modelling', 'sentence': 'Category : Data modeling', 'url': 'https://en.wikipedia.org/w/index.php?title=Event_tree_analysis&diff=prev&oldid=585089870'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[6, 7, 'R:VERB:FORM', 'programing', 6, 7]], 'sentence_gt': 'Category : Malayalam - language television programs', 'sentence': 'Category : Malayalam - language television programing', 'url': 'https://en.wikipedia.org/w/index.php?title=Kumkumapoovu&diff=prev&oldid=611442196'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[36, 37, 'R:VERB:FORM', 'led', 36, 37]], 'sentence_gt': 'The first mass demonstration against the socialistic regime in the GDR began in Plauen at the 7th October 1989 and it was the beginning of a series of mass demonstrations in the whole GDR which ultimtately leaded to the unification of Germany in 1990 .', 'sentence': 'The first mass demonstration against the socialistic regime in the GDR began in Plauen at the 7th October 1989 and it was the beginning of a series of mass demonstrations in the whole GDR which ultimtately led to the unification of Germany in 1990 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Plauen&diff=prev&oldid=398953935'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[22, 23, 'R:VERB:FORM', 'applied', 22, 23]], 'sentence_gt': 'U.S. corporations that currently operate there as controlled foreign corporations may relocate if Puerto Rico became a state and federal corporate taxes apply .', 'sentence': 'U.S. corporations that currently operate there as controlled foreign corporations may relocate if Puerto Rico became a state and federal corporate taxes applied .', 'url': 'https://en.wikipedia.org/w/index.php?title=Statehood_movement_in_Puerto_Rico&diff=prev&oldid=915274107'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 6, 'R:VERB:FORM', 'being', 5, 6]], 'sentence_gt': 'One of the main reasons beings their works are seen from a Nationalistic point of view .', 'sentence': 'One of the main reasons being their works are seen from a Nationalistic point of view .', 'url': 'https://en.wikipedia.org/w/index.php?title=Rahbani_brothers&diff=prev&oldid=744497579'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[2, 3, 'R:VERB:FORM', 'String', 2, 3]], 'sentence_gt': 'Category : Stringed instruments', 'sentence': 'Category : String instruments', 'url': 'https://en.wikipedia.org/w/index.php?title=Divertimento_No._11_(Mozart)&diff=prev&oldid=325852004'}
+===================================================
+1.9.0: Counter({'R:PREP': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:VERB:FORM': 1})
+{'edits': [[23, 25, 'R:PREP', 'because', 23, 24], [27, 28, 'R:VERB:FORM', 'are', 26, 27]], 'sentence_gt': 'Drawbacks of this solution include very limited airspace capacity to do this , especially in Europe and North America and increased fuel burn due to jet aircraft being less efficient at lower cruise altitudes.', 'sentence': 'Drawbacks of this solution include very limited airspace capacity to do this , especially in Europe and North America and increased fuel burn because jet aircraft are less efficient at lower cruise altitudes.', 'url': 'https://en.wikipedia.org/w/index.php?title=Environmental_impact_of_aviation&diff=prev&oldid=304562212'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[9, 9, 'M:PUNCT', ',', 9, 10], [17, 21, 'R:VERB:FORM', 'changed', 18, 19]], 'sentence_gt': '" The UK Christian group sued Google for discrimination and as a result in September 2008 Google was forced to change its policy and anti - abortion ads were allowed .', 'sentence': '" The UK Christian group sued Google for discrimination , and as a result in September 2008 Google changed its policy and anti - abortion ads were allowed .', 'url': 'https://en.wikipedia.org/w/index.php?title=Criticism_of_Google&diff=prev&oldid=587324536'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[16, 17, 'R:VERB:FORM', 'simulcast', 16, 17]], 'sentence_gt': "' ' Sword Art Online : Extra Edition '' is a special anime episode which was simulcasted worldwide on December 31 , 2013 .", 'sentence': "' ' Sword Art Online : Extra Edition '' is a special anime episode which was simulcast worldwide on December 31 , 2013 .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Sword_Art_Online_(season_1)_episodes&diff=prev&oldid=608170043'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:ADJ:FORM': 1})
+{'edits': [[6, 7, 'R:VERB:FORM', 'counterattacking', 6, 7]], 'sentence_gt': 'A long ball is a quick counterattack move and with a fast striker may produce multiple goals .', 'sentence': 'A long ball is a quick counterattacking move and with a fast striker may produce multiple goals .', 'url': 'https://en.wikipedia.org/w/index.php?title=Long_ball&diff=prev&oldid=699550375'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:FORM': 1, 'R:MORPH': 1})
+{'edits': [[9, 11, 'R:VERB:FORM', 'are', 9, 10]], 'sentence_gt': 'Researchers believe that destructive fishing practices like blast fishing to be one of the biggest threats to the coral reef ecosystems .', 'sentence': 'Researchers believe that destructive fishing practices like blast fishing are one of the biggest threats to the coral reef ecosystems .', 'url': 'https://en.wikipedia.org/w/index.php?title=Blast_fishing&diff=prev&oldid=592096371'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'reading', 3, 4]], 'sentence_gt': '= = Further readings = =', 'sentence': '= = Further reading = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Wage_reform_in_China,_1949%E2%80%931976&diff=prev&oldid=815210275'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'modeling', 3, 4]], 'sentence_gt': 'Category : Data modelling', 'sentence': 'Category : Data modeling', 'url': 'https://en.wikipedia.org/w/index.php?title=Standard_Gibbs_function_of_formation_(data_table)&diff=prev&oldid=374478500'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1, 'M:DET': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1, 'M:DET': 1})
+{'edits': [[12, 16, 'R:VERB:FORM', 'logs', 12, 13], [16, 16, 'M:DET', 'the', 13, 14]], 'sentence_gt': 'The example at right shows a potential implementation of an aspect which is designed to log entry and exit of all method ( computer science ) .', 'sentence': 'The example at right shows a potential implementation of an aspect which logs the entry and exit of all method ( computer science ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Aspect_weaver&diff=prev&oldid=340420375'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[20, 21, 'R:VERB:FORM', 'mistakened', 20, 21]], 'sentence_gt': "The party then learns of Jenova , a extraterrestrial entity whose remains were unearthed by Shinra scientists decades earlier and mistaken for a Cetra ; Jenova 's cells were used to create Sephiroth .", 'sentence': "The party then learns of Jenova , a extraterrestrial entity whose remains were unearthed by Shinra scientists decades earlier and mistakened for a Cetra ; Jenova 's cells were used to create Sephiroth .", 'url': 'https://en.wikipedia.org/w/index.php?title=Final_Fantasy_VII&diff=prev&oldid=823848046'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[10, 11, 'R:VERB:FORM', 'bankrupted', 10, 11]], 'sentence_gt': 'However , his expenses in rebuilding Hirado Castle all but bankrupt the domain .', 'sentence': 'However , his expenses in rebuilding Hirado Castle all but bankrupted the domain .', 'url': 'https://en.wikipedia.org/w/index.php?title=Hirado_Domain&diff=prev&oldid=628236903'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'U:ADJ': 1, 'R:VERB:TENSE': 1})
+{'edits': [[11, 12, 'U:ADJ', '', 11, 11], [17, 19, 'R:VERB:FORM', 'being', 16, 17]], 'sentence_gt': "' ' ' ' ' Alice ' '' '' is an upcoming 2009 television mini - series to be broadcast on American cable television channel Syfy .", 'sentence': "' ' ' ' ' Alice ' '' '' is an 2009 television mini - series being broadcast on American cable television channel Syfy .", 'url': 'https://en.wikipedia.org/w/index.php?title=Alice_(miniseries)&diff=prev&oldid=330348312'}
+===================================================
+1.9.0: Counter({'U:VERB:FORM': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[6, 7, 'U:VERB:FORM', '', 6, 6]], 'sentence_gt': 'Bieber used social media outlets including to Twitter early in his career .', 'sentence': 'Bieber used social media outlets including Twitter early in his career .', 'url': 'https://en.wikipedia.org/w/index.php?title=Justin_Bieber_on_Twitter&diff=prev&oldid=500247156'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'R:PUNCT': 1, 'R:ADJ:FORM': 1})
+{'edits': [[14, 15, 'R:PUNCT', ':', 14, 15], [39, 40, 'R:VERB:FORM', 'selected', 39, 40]], 'sentence_gt': "Walt Disney Records released two editions of the soundtrack on December 10 , 2013 ; a single - disc and a two - disc digipak deluxe edition ( containing original Demo ( music ) by the Sherman Brothers and select songs from ' ' Mary Poppins '' ) .", 'sentence': "Walt Disney Records released two editions of the soundtrack on December 10 , 2013 : a single - disc and a two - disc digipak deluxe edition ( containing original Demo ( music ) by the Sherman Brothers and selected songs from ' ' Mary Poppins '' ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=Saving_Mr._Banks&diff=prev&oldid=594928653'}
+===================================================
+1.9.0: Counter({'U:PREP': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'U:PREP': 1, 'M:VERB:FORM': 1, 'R:VERB:SVA': 1})
+{'edits': [[3, 4, 'U:PREP', '', 3, 3], [6, 7, 'R:VERB:FORM', 'to be', 5, 7]], 'sentence_gt': 'Islamic scholars believe that the Qur’an is miraculous by its very nature in being a revealed text and that similar texts can not be written by human endeavor .', 'sentence': 'Islamic scholars believe the Qur’an to be miraculous by its very nature in being a revealed text and that similar texts can not be written by human endeavor .', 'url': 'https://en.wikipedia.org/w/index.php?title=Quran&diff=prev&oldid=295610512'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 2})
+2.2.1: Counter({'R:ADJ:FORM': 2})
+{'edits': [[7, 8, 'R:VERB:FORM', 'squared', 7, 8], [20, 21, 'R:VERB:FORM', 'squared', 20, 21]], 'sentence_gt': "Without other qualification , ' chi - square test ' often is used as short for Pearson 's chi - square test .", 'sentence': "Without other qualification , ' chi - squared test ' often is used as short for Pearson 's chi - squared test .", 'url': 'https://en.wikipedia.org/w/index.php?title=Chi-squared_test&diff=prev&oldid=839223758'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'U:VERB:FORM': 1, 'U:VERB:TENSE': 1})
+{'edits': [[3, 6, 'R:VERB:FORM', 'was', 3, 4]], 'sentence_gt': 'A music video is to be filmed for every song on \' \' Yo \'\' , displaying their " mood and story " , although not forming an overall plot .', 'sentence': 'A music video was filmed for every song on \' \' Yo \'\' , displaying their " mood and story " , although not forming an overall plot .', 'url': 'https://en.wikipedia.org/w/index.php?title=Yo_(album)&diff=prev&oldid=871252343'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB': 1, 'R:VERB:FORM': 1})
+{'edits': [[1, 2, 'U:VERB:TENSE', '', 1, 1], [3, 4, 'R:VERB:FORM', 'revolves', 2, 3]], 'sentence_gt': 'The is story revolving around many characters representing the various sections of Indian community .', 'sentence': 'The story revolves around many characters representing the various sections of Indian community .', 'url': 'https://en.wikipedia.org/w/index.php?title=Godaan&diff=prev&oldid=668322598'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'contained', 3, 4]], 'sentence_gt': 'The original book contains 50 chapters but it was found during the Song Dynasty that only 17 chapters were intact .', 'sentence': 'The original book contained 50 chapters but it was found during the Song Dynasty that only 17 chapters were intact .', 'url': 'https://en.wikipedia.org/w/index.php?title=Book_of_Northern_Qi&diff=prev&oldid=649182149'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:MORPH': 1})
+{'edits': [[20, 20, 'M:PUNCT', "'", 20, 21], [33, 34, 'R:VERB:FORM', 'rename', 34, 35]], 'sentence_gt': "I suggest ( 1 ) ' ' ' keep '' , ( 2 ) ' ' ' re - writing '' of the article , and possible ( 3 ) ' ' ' renaming ' '' it .", 'sentence': "I suggest ( 1 ) ' ' ' keep '' , ( 2 ) ' ' ' re - writing ' '' of the article , and possible ( 3 ) ' ' ' rename ' '' it .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Waltermart_Santa_Maria_(2nd_nomination)&diff=prev&oldid=403291483'}
+===================================================
+1.9.0: Counter({'U:VERB:FORM': 1})
+2.2.1: Counter({'U:PART': 1})
+{'edits': [[21, 22, 'U:VERB:FORM', '', 21, 21]], 'sentence_gt': "( Painting missing : Every governor since 1850 has a portrait in the capitol , except Rufus Bullock , who worked to to uphold blacks ' participation in politics .", 'sentence': "( Painting missing : Every governor since 1850 has a portrait in the capitol , except Rufus Bullock , who worked to uphold blacks ' participation in politics .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Confederate_monuments_and_memorials&diff=prev&oldid=843520040'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB': 1, 'R:VERB:SVA': 1})
+{'edits': [[19, 21, 'R:VERB:FORM', 'considered to be', 19, 22]], 'sentence_gt': 'Protests have been held and these have frequently been broken up by the police , involving what some have said is police brutality .', 'sentence': 'Protests have been held and these have frequently been broken up by the police , involving what some have considered to be police brutality .', 'url': 'https://en.wikipedia.org/w/index.php?title=Moscow%E2%80%93Saint_Petersburg_motorway&diff=prev&oldid=397982602'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[16, 17, 'R:VERB:FORM', 'traveled', 16, 17]], 'sentence_gt': 'A version of Rachel Summers , who was a key player in the original storyline , travelled through time from a similar alternate future to the present day and joined the X - Men .', 'sentence': 'A version of Rachel Summers , who was a key player in the original storyline , traveled through time from a similar alternate future to the present day and joined the X - Men .', 'url': 'https://en.wikipedia.org/w/index.php?title=Days_of_Future_Past&diff=prev&oldid=272841766'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[37, 41, 'R:VERB:FORM', 'is interfering', 37, 39]], 'sentence_gt': "' ' ' Keep ' '' Enough coverage for N , crystal does n't apply as we 're saying what reliable sources are saying and the campaigning for the election is happening right now , which russia would seek to interfere in .", 'sentence': "' ' ' Keep ' '' Enough coverage for N , crystal does n't apply as we 're saying what reliable sources are saying and the campaigning for the election is happening right now , which russia is interfering in .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Russian_interference_in_the_2018_United_States_elections&diff=prev&oldid=825757588'}
+===================================================
+1.9.0: Counter({'R:PREP': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'R:PREP': 1, 'U:PREP': 1, 'R:VERB:FORM': 1})
+{'edits': [[27, 29, 'R:PREP', 'because', 27, 28], [32, 33, 'R:VERB:FORM', 'was', 31, 32]], 'sentence_gt': 'The last Carolingian ruler , Louis V of France , was also nicknamed \' \' le Fainéant \'\' ( " the Do - Nothing " ) , due to his effective rule being limited to the region around Laon .', 'sentence': 'The last Carolingian ruler , Louis V of France , was also nicknamed \' \' le Fainéant \'\' ( " the Do - Nothing " ) , because his effective rule was limited to the region around Laon .', 'url': 'https://en.wikipedia.org/w/index.php?title=Roi_fain%C3%A9ant&diff=prev&oldid=570028539'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[13, 14, 'R:VERB:FORM', 'led', 13, 14]], 'sentence_gt': 'On October 22 the II battalion of Polish Legions in World War I leaded by Major Edward Rydz - Śmigły fought in the woods near the village of Battle of Anielin - Laski fierce and bloody battle with 3 Russian battalions .', 'sentence': 'On October 22 the II battalion of Polish Legions in World War I led by Major Edward Rydz - Śmigły fought in the woods near the village of Battle of Anielin - Laski fierce and bloody battle with 3 Russian battalions .', 'url': 'https://en.wikipedia.org/w/index.php?title=Brzust%C3%B3w,_Masovian_Voivodeship&diff=prev&oldid=398954424'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[13, 14, 'R:VERB:FORM', 'labeled', 13, 14]], 'sentence_gt': 'In a test by the Humane Society of the United States , coats labelled as having faux - fur trim used actual fur .', 'sentence': 'In a test by the Humane Society of the United States , coats labeled as having faux - fur trim used actual fur .', 'url': 'https://en.wikipedia.org/w/index.php?title=Fake_fur&diff=prev&oldid=543703426'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:SVA': 1})
+{'edits': [[21, 22, 'R:VERB:FORM', 'swum', 21, 22]], 'sentence_gt': "The ' ' ' United States Virgin Islands Records ' '' in Swimming ( sport ) are the fastest times ever swam by a swimmer representing United States Virgin Islands .", 'sentence': "The ' ' ' United States Virgin Islands Records ' '' in Swimming ( sport ) are the fastest times ever swum by a swimmer representing United States Virgin Islands .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_United_States_Virgin_Islands_records_in_swimming&diff=prev&oldid=881414246'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:VERB:FORM': 1})
+{'edits': [[14, 15, 'R:CONTR', 'am', 14, 15], [15, 16, 'R:VERB:FORM', 'headed', 15, 16]], 'sentence_gt': "= = Articles I might like to edit , from SuggestBot ( where I 'm heading next ) = =", 'sentence': '= = Articles I might like to edit , from SuggestBot ( where I am headed next ) = =', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Frank_Niro&diff=prev&oldid=602201728'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'done', 3, 4]], 'sentence_gt': "I 've also did a research on the internet for another alternative formulation , but could n't find anything .", 'sentence': "I 've also done a research on the internet for another alternative formulation , but could n't find anything .", 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Goodbye_(The_Humans_song)/GA1&diff=prev&oldid=857534334'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'consisted', 3, 4]], 'sentence_gt': 'Their typical design consists of a series of enclosed halls , open courts , and massive entrance pylon ( architecture ) aligned along the path used for festival processions .', 'sentence': 'Their typical design consisted of a series of enclosed halls , open courts , and massive entrance pylon ( architecture ) aligned along the path used for festival processions .', 'url': 'https://en.wikipedia.org/w/index.php?title=Egyptian_temple&diff=prev&oldid=432052413'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1, 'M:PREP': 1})
+2.2.1: Counter({'R:VERB:FORM': 1, 'M:PART': 1})
+{'edits': [[10, 11, 'R:VERB:FORM', 'to patrol', 10, 12], [11, 11, 'M:PREP', 'in', 12, 13]], 'sentence_gt': 'Berthold continued flying a bomber on missions as well as patrolling in his fighter .', 'sentence': 'Berthold continued flying a bomber on missions as well as to patrol in in his fighter .', 'url': 'https://en.wikipedia.org/w/index.php?title=Rudolf_Berthold&diff=prev&oldid=840257255'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB': 1, 'R:VERB:INFL': 1})
+{'edits': [[14, 17, 'R:VERB:FORM', 'disinvites', 14, 15]], 'sentence_gt': "Despite being Homophobia , Frank decides to attend Stef 's wedding even though Stef ends up disinviting him the night before marrying Lena .", 'sentence': "Despite being Homophobia , Frank decides to attend Stef 's wedding even though Stef disinvites him the night before marrying Lena .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Fosters_(American_TV_series)&diff=prev&oldid=737787497'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'M:VERB': 1})
+{'edits': [[14, 15, 'R:VERB:TENSE', 'have', 14, 15], [15, 16, 'R:VERB:FORM', 'had', 15, 16]], 'sentence_gt': 'Repeat offenders , users who have uploaded unlicensed content more than two times , will have their Grooveshark accounts suspended .', 'sentence': 'Repeat offenders , users who have uploaded unlicensed content more than two times , have had their Grooveshark accounts suspended .', 'url': 'https://en.wikipedia.org/w/index.php?title=Grooveshark&diff=prev&oldid=286966139'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:ADJ:FORM': 1})
+{'edits': [[35, 36, 'R:VERB:FORM', 'appreciated', 35, 36]], 'sentence_gt': 'That way , one is providing useful information to editors ( ways through paywalls , for instance ; I could recommend the NYPL website to NYC residents , to take advantage of that little - appreciate goldmine ) .', 'sentence': 'That way , one is providing useful information to editors ( ways through paywalls , for instance ; I could recommend the NYPL website to NYC residents , to take advantage of that little - appreciated goldmine ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Templates_for_discussion/Log/2015_March_16&diff=prev&oldid=653031112'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[11, 12, 'R:VERB:FORM', 'distinguish', 11, 12]], 'sentence_gt': "The presence of stout bristles on the thin muzzle and face distinguished it from the ' ' Mormopterus '' species with which it was previously allied .", 'sentence': "The presence of stout bristles on the thin muzzle and face distinguish it from the ' ' Mormopterus '' species with which it was previously allied .", 'url': 'https://en.wikipedia.org/w/index.php?title=Setirostris&diff=prev&oldid=882964943'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[2, 3, 'R:VERB:FORM', 'led', 2, 3]], 'sentence_gt': "This later leaded to the creation of the Kyo clones ( Kyo-1 and Kyo-2 ) from ' ' The King of Fighters ' 99 '' .", 'sentence': "This later led to the creation of the Kyo clones ( Kyo-1 and Kyo-2 ) from ' ' The King of Fighters ' 99 '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_King_of_Fighters_%2797&diff=prev&oldid=398956014'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[7, 8, 'R:VERB:FORM', 'nominated', 7, 8]], 'sentence_gt': 'User : MacGyverMagic — this user grades nominates articles on the Wikipedia : Good article nominations', 'sentence': 'User : MacGyverMagic — this user grades nominated articles on the Wikipedia : Good article nominations', 'url': 'https://en.wikipedia.org/w/index.php?title=User:ATC&diff=prev&oldid=289089339'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[1, 5, 'R:VERB:FORM', 'presented', 1, 2]], 'sentence_gt': 'He is planned to present it in a talk on September 24th , at the Heidelberg Laureate Forum in Germany .', 'sentence': 'He presented it in a talk on September 24th , at the Heidelberg Laureate Forum in Germany .', 'url': 'https://en.wikipedia.org/w/index.php?title=Michael_Atiyah&diff=prev&oldid=860972562'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB': 1, 'U:VERB:FORM': 1, 'R:VERB:TENSE': 1})
+{'edits': [[8, 11, 'R:VERB:FORM', 'had', 8, 9]], 'sentence_gt': 'The Partition of Ireland in the early 1920s was to have a massive direct impact on County Donegal .', 'sentence': 'The Partition of Ireland in the early 1920s had a massive direct impact on County Donegal .', 'url': 'https://en.wikipedia.org/w/index.php?title=County_Donegal&diff=prev&oldid=552968329'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[12, 16, 'R:VERB:FORM', 'surrendered', 12, 13]], 'sentence_gt': 'Finally , without ammunition , food , or supplies , the garrison was forced to surrender .', 'sentence': 'Finally , without ammunition , food , or supplies , the garrison surrendered .', 'url': 'https://en.wikipedia.org/w/index.php?title=Dominique-Andr%C3%A9_de_Chambarlhac&diff=prev&oldid=636778938'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[2, 6, 'R:VERB:FORM', 'occurred', 2, 3]], 'sentence_gt': 'The race is scheduled to occur on July 11 , the same day as the 2010 FIFA World Cup 2010 FIFA World Cup Final .', 'sentence': 'The race occurred on July 11 , the same day as the 2010 FIFA World Cup 2010 FIFA World Cup Final .', 'url': 'https://en.wikipedia.org/w/index.php?title=2010_British_Grand_Prix&diff=prev&oldid=372942911'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[17, 18, 'R:VERB:FORM', 'convinces', 17, 18]], 'sentence_gt': "Hungry Yumi : When Yumi 's midnight hunger strikes she wants a Pink Palace cheeseburger so Yumi convinced Ami to drive her to a Pink Palace location .", 'sentence': "Hungry Yumi : When Yumi 's midnight hunger strikes she wants a Pink Palace cheeseburger so Yumi convinces Ami to drive her to a Pink Palace location .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Hi_Hi_Puffy_AmiYumi_episodes&diff=prev&oldid=179756003'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB': 1, 'R:VERB:FORM': 1})
+{'edits': [[15, 18, 'R:VERB:FORM', 'meaning', 15, 16]], 'sentence_gt': "The title of the record is an abbreviation of Stan 's stage name , also being to mean ' ready ' in Turkish language .", 'sentence': "The title of the record is an abbreviation of Stan 's stage name , also meaning ' ready ' in Turkish language .", 'url': 'https://en.wikipedia.org/w/index.php?title=Alesta&diff=prev&oldid=756857947'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[3, 4, 'R:VERB:FORM', 'force', 3, 4]], 'sentence_gt': 'and thus hopefully forced the browser to check further down the list of fonts .', 'sentence': 'and thus hopefully force the browser to check further down the list of fonts .', 'url': 'https://en.wikipedia.org/w/index.php?title=Pronunciation_respelling_for_English&diff=prev&oldid=30994143'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[24, 25, 'R:VERB:FORM', 'canceled', 24, 25]], 'sentence_gt': "( Undid revision 914990202 by Mitchellhobbs ( talk ) Millionaire canceled ) ` You do mean Millionaire ' ' ' ' was '' '' cancelled ~ I do n't think Millionaire canceled their own show ~ User : Mitchellhobbs ( User talk : Mitchellhobbs ) 18:16 , 10 September 2019 ( UTC )", 'sentence': "( Undid revision 914990202 by Mitchellhobbs ( talk ) Millionaire canceled ) ` You do mean Millionaire ' ' ' ' was '' '' canceled ~ I do n't think Millionaire canceled their own show ~ User : Mitchellhobbs ( User talk : Mitchellhobbs ) 18:16 , 10 September 2019 ( UTC )", 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Mvcg66b3r&diff=prev&oldid=915016416'}
+===================================================
+1.9.0: Counter({'R:VERB': 1, 'M:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB': 1, 'U:VERB': 1, 'M:VERB:FORM': 1})
+{'edits': [[38, 41, 'R:VERB', 'asked', 38, 39], [42, 42, 'M:VERB:FORM', 'to', 40, 41]], 'sentence_gt': 'The first transdermal implant was a " Metal Mohawk " performed on Joe Aylward by Steve Haworth in 1996.http://www.phoenixnewtimes.com/1997-03-27/news/mane-of-steel/ Aylward retained his transdermal " mohawk " for almost a decade , until , for personal reasons , he requested to have Haworth remove it .', 'sentence': 'The first transdermal implant was a " Metal Mohawk " performed on Joe Aylward by Steve Haworth in 1996.http://www.phoenixnewtimes.com/1997-03-27/news/mane-of-steel/ Aylward retained his transdermal " mohawk " for almost a decade , until , for personal reasons , he asked Haworth to remove it .', 'url': 'https://en.wikipedia.org/w/index.php?title=Implant_(body_modification)&diff=prev&oldid=631554398'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[56, 58, 'R:VERB:FORM', 'forgotten', 56, 57]], 'sentence_gt': 'Sitting cross - legged on a little rope mat , their heads wrapped in their burnous , they while away their last hours in following with their eyes , in the azure of the sky , the beautiful flamingo flying over the ruins of Carthage ; lulled by the murmur of the waves , they have - forget their own existence and sing in a low voice a song of the sea : they are going to die .', 'sentence': 'Sitting cross - legged on a little rope mat , their heads wrapped in their burnous , they while away their last hours in following with their eyes , in the azure of the sky , the beautiful flamingo flying over the ruins of Carthage ; lulled by the murmur of the waves , they have forgotten their own existence and sing in a low voice a song of the sea : they are going to die .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Iseult/Quotations&diff=prev&oldid=766971982'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[4, 5, 'R:VERB:FORM', 'writing', 4, 5]], 'sentence_gt': 'Category : Methods of writings', 'sentence': 'Category : Methods of writing', 'url': 'https://en.wikipedia.org/w/index.php?title=Seguidilla_(poetry)&diff=prev&oldid=411768752'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[6, 7, 'R:VERB:FORM', 'Cutting', 6, 7]], 'sentence_gt': 'I proposed a merge from Cross Cut to here .', 'sentence': 'I proposed a merge from Cross Cutting to here .', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Cross-cutting_concern&diff=prev&oldid=355001219'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[17, 18, 'R:VERB:FORM', 'objected', 17, 18]], 'sentence_gt': 'Many of the documents in the file were sent to the FBI by concerned citizens : some objecting to his immigration , while others asked the FBI to protect him .', 'sentence': 'Many of the documents in the file were sent to the FBI by concerned citizens : some objected to his immigration , while others asked the FBI to protect him .', 'url': 'https://en.wikipedia.org/w/index.php?title=Albert_Einstein&diff=prev&oldid=297173117'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'M:VERB:FORM': 1, 'M:VERB:TENSE': 1})
+{'edits': [[1, 2, 'R:VERB:FORM', 'is to be', 1, 4]], 'sentence_gt': 'It was released in May 2019 by Roc Nation .', 'sentence': 'It is to be released in May 2019 by Roc Nation .', 'url': 'https://en.wikipedia.org/w/index.php?title=Yo_(album)&diff=prev&oldid=896478223'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[26, 30, 'R:VERB:FORM', 'intended sacrificing', 26, 28]], 'sentence_gt': 'It is believed to be where Cain and Abel offered sacrifices to God , where Noah built an altar after the flood , and where Abraham was going to sacrifice Isaac.', 'sentence': 'It is believed to be where Cain and Abel offered sacrifices to God , where Noah built an altar after the flood , and where Abraham intended sacrificing Isaac.', 'url': 'https://en.wikipedia.org/w/index.php?title=Al-Aqsa_Mosque&diff=prev&oldid=223744061'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:VERB': 1, 'R:VERB:FORM': 1, 'M:PUNCT': 1})
+{'edits': [[2, 5, 'R:VERB:FORM', 'have written', 2, 4], [12, 12, 'M:PUNCT', ',', 11, 12]], 'sentence_gt': 'I also used to write on Robert Penn Warren and Fyodor Dostoyevsky and still read them often .', 'sentence': 'I also have written on Robert Penn Warren and Fyodor Dostoyevsky , and still read them often .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:HullIntegrity&diff=prev&oldid=645627265'}
+===================================================

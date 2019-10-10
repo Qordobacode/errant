@@ -1,7 +1,10 @@
-
+import spacy
 from errant import Checker
 
 
+# nlp = spacy.load("en")
+# checker = Checker(nlp)
+# or
 checker = Checker()
 
 original_sentences = ['This are a great sentences.', 'Can you seen the sea from where you live.',

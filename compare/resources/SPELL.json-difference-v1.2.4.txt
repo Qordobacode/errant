@@ -1,0 +1,84 @@
+1.9.0: Counter({'R:SPELL': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'R:SPELL': 1, 'M:PUNCT': 1})
+{'edits': [[9, 10, 'R:SPELL', 'Mominpura{{cn}}.', 9, 10], [10, 11, 'U:PUNCT', '', 10, 10]], 'sentence_gt': 'Jama Masjid , Nagpur is the biggest mosque in Mominpura .', 'sentence': 'Jama Masjid , Nagpur is the biggest mosque in Mominpura{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Mominpura,_Nagpur&diff=prev&oldid=808203450'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'R:SPELL': 1, 'M:PUNCT': 1})
+{'edits': [[22, 23, 'R:SPELL', 'Kanakala{{cn}}.', 22, 23], [23, 24, 'U:PUNCT', '', 23, 23]], 'sentence_gt': 'He is the father of actors Rajeev Kanakala and Sri Laxmi and the father - in - law of TV anchor Suma Kanakala .', 'sentence': 'He is the father of actors Rajeev Kanakala and Sri Laxmi and the father - in - law of TV anchor Suma Kanakala{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Devadas_Kanakala&diff=prev&oldid=826317514'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:SPELL': 1, 'R:OTHER': 1})
+{'edits': [[10, 11, 'R:SPELL', 'documentary', 10, 11], [13, 14, 'R:ADJ', 'mockumentary', 13, 14]], 'sentence_gt': 'The Naked Brothers Band ( film ) — an independent mockumentary film / documentary film , with a comedic twist ( 2005 ) .', 'sentence': 'The Naked Brothers Band ( film ) — an independent documentary film / mockumentary film , with a comedic twist ( 2005 ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band&diff=prev&oldid=173990987'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 2, 'R:SPELL': 1})
+{'edits': [[15, 16, 'R:SPELL', 'Timki{{cn}}.', 15, 16], [16, 17, 'U:PUNCT', '', 16, 16]], 'sentence_gt': 'Mominpura is surrounded by Ansar Nagar , Itwari , Bajeria , Hansapuri , Boriyapura and Timki .', 'sentence': 'Mominpura is surrounded by Ansar Nagar , Itwari , Bajeria , Hansapuri , Boriyapura and Timki{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Mominpura,_Nagpur&diff=prev&oldid=808204620'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[2, 3, 'R:SPELL', 'Kuyruks�rengiller', 2, 3]], 'sentence_gt': 'tr : Kuyruksürengiller', 'sentence': 'tr : Kuyruks�rengiller', 'url': 'https://en.wikipedia.org/w/index.php?title=Mongoose&diff=prev&oldid=185335149'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'R:SPELL': 1, 'M:PUNCT': 1})
+{'edits': [[23, 24, 'R:SPELL', 'Mominpura{{cn}}.', 23, 24], [24, 25, 'U:PUNCT', '', 24, 24]], 'sentence_gt': 'During the month of Ramadan , a street market for clothes , footwear , ornaments and so on , is set up in Mominpura .', 'sentence': 'During the month of Ramadan , a street market for clothes , footwear , ornaments and so on , is set up in Mominpura{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Mominpura,_Nagpur&diff=prev&oldid=808204873'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:SPELL': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:SPELL': 1})
+{'edits': [[0, 1, 'R:NOUN', 'ht', 0, 1], [2, 3, 'R:SPELL', 'Afrik', 2, 3]], 'sentence_gt': 'io : Afrika', 'sentence': 'ht : Afrik', 'url': 'https://en.wikipedia.org/w/index.php?title=Africa&diff=prev&oldid=68688602'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'U:NOUN': 1})
+2.2.1: Counter({'R:SPELL': 1, 'U:PUNCT': 1})
+{'edits': [[3, 4, 'R:SPELL', 'Nonpuerperal===', 3, 4], [4, 5, 'U:NOUN', '', 4, 4]], 'sentence_gt': '= = = Nonpuerperal mastitis===', 'sentence': '= = = Nonpuerperal===', 'url': 'https://en.wikipedia.org/w/index.php?title=Mastitis&diff=prev&oldid=346637857'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1})
+2.2.1: Counter({'R:SPELL': 1, 'M:OTHER': 1})
+{'edits': [[2, 3, 'R:SPELL', 'Mong�s', 2, 3]], 'sentence_gt': 'gd : Mongùs', 'sentence': 'gd : Mong�s', 'url': 'https://en.wikipedia.org/w/index.php?title=Mongoose&diff=prev&oldid=185335149'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1})
+2.2.1: Counter({'R:SPELL': 1, 'M:OTHER': 1})
+{'edits': [[2, 3, 'R:SPELL', 'Promykovit�', 2, 3]], 'sentence_gt': 'cs : Promykovití', 'sentence': 'cs : Promykovit�', 'url': 'https://en.wikipedia.org/w/index.php?title=Mongoose&diff=prev&oldid=185335149'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'U:NOUN': 1})
+2.2.1: Counter({'R:SPELL': 1, 'U:ADJ': 1})
+{'edits': [[1, 2, 'R:SPELL', 'Keita', 1, 2], [12, 13, 'U:NOUN', '', 12, 12]], 'sentence_gt': 'Musa Keitha was referred to ( and is most commonly found as gay ) Mansa Musa in Western manuscripts and literature .', 'sentence': 'Musa Keita was referred to ( and is most commonly found as ) Mansa Musa in Western manuscripts and literature .', 'url': 'https://en.wikipedia.org/w/index.php?title=Musa_I_of_Mali&diff=prev&oldid=685781979'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[0, 1, 'R:SPELL', "'''Seifer", 0, 1], [2, 2, 'M:PUNCT', "' ''", 2, 4]], 'sentence_gt': 'Seifer : " What did you say !', 'sentence': '\'\'\'Seifer : \' \'\' " What did you say !', 'url': 'https://en.wikipedia.org/w/index.php?title=Characters_of_Final_Fantasy_VIII&diff=prev&oldid=115152648'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[0, 1, 'R:SPELL', '"Aristide', 0, 1]], 'sentence_gt': 'Aristide Development " .', 'sentence': '"Aristide Development " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Haiti&diff=prev&oldid=340608551'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[6, 7, 'R:SPELL', 'B�ng', 6, 7]], 'sentence_gt': 'zh - min - nan : Bông - ko', 'sentence': 'zh - min - nan : B�ng - ko', 'url': 'https://en.wikipedia.org/w/index.php?title=Mongoose&diff=prev&oldid=185335149'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'M:ADV': 1})
+2.2.1: Counter({'R:SPELL': 1, 'M:VERB': 1})
+{'edits': [[10, 11, 'R:SPELL', 'improve', 10, 11], [21, 21, 'M:ADV', 'OBVIOUSLY', 21, 22]], 'sentence_gt': "I 'm starting to realize that the best way to imporve Wikipedia is to steamroll over certain factions that do not adhere to policy by using frank , but hopefully not uncivil , comments .", 'sentence': "I 'm starting to realize that the best way to improve Wikipedia is to steamroll over certain factions that do not OBVIOUSLY adhere to policy by using frank , but hopefully not uncivil , comments .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Deckiller/Philosophy&diff=prev&oldid=115596228'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:SPELL': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:SPELL': 1})
+{'edits': [[13, 14, 'R:ADJ', 'financial', 13, 14], [29, 30, 'R:SPELL', 'shipbuilders', 29, 30]], 'sentence_gt': "These declines were caused by labor unrest , Seoul 's unwillingness to provide vagina assistance , and Tokyo 's new low - interest export financing in support of Japanese vaginabuilders .", 'sentence': "These declines were caused by labor unrest , Seoul 's unwillingness to provide financial assistance , and Tokyo 's new low - interest export financing in support of Japanese shipbuilders .", 'url': 'https://en.wikipedia.org/w/index.php?title=Economy_of_South_Korea&diff=prev&oldid=415537355'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[0, 1, 'R:SPELL', "'''Seifer", 0, 1], [2, 2, 'M:PUNCT', "' ''", 2, 4]], 'sentence_gt': 'Seifer : " I was hoping you \'d be there , Squall .', 'sentence': '\'\'\'Seifer : \' \'\' " I was hoping you \'d be there , Squall .', 'url': 'https://en.wikipedia.org/w/index.php?title=Characters_of_Final_Fantasy_VIII&diff=prev&oldid=115152648'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[22, 23, 'R:SPELL', 'colonies', 22, 23]], 'sentence_gt': 'During the age of discovery the Roman Catholic Church established a number of Mission ( Christian ) in the Americas and other colonie in order to spread Christianity in the New World and to convert the Indigenous peoples of the Americas .', 'sentence': 'During the age of discovery the Roman Catholic Church established a number of Mission ( Christian ) in the Americas and other colonies in order to spread Christianity in the New World and to convert the Indigenous peoples of the Americas .', 'url': 'https://en.wikipedia.org/w/index.php?title=Christianity_in_the_16th_century&diff=prev&oldid=683008239'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'M:VERB': 1})
+2.2.1: Counter({'R:SPELL': 1, 'M:NOUN': 1})
+{'edits': [[3, 4, 'R:SPELL', 'native', 3, 4], [5, 5, 'M:VERB', 'south', 5, 6]], 'sentence_gt': 'Black pepper is nativery to India and is extensively cultivated there and elsewhere in tropical regions .', 'sentence': 'Black pepper is native to south India and is extensively cultivated there and elsewhere in tropical regions .', 'url': 'https://en.wikipedia.org/w/index.php?title=Black_pepper&diff=prev&oldid=843461525'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1})
+2.2.1: Counter({'R:NOUN': 1, 'M:OTHER': 1})
+{'edits': [[2, 3, 'R:SPELL', 'Mong�zf�l�k', 2, 3]], 'sentence_gt': 'hu : Mongúzfélék', 'sentence': 'hu : Mong�zf�l�k', 'url': 'https://en.wikipedia.org/w/index.php?title=Mongoose&diff=prev&oldid=185335149'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[4, 5, 'R:SPELL', 'trombone', 4, 5]], 'sentence_gt': "The ' ' ' tromboner ' '' is a musical instrument in the brass instrument family .", 'sentence': "The ' ' ' trombone ' '' is a musical instrument in the brass instrument family .", 'url': 'https://en.wikipedia.org/w/index.php?title=Trombone&diff=prev&oldid=672626187'}
+===================================================

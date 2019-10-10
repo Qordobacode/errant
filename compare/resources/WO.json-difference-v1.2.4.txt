@@ -1,0 +1,24 @@
+1.9.0: Counter({'R:WO': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'R:WO': 1, 'R:MORPH': 1})
+{'edits': [[1, 3, 'R:WO', 'fight rules', 1, 3], [3, 4, 'R:VERB:SVA', 'correspond', 3, 4]], 'sentence_gt': "WNA rules fight corresponds to the ' ' kumite '' subsection of Nunchaku - do discipline.", 'sentence': "WNA fight rules correspond to the ' ' kumite '' subsection of Nunchaku - do discipline.", 'url': 'https://en.wikipedia.org/w/index.php?title=Nunchaku&diff=prev&oldid=591522075'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:WO': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'M:ADV': 1, 'U:ADV': 1})
+{'edits': [[9, 9, 'M:PUNCT', ',', 9, 10], [11, 14, 'R:WO', 'regularly exceeding 40°C', 12, 15]], 'sentence_gt': 'March to June can be very dry and hot with temperatures exceeding 40°C regularly .', 'sentence': 'March to June can be very dry and hot , with temperatures regularly exceeding 40°C .', 'url': 'https://en.wikipedia.org/w/index.php?title=Deccan_Plateau&diff=prev&oldid=483577630'}
+===================================================
+1.9.0: Counter({'R:WO': 1, 'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:WO': 1, 'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[14, 16, 'R:WO', 'she initially', 14, 16], [16, 18, 'R:VERB:TENSE', 'chose', 16, 17]], 'sentence_gt': 'In a Carpool Karaoke video on YouTube with Ricky Dillon , Hanna revealed that initially she had chosen a considerably lower Key ( music ) for the song .', 'sentence': 'In a Carpool Karaoke video on YouTube with Ricky Dillon , Hanna revealed that she initially chose a considerably lower Key ( music ) for the song .', 'url': 'https://en.wikipedia.org/w/index.php?title=Monster/Monster_(Reborn)&diff=prev&oldid=909329026'}
+===================================================
+1.9.0: Counter({'R:WO': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:WO': 1, 'M:OTHER': 1})
+{'edits': [[16, 19, 'R:WO', 'Naz Tokio and', 16, 19], [19, 19, 'M:NOUN', 'Andrei Mihai', 19, 21]], 'sentence_gt': 'Give Me Your Everything " was written by Șerban Cazan , Stan , LeAnna James , and Naz Tokio , while production was handled by Cazan alone .', 'sentence': 'Give Me Your Everything " was written by Șerban Cazan , Stan , LeAnna James , Naz Tokio and Andrei Mihai , while production was handled by Cazan alone .', 'url': 'https://en.wikipedia.org/w/index.php?title=Give_Me_Your_Everything&diff=prev&oldid=686762529'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'R:WO': 1})
+2.2.1: Counter({'U:NOUN': 1, 'R:WO': 1})
+{'edits': [[14, 15, 'U:ADJ', '', 14, 14], [33, 35, 'R:WO', '" .', 32, 34]], 'sentence_gt': 'In an edition of " Kent \'s People " , Kent Brockman tells the heartbreaking story of Frank Grimes , " the man who had to struggle for everything he got in life . "', 'sentence': 'In an edition of " Kent \'s People " , Kent Brockman tells the story of Frank Grimes , " the man who had to struggle for everything he got in life " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Homer%27s_Enemy&diff=prev&oldid=120369055'}
+===================================================
+1.9.0: Counter({'R:WO': 1, 'U:PREP': 1})
+2.2.1: Counter({'R:WO': 1, 'U:PART': 1})
+{'edits': [[14, 16, 'R:WO', 'freezes completely', 14, 16], [16, 17, 'U:PREP', '', 16, 16]], 'sentence_gt': 'The Gulf of Finland is not very deep , so during the winter it completely freezes through .', 'sentence': 'The Gulf of Finland is not very deep , so during the winter it freezes completely .', 'url': 'https://en.wikipedia.org/w/index.php?title=Kronstadt&diff=prev&oldid=324030246'}
+===================================================

@@ -1,0 +1,152 @@
+1.9.0: Counter({'U:CONJ': 1})
+2.2.1: Counter({'U:OTHER': 1})
+{'edits': [[0, 1, 'U:CONJ', '', 0, 0]], 'sentence_gt': '+ sings of demanding a man be honest about his true feelings → is about demanding a man to be honest about his true feelings', 'sentence': 'sings of demanding a man be honest about his true feelings → is about demanding a man to be honest about his true feelings', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Meaning_of_Life_(album)/GA1&diff=prev&oldid=893738711'}
+===================================================
+1.9.0: Counter({'M:CONJ': 1, 'U:ADV': 1})
+2.2.1: Counter({'M:CONJ': 1, 'U:DET': 1})
+{'edits': [[5, 5, 'M:CONJ', 'and', 5, 6], [6, 7, 'U:ADV', '', 7, 7]], 'sentence_gt': 'The villages , woods , abatis all had troops and the hastily erected redoubts were secured .', 'sentence': 'The villages , woods , and abatis had troops and the hastily erected redoubts were secured .', 'url': 'https://en.wikipedia.org/w/index.php?title=Battle_of_Leuthen&diff=prev&oldid=776282392'}
+===================================================
+1.9.0: Counter({'M:CONJ': 1})
+2.2.1: Counter({'M:CONJ': 1, 'R:ORTH': 1})
+{'edits': [[18, 19, 'M:CONJ', 'and her', 18, 20]], 'sentence_gt': 'Tisdale was born in Monmouth County , New Jersey , New Jersey on July 2 , 1985 , Her maternal grandfather is Arnold Morris , the developer of Ginsu Knives ; and through her grandfather , she is also related to businessman Ron Popeil .', 'sentence': 'Tisdale was born in Monmouth County , New Jersey , New Jersey on July 2 , 1985 , and her maternal grandfather is Arnold Morris , the developer of Ginsu Knives ; and through her grandfather , she is also related to businessman Ron Popeil .', 'url': 'https://en.wikipedia.org/w/index.php?title=Ashley_Tisdale&diff=prev&oldid=226788743'}
+===================================================
+1.9.0: Counter({'R:CONJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[8, 9, 'R:CONJ', 'neither', 8, 9]], 'sentence_gt': 'Yet , Hobbs did not concede , and nor did Gaynor claim victory .', 'sentence': 'Yet , Hobbs did not concede , and neither did Gaynor claim victory .', 'url': 'https://en.wikipedia.org/w/index.php?title=Katie_Hobbs&diff=prev&oldid=884754190'}
+===================================================
+1.9.0: Counter({'R:CONJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[14, 15, 'R:CONJ', 'and', 14, 15]], 'sentence_gt': 'Social conditioning represents the environment ( biophysical ) and personal experience in the nature vs. nurture debate .', 'sentence': 'Social conditioning represents the environment ( biophysical ) and personal experience in the nature and nurture debate .', 'url': 'https://en.wikipedia.org/w/index.php?title=Social_conditioning&diff=prev&oldid=588752070'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:CONJ': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:CONJ', '', 0, 0], [1, 2, 'R:NOUN', "†''Archaeolemur", 0, 1]], 'sentence_gt': "& dagger;''Archaeolemur ''", 'sentence': "†''Archaeolemur ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Monkey_lemur&diff=prev&oldid=285892234'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[2, 3, 'U:CONJ', '', 2, 2]], 'sentence_gt': 'IUPAC ( n )', 'sentence': 'IUPAC ( )', 'url': 'https://en.wikipedia.org/w/index.php?title=Module:English_variant_notice/sandbox&diff=prev&oldid=826827750'}
+===================================================
+1.9.0: Counter({'M:CONJ': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'M:CONJ': 1, 'R:NOUN:NUM': 1})
+{'edits': [[27, 27, 'M:CONJ', 'and', 27, 28], [29, 30, 'R:VERB:SVA', 'worsens', 30, 31]], 'sentence_gt': "It would not surprise me , given the extensive pro - COI sentiment , if a rule is enacted that is weakened from what you 've drafted ' ' worsen '' the current situation .", 'sentence': "It would not surprise me , given the extensive pro - COI sentiment , if a rule is enacted that is weakened from what you 've drafted and ' ' worsens '' the current situation .", 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Coretheapple&diff=prev&oldid=577165330'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:CONJ': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:CONJ': 1})
+{'edits': [[3, 4, 'R:NOUN', '2002–2003', 3, 4], [9, 10, 'R:CONJ', 'and', 9, 10]], 'sentence_gt': '= = = 2002–03 : First ATP 500 title & French Open quarterfinal===', 'sentence': '= = = 2002–2003 : First ATP 500 title and French Open quarterfinal===', 'url': 'https://en.wikipedia.org/w/index.php?title=Tommy_Robredo&diff=prev&oldid=777675403'}
+===================================================
+1.9.0: Counter({'R:CONJ': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[14, 15, 'R:CONJ', 'née', 14, 15]], 'sentence_gt': "' ' ' Harsimrat Kaur Badal ' '' ( born 25 July 1966 , nee Majithiaha ) is the Union Cabinet Minister of Food Processing in the Government of India and Parliament of India from Bathinda ( Lok Sabha constituency ) .", 'sentence': "' ' ' Harsimrat Kaur Badal ' '' ( born 25 July 1966 , née Majithiaha ) is the Union Cabinet Minister of Food Processing in the Government of India and Parliament of India from Bathinda ( Lok Sabha constituency ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=Harsimrat_Kaur_Badal&diff=prev&oldid=617559959'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'M:CONJ': 1})
+2.2.1: Counter({'R:VERB:FORM': 1, 'M:CONJ': 1})
+{'edits': [[0, 1, 'R:MORPH', 'Couple', 0, 1], [18, 18, 'M:CONJ', 'and', 18, 19]], 'sentence_gt': 'Coupled the wealth of this industry with the rise of forestry and the earlier discovery of Sulfur , the state was sent on a new wave of economic growth .', 'sentence': 'Couple the wealth of this industry with the rise of forestry and the earlier discovery of Sulfur , and the state was sent on a new wave of economic growth .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Yutsi/Spoken_William_Wright_Heard&diff=prev&oldid=495379543'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:CONJ': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:CONJ', '', 0, 0], [1, 2, 'R:NOUN', "†''Heteroxerus", 0, 1]], 'sentence_gt': "& dagger;''Heteroxerus ''", 'sentence': "†''Heteroxerus ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Xerini&diff=prev&oldid=286527878'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1, 'U:CONJ': 1})
+2.2.1: Counter({'R:ADJ:FORM': 1, 'U:CONJ': 1})
+{'edits': [[23, 24, 'R:VERB:FORM', 'renowned', 23, 24], [29, 30, 'U:CONJ', '', 29, 29]], 'sentence_gt': 'It was only in the 1980s , however , that the mall , acknowledging the affluence of the region , the world - renown Long Island Gold Coast , and gradually evolved into a luxurious boutique - style shopping area .', 'sentence': 'It was only in the 1980s , however , that the mall , acknowledging the affluence of the region , the world - renowned Long Island Gold Coast , gradually evolved into a luxurious boutique - style shopping area .', 'url': 'https://en.wikipedia.org/w/index.php?title=Americana_Manhasset&diff=prev&oldid=220466590'}
+===================================================
+1.9.0: Counter({'R:CONJ': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[27, 28, 'R:CONJ', 'née', 27, 28]], 'sentence_gt': 'This movie has got evergreen songs like Mada prave vaa .. , Sandye kanneerithende sandya ... , Mele Poomala ... , Ee Malarkanyakal ... , Sagarame santhamaka nee ..', 'sentence': 'This movie has got evergreen songs like Mada prave vaa .. , Sandye kanneerithende sandya ... , Mele Poomala ... , Ee Malarkanyakal ... , Sagarame santhamaka née ..', 'url': 'https://en.wikipedia.org/w/index.php?title=Madanolsavam&diff=prev&oldid=617512239'}
+===================================================
+1.9.0: Counter({'M:CONJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:OTHER': 1})
+{'edits': [[3, 3, 'M:CONJ', '+', 3, 4], [4, 5, 'R:NOUN', 'Guard===+', 5, 6]], 'sentence_gt': '= = = Advanced Guard===', 'sentence': '= = = + Advanced Guard===+', 'url': 'https://en.wikipedia.org/w/index.php?title=Order_of_battle_at_the_Battle_of_Stockach_(1799)&diff=prev&oldid=326458515'}
+===================================================
+1.9.0: Counter({'M:CONJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[15, 15, 'M:CONJ', '&', 15, 16], [15, 16, 'R:NOUN', 'mdash;de', 16, 17]], 'sentence_gt': 'After the death of the Edmund Stafford , 5th Earl of Stafford in 1403 – –de Ros was now the leading baron in Staffordshire .', 'sentence': 'After the death of the Edmund Stafford , 5th Earl of Stafford in 1403 – & mdash;de Ros was now the leading baron in Staffordshire .', 'url': 'https://en.wikipedia.org/w/index.php?title=William_de_Ros,_6th_Baron_Ros&diff=prev&oldid=845396673'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1, 'U:CONJ': 1})
+2.2.1: Counter({'R:NOUN:POSS': 1, 'U:DET': 1})
+{'edits': [[1, 3, 'R:NOUN:POSS', "boys '", 1, 3], [25, 26, 'U:CONJ', '', 25, 25]], 'sentence_gt': "A boy 's school , ' ' ' St Colman 's College ' '' ( which opened on 9 July 1951 ) , was also both built on Knight Street .", 'sentence': "A boys ' school , ' ' ' St Colman 's College ' '' ( which opened on 9 July 1951 ) , was also built on Knight Street .", 'url': 'https://en.wikipedia.org/w/index.php?title=Notre_Dame_College,_Shepparton&diff=prev&oldid=734324209'}
+===================================================
+1.9.0: Counter({'M:CONJ': 1})
+2.2.1: Counter({'M:DET': 1})
+{'edits': [[19, 19, 'M:CONJ', 'either', 19, 20]], 'sentence_gt': "Both articles still need some copy - editing , but IMO it 's not so severe as to prevent article from proceeding to prep .", 'sentence': "Both articles still need some copy - editing , but IMO it 's not so severe as to prevent either article from proceeding to prep .", 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Did_you_know_nominations/2015_IFMAR_1:10_Electric_Off-Road_World_Championship&diff=prev&oldid=689122731'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:CONJ': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[0, 1, 'R:PUNCT', ',', 0, 1], [1, 1, 'M:CONJ', 'or', 1, 2]], 'sentence_gt': '",or just " cooter " ) .', 'sentence': ', or just " cooter " ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Teletubbies&diff=prev&oldid=293827767'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:CONJ': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:CONJ', '', 0, 0], [1, 2, 'R:NOUN', "†''Hydropithecus", 0, 1]], 'sentence_gt': "& dagger;''Hydropithecus ''", 'sentence': "†''Hydropithecus ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Monkey_lemur&diff=prev&oldid=285892234'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1})
+2.2.1: Counter({'U:DET': 1})
+{'edits': [[20, 21, 'U:CONJ', '', 20, 20]], 'sentence_gt': 'They returned to playoff form with winning campaigns in 2007 Green Bay Packers season ( 13–3 ) , and winning both Super Bowl XLV in 2010 Green Bay Packers season ( 10 - 6 ) under current head coach Mike McCarthy ( American football ) .', 'sentence': 'They returned to playoff form with winning campaigns in 2007 Green Bay Packers season ( 13–3 ) , and winning Super Bowl XLV in 2010 Green Bay Packers season ( 10 - 6 ) under current head coach Mike McCarthy ( American football ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Green_Bay_Packers&diff=prev&oldid=412466506'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1})
+2.2.1: Counter({'U:DET': 1})
+{'edits': [[6, 7, 'U:CONJ', '', 6, 6]], 'sentence_gt': 'Frank Anthony Vallelonga was born in either Beaver Falls , Pennsylvania the son of Italian parents , Nazarena and Nicholas Vallelonga .', 'sentence': 'Frank Anthony Vallelonga was born in Beaver Falls , Pennsylvania the son of Italian parents , Nazarena and Nicholas Vallelonga .', 'url': 'https://en.wikipedia.org/w/index.php?title=Tony_Lip&diff=prev&oldid=882288873'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[5, 6, 'U:CONJ', '', 5, 5]], 'sentence_gt': 'He performed with Hollywood actress cum popular singer Katy Perry at the 5th edition of Indian Premier League opening ceremony on 3 April 2012 in Chennai along with Amitabh Bachchan , Salman Khan , Kareena Kapoor and Priyanka Chopra .', 'sentence': 'He performed with Hollywood actress popular singer Katy Perry at the 5th edition of Indian Premier League opening ceremony on 3 April 2012 in Chennai along with Amitabh Bachchan , Salman Khan , Kareena Kapoor and Priyanka Chopra .', 'url': 'https://en.wikipedia.org/w/index.php?title=Prabhu_Deva&diff=prev&oldid=517730514'}
+===================================================
+1.9.0: Counter({'R:CONJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[33, 34, 'R:CONJ', 'and', 33, 34], [35, 36, 'R:NOUN', 'controversy', 35, 36]], 'sentence_gt': "Ubuntu is often shown conflicted with a seemingly innate desire to go against his parents ' lifestyle ; however , rather than being an outright rebellion , this seems to reflect the nature vs. nurture debates .", 'sentence': "Ubuntu is often shown conflicted with a seemingly innate desire to go against his parents ' lifestyle ; however , rather than being an outright rebellion , this seems to reflect the nature and nurture controversy .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Goode_Family&diff=prev&oldid=588752288'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'M:CONJ': 1})
+2.2.1: Counter({'R:VERB:FORM': 1, 'M:CONJ': 1})
+{'edits': [[0, 1, 'R:MORPH', 'Couple', 0, 1], [18, 18, 'M:CONJ', 'and', 18, 19]], 'sentence_gt': 'Coupled the wealth of this industry with the rise of forestry and the earlier discovery of Sulfur , the state was sent on a new wave of economic growth .', 'sentence': 'Couple the wealth of this industry with the rise of forestry and the earlier discovery of Sulfur , and the state was sent on a new wave of economic growth .', 'url': 'https://en.wikipedia.org/w/index.php?title=William_Wright_Heard&diff=prev&oldid=495379506'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1})
+2.2.1: Counter({'U:OTHER': 1})
+{'edits': [[8, 9, 'U:CONJ', '', 8, 8]], 'sentence_gt': 'Apple stated that Tiger contained more than 150 + new features .', 'sentence': 'Apple stated that Tiger contained more than 150 new features .', 'url': 'https://en.wikipedia.org/w/index.php?title=MacOS&diff=prev&oldid=442292760'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'R:CONJ': 1})
+2.2.1: Counter({'R:SPELL': 1, 'R:NOUN': 1})
+{'edits': [[5, 6, 'R:SPELL', 'QiblataynRaby', 5, 6], [9, 10, 'R:CONJ', 'p.298', 9, 10]], 'sentence_gt': 'in the Masjid al - QiblataynBhala , 2004 , p.363 ..', 'sentence': 'in the Masjid al - QiblataynRaby , 2004 , p.298 ..', 'url': 'https://en.wikipedia.org/w/index.php?title=Al-Aqsa_Mosque&diff=prev&oldid=672519446'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 6, 'U:CONJ', '', 5, 5]], 'sentence_gt': 'As the battle finished , and a ferocious storm unleashed hail and wind .', 'sentence': 'As the battle finished ,   a ferocious storm unleashed hail and wind .', 'url': 'https://en.wikipedia.org/w/index.php?title=Battle_of_Schliengen&diff=prev&oldid=350693367'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:CONJ': 1, 'R:OTHER': 1})
+{'edits': [[53, 54, 'U:CONJ', '', 53, 53], [54, 55, 'R:NOUN', "−''n", 53, 54]], 'sentence_gt': 'For the integers and the operation addition " + " , denoted ( \' \' \' Z\'\'\',+ ) , the operation + combines any two integers to form a third integer , addition is associative , zero is the additive identity , every integer \' \' n \'\' has an additive inverse , & minus;\'\'n \'\' , and the addition operation is commutative since \' \' m \'\' + \' \' n \'\' = \' \' n \'\' + \' \' m \'\' for any two integers \' \' m \'\' and \' \' n \'\' .', 'sentence': 'For the integers and the operation addition " + " , denoted ( \' \' \' Z\'\'\',+ ) , the operation + combines any two integers to form a third integer , addition is associative , zero is the additive identity , every integer \' \' n \'\' has an additive inverse , −\'\'n \'\' , and the addition operation is commutative since \' \' m \'\' + \' \' n \'\' = \' \' n \'\' + \' \' m \'\' for any two integers \' \' m \'\' and \' \' n \'\' .', 'url': 'https://en.wikipedia.org/w/index.php?title=Abelian_group&diff=prev&oldid=286539444'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'U:ADV': 1, 'M:PUNCT': 1})
+{'edits': [[0, 2, 'U:CONJ', 'A', 0, 1], [26, 26, 'M:PUNCT', ',', 25, 26]], 'sentence_gt': "Yet a constitution , a political reorganization , and the provision of an imperial superstructure , including the ' ' Reichstag '' and the imperial chambers does not make a Nation state .", 'sentence': "A constitution , a political reorganization , and the provision of an imperial superstructure , including the ' ' Reichstag '' and the imperial chambers , does not make a Nation state .", 'url': 'https://en.wikipedia.org/w/index.php?title=Unification_of_Germany&diff=prev&oldid=292492920'}
+===================================================
+1.9.0: Counter({'M:CONJ': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[16, 16, 'M:CONJ', '+', 16, 17]], 'sentence_gt': 'var parameters = " action = edit&prependtext= " + encoudeURIComponent(reason ) + " & summary= " encodeURIComponent("This is a test edit using User : Drilnoth / scriptlab.js " ) + " & title= " + encodeURIComponent(wgPageName ) + " & token= " + wikitoolkit.edit_token(wgPageName ) ;', 'sentence': 'var parameters = " action = edit&prependtext= " + encoudeURIComponent(reason ) + " & summary= " + encodeURIComponent("This is a test edit using User : Drilnoth / scriptlab.js " ) + " & title= " + encodeURIComponent(wgPageName ) + " & token= " + wikitoolkit.edit_token(wgPageName ) ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Drilnoth/scriptlab.js&diff=prev&oldid=308571350'}
+===================================================
+1.9.0: Counter({'R:CONJ': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'R:PUNCT': 2})
+{'edits': [[31, 32, 'R:CONJ', '–', 31, 32], [34, 35, 'R:PUNCT', '–', 34, 35]], 'sentence_gt': 'The basis of One - Nation Conservatism is a belief in social cohesion , and its adherents support social institutions that maintain harmony between different interest groups , classes , and — more recently — different races or religions .', 'sentence': 'The basis of One - Nation Conservatism is a belief in social cohesion , and its adherents support social institutions that maintain harmony between different interest groups , classes , and – more recently – different races or religions .', 'url': 'https://en.wikipedia.org/w/index.php?title=Conservative_Party_(UK)&diff=prev&oldid=793246503'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'M:CONJ': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:CONJ': 1})
+{'edits': [[34, 35, 'R:NOUN', 'timelesss', 34, 35], [36, 36, 'M:CONJ', 'and', 36, 37]], 'sentence_gt': 'The symmetrical pharaoh shows no movement or change , suppressing all motion and time to create an eternal stillness ; his strong build and permanent stance demonstrate no notion of time — Khafre is timelines , his power will exist even in the afterlife .', 'sentence': 'The symmetrical pharaoh shows no movement or change , suppressing all motion and time to create an eternal stillness ; his strong build and permanent stance demonstrate no notion of time — Khafre is timelesss , and his power will exist even in the afterlife .', 'url': 'https://en.wikipedia.org/w/index.php?title=Khafre_Enthroned&diff=prev&oldid=508186806'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1})
+2.2.1: Counter({'U:OTHER': 1})
+{'edits': [[0, 1, 'U:CONJ', '', 0, 0]], 'sentence_gt': '+ adding : " We stripped everything away → : to ,', 'sentence': 'adding : " We stripped everything away → : to ,', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Perfect_Illusion/GA1&diff=prev&oldid=756637130'}
+===================================================
+1.9.0: Counter({'R:PREP': 1, 'M:CONJ': 1})
+2.2.1: Counter({'R:PREP': 1, 'M:DET': 1})
+{'edits': [[26, 27, 'R:PREP', 'of', 26, 27], [27, 27, 'M:CONJ', 'both', 27, 28]], 'sentence_gt': "The ' ' Daily Gazette '' is another student newspaper ; unlike ' ' The Phoenix '' , it is a daily paper and is independent from the administration and student government .", 'sentence': "The ' ' Daily Gazette '' is another student newspaper ; unlike ' ' The Phoenix '' , it is a daily paper and is independent of both the administration and student government .", 'url': 'https://en.wikipedia.org/w/index.php?title=Swarthmore_College&diff=prev&oldid=29541203'}
+===================================================
+1.9.0: Counter({'M:CONJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'M:CONJ': 1, 'R:OTHER': 1})
+{'edits': [[10, 10, 'M:CONJ', 'or', 10, 11], [10, 11, 'R:NOUN', 'condition', 11, 12]], 'sentence_gt': 'PPV is directly proportional to the prevalence of the disease /condition .', 'sentence': 'PPV is directly proportional to the prevalence of the disease or condition .', 'url': 'https://en.wikipedia.org/w/index.php?title=Positive_and_negative_predictive_values&diff=prev&oldid=378982170'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'U:DET': 1, 'U:PUNCT': 1})
+{'edits': [[12, 13, 'U:CONJ', '', 12, 12], [24, 25, 'U:PUNCT', '', 23, 23]], 'sentence_gt': "To further promote ' ' Unlocked '' , the singer embarked on both the Cherry Pop Summer Tour and the Unlocked Tour in 2014 , performing in Japan , Mexico , Russia , and Turkey .", 'sentence': "To further promote ' ' Unlocked '' , the singer embarked on the Cherry Pop Summer Tour and the Unlocked Tour in 2014 performing in Japan , Mexico , Russia , and Turkey .", 'url': 'https://en.wikipedia.org/w/index.php?title=Unlocked_(Alexandra_Stan_album)&diff=prev&oldid=856772557'}
+===================================================
+1.9.0: Counter({'U:CONJ': 1})
+2.2.1: Counter({'U:DET': 1})
+{'edits': [[16, 17, 'U:CONJ', '', 16, 16]], 'sentence_gt': 'One Son " was also nominated for " Outstanding Art Direction – Series " , and both " One Son " and " Two Fathers " were co - nominated for " Outstanding Makeup – Series " .', 'sentence': 'One Son " was also nominated for " Outstanding Art Direction – Series " , and " One Son " and " Two Fathers " were co - nominated for " Outstanding Makeup – Series " .', 'url': 'https://en.wikipedia.org/w/index.php?title=One_Son&diff=prev&oldid=579048550'}
+===================================================

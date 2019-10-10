@@ -1,0 +1,152 @@
+1.9.0: Counter({'R:NOUN': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:DET': 1})
+{'edits': [[14, 15, 'R:NOUN', 'Insider', 14, 15], [15, 16, 'R:DET', 'every', 15, 16]], 'sentence_gt': 'The Magazine carries a free , dual layer DVD and a supplement called Chip Plus each month .', 'sentence': 'The Magazine carries a free , dual layer DVD and a supplement called Chip Insider every month .', 'url': 'https://en.wikipedia.org/w/index.php?title=Intelligent_Computing_CHIP_magazine_(India)&diff=prev&oldid=539917079'}
+===================================================
+1.9.0: Counter({'R:PREP': 1, 'M:DET': 1})
+2.2.1: Counter({'M:PREP': 1, 'R:SPELL': 1})
+{'edits': [[14, 15, 'R:PREP', 'by', 14, 15], [15, 15, 'M:DET', 'the', 15, 16]], 'sentence_gt': "Lincoln tried to force Douglas to choose between the principle of popular sovereignty proposed bhe Kansas - Nebraska Act and the majority decision of the United States Supreme Court in the case of ' ' Dred Scott v. Sandford '' , which stated that slavery could not legally be excluded from U.S. territories ( since Douglas professed great respect for Supreme Court decisions , and accused the Republicans of disrespecting the court , yet this aspect of the Dred Scott decision was contrary to Douglas ' views and politically unpopular in Illinois ) .", 'sentence': "Lincoln tried to force Douglas to choose between the principle of popular sovereignty proposed by the Kansas - Nebraska Act and the majority decision of the United States Supreme Court in the case of ' ' Dred Scott v. Sandford '' , which stated that slavery could not legally be excluded from U.S. territories ( since Douglas professed great respect for Supreme Court decisions , and accused the Republicans of disrespecting the court , yet this aspect of the Dred Scott decision was contrary to Douglas ' views and politically unpopular in Illinois ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=Freeport_Doctrine&diff=prev&oldid=581543144'}
+===================================================
+1.9.0: Counter({'M:DET': 1})
+2.2.1: Counter({'M:CONJ': 1})
+{'edits': [[3, 3, 'M:DET', 'both', 3, 4]], 'sentence_gt': 'Albie Hecht , a Nickelodeon ( TV channel ) and Spike ( TV channel ) executive , was in the audience and bought the film for the network as a pilot for a potential television series .', 'sentence': 'Albie Hecht , both a Nickelodeon ( TV channel ) and Spike ( TV channel ) executive , was in the audience and bought the film for the network as a pilot for a potential television series .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band:_The_Movie&diff=prev&oldid=336712698'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'U:VERB': 1})
+2.2.1: Counter({'U:DET': 1, 'U:OTHER': 1})
+{'edits': [[18, 19, 'U:DET', '', 18, 18], [20, 22, 'U:VERB', '', 19, 19]], 'sentence_gt': 'This observation , he says , threw him back on theory , and led him to see that the intervention referred to might be necessary to remove ( as he phrases it ) the obstacles to the progress of younger communities created by the action of older and wealthier nations .', 'sentence': 'This observation , he says , threw him back on theory , and led him to see that intervention might be necessary to remove ( as he phrases it ) the obstacles to the progress of younger communities created by the action of older and wealthier nations .', 'url': 'https://en.wikipedia.org/w/index.php?title=Henry_Charles_Carey&diff=prev&oldid=282288649'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:3061', 0, 1], [1, 2, 'R:DET', 'till:4594', 1, 2]], 'sentence_gt': 'from:3095 till:4633 text : " : Category : Wikify from April 2007 "', 'sentence': 'from:3061 till:4594 text : " : Category : Wikify from April 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:NOUN': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:10583', 0, 1], [1, 2, 'R:DET', 'till:12081', 1, 2]], 'sentence_gt': 'from:10656 till:12175 text : " : Category : Wikify from September 2007 "', 'sentence': 'from:10583 till:12081 text : " : Category : Wikify from September 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'M:VERB': 1, 'U:DET': 1})
+2.2.1: Counter({'M:NOUN': 1, 'U:DET': 1})
+{'edits': [[9, 9, 'M:VERB', 'rolls', 9, 10], [10, 11, 'U:DET', '', 11, 11]], 'sentence_gt': "Under Greenwald 's intense cross - examination , Queeg manifests his paranoid behavior and Maryk is acquitted .", 'sentence': "Under Greenwald 's intense cross - examination , Queeg rolls manifests paranoid behavior and Maryk is acquitted .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Caine_Mutiny_(film)&diff=prev&oldid=715053497'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'M:NOUN': 1})
+2.2.1: Counter({'U:DET': 1, 'M:DET': 1})
+{'edits': [[2, 3, 'U:DET', '', 2, 2], [4, 4, 'M:NOUN', 'A', 3, 4]], 'sentence_gt': 'Precursors to the vitamin ( provitamins ) are present in foods of plant origin as three of the members of the carotenoid family of compounds .', 'sentence': 'Precursors to vitamin A ( provitamins ) are present in foods of plant origin as three of the members of the carotenoid family of compounds .', 'url': 'https://en.wikipedia.org/w/index.php?title=Vitamin_A&diff=prev&oldid=330212597'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'R:ORTH': 1})
+2.2.1: Counter({'U:DET': 1})
+{'edits': [[3, 4, 'U:DET', '', 3, 3], [4, 5, 'R:ORTH', 'the', 3, 4]], 'sentence_gt': "In May 2018 the The University of Thessaly in Vangelis ' home town of Volos awarded him an Honorary Doctorate degree in Electrical and Computer Engineering .", 'sentence': "In May 2018 the University of Thessaly in Vangelis ' home town of Volos awarded him an Honorary Doctorate degree in Electrical and Computer Engineering .", 'url': 'https://en.wikipedia.org/w/index.php?title=Vangelis&diff=prev&oldid=842734591'}
+===================================================
+1.9.0: Counter({'U:DET': 1})
+2.2.1: Counter({'U:CONJ': 1})
+{'edits': [[23, 24, 'U:DET', '', 23, 23]], 'sentence_gt': 'Myerson was born in The Bronx , New York to Jewish parents Louis Myerson and Bella ( née Podell ) , who were both Russian Jews .', 'sentence': 'Myerson was born in The Bronx , New York to Jewish parents Louis Myerson and Bella ( née Podell ) , who were Russian Jews .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bess_Myerson&diff=prev&oldid=642949990'}
+===================================================
+1.9.0: Counter({'M:DET': 1, 'U:NOUN': 1})
+2.2.1: Counter({'M:DET': 1, 'R:ORTH': 1, 'U:NOUN': 1})
+{'edits': [[7, 8, 'M:DET', 'the The', 7, 9], [9, 10, 'U:NOUN', '', 10, 10]], 'sentence_gt': 'When prisoners sought to break out of the Tombs prison in Manhattan in November 1926 , he was said to have used a trash can lid as a shield and , pushing past 300 policemen , engaged in a gunfight that killed three armed convicts who had already killed two people .', 'sentence': 'When prisoners sought to break out of the The Tombs in Manhattan in November 1926 , he was said to have used a trash can lid as a shield and , pushing past 300 policemen , engaged in a gunfight that killed three armed convicts who had already killed two people .', 'url': 'https://en.wikipedia.org/w/index.php?title=Johnny_Broderick&diff=prev&oldid=600617041'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'R:ORTH': 1})
+2.2.1: Counter({'U:DET': 1})
+{'edits': [[15, 16, 'U:DET', '', 15, 15], [17, 19, 'R:ORTH', 'languages.', 16, 17]], 'sentence_gt': 'The Mordvinic languages are more closely related to the Finno - Lappic languages than to the Mari languages .', 'sentence': 'The Mordvinic languages are more closely related to the Finno - Lappic languages than to Mari languages.', 'url': 'https://en.wikipedia.org/w/index.php?title=Uralic_languages&diff=prev&oldid=257390313'}
+===================================================
+1.9.0: Counter({'M:DET': 1, 'R:ORTH': 1})
+2.2.1: Counter({'M:DET': 1})
+{'edits': [[11, 11, 'M:DET', 'the', 11, 12], [11, 13, 'R:ORTH', 'UK.', 12, 13]], 'sentence_gt': 'Karbonn is the first Android One phone to be sold in UK .', 'sentence': 'Karbonn is the first Android One phone to be sold in the UK.', 'url': 'https://en.wikipedia.org/w/index.php?title=Karbonn_Mobiles&diff=prev&oldid=802595150'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'U:DET': 1, 'M:ADJ': 1})
+{'edits': [[3, 4, 'U:DET', '', 3, 3], [5, 5, 'M:PUNCT', '-', 4, 5]], 'sentence_gt': '= = = The Pre Sabaean Semitic Arabia = = =', 'sentence': '= = = Pre - Sabaean Semitic Arabia = = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Arabs&diff=prev&oldid=131886809'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'M:ADV': 1})
+2.2.1: Counter({'U:DET': 1, 'M:ADJ': 1})
+{'edits': [[1, 2, 'U:DET', '', 1, 1], [3, 3, 'M:ADV', 'more', 2, 3]], 'sentence_gt': '( another 5 )', 'sentence': '( 5 more )', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipediholism_test&diff=prev&oldid=674448915'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[9, 10, 'U:DET', '', 9, 9], [10, 12, 'R:VERB:TENSE', 'calling', 9, 10]], 'sentence_gt': 'Since 2003 the country has experienced occasional antigovernment demonstrations that have called for political reforms .', 'sentence': 'Since 2003 the country has experienced occasional antigovernment demonstrations calling for political reforms .', 'url': 'https://en.wikipedia.org/w/index.php?title=Maldives&diff=prev&oldid=24957939'}
+===================================================
+1.9.0: Counter({'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[3, 4, 'R:DET', 'this', 3, 4]], 'sentence_gt': 'The prosecutor says that means there is only a one - in - a - million chance of innocence .', 'sentence': 'The prosecutor says this means there is only a one - in - a - million chance of innocence .', 'url': 'https://en.wikipedia.org/w/index.php?title=Prosecutor%27s_fallacy&diff=prev&oldid=11523268'}
+===================================================
+1.9.0: Counter({'R:DET': 1, 'U:NOUN': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[19, 20, 'R:DET', 'an', 19, 20], [20, 21, 'U:NOUN', '', 20, 20]], 'sentence_gt': "' ' ' Polly Carey Draper ' '' ( born June 15 1956 in Gary , Indiana ) is a North American actress , writer , producer and director .", 'sentence': "' ' ' Polly Carey Draper ' '' ( born June 15 1956 in Gary , Indiana ) is an American actress , writer , producer and director .", 'url': 'https://en.wikipedia.org/w/index.php?title=Polly_Draper&diff=prev&oldid=257731310'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:NOUN': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:1142', 0, 1], [1, 2, 'R:DET', 'till:3061', 1, 2]], 'sentence_gt': 'from:1166 till:3095 text : " : Category : Wikify from March 2007 "', 'sentence': 'from:1142 till:3061 text : " : Category : Wikify from March 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 2})
+{'edits': [[0, 1, 'R:ADJ', 'from:12081', 0, 1], [1, 2, 'R:DET', 'till:13656', 1, 2]], 'sentence_gt': 'from:12175 till:13647 text : " : Category : Wikify from October 2007 "', 'sentence': 'from:12081 till:13656 text : " : Category : Wikify from October 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'M:DET': 1, 'R:NOUN': 1})
+2.2.1: Counter({'R:NOUN': 2})
+{'edits': [[0, 0, 'M:DET', "Asia'h", 0, 1], [0, 2, 'R:NOUN', 'Epperson', 1, 2]], 'sentence_gt': "Brooke White & mdash ; ' ' Top 6 ''", 'sentence': "Asia'h Epperson & mdash ; ' ' Top 6 ''", 'url': 'https://en.wikipedia.org/w/index.php?title=User:ATC/Opinion_of_ordering_on_%27Idol%27_and_%27X_Factor%27&diff=prev&oldid=328527958'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'U:NOUN': 1})
+2.2.1: Counter({'U:DET': 1, 'U:OTHER': 1})
+{'edits': [[25, 26, 'U:DET', '', 25, 25], [33, 34, 'U:NOUN', '', 32, 32]], 'sentence_gt': 'As Nagpur is located at the centre of the Indian peninsula , far from the Bay of Bengal and the Arabian Sea , it has a tropical savanna climate ( Köppen climate classification Aw ) with dry conditions prevailing for most of the year .', 'sentence': 'As Nagpur is located at the centre of the Indian peninsula , far from the Bay of Bengal and the Arabian Sea , it has tropical savanna climate ( Köppen climate classification ) with dry conditions prevailing for most of the year .', 'url': 'https://en.wikipedia.org/w/index.php?title=Nagpur&diff=prev&oldid=551443847'}
+===================================================
+1.9.0: Counter({'R:VERB': 1, 'M:DET': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:DET': 1})
+{'edits': [[7, 8, 'R:VERB', 'describe', 7, 8], [8, 8, 'M:DET', 'the', 8, 9]], 'sentence_gt': 'The term is also used figuratively to desjhviytdu6e6sihe state of awaiting execution ( " being on death row " ) , even in places where no special facility or separate unit for condemned inmates exists .', 'sentence': 'The term is also used figuratively to describe the state of awaiting execution ( " being on death row " ) , even in places where no special facility or separate unit for condemned inmates exists .', 'url': 'https://en.wikipedia.org/w/index.php?title=Death_row&diff=prev&oldid=581049261'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:426', 0, 1], [1, 2, 'R:DET', 'till:1142', 1, 2]], 'sentence_gt': 'from:444 till:1166 text : " : Category : Wikify from February 2007 "', 'sentence': 'from:426 till:1142 text : " : Category : Wikify from February 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'U:DET': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[7, 8, 'U:DET', '', 7, 7]], 'sentence_gt': 'If so , that might explain why that abusive admins say " go ahead , try to get me desysopped " as they know the process .', 'sentence': 'If so , that might explain why abusive admins say " go ahead , try to get me desysopped " as they know the process .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators%27_noticeboard/Incidents&diff=prev&oldid=793305514'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:7913', 0, 1], [1, 2, 'R:DET', 'till:9186', 1, 2]], 'sentence_gt': 'from:7962 till:9246 text : " : Category : Wikify from July 2007 "', 'sentence': 'from:7913 till:9186 text : " : Category : Wikify from July 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'U:NOUN': 1})
+2.2.1: Counter({'U:DET': 1, 'U:OTHER': 1})
+{'edits': [[8, 9, 'U:DET', '', 8, 8], [12, 13, 'U:NOUN', '', 11, 11]], 'sentence_gt': 'The use of conscription also made the war an extremely socially divisive one .', 'sentence': 'The use of conscription also made the war extremely socially divisive .', 'url': 'https://en.wikipedia.org/w/index.php?title=French_Fourth_Republic&diff=prev&oldid=100182531'}
+===================================================
+1.9.0: Counter({'R:DET': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[1, 2, 'R:DET', 'till:426', 1, 2]], 'sentence_gt': 'from:0 till:444 text : " : Category : Wikify from January 2007 "', 'sentence': 'from:0 till:426 text : " : Category : Wikify from January 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:DET', 'term===', 4, 5]], 'sentence_gt': '= = = Second term==', 'sentence': '= = = Second term===', 'url': 'https://en.wikipedia.org/w/index.php?title=Boutros_Boutros-Ghali&diff=prev&oldid=33534136'}
+===================================================
+1.9.0: Counter({'M:DET': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[13, 13, 'M:DET', 'that', 13, 14]], 'sentence_gt': 'Felt said on the CBS television program \' \' Face the Nation \'\' he would probably be a " scapegoat " for the Bureau \'s work .', 'sentence': 'Felt said on the CBS television program \' \' Face the Nation \'\' that he would probably be a " scapegoat " for the Bureau \'s work .', 'url': 'https://en.wikipedia.org/w/index.php?title=Weather_Underground&diff=prev&oldid=237676066'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:ADJ': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:6348', 0, 1], [1, 2, 'R:DET', 'till:7913', 1, 2]], 'sentence_gt': 'from:6395 till:7962 text : " : Category : Wikify from June 2007 "', 'sentence': 'from:6348 till:7913 text : " : Category : Wikify from June 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'U:DET': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[7, 8, 'U:DET', '', 7, 7]], 'sentence_gt': "Since December 2013 , he has been tge host of the web series ' ' Cat Mojo '' on the Animalist Network , where he shares his thoughts on everything from cat - related issues like declawing and use of squirt guns to his craziest behind the scene stories as a cat behaviorist .", 'sentence': "Since December 2013 , he has been host of the web series ' ' Cat Mojo '' on the Animalist Network , where he shares his thoughts on everything from cat - related issues like declawing and use of squirt guns to his craziest behind the scene stories as a cat behaviorist .", 'url': 'https://en.wikipedia.org/w/index.php?title=Jackson_Galaxy&diff=prev&oldid=611820982'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:9186', 0, 1], [1, 2, 'R:DET', 'till:10583', 1, 2]], 'sentence_gt': 'from:9246 till:10656 text : " : Category : Wikify from August 2007 "', 'sentence': 'from:9186 till:10583 text : " : Category : Wikify from August 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'R:DET': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:DET': 1, 'R:MORPH': 1})
+{'edits': [[3, 4, 'R:DET', 'its', 3, 4], [4, 5, 'R:NOUN:NUM', 'story', 4, 5]], 'sentence_gt': 'The film tells it stories by relating the accounts of Jewish survivors " who return to Italy in their late adulthood to revisit the scenes of their worst nightmares : hidden in terror , fleeing in desperation , separated from loved ones , saying final goodbyes without knowing they were final . "', 'sentence': 'The film tells its story by relating the accounts of Jewish survivors " who return to Italy in their late adulthood to revisit the scenes of their worst nightmares : hidden in terror , fleeing in desperation , separated from loved ones , saying final goodbyes without knowing they were final . "', 'url': 'https://en.wikipedia.org/w/index.php?title=My_Italian_Secret:_The_Forgotten_Heroes&diff=prev&oldid=655044646'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:DET': 1, 'R:MORPH': 1, 'U:PUNCT': 1})
+{'edits': [[0, 1, 'U:DET', '', 0, 0], [1, 2, 'R:NOUN', 'Constitutionalist', 0, 1]], 'sentence_gt': 'The Constitutionalists’ victory was complete .', 'sentence': 'Constitutionalist victory was complete .', 'url': 'https://en.wikipedia.org/w/index.php?title=History_of_Mexico&diff=prev&oldid=706004033'}
+===================================================
+1.9.0: Counter({'U:DET': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[0, 1, 'U:DET', '', 0, 0]], 'sentence_gt': 'ther Adil was born in the fourth century in the suburbs of the city of Balamkadaar .', 'sentence': 'Adil was born in the fourth century in the suburbs of the city of Balamkadaar .', 'url': 'https://en.wikipedia.org/w/index.php?title=Genie_in_the_House&diff=prev&oldid=566655770'}
+===================================================
+1.9.0: Counter({'U:DET': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[11, 12, 'U:DET', '', 11, 11]], 'sentence_gt': 'It is recognised by the Directorate of Technical Education in Maharashtra a and the UGC .', 'sentence': 'It is recognised by the Directorate of Technical Education in Maharashtra and the UGC .', 'url': 'https://en.wikipedia.org/w/index.php?title=Rajiv_Gandhi_Institute_of_Technology,_Mumbai&diff=prev&oldid=544181654'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 2})
+{'edits': [[0, 1, 'R:ADJ', 'from:4594', 0, 1], [1, 2, 'R:DET', 'till:6348', 1, 2]], 'sentence_gt': 'from:4633 till:6395 text : " : Category : Wikify from May 2007 "', 'sentence': 'from:4594 till:6348 text : " : Category : Wikify from May 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================

@@ -1,0 +1,336 @@
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[22, 23, 'R:NOUN:POSS', "'", 22, 23]], 'sentence_gt': '" \' \' \' Among the Walking Dead \' \'\' " is a single by Scarface ( rapper ) from Motown Records \'s The Walking Dead ( soundtrack ) .', 'sentence': '" \' \' \' Among the Walking Dead \' \'\' " is a single by Scarface ( rapper ) from Motown Records \' The Walking Dead ( soundtrack ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Among_the_Walking_Dead&diff=prev&oldid=727719793'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'R:SPELL': 1, 'U:PUNCT': 1})
+{'edits': [[3, 4, 'R:SPELL', 'the', 3, 4], [15, 16, 'U:NOUN:POSS', '', 15, 15]], 'sentence_gt': "This species and thte ' ' ' Yellow Coster ' '' ' ' Acraea vesta ' '' are the only two Indian reprentatives of the predominantly African sub - family Acraeinae .", 'sentence': "This species and the ' ' ' Yellow Coster ' '' ' ' Acraea vesta '' are the only two Indian reprentatives of the predominantly African sub - family Acraeinae .", 'url': 'https://en.wikipedia.org/w/index.php?title=Acraea_terpsicore&diff=prev&oldid=46434207'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[9, 10, 'R:NOUN:POSS', "''", 9, 10]], 'sentence_gt': 'Vincent Canby of \' \' The New York Times \' called it a " large , soggy dud " with ill - drawn characters and " dopey dialogue . "', 'sentence': 'Vincent Canby of \' \' The New York Times \'\' called it a " large , soggy dud " with ill - drawn characters and " dopey dialogue . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Hanna_K.&diff=prev&oldid=779046398'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[0, 0, 'M:PUNCT', "'", 0, 1], [4, 4, 'M:NOUN:POSS', "'", 5, 6]], 'sentence_gt': "' ' Summoned monsters '' .", 'sentence': "' ' ' Summoned monsters ' '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Final_Fantasy_IX&diff=prev&oldid=36102584'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[4, 4, 'M:NOUN:POSS', "'", 4, 5]], 'sentence_gt': "Arris Goes to Paris ''", 'sentence': "Arris Goes to Paris ' ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Angela_Lansbury&diff=prev&oldid=306356023'}
+===================================================
+1.9.0: Counter({'U:NOUN': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:ADJ': 1, 'U:NOUN:POSS': 1})
+{'edits': [[1, 2, 'U:NOUN', '', 1, 1], [28, 29, 'U:NOUN:POSS', '', 27, 27]], 'sentence_gt': "For ritual baptisms , marriages and burials , the people had to travel to St Mary 's , Prestwich , or else churches that lay outside the parish 's boundaries , such as St Leonard 's , Middleton .", 'sentence': "For baptisms , marriages and burials , the people had to travel to St Mary 's , Prestwich , or else churches that lay outside the parish boundaries , such as St Leonard 's , Middleton .", 'url': 'https://en.wikipedia.org/w/index.php?title=Prestwich-cum-Oldham&diff=prev&oldid=751905603'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[0, 1, 'R:NOUN:POSS', 'His', 0, 1]], 'sentence_gt': "''His sexuality is most clearly reflected in his intensely homoerotic portraits of working class men .", 'sentence': 'His sexuality is most clearly reflected in his intensely homoerotic portraits of working class men .', 'url': 'https://en.wikipedia.org/w/index.php?title=Carl_Van_Vechten&diff=prev&oldid=796011786'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[10, 10, 'M:NOUN:POSS', "'", 10, 11]], 'sentence_gt': "The ' ' ' list of the wealthiest historical figures '' is an attempt to gather and compare the net - worth and fortunes of historical figures against one another .", 'sentence': "The ' ' ' list of the wealthiest historical figures ' '' is an attempt to gather and compare the net - worth and fortunes of historical figures against one another .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_wealthiest_historical_figures&diff=prev&oldid=521008613'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[5, 6, 'R:NOUN:POSS', "'", 5, 6]], 'sentence_gt': "' ' ' Clive Rush '' '' was the head coach of the New England Patriots during the 1969 and 1970 seasons .", 'sentence': "' ' ' Clive Rush ' '' was the head coach of the New England Patriots during the 1969 and 1970 seasons .", 'url': 'https://en.wikipedia.org/w/index.php?title=Clive_Rush&diff=prev&oldid=37124028'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[1, 1, 'M:PUNCT', "'", 1, 2], [5, 5, 'M:NOUN:POSS', "'", 6, 7]], 'sentence_gt': "The ' ' Hippocratic Oath '' is an oath historically taken by physicians .", 'sentence': "The ' ' ' Hippocratic Oath ' '' is an oath historically taken by physicians .", 'url': 'https://en.wikipedia.org/w/index.php?title=Hippocratic_Oath&diff=prev&oldid=712717061'}
+===================================================
+1.9.0: Counter({'U:NOUN:POSS': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'M:PUNCT': 1})
+{'edits': [[6, 7, 'U:NOUN:POSS', '', 6, 6], [8, 8, 'M:PUNCT', '"', 7, 8]], 'sentence_gt': "Decidedly I suffer from the nerves ' , murmured Hercule Poirot , and fell asleep again .", 'sentence': 'Decidedly I suffer from the nerves , " murmured Hercule Poirot , and fell asleep again .', 'url': 'https://en.wikipedia.org/w/index.php?title=Murder_on_the_Orient_Express&diff=prev&oldid=588624743'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[1, 1, 'M:PUNCT', "'", 1, 2], [6, 6, 'M:NOUN:POSS', "'", 7, 8]], 'sentence_gt': "The ' ' toggle light switch '' was invented by William J. Newton and Morris Goldberg .", 'sentence': "The ' ' ' toggle light switch ' '' was invented by William J. Newton and Morris Goldberg .", 'url': 'https://en.wikipedia.org/w/index.php?title=Light_switch&diff=prev&oldid=293219529'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[7, 8, 'R:NOUN:POSS', '—', 7, 8]], 'sentence_gt': 'Pine Avenue , Long Beach , California - restaurants and nightclubs', 'sentence': 'Pine Avenue , Long Beach , California — restaurants and nightclubs', 'url': 'https://en.wikipedia.org/w/index.php?title=Downtown_Long_Beach&diff=prev&oldid=748470021'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[5, 5, 'M:PUNCT', "'", 5, 6], [12, 12, 'M:NOUN:POSS', "'", 13, 14]], 'sentence_gt': "Over 10 million copies of ' ' ... Baby One More Time '' were sold in the United States during 1999 alone .", 'sentence': "Over 10 million copies of ' ' ' ... Baby One More Time ' '' were sold in the United States during 1999 alone .", 'url': 'https://en.wikipedia.org/w/index.php?title=1999_in_music&diff=prev&oldid=910978607'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[1, 1, 'M:PUNCT', "'", 1, 2], [4, 4, 'M:NOUN:POSS', "'", 5, 6]], 'sentence_gt': 'The \' \' Puritans \'\' were English people Reformed Protestants in the Christianity in the 16th century and Christianity in the 17th century who sought to " purify " the Church of England from its " Roman Catholic " practices , maintaining that the Church of England was only partially reformed .', 'sentence': 'The \' \' \' Puritans \' \'\' were English people Reformed Protestants in the Christianity in the 16th century and Christianity in the 17th century who sought to " purify " the Church of England from its " Roman Catholic " practices , maintaining that the Church of England was only partially reformed .', 'url': 'https://en.wikipedia.org/w/index.php?title=Puritans&diff=prev&oldid=865117602'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[31, 33, 'R:NOUN:POSS', '1800s', 31, 32]], 'sentence_gt': "Medical sciences in India at that time considered homosexuality as a threat to society ; according to the report , this conceptualization of homosexuality was borrowed from Britain in the late 1800 's .", 'sentence': 'Medical sciences in India at that time considered homosexuality as a threat to society ; according to the report , this conceptualization of homosexuality was borrowed from Britain in the late 1800s .', 'url': 'https://en.wikipedia.org/w/index.php?title=AIDS_Bhedbhav_Virodhi_Andolan&diff=prev&oldid=617876156'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[18, 18, 'M:PUNCT', "'", 18, 19], [22, 22, 'M:NOUN:POSS', "'", 23, 24]], 'sentence_gt': "' ' ' Gazzy Garcia ' '' ( born August 17 , 2000 ) , known professionally as ' ' Lil Pump '' , is an American rapper , singer , record producer , and songwriter .", 'sentence': "' ' ' Gazzy Garcia ' '' ( born August 17 , 2000 ) , known professionally as ' ' ' Lil Pump ' '' , is an American rapper , singer , record producer , and songwriter .", 'url': 'https://en.wikipedia.org/w/index.php?title=Lil_Pump&diff=prev&oldid=886910527'}
+===================================================
+1.9.0: Counter({'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[1, 2, 'U:NOUN:POSS', '', 1, 1]], 'sentence_gt': "Alig ' became eligible for parole in 2006 .", 'sentence': 'Alig became eligible for parole in 2006 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Michael_Alig&diff=prev&oldid=438052027'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[3, 5, 'R:NOUN:POSS', '1930s', 3, 4]], 'sentence_gt': "Only in the 1930 's did the decline of theatre - going , and the boom and bust years of cinema , take its toll .", 'sentence': 'Only in the 1930s did the decline of theatre - going , and the boom and bust years of cinema , take its toll .', 'url': 'https://en.wikipedia.org/w/index.php?title=William_Morton_(theatre_manager)&diff=prev&oldid=795624032'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[21, 22, 'U:PUNCT', '', 21, 21], [32, 33, 'U:NOUN:POSS', '', 31, 31]], 'sentence_gt': "' ' ' Aldar Beedo ' '' is a Podrace who is known as one of Sebulba 's worst rivals in ' ' ' Star Wars Episode I : The Phantom Menace ' '' .", 'sentence': "' ' ' Aldar Beedo ' '' is a Podrace who is known as one of Sebulba 's worst rivals in ' ' Star Wars Episode I : The Phantom Menace '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:BinaryTed/Super_Star_Destroyer&diff=prev&oldid=41031854'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[1, 1, 'M:PUNCT', "'", 1, 2], [6, 6, 'M:NOUN:POSS', "'", 7, 8]], 'sentence_gt': "The ' ' Parliament of England '' was the legislature of the Kingdom of England , existing from the early 13th century until 1707 , when it became the Parliament of Great Britain after the political union of England and Scotland created the Kingdom of Great Britain .", 'sentence': "The ' ' ' Parliament of England ' '' was the legislature of the Kingdom of England , existing from the early 13th century until 1707 , when it became the Parliament of Great Britain after the political union of England and Scotland created the Kingdom of Great Britain .", 'url': 'https://en.wikipedia.org/w/index.php?title=Parliament_of_England&diff=prev&oldid=875922355'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[3, 3, 'M:NOUN:POSS', "'", 3, 4]], 'sentence_gt': 'Brewster , P.S.', 'sentence': "Brewster , P.S. '", 'url': 'https://en.wikipedia.org/w/index.php?title=Pentecostalism&diff=prev&oldid=552358516'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[1, 2, 'U:VERB:TENSE', '', 1, 1], [6, 7, 'U:NOUN:POSS', '', 5, 5]], 'sentence_gt': "Some ' ' ' a priori ' '' constructed languages try to categorize their vocabulary , either to express an underlying philosophical system or to make it easier to memorize the completely new vocabulary .", 'sentence': "Some ' ' a priori '' constructed languages try to categorize their vocabulary , either to express an underlying philosophical system or to make it easier to memorize the completely new vocabulary .", 'url': 'https://en.wikipedia.org/w/index.php?title=A_priori_(languages)&diff=prev&oldid=103813986'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[0, 0, 'M:PUNCT', "'", 0, 1], [5, 5, 'M:NOUN:POSS', "'", 6, 7]], 'sentence_gt': "' Actions about ongoing INCOTM '' .", 'sentence': "' ' Actions about ongoing INCOTM ' '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_India/Collaborations_of_the_month/Procedure&diff=prev&oldid=477010363'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [7, 8, 'U:NOUN:POSS', '', 6, 6]], 'sentence_gt': "' ' ' As Minister of Mines ' ''", 'sentence': "' ' As Minister of Mines ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Bijoy_Krishna_Handique&diff=prev&oldid=526300012'}
+===================================================
+1.9.0: Counter({'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:CONTR': 1})
+{'edits': [[12, 13, 'U:NOUN:POSS', '', 12, 12]], 'sentence_gt': "Boston also struggles with gentrification issues that have led to the city 's having one of the highest Cost of living in the United States .", 'sentence': 'Boston also struggles with gentrification issues that have led to the city having one of the highest Cost of living in the United States .', 'url': 'https://en.wikipedia.org/w/index.php?title=Boston&diff=prev&oldid=129953958'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[19, 20, 'U:PUNCT', '', 19, 19], [24, 25, 'U:NOUN:POSS', '', 23, 23]], 'sentence_gt': "2008 , Awarded ' ' Columnist of the year '' at PPA Awards 2008 for her articles in the ' ' ' New Statesman ' '' magazine .", 'sentence': "2008 , Awarded ' ' Columnist of the year '' at PPA Awards 2008 for her articles in the ' ' New Statesman '' magazine .", 'url': 'https://en.wikipedia.org/w/index.php?title=Shazia_Mirza&diff=prev&oldid=356342920'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[18, 19, 'R:NOUN:POSS', 'own', 18, 19]], 'sentence_gt': "Now Nat has to figure out if Rosalina is going to go to his school party or her 's .", 'sentence': 'Now Nat has to figure out if Rosalina is going to go to his school party or her own .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sidekicks_(The_Naked_Brothers_Band)&diff=prev&oldid=182469636'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[7, 7, 'M:NOUN:POSS', "'", 7, 8]], 'sentence_gt': "' ' ' ' ' MTV Roadies '' '' is a reality television show which airs on MTV India .", 'sentence': "' ' ' ' ' MTV Roadies ' '' '' is a reality television show which airs on MTV India .", 'url': 'https://en.wikipedia.org/w/index.php?title=MTV_Roadies&diff=prev&oldid=249011109'}
+===================================================
+1.9.0: Counter({'U:NOUN:POSS': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[13, 14, 'U:NOUN:POSS', '', 13, 13], [15, 15, 'M:PUNCT', ". '", 14, 16]], 'sentence_gt': "In the meantime , here 's my User : Deckiller / RfA criteria ' ''", 'sentence': "In the meantime , here 's my User : Deckiller / RfA criteria '' . '", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Deckiller/header&diff=prev&oldid=395239156'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:PUNCT': 1})
+{'edits': [[2, 2, 'M:PUNCT', "'", 2, 3], [5, 6, 'R:NOUN:POSS', "''", 6, 7]], 'sentence_gt': "The name ' Erde Kaiser ' comes from the German for ' Earth Emperor ' .", 'sentence': "The name ' ' Erde Kaiser '' comes from the German for ' Earth Emperor ' .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_terms_in_Xenosaga&diff=prev&oldid=35982840'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[19, 19, 'M:NOUN:POSS', "'", 19, 20]], 'sentence_gt': 'AHS also participates yearly in the national Junior Miss scholarship program , in which eleventh - grade level girls are eligible to participate .', 'sentence': "AHS also participates yearly in the national Junior Miss scholarship program , in which eleventh - grade level girls ' are eligible to participate .", 'url': 'https://en.wikipedia.org/w/index.php?title=Asotin_Junior_Senior_High_School&diff=prev&oldid=731605922'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:ORTH': 1, 'R:CONTR': 1})
+{'edits': [[0, 2, 'R:NOUN:POSS', 'Ho Hos', 0, 2]], 'sentence_gt': "HO 'S", 'sentence': 'Ho Hos', 'url': 'https://en.wikipedia.org/w/index.php?title=Twinkie&diff=prev&oldid=419362028'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[5, 6, 'R:NOUN:POSS', "''", 5, 6]], 'sentence_gt': "' ' Final Fantasy VII ' 's popularity inspired the appearances of several of its characters in other Square - Enix titles :", 'sentence': "' ' Final Fantasy VII '' 's popularity inspired the appearances of several of its characters in other Square - Enix titles :", 'url': 'https://en.wikipedia.org/w/index.php?title=Final_Fantasy_VII&diff=prev&oldid=48034481'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[0, 3, 'U:PUNCT', '', 0, 0], [6, 7, 'U:NOUN:POSS', '', 3, 3]], 'sentence_gt': "' ' ' Ahmed Sékou Touré ' became President upon Guinea 's independence .", 'sentence': "Ahmed Sékou Touré became President upon Guinea 's independence .", 'url': 'https://en.wikipedia.org/w/index.php?title=Guinea&diff=prev&oldid=451048077'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[5, 5, 'M:PUNCT', "'", 5, 6], [11, 11, 'M:NOUN:POSS', "'", 12, 13]], 'sentence_gt': "Wikipedia contains numerous articles on ' ' fiction - related subjects '' , including fictional universe and elements thereof .", 'sentence': "Wikipedia contains numerous articles on ' ' ' fiction - related subjects ' '' , including fictional universe and elements thereof .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Manual_of_Style/Writing_about_fiction&diff=prev&oldid=766927471'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:PUNCT': 2})
+{'edits': [[1, 2, 'R:PUNCT', "'", 1, 2], [5, 6, 'R:NOUN:POSS', "'", 5, 6]], 'sentence_gt': 'Net " C - Leaf " Logo is property of this site . \'', 'sentence': "Net ' C - Leaf ' Logo is property of this site . '", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Files_for_upload&diff=prev&oldid=525947425'}
+===================================================
+1.9.0: Counter({'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[35, 36, 'U:NOUN:POSS', '', 35, 35]], 'sentence_gt': '; Final Fantasy VIII : Week - long debate about whether or not \' \' Final Fantasy VIII \'\' has a " massive " fanbase or a " fanbase as large as Final Fantasy VII \' \'\' \'s , among other wording issues .', 'sentence': '; Final Fantasy VIII : Week - long debate about whether or not \' \' Final Fantasy VIII \'\' has a " massive " fanbase or a " fanbase as large as Final Fantasy VII \'\' \'s , among other wording issues .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Lamest_edit_wars&diff=prev&oldid=41960357'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[5, 5, 'M:NOUN:POSS', "'", 5, 6]], 'sentence_gt': "' ' ' Proton torpedoes '' are projectiles carried by starfighters or capital ships .", 'sentence': "' ' ' Proton torpedoes ' '' are projectiles carried by starfighters or capital ships .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Star_Wars_weapons&diff=prev&oldid=37274282'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[0, 0, 'M:PUNCT', "'", 0, 1], [5, 5, 'M:NOUN:POSS', "'", 6, 7]], 'sentence_gt': "' ' Raun K. Kaufman ''", 'sentence': "' ' ' Raun K. Kaufman ' ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Raun_Kaufman&diff=prev&oldid=288941608'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[7, 7, 'M:NOUN:POSS', "'", 7, 8]], 'sentence_gt': "The ' ' ' Elizabethan Religious Settlement '' is the name given to the religious and political arrangements made for England during the reign of Elizabeth I ( 1558–1603 ) as part of the English Reformation .", 'sentence': "The ' ' ' Elizabethan Religious Settlement ' '' is the name given to the religious and political arrangements made for England during the reign of Elizabeth I ( 1558–1603 ) as part of the English Reformation .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Ltwin/sandboxUPCI&diff=prev&oldid=909673562'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[16, 16, 'M:NOUN:POSS', "'", 16, 17]], 'sentence_gt': "So , ' ' ' Lobbying Laws ' '' should be ' ' ' Lobbying laws '' , and etc .", 'sentence': "So , ' ' ' Lobbying Laws ' '' should be ' ' ' Lobbying laws ' '' , and etc .", 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Direct_lobbying_in_the_United_States&diff=prev&oldid=423128973'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[8, 8, 'M:PUNCT', "'", 8, 9], [12, 12, 'M:NOUN:POSS', "'", 13, 14]], 'sentence_gt': "He wrote and portrayed the title role in ' ' Eddie Presley '' ( based on his own successful stage play ) .", 'sentence': "He wrote and portrayed the title role in ' ' ' Eddie Presley ' '' ( based on his own successful stage play ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=Duane_Whitaker&diff=prev&oldid=536311198'}
+===================================================
+1.9.0: Counter({'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[10, 11, 'U:NOUN:POSS', '', 10, 10]], 'sentence_gt': "' ' ' Spotlight Challenge ' '' : The artists ' must create werewolf rivals of the vampires they created in the previous episode .", 'sentence': "' ' ' Spotlight Challenge ' '' : The artists must create werewolf rivals of the vampires they created in the previous episode .", 'url': 'https://en.wikipedia.org/w/index.php?title=Face_Off_(season_6)&diff=prev&oldid=603518251'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:PUNCT': 1})
+{'edits': [[18, 19, 'R:NOUN:POSS', "'", 18, 19], [19, 20, 'R:PUNCT', "'", 19, 20]], 'sentence_gt': "Shortened versions of the film were released : ' ' Death Mills '' ( ' ' Die Todesmühlen and '' in its German version ) in 1945 , and ' ' Memory of the Camps '' ( 1984 ) .", 'sentence': "Shortened versions of the film were released : ' ' Death Mills '' ( ' ' Die Todesmühlen ' ' in its German version ) in 1945 , and ' ' Memory of the Camps '' ( 1984 ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=German_Concentration_Camps_Factual_Survey&diff=prev&oldid=645493391'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[2, 2, 'M:NOUN:POSS', "'", 2, 3]], 'sentence_gt': "Santa Claus ''", 'sentence': "Santa Claus ' ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Angela_Lansbury&diff=prev&oldid=306356023'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[0, 0, 'M:PUNCT', "'", 0, 1], [5, 5, 'M:NOUN:POSS', "'", 6, 7]], 'sentence_gt': "' Actions about forthcoming INCOTM '' .", 'sentence': "' ' Actions about forthcoming INCOTM ' '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_India/Collaborations_of_the_month/Procedure&diff=prev&oldid=477010363'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[22, 23, 'U:PUNCT', '', 22, 22], [30, 31, 'U:NOUN:POSS', '', 29, 29]], 'sentence_gt': "Mane opened So Icey Entertainment after signing with Debra Antney ’s Mizay Entertainment in 2007 following the release of his independent album ' ' ' Trap - A - Thon ' '' .", 'sentence': "Mane opened So Icey Entertainment after signing with Debra Antney ’s Mizay Entertainment in 2007 following the release of his independent album ' ' Trap - A - Thon '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=1017_Records&diff=prev&oldid=457123031'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[38, 39, 'U:PUNCT', '', 38, 38], [46, 47, 'U:NOUN:POSS', '', 45, 45]], 'sentence_gt': "' ' ' Connectionism ' '' is an approach in the fields of artificial intelligence , cognitive psychology / cognitive science , neuroscience and philosophy of mind , that models mind or behavior phenomena as the emergence of ' ' ' interconnected networks of simple units ' '' .", 'sentence': "' ' ' Connectionism ' '' is an approach in the fields of artificial intelligence , cognitive psychology / cognitive science , neuroscience and philosophy of mind , that models mind or behavior phenomena as the emergence of ' ' interconnected networks of simple units '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Connectionism&diff=prev&oldid=202759753'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[14, 15, 'U:PUNCT', '', 14, 14], [26, 27, 'U:NOUN:POSS', '', 25, 25]], 'sentence_gt': "Alavar is present when Padme Amidala presents this request to the Galactic Senate in ' ' ' Star Wars Episode III : Revenge of the Sith ' '' .", 'sentence': "Alavar is present when Padme Amidala presents this request to the Galactic Senate in ' ' Star Wars Episode III : Revenge of the Sith '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:BinaryTed/Super_Star_Destroyer&diff=prev&oldid=41031788'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[16, 17, 'R:NOUN:POSS', "'", 16, 17]], 'sentence_gt': "... that the excavations for fossils of Pleistocene fauna in ' ' ' Natural Trap Cave '' '' , Wyoming in 2014 included an experiment in taphonomy ?", 'sentence': "... that the excavations for fossils of Pleistocene fauna in ' ' ' Natural Trap Cave ' '' , Wyoming in 2014 included an experiment in taphonomy ?", 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Did_you_know_nominations/Natural_Trap_Cave&diff=prev&oldid=620680274'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[0, 0, 'M:PUNCT', "'", 0, 1], [5, 5, 'M:NOUN:POSS', "'", 6, 7]], 'sentence_gt': "' ' Ladies and Gentlewomen '' is a Tamil language Indian documentary by Malini Jeevarathnam and produced by Pa. Ranjith .", 'sentence': "' ' ' Ladies and Gentlewomen ' '' is a Tamil language Indian documentary by Malini Jeevarathnam and produced by Pa. Ranjith .", 'url': 'https://en.wikipedia.org/w/index.php?title=Ladies_and_Gentlewomen&diff=prev&oldid=793835341'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[3, 3, 'M:NOUN:POSS', "'", 3, 4]], 'sentence_gt': "Happy at Last ''", 'sentence': "Happy at Last ' ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Angela_Lansbury&diff=prev&oldid=306356023'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[5, 5, 'M:NOUN:POSS', "'", 5, 6]], 'sentence_gt': "' ' ' Licking Creek '' may refer to :", 'sentence': "' ' ' Licking Creek ' '' may refer to :", 'url': 'https://en.wikipedia.org/w/index.php?title=Licking_Creek&diff=prev&oldid=838232989'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[5, 6, 'R:NOUN:POSS', "''", 5, 6]], 'sentence_gt': "' ' Final Fantasy XII ' begins in Dalmasca , where the happiness from the union of Princess Ashe of Dalmasca and Prince Rasler of Nabradia was interrupted by the Archadian Empire 's invasion of Dalmasca .", 'sentence': "' ' Final Fantasy XII '' begins in Dalmasca , where the happiness from the union of Princess Ashe of Dalmasca and Prince Rasler of Nabradia was interrupted by the Archadian Empire 's invasion of Dalmasca .", 'url': 'https://en.wikipedia.org/w/index.php?title=Final_Fantasy_XII&diff=prev&oldid=113509799'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[27, 28, 'U:PUNCT', '', 27, 27], [32, 33, 'U:NOUN:POSS', '', 31, 31]], 'sentence_gt': "' Intersection '' was produced by Korean animation studio , JM Animation , the award - winning studio behind the highly - acclaimed , visually haunting , ' ' ' Wonderful Days ' '' ( Sky Blue ) .", 'sentence': "' Intersection '' was produced by Korean animation studio , JM Animation , the award - winning studio behind the highly - acclaimed , visually haunting , ' ' Wonderful Days '' ( Sky Blue ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=MTV_EXIT&diff=prev&oldid=549126418'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[7, 7, 'M:NOUN:POSS', "'", 7, 8]], 'sentence_gt': 'For \' \' \' " Caliente " \'\' :', 'sentence': 'For \' \' \' " Caliente " \' \'\' :', 'url': 'https://en.wikipedia.org/w/index.php?title=Inna_discography&diff=prev&oldid=673754386'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'M:NOUN:POSS': 1, 'R:MORPH': 1})
+{'edits': [[41, 41, 'M:NOUN:POSS', "'", 41, 42], [41, 42, 'R:NOUN:NUM', 'nests', 42, 43]], 'sentence_gt': 'Scientists have recently found that honeyguide chicks kill the hatchlings of the host nest in brutal attacks using their needle - sharp beaks just after hatching , much like what cuckoo hatchlings do , which are also hatched in other birds nest .', 'sentence': "Scientists have recently found that honeyguide chicks kill the hatchlings of the host nest in brutal attacks using their needle - sharp beaks just after hatching , much like what cuckoo hatchlings do , which are also hatched in other birds ' nests .", 'url': 'https://en.wikipedia.org/w/index.php?title=Honeyguide&diff=prev&oldid=572791805'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[5, 5, 'M:NOUN:POSS', "'", 5, 6]], 'sentence_gt': "' ' ' Mason Vaugh '' ( 1894 - 1978 ) was a lay missionary who helped develop the Allahabad Agricultural Institute , later known as the Sam Higginbottom Institute of Agriculture , Technology and Sciences .", 'sentence': "' ' ' Mason Vaugh ' '' ( 1894 - 1978 ) was a lay missionary who helped develop the Allahabad Agricultural Institute , later known as the Sam Higginbottom Institute of Agriculture , Technology and Sciences .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mason_Vaugh&diff=prev&oldid=562261532'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'M:NOUN:POSS': 1, 'U:PUNCT': 1})
+{'edits': [[5, 5, 'M:NOUN:POSS', "'s", 5, 6], [6, 7, 'U:NOUN:POSS', '', 7, 7]], 'sentence_gt': "The Prizes awarded in Sweden ceremonies ' are held at the Stockholm Concert Hall , with the Nobel Banquet following immediately at Stockholm City Hall .", 'sentence': "The Prizes awarded in Sweden 's ceremonies are held at the Stockholm Concert Hall , with the Nobel Banquet following immediately at Stockholm City Hall .", 'url': 'https://en.wikipedia.org/w/index.php?title=Nobel_Prize&diff=prev&oldid=338802789'}
+===================================================
+1.9.0: Counter({'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[2, 3, 'U:NOUN:POSS', '', 2, 2]], 'sentence_gt': "Cathedral Ship '", 'sentence': 'Cathedral Ship', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Deckiller/articles&diff=prev&oldid=71244494'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[5, 5, 'M:NOUN:POSS', "'", 5, 6]], 'sentence_gt': "' ' ' Randy Carlyle ''", 'sentence': "' ' ' Randy Carlyle ' ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Anaheim_Ducks&diff=prev&oldid=725286271'}
+===================================================
+1.9.0: Counter({'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[1, 2, 'U:NOUN:POSS', '', 1, 1]], 'sentence_gt': "Agatharchides ' :", 'sentence': 'Agatharchides :', 'url': 'https://en.wikipedia.org/w/index.php?title=Lost_work&diff=prev&oldid=872737689'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:PUNCT': 1, 'R:MORPH': 1})
+{'edits': [[11, 12, 'R:NOUN:POSS', '–', 11, 12], [19, 20, 'R:MORPH', 'architecture', 19, 20]], 'sentence_gt': "' ' ' Mathurin Cherpitel ' '' ( 1736 , Paris - 1809 , Paris ) was a French architect , whose notable buildings include the Hôtel du Châtelet .", 'sentence': "' ' ' Mathurin Cherpitel ' '' ( 1736 , Paris – 1809 , Paris ) was a French architecture , whose notable buildings include the Hôtel du Châtelet .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mathurin_Cherpitel&diff=prev&oldid=413293569'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[6, 6, 'M:NOUN:POSS', "'", 6, 7]], 'sentence_gt': "' ' ' Dauntsey 's School '' is a co - educational independant day and boarding school in the village of West Lavington , Wiltshire .", 'sentence': "' ' ' Dauntsey 's School ' '' is a co - educational independant day and boarding school in the village of West Lavington , Wiltshire .", 'url': 'https://en.wikipedia.org/w/index.php?title=Dauntsey%27s_School&diff=prev&oldid=25288895'}
+===================================================
+1.9.0: Counter({'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[4, 5, 'U:NOUN:POSS', '', 4, 4]], 'sentence_gt': "Currently , the siblings ' formed a duo called Nat & Alex Wolff and they released an album titled Black Sheep ( album ) in 2011 .", 'sentence': 'Currently , the siblings formed a duo called Nat & Alex Wolff and they released an album titled Black Sheep ( album ) in 2011 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Nat_Wolff&diff=prev&oldid=501286341'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[18, 20, 'R:NOUN:POSS', 'Boys', 18, 19]], 'sentence_gt': "In March 2014 , the C - FC Pirates ' made their first state appearance for Division 5 Boy 's at the Kohl Center , in Madison , Wisconsin .", 'sentence': "In March 2014 , the C - FC Pirates ' made their first state appearance for Division 5 Boys at the Kohl Center , in Madison , Wisconsin .", 'url': 'https://en.wikipedia.org/w/index.php?title=Buffalo_City,_Wisconsin&diff=prev&oldid=731502483'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[5, 5, 'M:NOUN:POSS', "'", 5, 6]], 'sentence_gt': "' ' ' Fa Mulan '' is a Character ( arts ) , inspired by an actual historic figure , who appears in Walt Disney Pictures ' 36th animated feature film ' ' Mulan ( 1998 film ) ' ' ( 1998 ) , as well as its sequel ' ' Mulan II ' ' ( 2004 ) .", 'sentence': "' ' ' Fa Mulan ' '' is a Character ( arts ) , inspired by an actual historic figure , who appears in Walt Disney Pictures ' 36th animated feature film ' ' Mulan ( 1998 film ) ' ' ( 1998 ) , as well as its sequel ' ' Mulan II ' ' ( 2004 ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mulan_(Disney_character)&diff=prev&oldid=746012952'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[5, 7, 'U:PUNCT', '', 5, 5], [10, 11, 'U:NOUN:POSS', '', 8, 8]], 'sentence_gt': "Ragnar Jonsson , known as ' ' Ragnar í Smára ' ( 1904–1984 ) , Icelandic art patron , publisher and art collector", 'sentence': 'Ragnar Jonsson , known as Ragnar í Smára ( 1904–1984 ) , Icelandic art patron , publisher and art collector', 'url': 'https://en.wikipedia.org/w/index.php?title=Ragnar&diff=prev&oldid=887881123'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[0, 0, 'M:PUNCT', "'", 0, 1], [4, 4, 'M:NOUN:POSS', "'", 5, 6]], 'sentence_gt': "' ' Rico Recklezz '' is an American rapper from Chicago , Illinois .", 'sentence': "' ' ' Rico Recklezz ' '' is an American rapper from Chicago , Illinois .", 'url': 'https://en.wikipedia.org/w/index.php?title=Draft:Rico_Recklezz&diff=prev&oldid=895807013'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[36, 37, 'U:PUNCT', '', 36, 36], [47, 48, 'U:NOUN:POSS', '', 46, 46]], 'sentence_gt': "The other band mates providing back up instrumentation — Jake Hertzog , Chris Muir ( musician ) , Boris Pelekh , and Misty Boyce — all appeared in the siblings ' initial tour in 2008 called ' ' ' Nat & Alex Wolff : Fully Clothed Tour ' '' .", 'sentence': "The other band mates providing back up instrumentation — Jake Hertzog , Chris Muir ( musician ) , Boris Pelekh , and Misty Boyce — all appeared in the siblings ' initial tour in 2008 called ' ' Nat & Alex Wolff : Fully Clothed Tour '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Nat_and_Alex_Wolff&diff=prev&oldid=342085832'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:PUNCT': 2})
+{'edits': [[8, 9, 'R:PUNCT', "'", 8, 9], [12, 13, 'R:NOUN:POSS', "'", 12, 13]], 'sentence_gt': 'Green wrote that Campbell " enjoyed taking the " devil \'s advocate " position in almost any area , willing to defend even viewpoints with which he disagreed if that led to a livelier debate . "', 'sentence': 'Green wrote that Campbell " enjoyed taking the \' devil \'s advocate \' position in almost any area , willing to defend even viewpoints with which he disagreed if that led to a livelier debate . "', 'url': 'https://en.wikipedia.org/w/index.php?title=John_W._Campbell&diff=prev&oldid=699345730'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[8, 9, 'R:NOUN:POSS', "''", 8, 9]], 'sentence_gt': ".. that the ' ' ' Chrono series ' '' time traveling premise was inspired by such TV series as Time Tunnel ?", 'sentence': ".. that the ' ' ' Chrono series '' '' time traveling premise was inspired by such TV series as Time Tunnel ?", 'url': 'https://en.wikipedia.org/w/index.php?title=Template_talk:Did_you_know&diff=prev&oldid=133067797'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[5, 6, 'U:PUNCT', '', 5, 5], [13, 14, 'U:NOUN:POSS', '', 12, 12]], 'sentence_gt': "Over 10 million copies of ' ' ' ... Baby One More Time ' '' were sold in the United States during 1999 alone .", 'sentence': "Over 10 million copies of ' ' ... Baby One More Time '' were sold in the United States during 1999 alone .", 'url': 'https://en.wikipedia.org/w/index.php?title=1999_in_music&diff=prev&oldid=910978660'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1, 'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:NOUN:POSS', "'", 4, 5], [5, 6, 'R:CONTR', "'s", 5, 6]], 'sentence_gt': '\' \' The Times \'\' ’s Will Hodgkinson also pointed out that instead of filled with " high - octave pop bangers " , the singer has gone the other way , using sparse production techniques to frame songs about love and longing .', 'sentence': '\' \' The Times \' \'s Will Hodgkinson also pointed out that instead of filled with " high - octave pop bangers " , the singer has gone the other way , using sparse production techniques to frame songs about love and longing .', 'url': 'https://en.wikipedia.org/w/index.php?title=Camila_(album)&diff=prev&oldid=820004074'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'U:PUNCT': 1})
+{'edits': [[3, 5, 'R:NOUN:POSS', 'Addamses', 3, 4]], 'sentence_gt': 'Unbeknownst to the Addams \' , she is the serial killer known as the " Black Widow " , who kills her husbands in order to get her hands on their money .', 'sentence': 'Unbeknownst to the Addamses , she is the serial killer known as the " Black Widow " , who kills her husbands in order to get her hands on their money .', 'url': 'https://en.wikipedia.org/w/index.php?title=Addams_Family_Values&diff=prev&oldid=399349398'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[5, 5, 'M:NOUN:POSS', "'", 5, 6]], 'sentence_gt': "' ' ' Wu Liangyong '' ( born May 7 , 1922 ) is a China urban planner and a former professor in urban planning , architecture and design .", 'sentence': "' ' ' Wu Liangyong ' '' ( born May 7 , 1922 ) is a China urban planner and a former professor in urban planning , architecture and design .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wu_Liangyong&diff=prev&oldid=642378217'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[6, 6, 'M:NOUN:POSS', "'", 6, 7]], 'sentence_gt': "In the film , the brothers are able to manage their superstardom until the former wants to perform a song he wrote about his crush , Rosalina ( DiMeco ) ; the other band members prefer to perform the cellist Thomas 's composition , and the ensuing dispute causes the band to split up .", 'sentence': "In the film , the brothers ' are able to manage their superstardom until the former wants to perform a song he wrote about his crush , Rosalina ( DiMeco ) ; the other band members prefer to perform the cellist Thomas 's composition , and the ensuing dispute causes the band to split up .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band:_The_Movie&diff=prev&oldid=296649547'}
+===================================================
+1.9.0: Counter({'U:NOUN': 1, 'R:NOUN:POSS': 1})
+2.2.1: Counter({'U:CONJ': 1, 'R:CONJ': 1})
+{'edits': [[29, 30, 'U:NOUN', '', 29, 29], [30, 32, 'R:NOUN:POSS', 'and roll', 29, 31]], 'sentence_gt': "Having broken curfew , Lux and her sisters are punished by a furious Sara by being taken out of school , forces Lux to burn all of her Rock N ' Roll albums and sequestered within their house indefinitely .", 'sentence': 'Having broken curfew , Lux and her sisters are punished by a furious Sara by being taken out of school , forces Lux to burn all of her Rock and roll albums and sequestered within their house indefinitely .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Virgin_Suicides_(film)&diff=prev&oldid=378669095'}
+===================================================
+1.9.0: Counter({'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[9, 10, 'U:NOUN:POSS', '', 9, 9]], 'sentence_gt': "He was from a less distinguished family than Clodius ' , being from a new consular family , but he may have had more wealth.", 'sentence': 'He was from a less distinguished family than Clodius , being from a new consular family , but he may have had more wealth.', 'url': 'https://en.wikipedia.org/w/index.php?title=Fulvia&diff=prev&oldid=677795289'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[0, 0, 'M:PUNCT', "'", 0, 1], [7, 7, 'M:NOUN:POSS', "'", 8, 9]], 'sentence_gt': "' ' Quasi - Multi - Player '' .", 'sentence': "' ' ' Quasi - Multi - Player ' '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Final_Fantasy_IX&diff=prev&oldid=36102584'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'M:NOUN:POSS': 1})
+2.2.1: Counter({'M:PUNCT': 2})
+{'edits': [[4, 4, 'M:PUNCT', "'", 4, 5], [9, 9, 'M:NOUN:POSS', "'", 10, 11]], 'sentence_gt': "I decided to be ' ' WP : BOLD '' and add the magic page changes from Ryu 's sandbox .", 'sentence': "I decided to be ' ' ' WP : BOLD ' '' and add the magic page changes from Ryu 's sandbox .", 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Final_Fantasy_magic&diff=prev&oldid=45475536'}
+===================================================
+1.9.0: Counter({'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[6, 7, 'U:NOUN:POSS', '', 6, 6]], 'sentence_gt': "' ' This is the Army ' '' ( 1943 )", 'sentence': "' ' This is the Army '' ( 1943 )", 'url': 'https://en.wikipedia.org/w/index.php?title=LeRoy_Prinz&diff=prev&oldid=595237716'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'M:NOUN:POSS': 1, 'U:PUNCT': 1})
+{'edits': [[5, 5, 'M:NOUN:POSS', "'s", 5, 6], [6, 7, 'U:NOUN:POSS', '', 7, 7]], 'sentence_gt': "The Prizes awarded in Sweden ceremonies ' are held at the Stockholm Concert Hall , with the Nobel Banquet following immediately at Stockholm City Hall .", 'sentence': "The Prizes awarded in Sweden 's ceremonies are held at the Stockholm Concert Hall , with the Nobel Banquet following immediately at Stockholm City Hall .", 'url': 'https://en.wikipedia.org/w/index.php?title=Nobel_Prize&diff=prev&oldid=338802789'}
+===================================================

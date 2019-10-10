@@ -1,0 +1,320 @@
+1.9.0: Counter({'R:ORTH': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[44, 45, 'R:ORTH', 'normal .', 44, 46], [45, 45, 'M:PUNCT', '"', 46, 47]], 'sentence_gt': "Later on , both Damia and Tarimu 's lower halves become imprisoned in stone when they try to pay back Halcyform for his wrongs , and , to their dismay , they are left to find their own way of turning themselves back to normal.", 'sentence': 'Later on , both Damia and Tarimu \'s lower halves become imprisoned in stone when they try to pay back Halcyform for his wrongs , and , to their dismay , they are left to find their own way of turning themselves back to normal . "', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Slayers_characters&diff=prev&oldid=591345724'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'R:SPELL': 1, 'M:PUNCT': 1})
+{'edits': [[23, 24, 'R:SPELL', 'Mominpura{{cn}}.', 23, 24], [24, 25, 'U:PUNCT', '', 24, 24]], 'sentence_gt': 'During the month of Ramadan , a street market for clothes , footwear , ornaments and so on , is set up in Mominpura .', 'sentence': 'During the month of Ramadan , a street market for clothes , footwear , ornaments and so on , is set up in Mominpura{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Mominpura,_Nagpur&diff=prev&oldid=808204873'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[25, 26, 'R:PUNCT', '{ {', 25, 27], [26, 26, 'M:NOUN', 'cn}}.', 27, 28]], 'sentence_gt': 'Also located in this campus is the convocation hall of the university , which has been accorded the status of a heritage structure by UNESCO .', 'sentence': 'Also located in this campus is the convocation hall of the university , which has been accorded the status of a heritage structure by UNESCO { { cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=University_of_Mumbai&diff=prev&oldid=553031350'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0]], 'sentence_gt': '• The Ghana Working Group on the Environment , which was an informal group of individual scientists united by common concern about environmental matters .', 'sentence': 'The Ghana Working Group on the Environment , which was an informal group of individual scientists united by common concern about environmental matters .', 'url': 'https://en.wikipedia.org/w/index.php?title=Ghana_Environmental_Protection_Agency&diff=prev&oldid=587388522'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[8, 9, 'R:PUNCT', '{ {', 8, 10], [9, 9, 'M:NOUN', 'cn}}.', 10, 11]], 'sentence_gt': 'Hajj House is likely to be constructed here .', 'sentence': 'Hajj House is likely to be constructed here { { cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Nagpur&diff=prev&oldid=551500295'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '#', 0, 1]], 'sentence_gt': 'User : Aaron Schulz', 'sentence': '# User : Aaron Schulz', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_User_scripts/Members&diff=prev&oldid=568273145'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '= = =', 0, 3]], 'sentence_gt': 'J.D.', 'sentence': '= = = J.D.', 'url': 'https://en.wikipedia.org/w/index.php?title=Independent_pharmacy&diff=prev&oldid=717983645'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 2, 'R:SPELL': 1})
+{'edits': [[13, 14, 'R:NOUN', 'Ramsar{{clarify}}.', 13, 14], [14, 15, 'U:PUNCT', '', 14, 14]], 'sentence_gt': 'It was the only film from Odisha to have ever been screened at Ramsar .', 'sentence': 'It was the only film from Odisha to have ever been screened at Ramsar{{clarify}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Tulasi_Munda&diff=prev&oldid=886901281'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0]], 'sentence_gt': '• The Scientific Committee on Problems of the Environment ( SCOPE ) of the Ghana Academy of Arts and Sciences established as the local counterpart of the international body of the same name .', 'sentence': 'The Scientific Committee on Problems of the Environment ( SCOPE ) of the Ghana Academy of Arts and Sciences established as the local counterpart of the international body of the same name .', 'url': 'https://en.wikipedia.org/w/index.php?title=Ghana_Environmental_Protection_Agency&diff=prev&oldid=587388522'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:PUNCT': 1})
+{'edits': [[28, 29, 'R:PRON', 'this', 28, 29], [29, 29, 'M:PUNCT', '?', 29, 30]], 'sentence_gt': '\' \' The Office Assistant ... \'\' " Clippy " is the more well - known name for the feature - maybe add a parenthetical note to explain this?g', 'sentence': '\' \' The Office Assistant ... \'\' " Clippy " is the more well - known name for the feature - maybe add a parenthetical note to explain this ?', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Microsoft_Office_XP/GA1&diff=prev&oldid=817107928'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', ';', 0, 1]], 'sentence_gt': 'var splitted = s.parenSplit(conditionalSplitRegex ) ;', 'sentence': '; \t var splitted = s.parenSplit(conditionalSplitRegex ) ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/popups.js&diff=prev&oldid=787981890'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [10, 11, 'R:NOUN', 'associations==', 9, 10]], 'sentence_gt': '= = = Be up - front about your close associations===', 'sentence': '= = Be up - front about your close associations==', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Best_practices_for_editors_with_close_associations&diff=prev&oldid=619132113'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 2})
+2.2.1: Counter({'U:OTHER': 1, 'U:PUNCT': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [10, 11, 'U:PUNCT', '', 9, 9]], 'sentence_gt': '= = = = Another proposal with a waiting period = = = =', 'sentence': '= = = Another proposal with a waiting period = = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Interface_administrators&diff=prev&oldid=861212444'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:ADV': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [4, 5, 'R:ADV', 'also==', 3, 4]], 'sentence_gt': '= = = See also===', 'sentence': '= = See also==', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:User_link/doc&diff=prev&oldid=637207921'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'R:NOUN': 1, 'M:PUNCT': 1, 'M:NOUN': 1})
+{'edits': [[0, 0, 'M:NOUN', 'setPopupTrailer(info', 0, 1], [0, 1, 'R:PUNCT', ', navpop.idNumber', 1, 3]], 'sentence_gt': 'log(info ) ;', 'sentence': 'setPopupTrailer(info , navpop.idNumber ) ;', 'url': 'https://en.wikipedia.org/w/index.php?title=MediaWiki_talk:Gadget-popups.js/sandbox&diff=prev&oldid=725827952'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 2, 'R:NOUN': 1})
+{'edits': [[21, 22, 'R:NOUN', 'TV{{cn}}.', 21, 22], [22, 23, 'U:PUNCT', '', 22, 22]], 'sentence_gt': "' ' ' ' ' R. K. Laxman Ki Duniya ' '' '' was an Indian comedy TV show on SAB TV .", 'sentence': "' ' ' ' ' R. K. Laxman Ki Duniya ' '' '' was an Indian comedy TV show on SAB TV{{cn}}.", 'url': 'https://en.wikipedia.org/w/index.php?title=R._K._Laxman_Ki_Duniya&diff=prev&oldid=809870448'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 2, 'R:SPELL': 1})
+{'edits': [[15, 16, 'R:SPELL', 'Timki{{cn}}.', 15, 16], [16, 17, 'U:PUNCT', '', 16, 16]], 'sentence_gt': 'Mominpura is surrounded by Ansar Nagar , Itwari , Bajeria , Hansapuri , Boriyapura and Timki .', 'sentence': 'Mominpura is surrounded by Ansar Nagar , Itwari , Bajeria , Hansapuri , Boriyapura and Timki{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Mominpura,_Nagpur&diff=prev&oldid=808204620'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[3, 3, 'M:PUNCT', '[ 0 ]', 3, 6]], 'sentence_gt': 'data = rawData ; // Get just the result , not the Promise object', 'sentence': 'data = rawData [ 0 ] ; // Get just the result , not the Promise object', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/afch-master.js/submissions.js&diff=prev&oldid=908073566'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0]], 'sentence_gt': '• The Conservation Committee of the Council for Scientific and Industrial Research', 'sentence': 'The Conservation Committee of the Council for Scientific and Industrial Research', 'url': 'https://en.wikipedia.org/w/index.php?title=Ghana_Environmental_Protection_Agency&diff=prev&oldid=587388522'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 2, 'R:NOUN': 1})
+{'edits': [[24, 25, 'R:NOUN', 'States{{cn}}.', 24, 25], [25, 26, 'U:PUNCT', '', 25, 25]], 'sentence_gt': 'Moitra went to school in Kolkata and later graduated in economics and mathematics from Mount Holyoke College , South Hadley in Massachusetts , United States .', 'sentence': 'Moitra went to school in Kolkata and later graduated in economics and mathematics from Mount Holyoke College , South Hadley in Massachusetts , United States{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Mahua_Moitra&diff=prev&oldid=904703576'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '#', 0, 1]], 'sentence_gt': 'Not even this .', 'sentence': '# Not even this .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Articles_for_creation/RfC_2013&diff=prev&oldid=567973929'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:PUNCT': 1})
+{'edits': [[12, 13, 'R:NOUN', 'programs', 12, 13], [13, 13, 'M:PUNCT', '.', 13, 14]], 'sentence_gt': 'This functionality is built into many word processors , or in separate programs.n', 'sentence': 'This functionality is built into many word processors , or in separate programs .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mail_merge&diff=prev&oldid=694110635'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:PUNCT': 1})
+{'edits': [[8, 8, 'M:PUNCT', ': contains(500 )', 8, 11], [10, 11, 'R:PUNCT', '.toArray', 13, 14]], 'sentence_gt': 'console.log ( $ ( " .mw - numlink " ) .parent().toArray ( ) ) ;', 'sentence': 'console.log ( $ ( " .mw - numlink : contains(500 ) " ) .toArray ( ) ) ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/more-listing-items.js&diff=prev&oldid=882932200'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:ADV': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [6, 7, 'R:ADV', 'articles==', 5, 6]], 'sentence_gt': "= = = Do n't edit articles===", 'sentence': "= = Do n't edit articles==", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Best_practices_for_editors_with_close_associations&diff=prev&oldid=619132113'}
+===================================================
+1.9.0: Counter({'U:NOUN': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'R:SPELL': 1, 'R:PUNCT': 1})
+{'edits': [[8, 9, 'U:NOUN', '', 8, 8], [9, 11, 'R:PUNCT', "shurma''{{cn}}.", 8, 9]], 'sentence_gt': "The place is also known for ' ' shurma '' .", 'sentence': "The place is also known for ' ' shurma''{{cn}}.", 'url': 'https://en.wikipedia.org/w/index.php?title=Mominpura,_Nagpur&diff=prev&oldid=808204873'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[10, 11, 'R:PUNCT', '{ {', 10, 12], [11, 11, 'M:NOUN', 'cn}}.', 12, 13]], 'sentence_gt': 'It was a high success at the box - office .', 'sentence': 'It was a high success at the box - office { { cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Waqt_Hamara_Hai&diff=prev&oldid=584496090'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:PUNCT': 1})
+{'edits': [[3, 4, 'R:NOUN', 'encodeURIComponent(statusChangerConfig.statusPage', 3, 4], [4, 4, 'M:PUNCT', ')', 4, 5]], 'sentence_gt': 'title= " + encodeURIComponent(statusChangerConfig).statusPage', 'sentence': 'title= " + encodeURIComponent(statusChangerConfig.statusPage )', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Cyberpower678/statusChanger.js&diff=prev&oldid=882913155'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '//', 0, 1]], 'sentence_gt': "buttonText = ' The proposed title is blacklisted ' ;", 'sentence': "// \t buttonText = ' The proposed title is blacklisted ' ;", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/afch-master.js/submissions.js&diff=prev&oldid=908069282'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '#', 0, 1]], 'sentence_gt': 'User : causa sui User talk : causa sui', 'sentence': '# User : causa sui User talk : causa sui', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_User_scripts/Members&diff=prev&oldid=568273145'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'U:OTHER': 1, 'R:PUNCT': 1})
+{'edits': [[9, 11, 'U:PUNCT', '', 9, 9], [14, 15, 'R:PUNCT', ';', 12, 13]], 'sentence_gt': "' ' ' Gunahon Ka Devta ' '' ( Hindi : गुनाहों का देवता , English : The God of Crimes ) is a 1949 Hindi novel by Dharamvir Bharati .", 'sentence': "' ' ' Gunahon Ka Devta ' '' ( गुनाहों का देवता ; English : The God of Crimes ) is a 1949 Hindi novel by Dharamvir Bharati .", 'url': 'https://en.wikipedia.org/w/index.php?title=Gunahon_Ka_Devta_(novel)&diff=prev&oldid=805896982'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[0, 1, 'R:PUNCT', '«', 0, 1]], 'sentence_gt': '〈', 'sentence': '«', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/afch-dev.js/tpl-submissions.js&diff=prev&oldid=635727588'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'R:NOUN': 1, 'M:PUNCT': 1})
+{'edits': [[19, 20, 'R:NOUN', 'Amazon.com{{cn}}.', 19, 20], [20, 21, 'U:PUNCT', '', 20, 20]], 'sentence_gt': 'The company sells its devices only via online marketplaces/ e - commerce websites such as Snapdeal , Flipkart and Amazon.com .', 'sentence': 'The company sells its devices only via online marketplaces/ e - commerce websites such as Snapdeal , Flipkart and Amazon.com{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Xolo_(company)&diff=prev&oldid=885742679'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'R:SPELL': 1, 'M:PUNCT': 1})
+{'edits': [[9, 10, 'R:SPELL', 'Mominpura{{cn}}.', 9, 10], [10, 11, 'U:PUNCT', '', 10, 10]], 'sentence_gt': 'Jama Masjid , Nagpur is the biggest mosque in Mominpura .', 'sentence': 'Jama Masjid , Nagpur is the biggest mosque in Mominpura{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Mominpura,_Nagpur&diff=prev&oldid=808203450'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [3, 4, 'R:NOUN', 'End===', 4, 5]], 'sentence_gt': '= = The End==', 'sentence': '= = = The End===', 'url': 'https://en.wikipedia.org/w/index.php?title=High_School_Musical&diff=prev&oldid=77739147'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '((cn ) )', 0, 3]], 'sentence_gt': 'It was started in the late 1960s by the Vaze family , who used to hand out Vada Pav from a \' \' khidki \'\' ( the Marathi word for " window " ) of their house facing the road.', 'sentence': '((cn ) ) It was started in the late 1960s by the Vaze family , who used to hand out Vada Pav from a \' \' khidki \'\' ( the Marathi word for " window " ) of their house facing the road.', 'url': 'https://en.wikipedia.org/w/index.php?title=Vada_pav&diff=prev&oldid=802614160'}
+===================================================
+1.9.0: Counter({'U:NOUN': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 2, 'U:NOUN': 1, 'U:PUNCT': 1})
+{'edits': [[0, 1, 'U:NOUN', '', 0, 0], [1, 4, 'R:PUNCT', '//', 0, 1]], 'sentence_gt': 'console.log ( ) ; //return ;', 'sentence': '// \t //return ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/afch-dev.js/submissions.js&diff=prev&oldid=819044362'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[2, 5, 'U:PUNCT', '', 2, 2], [8, 9, 'R:NOUN', 'area==', 5, 6]], 'sentence_gt': "= = ' ' ' Second moments of area'''==", 'sentence': '= = Second moments of area==', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_second_moments_of_area&diff=prev&oldid=775276116'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[22, 23, 'R:PUNCT', '{ {', 22, 24], [23, 23, 'M:NOUN', 'cn}}.', 24, 25]], 'sentence_gt': 'In 2012 , it was awarded the highest rating ( " A " grade ) by the NAAC for its overall performance .', 'sentence': 'In 2012 , it was awarded the highest rating ( " A " grade ) by the NAAC for its overall performance { { cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=University_of_Mumbai&diff=prev&oldid=553022903'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '//', 0, 1]], 'sentence_gt': 'portletLink.accessKey = " d " ;', 'sentence': '//         portletLink.accessKey = " d " ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/hover-edit-section.js&diff=prev&oldid=874597667'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [3, 4, 'R:NOUN', 'Brown===', 4, 5]], 'sentence_gt': '= = Savoy Brown==', 'sentence': '= = = Savoy Brown===', 'url': 'https://en.wikipedia.org/w/index.php?title=Dave_Walker&diff=prev&oldid=27738098'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 2})
+2.2.1: Counter({'U:OTHER': 1, 'U:PUNCT': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [10, 11, 'U:PUNCT', '', 9, 9]], 'sentence_gt': '= = = = Another proposal with a waiting period = = = =', 'sentence': '= = = Another proposal with a waiting period = = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Interface_administrators&diff=prev&oldid=861212444'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [8, 9, 'R:PRON', 'help==', 7, 8]], 'sentence_gt': '= = = Learn how to ask for help===', 'sentence': '= = Learn how to ask for help==', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Best_practices_for_editors_with_close_associations&diff=prev&oldid=619132113'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[36, 37, 'R:PUNCT', '{ {', 36, 38], [37, 37, 'M:NOUN', 'cn}}.', 38, 39]], 'sentence_gt': 'The University of Mumbai primarily imparts education through its numerous affiliated colleges , which are located in the city of Mumbai and four coastal districts in Maharashtra : Thane , Raigad district , Ratnagiri and Sindhudurg .', 'sentence': 'The University of Mumbai primarily imparts education through its numerous affiliated colleges , which are located in the city of Mumbai and four coastal districts in Maharashtra : Thane , Raigad district , Ratnagiri and Sindhudurg { { cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=University_of_Mumbai&diff=prev&oldid=553022345'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 2})
+2.2.1: Counter({'U:NOUN:POSS': 1, 'U:PUNCT': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [3, 4, 'U:PUNCT', '', 2, 2]], 'sentence_gt': "' $ 3 ' : AFCH.makeLinkElementToCategory ( ' AfC pending submissions by age / Very old ' , ' very old submission ' )", 'sentence': "$ 3 : AFCH.makeLinkElementToCategory ( ' AfC pending submissions by age / Very old ' , ' very old submission ' )", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/afch-dev.js/submissions.js&diff=prev&oldid=852410890'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:ADV': 1})
+{'edits': [[0, 0, 'M:PUNCT', '#', 0, 1]], 'sentence_gt': "It 's a User : Fox Wilson !", 'sentence': "# It 's a User : Fox Wilson !", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_User_scripts/Members&diff=prev&oldid=568273145'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[24, 25, 'R:PUNCT', '{ {', 24, 26], [25, 25, 'M:NOUN', 'cn}}.', 26, 27]], 'sentence_gt': 'The University Grants Commission ( India ) also accorded the University of Mumbai with the status of " University with Potential for Excellence " .', 'sentence': 'The University Grants Commission ( India ) also accorded the University of Mumbai with the status of " University with Potential for Excellence " { { cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=University_of_Mumbai&diff=prev&oldid=553023305'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [4, 5, 'R:NOUN', 'links==', 3, 4]], 'sentence_gt': '= = = External links===', 'sentence': '= = External links==', 'url': 'https://en.wikipedia.org/w/index.php?title=Ente_Scambi_Coloniali_Internazionali&diff=prev&oldid=79741270'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '#', 0, 1]], 'sentence_gt': 'User : ebe123~~ User talk : Ebe123Special : Contributions / Ebe123', 'sentence': '# User : ebe123~~ User talk : Ebe123Special : Contributions / Ebe123', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_User_scripts/Members&diff=prev&oldid=568273145'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[40, 41, 'R:PRON', 'this', 40, 41], [41, 41, 'M:PUNCT', '.', 41, 42]], 'sentence_gt': "James and Lily left Harry a large inheritance of wizard money , which he uses for his Hogwarts supplies ; Harry 's friend Ronald Weasley , who comes from a large and relatively poor family , is sometimes envious of this.hello", 'sentence': "James and Lily left Harry a large inheritance of wizard money , which he uses for his Hogwarts supplies ; Harry 's friend Ronald Weasley , who comes from a large and relatively poor family , is sometimes envious of this .", 'url': 'https://en.wikipedia.org/w/index.php?title=Harry_Potter_(character)&diff=prev&oldid=70193551'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '#', 0, 1]], 'sentence_gt': 'User : APerson ( User_talk : APerson ) 20:53 , 11 August 2013 ( UTC ) - Working mostly as a dev on the Wikipedia : WikiProject Articles for creation / Helper script .', 'sentence': '# User : APerson ( User_talk : APerson ) 20:53 , 11 August 2013 ( UTC ) - Working mostly as a dev on the Wikipedia : WikiProject Articles for creation / Helper script .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_User_scripts/Members&diff=prev&oldid=568273145'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1, 'U:PUNCT': 1})
+{'edits': [[0, 0, 'M:NOUN', '#', 0, 1], [4, 5, 'U:PUNCT', '', 5, 5]], 'sentence_gt': "' ' ' Comment : ' '' I could support softening of the guideline , but only where it is clear that a lead being more than four paragraphs generally is not needed .", 'sentence': "# ' ' ' Comment ' '' I could support softening of the guideline , but only where it is clear that a lead being more than four paragraphs generally is not needed .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Manual_of_Style/Lead_section&diff=prev&oldid=599573474'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:PUNCT': 1})
+{'edits': [[8, 8, 'M:PUNCT', ': contains(500 )', 8, 11], [10, 11, 'R:PUNCT', '.toArray', 13, 14]], 'sentence_gt': 'console.log ( $ ( " .mw - numlink " ) .parent().toArray ( ) ) ;', 'sentence': 'console.log ( $ ( " .mw - numlink : contains(500 ) " ) .toArray ( ) ) ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/more-listing-items.js&diff=prev&oldid=882932200'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[11, 12, 'R:PUNCT', 'novels===', 11, 12]], 'sentence_gt': "= = = Prior to the ' ' Harry Potter '' novels==", 'sentence': "= = = Prior to the ' ' Harry Potter '' novels===", 'url': 'https://en.wikipedia.org/w/index.php?title=Harry_Potter_(character)&diff=prev&oldid=70193551'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:NOUN': 1})
+2.2.1: Counter({'M:PUNCT': 2, 'M:NOUN': 1, 'R:PUNCT': 1})
+{'edits': [[16, 17, 'R:PUNCT', '{ {', 16, 18], [17, 17, 'M:NOUN', 'Ref?', 18, 19]], 'sentence_gt': "' ' ' Birsanagar ' '' a part of Jamshedpur is the biggest slum of Asia .", 'sentence': "' ' ' Birsanagar ' '' a part of Jamshedpur is the biggest slum of Asia { { Ref?", 'url': 'https://en.wikipedia.org/w/index.php?title=Birsanagar&diff=prev&oldid=840414731'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:PUNCT', '}', 0, 1]], 'sentence_gt': 'console.log(data ) ;', 'sentence': '} ) ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/popups.js&diff=prev&oldid=755592320'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[13, 14, 'R:PUNCT', '{ {', 13, 15], [14, 14, 'M:NOUN', 'cn}}.', 15, 16]], 'sentence_gt': 'Initially , the Elphinstone College building was used as the Mumbai University campus .', 'sentence': 'Initially , the Elphinstone College building was used as the Mumbai University campus { { cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=University_of_Mumbai&diff=prev&oldid=553023381'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 2, 'R:NOUN': 1})
+{'edits': [[17, 18, 'R:NOUN', 'Mumbai{{cn}}.', 17, 18], [18, 19, 'U:PUNCT', '', 18, 18]], 'sentence_gt': 'Matunga has a juxtaposition of Irani cafes and Udupis and houses one of the oldest residents of Mumbai .', 'sentence': 'Matunga has a juxtaposition of Irani cafes and Udupis and houses one of the oldest residents of Mumbai{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Matunga&diff=prev&oldid=569254205'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[23, 24, 'R:NOUN', 'personnel{{dead link', 23, 25], [24, 24, 'M:PUNCT', '} }', 25, 27]], 'sentence_gt': 'A Counter - Terrorism and Jungle Warfare ( CTJW ) college was established in Kanker , Chhattisgarh to provide specialised training to the personnel .', 'sentence': 'A Counter - Terrorism and Jungle Warfare ( CTJW ) college was established in Kanker , Chhattisgarh to provide specialised training to the personnel{{dead link } } .', 'url': 'https://en.wikipedia.org/w/index.php?title=Chhattisgarh_Police&diff=prev&oldid=885346457'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[5, 6, 'R:PUNCT', 'console.log(window.contribsTabKey', 5, 6]], 'sentence_gt': 'releaseAccessKey ( window.contribsTabKey ) ; console.log(windows.contribsTabKey ) ;', 'sentence': 'releaseAccessKey ( window.contribsTabKey ) ; console.log(window.contribsTabKey ) ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/ContribsTabVector.js&diff=prev&oldid=874860121'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 2})
+2.2.1: Counter({'U:NOUN:POSS': 1, 'U:PUNCT': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [3, 4, 'U:PUNCT', '', 2, 2]], 'sentence_gt': "' $ 3 ' : AFCH.makeLinkElementToCategory ( ' AfC pending submissions by age / Very old ' , ' very old submission ' )", 'sentence': "$ 3 : AFCH.makeLinkElementToCategory ( ' AfC pending submissions by age / Very old ' , ' very old submission ' )", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/afch-dev.js/submissions.js&diff=prev&oldid=852410890'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [3, 4, 'R:NOUN', 'Work===', 4, 5]], 'sentence_gt': '= = Academic Work==', 'sentence': '= = = Academic Work===', 'url': 'https://en.wikipedia.org/w/index.php?title=Reza_Moghadam&diff=prev&oldid=618730393'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1})
+2.2.1: Counter({'U:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0]], 'sentence_gt': '= = Early life==', 'sentence': '= Early life==', 'url': 'https://en.wikipedia.org/w/index.php?title=Nandita_Das&diff=prev&oldid=568053730'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [6, 7, 'R:NOUN', 'rules==', 5, 6]], 'sentence_gt': "= = = Learn Wikipedia 's rules===", 'sentence': "= = Learn Wikipedia 's rules==", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Best_practices_for_editors_with_close_associations&diff=prev&oldid=619132113'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'R:SPELL': 1, 'M:PUNCT': 1})
+{'edits': [[22, 23, 'R:SPELL', 'Kanakala{{cn}}.', 22, 23], [23, 24, 'U:PUNCT', '', 23, 23]], 'sentence_gt': 'He is the father of actors Rajeev Kanakala and Sri Laxmi and the father - in - law of TV anchor Suma Kanakala .', 'sentence': 'He is the father of actors Rajeev Kanakala and Sri Laxmi and the father - in - law of TV anchor Suma Kanakala{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Devadas_Kanakala&diff=prev&oldid=826317514'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1})
+2.2.1: Counter({'R:NOUN': 1, 'U:PUNCT': 1})
+{'edits': [[0, 2, 'R:PUNCT', 'console.log(navpop', 0, 1]], 'sentence_gt': 'console.log(JSON.stringify(navpop ) ) ;', 'sentence': 'console.log(navpop ) ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/Gadget-popups.js&diff=prev&oldid=715321296'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 2, 'R:NOUN': 1})
+{'edits': [[29, 30, 'R:NOUN', 'Lanka{{clarify}}.', 29, 30], [30, 31, 'U:PUNCT', '', 30, 30]], 'sentence_gt': 'She is among the 1990s generation of artists who have assumed a new ideological position with reference to the production of contemporary art and its social aspects in Sri Lanka .', 'sentence': 'She is among the 1990s generation of artists who have assumed a new ideological position with reference to the production of contemporary art and its social aspects in Sri Lanka{{clarify}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Anoli_Perera&diff=prev&oldid=887333111'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:OTHER': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [6, 7, 'R:NOUN', 'procedure==', 5, 6]], 'sentence_gt': '= = = The revised 1503 procedure===', 'sentence': '= = The revised 1503 procedure==', 'url': 'https://en.wikipedia.org/w/index.php?title=United_Nations_special_rapporteur&diff=prev&oldid=37230766'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 2, 'R:NOUN': 1})
+{'edits': [[10, 11, 'R:NOUN', 'Mumbai{{when}}{{cn}}.', 10, 11], [11, 12, 'U:PUNCT', '', 11, 11]], 'sentence_gt': 'Mani acquired the landline phone number 2888 - 8888 in Mumbai .', 'sentence': 'Mani acquired the landline phone number 2888 - 8888 in Mumbai{{when}}{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Justdial&diff=prev&oldid=886185521'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'U:OTHER': 1, 'R:PUNCT': 1})
+{'edits': [[9, 11, 'U:PUNCT', '', 9, 9], [14, 15, 'R:PUNCT', ';', 12, 13]], 'sentence_gt': "' ' ' Gunahon Ka Devta ' '' ( Hindi : गुनाहों का देवता , English : The God of Crimes ) is a 1949 Hindi novel by Dharamvir Bharati .", 'sentence': "' ' ' Gunahon Ka Devta ' '' ( गुनाहों का देवता ; English : The God of Crimes ) is a 1949 Hindi novel by Dharamvir Bharati .", 'url': 'https://en.wikipedia.org/w/index.php?title=Gunahon_Ka_Devta_(novel)&diff=prev&oldid=805896982'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[23, 24, 'R:PUNCT', '{ {', 23, 25], [24, 24, 'M:NOUN', 'cn}}.', 25, 26]], 'sentence_gt': 'The University of Mumbai has two campuses : The Kalina campus spans an area of 230 acres , the Fort campus 13 acres .', 'sentence': 'The University of Mumbai has two campuses : The Kalina campus spans an area of 230 acres , the Fort campus 13 acres { { cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=University_of_Mumbai&diff=prev&oldid=553022777'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '#', 0, 1]], 'sentence_gt': 'Current wording is sufficiently soft .', 'sentence': '# Current wording is sufficiently soft .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Manual_of_Style/Lead_section&diff=prev&oldid=599573474'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '//', 0, 1]], 'sentence_gt': "errorHtml = ' Shoot ! '", 'sentence': "// \t errorHtml = ' Shoot ! '", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/afch-master.js/submissions.js&diff=prev&oldid=908069282'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 2, 'R:NOUN': 1})
+{'edits': [[9, 10, 'R:NOUN', 'Nagpur{{cn}}.', 9, 10], [10, 11, 'U:PUNCT', '', 10, 10]], 'sentence_gt': 'Mominpura is popularly known as the Chandni Chowk of Nagpur .', 'sentence': 'Mominpura is popularly known as the Chandni Chowk of Nagpur{{cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=Mominpura,_Nagpur&diff=prev&oldid=808203115'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[45, 46, 'R:PUNCT', '{ {', 45, 47], [46, 46, 'M:NOUN', 'cn}}.', 47, 48]], 'sentence_gt': 'The University of Mumbai was established in 1857 by Dr John Wilson ( missionary ) ( after whom Wilson College , Mumbai is named ) , consequent upon the " Wood \'s Education Dispatch " drafted by Charles Wood , 1st Viscount Halifax in 1854 .', 'sentence': 'The University of Mumbai was established in 1857 by Dr John Wilson ( missionary ) ( after whom Wilson College , Mumbai is named ) , consequent upon the " Wood \'s Education Dispatch " drafted by Charles Wood , 1st Viscount Halifax in 1854 { { cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=University_of_Mumbai&diff=prev&oldid=553031899'}
+===================================================
+1.9.0: Counter({'R:VERB': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1, 'U:PUNCT': 1})
+{'edits': [[6, 7, 'R:VERB', 'wish,/', 6, 7], [7, 8, 'U:PUNCT', '', 7, 7]], 'sentence_gt': 'If having adventure is something you wish ,', 'sentence': 'If having adventure is something you wish,/', 'url': 'https://en.wikipedia.org/w/index.php?title=SpongeBob_SquarePants&diff=prev&oldid=21361232'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 2, 'R:NOUN': 1})
+{'edits': [[15, 16, 'R:NOUN', 'Report{{cn}}.', 15, 16], [16, 17, 'U:PUNCT', '', 16, 16]], 'sentence_gt': "Lava was ranked India 's fifth most trusted mobile handset brand by The Brand Trust Report .", 'sentence': "Lava was ranked India 's fifth most trusted mobile handset brand by The Brand Trust Report{{cn}}.", 'url': 'https://en.wikipedia.org/w/index.php?title=Lava_International&diff=prev&oldid=808440782'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[22, 23, 'R:PUNCT', '{ {', 22, 24], [23, 23, 'M:NOUN', 'cn}}.', 24, 25]], 'sentence_gt': 'These include the Mumbai University Institute of Chemical Technology ( ICT ) , formerly ( UDCT ) , which later became autonomous .', 'sentence': 'These include the Mumbai University Institute of Chemical Technology ( ICT ) , formerly ( UDCT ) , which later became autonomous { { cn}}.', 'url': 'https://en.wikipedia.org/w/index.php?title=University_of_Mumbai&diff=prev&oldid=553035120'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'R:NOUN': 1, 'M:PUNCT': 1, 'M:NOUN': 1})
+{'edits': [[0, 0, 'M:NOUN', 'setPopupTrailer(info', 0, 1], [0, 1, 'R:PUNCT', ', navpop.idNumber', 1, 3]], 'sentence_gt': 'log(info ) ;', 'sentence': 'setPopupTrailer(info , navpop.idNumber ) ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/popups.js&diff=prev&oldid=725827969'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 0, 'M:PUNCT', '#', 0, 1], [2, 3, 'R:NOUN', 'Fran Rogers', 3, 5]], 'sentence_gt': 'User : HappyCamper', 'sentence': '# User : Fran Rogers', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_User_scripts/Members&diff=prev&oldid=568273145'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:NOUN': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[22, 23, 'R:PUNCT', '{ {', 22, 24], [23, 23, 'M:NOUN', 'cn}}.', 24, 25]], 'sentence_gt': "St. Xavier 's College , Mumbai was affiliated to the university in 1868 , with Wilson as its first vice - chancellor .", 'sentence': "St. Xavier 's College , Mumbai was affiliated to the university in 1868 , with Wilson as its first vice - chancellor { { cn}}.", 'url': 'https://en.wikipedia.org/w/index.php?title=University_of_Mumbai&diff=prev&oldid=553023502'}
+===================================================

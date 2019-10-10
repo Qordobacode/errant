@@ -1,0 +1,320 @@
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[6, 7, 'R:ADJ:FORM', 'advance', 6, 7]], 'sentence_gt': 'Almost five - hundred people received advanced tickets ; with an equivalent number bought at the gate .', 'sentence': 'Almost five - hundred people received advance tickets ; with an equivalent number bought at the gate .', 'url': 'https://en.wikipedia.org/w/index.php?title=William_Lawson_(co-operator)&diff=prev&oldid=514104562'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Category:1510', 0, 1]], 'sentence_gt': 'Category:1510s establishments in Nigeria', 'sentence': 'Category:1510 establishments in Nigeria', 'url': 'https://en.wikipedia.org/w/index.php?title=Ondo_Kingdom&diff=prev&oldid=690713454'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[23, 24, 'R:ADJ:FORM', 'disheveled', 23, 24]], 'sentence_gt': 'Legend has it that his refined appearance even had an effect on trumpeter Miles Davis : once , when Eckstine came across a dishevelled Davis in the depths of his heroin excess , his remark " Looking sharp , Miles " served as a wake - up call for Davis , who promptly returned to his father \'s farm in the winter of 1953 and finally kicked the habit .', 'sentence': 'Legend has it that his refined appearance even had an effect on trumpeter Miles Davis : once , when Eckstine came across a disheveled Davis in the depths of his heroin excess , his remark " Looking sharp , Miles " served as a wake - up call for Davis , who promptly returned to his father \'s farm in the winter of 1953 and finally kicked the habit .', 'url': 'https://en.wikipedia.org/w/index.php?title=Billy_Eckstine&diff=prev&oldid=246779289'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[8, 9, 'R:ADJ:FORM', 'fledged', 8, 9]], 'sentence_gt': 'Unlike Flonne , Vulcanus is a full - fledge angel of Celestia ( where as Flonne is a trainee ) , and exceedingly higher in rank .', 'sentence': 'Unlike Flonne , Vulcanus is a full - fledged angel of Celestia ( where as Flonne is a trainee ) , and exceedingly higher in rank .', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Disgaea_characters&diff=prev&oldid=248460484'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Enameled', 0, 1]], 'sentence_gt': 'Enamelled glass is also called " painted " .', 'sentence': 'Enameled glass is also called " painted " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Vitreous_enamel&diff=prev&oldid=517328968'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[66, 67, 'R:ADJ:FORM', 'abbreviate', 66, 67]], 'sentence_gt': 'Despite being a highly evolved species , alligator gar are often referred to as " primitive fishes " , or " living fossils " because they have retained a few Morphological ( biology ) characteristics of their earliest ancestors with seemingly few to no apparent changes , such as a spiral valve intestine , which is also common to the digestive system of sharks , an abbreviated heterocercal tail , and a swim bladder lung for breathing in both air and water .', 'sentence': 'Despite being a highly evolved species , alligator gar are often referred to as " primitive fishes " , or " living fossils " because they have retained a few Morphological ( biology ) characteristics of their earliest ancestors with seemingly few to no apparent changes , such as a spiral valve intestine , which is also common to the digestive system of sharks , an abbreviate heterocercal tail , and a swim bladder lung for breathing in both air and water .', 'url': 'https://en.wikipedia.org/w/index.php?title=Alligator_gar&diff=prev&oldid=894760897'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Transgendered', 0, 1]], 'sentence_gt': 'Transgender people are uncommon enough , and frequently have low enough cultural status , that they are rarely discussed in religious texts .', 'sentence': 'Transgendered people are uncommon enough , and frequently have low enough cultural status , that they are rarely discussed in religious texts .', 'url': 'https://en.wikipedia.org/w/index.php?title=Transgender_people_and_religion&diff=prev&oldid=247259891'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[20, 21, 'R:ADJ:FORM', 'American', 20, 21]], 'sentence_gt': "' ' ' Anita Page ' '' ( August 4 , 1910 – September 6 , 2008 ) was an Americans film actress who reached stardom in the last years of the silent film era .", 'sentence': "' ' ' Anita Page ' '' ( August 4 , 1910 – September 6 , 2008 ) was an American film actress who reached stardom in the last years of the silent film era .", 'url': 'https://en.wikipedia.org/w/index.php?title=Anita_Page&diff=prev&oldid=783813693'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Optometrist', 0, 1]], 'sentence_gt': 'Optometrists education takes 4 years in the medical universities in Hungary , and they will get a Bachelor of Science degree .', 'sentence': 'Optometrist education takes 4 years in the medical universities in Hungary , and they will get a Bachelor of Science degree .', 'url': 'https://en.wikipedia.org/w/index.php?title=Optometry&diff=prev&oldid=790875587'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[11, 12, 'R:ADJ:FORM', 'clean', 11, 12]], 'sentence_gt': 'He has since played in 11 more matches , keeping 6 cleans sheets and conceding 8 goals in the process .', 'sentence': 'He has since played in 11 more matches , keeping 6 clean sheets and conceding 8 goals in the process .', 'url': 'https://en.wikipedia.org/w/index.php?title=Marc-Andr%C3%A9_ter_Stegen&diff=prev&oldid=652030809'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:ADJ:FORM', 'weakened', 1, 2]], 'sentence_gt': 'The weakening storm turned slightly toward the west - northwest , over considerably cooler waters , in response to high pressure rebuilding to its north .', 'sentence': 'The weakened storm turned slightly toward the west - northwest , over considerably cooler waters , in response to high pressure rebuilding to its north .', 'url': 'https://en.wikipedia.org/w/index.php?title=Hurricane_Fred_(2015)&diff=prev&oldid=809004300'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[19, 20, 'R:ADJ:FORM', 'Americans', 19, 20]], 'sentence_gt': "' ' ' Rebecca Lynn Hammon ' '' ( born March 11 , 1977 ) is a Russian - American assistant coach for the San Antonio Spurs of the National Basketball Association and a retired professional basketball player .", 'sentence': "' ' ' Rebecca Lynn Hammon ' '' ( born March 11 , 1977 ) is a Russian - Americans assistant coach for the San Antonio Spurs of the National Basketball Association and a retired professional basketball player .", 'url': 'https://en.wikipedia.org/w/index.php?title=Becky_Hammon&diff=prev&oldid=839811375'}
+===================================================
+1.9.0: Counter({'U:ADV': 1, 'R:ADJ:FORM': 1})
+2.2.1: Counter({'U:ADV': 1, 'R:MORPH': 1})
+{'edits': [[45, 46, 'U:ADV', '', 45, 45], [46, 47, 'R:ADJ:FORM', 'rougher', 45, 46]], 'sentence_gt': 'Meghan O’Keefe of Decider ( website ) praised Yashar as a new type of female character for \' \' The Fast and The Furious \'\' franchise , writing that she provided a more " sophisticated , and unapologetically femme vibe " when compared to the more rough Ortiz .', 'sentence': 'Meghan O’Keefe of Decider ( website ) praised Yashar as a new type of female character for \' \' The Fast and The Furious \'\' franchise , writing that she provided a more " sophisticated , and unapologetically femme vibe " when compared to the rougher Ortiz .', 'url': 'https://en.wikipedia.org/w/index.php?title=Gisele_Yashar&diff=prev&oldid=825938190'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[5, 6, 'R:ADJ:FORM', 'traveled', 5, 6]], 'sentence_gt': 'Hadrian , a very well travelled emperor , borrowed these designs , such as the caryatids by the Canopus , along with the statues beside them depicting the Egyptian dwarf and fertility god , Bes .', 'sentence': 'Hadrian , a very well traveled emperor , borrowed these designs , such as the caryatids by the Canopus , along with the statues beside them depicting the Egyptian dwarf and fertility god , Bes .', 'url': 'https://en.wikipedia.org/w/index.php?title=Hadrian%27s_Villa&diff=prev&oldid=566853918'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1, 'R:ORTH': 1})
+2.2.1: Counter({'R:VERB:FORM': 1, 'R:ORTH': 1})
+{'edits': [[2, 3, 'R:ADJ:FORM', 'Selected', 2, 3], [3, 4, 'R:ORTH', 'discography==', 3, 4]], 'sentence_gt': '= = Select Discography==', 'sentence': '= = Selected discography==', 'url': 'https://en.wikipedia.org/w/index.php?title=Glenn_Zottola&diff=prev&oldid=419466985'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[17, 18, 'R:ADJ:FORM', 'eldest', 17, 18]], 'sentence_gt': 'Rosalie Cadron was born and baptism in Lavaltrie , Quebec on January 27 , 1794 , the elder of two daughters .', 'sentence': 'Rosalie Cadron was born and baptism in Lavaltrie , Quebec on January 27 , 1794 , the eldest of two daughters .', 'url': 'https://en.wikipedia.org/w/index.php?title=Marie-Rosalie_Cadron-Jett%C3%A9&diff=prev&oldid=356893183'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Category:1860', 0, 1]], 'sentence_gt': 'Category:1860s establishments in Nigeria', 'sentence': 'Category:1860 establishments in Nigeria', 'url': 'https://en.wikipedia.org/w/index.php?title=Roman_Catholic_Archdiocese_of_Lagos&diff=prev&oldid=634815402'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[9, 10, 'R:ADJ:FORM', 'Americans', 9, 10]], 'sentence_gt': ': Maria and Giuseppe Nacchio owned a small Italian American vitalian artisan bread bakery where Maria made baked - style soft pretzels.', 'sentence': ': Maria and Giuseppe Nacchio owned a small Italian Americans vitalian artisan bread bakery where Maria made baked - style soft pretzels.', 'url': 'https://en.wikipedia.org/w/index.php?title=Federal_Pretzel_Baking_Company&diff=prev&oldid=795087068'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'R:MORPH': 1, 'U:PUNCT': 1})
+{'edits': [[20, 21, 'R:ADJ:FORM', 'abbreviate', 20, 21], [21, 22, 'U:PUNCT', '', 21, 21]], 'sentence_gt': 'The Dorsal fin and anal fins are positioned toward the back of their bodies , and their caudal fins are abbreviated - heterocercal , or nonsymmetrical .', 'sentence': 'The Dorsal fin and anal fins are positioned toward the back of their bodies , and their caudal fins are abbreviate heterocercal , or nonsymmetrical .', 'url': 'https://en.wikipedia.org/w/index.php?title=Alligator_gar&diff=prev&oldid=893694165'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1, 'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:ADJ:FORM': 2})
+{'edits': [[5, 6, 'R:VERB:FORM', 'squared', 5, 6], [41, 42, 'R:ADJ:FORM', 'squared', 41, 42]], 'sentence_gt': "Also considered a chi - square test is a test in which this is ' ' asymptotically '' true , meaning that the sampling distribution ( if the null hypothesis is true ) can be made to approximate a chi - square distribution as closely as desired by making the sample size large enough .", 'sentence': "Also considered a chi - squared test is a test in which this is ' ' asymptotically '' true , meaning that the sampling distribution ( if the null hypothesis is true ) can be made to approximate a chi - squared distribution as closely as desired by making the sample size large enough .", 'url': 'https://en.wikipedia.org/w/index.php?title=Chi-squared_test&diff=prev&oldid=839223758'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Enameled', 0, 1]], 'sentence_gt': 'Enamelled glass is also called " painted " .', 'sentence': 'Enameled glass is also called " painted " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Vitreous_enamel&diff=prev&oldid=517329358'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:ADJ:FORM', 'closest', 1, 2]], 'sentence_gt': 'The closes thing to that would be Tarzan .', 'sentence': 'The closest thing to that would be Tarzan .', 'url': 'https://en.wikipedia.org/w/index.php?title=Barry_Windsor-Smith&diff=prev&oldid=29446260'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:ADJ:FORM', 'Advance', 3, 4]], 'sentence_gt': '= = = Advanced 70 mm screenings===', 'sentence': '= = = Advance 70 mm screenings===', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Master_(2012_film)&diff=prev&oldid=514102682'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[5, 6, 'R:ADJ:FORM', 'opposing', 5, 6]], 'sentence_gt': 'An attempt to reconcile the opposed stances was made by Jan Michał Rozwadowski .', 'sentence': 'An attempt to reconcile the opposing stances was made by Jan Michał Rozwadowski .', 'url': 'https://en.wikipedia.org/w/index.php?title=Lithuanian_language&diff=prev&oldid=635920103'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:ADJ:FORM', 'Other', 1, 2]], 'sentence_gt': '; Others non - standard userboxes', 'sentence': '; Other non - standard userboxes', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:User_rights/doc&diff=prev&oldid=589448432'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[22, 23, 'R:ADJ:FORM', 'borne', 22, 23]], 'sentence_gt': 'In addition , the Game \'s exogamy helps to promote human fertility after the devastation of global warfare , after satellite - born East German " Henkel Radiation " weaponry sterilised much of the Earths population .', 'sentence': 'In addition , the Game \'s exogamy helps to promote human fertility after the devastation of global warfare , after satellite - borne East German " Henkel Radiation " weaponry sterilised much of the Earths population .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Game-Players_of_Titan&diff=prev&oldid=292943863'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Enameled', 0, 1]], 'sentence_gt': 'Enamelled glass is also called " painted " .', 'sentence': 'Enameled glass is also called " painted " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Vitreous_enamel&diff=prev&oldid=531177989'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[18, 19, 'R:ADJ:FORM', 'remixes', 18, 19]], 'sentence_gt': "It has been released as the album 's third official ( and fifth overall ) single and its remix EP was made available for digital download on November 3 , 2015.", 'sentence': "It has been released as the album 's third official ( and fifth overall ) single and its remixes EP was made available for digital download on November 3 , 2015.", 'url': 'https://en.wikipedia.org/w/index.php?title=Yalla_(Inna_song)&diff=prev&oldid=692545618'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[1, 2, 'R:ADJ:FORM', 'metaled', 1, 2]], 'sentence_gt': 'A metalled road is also present along the railroad that connects Quetta to Karachi via Sibi , Jacobabad and Rohri .', 'sentence': 'A metaled road is also present along the railroad that connects Quetta to Karachi via Sibi , Jacobabad and Rohri .', 'url': 'https://en.wikipedia.org/w/index.php?title=Quetta&diff=prev&oldid=325506785'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1, 'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:ORTH': 1, 'R:VERB:FORM': 1})
+{'edits': [[3, 4, 'R:ORTH', 'Wear', 3, 4], [4, 5, 'R:ADJ:FORM', 'leveling', 4, 5]], 'sentence_gt': 'Many cards incorporate wear levelling algorithms in their design .', 'sentence': 'Many cards incorporate Wear leveling algorithms in their design .', 'url': 'https://en.wikipedia.org/w/index.php?title=Memory_card&diff=prev&oldid=365967550'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Advanced', 0, 1]], 'sentence_gt': 'Advance strategic aspects include the following :', 'sentence': 'Advanced strategic aspects include the following :', 'url': 'https://en.wikipedia.org/w/index.php?title=Go_(game)&diff=prev&oldid=330801959'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Category:1940', 0, 1]], 'sentence_gt': 'Category:1940s births', 'sentence': 'Category:1940 births', 'url': 'https://en.wikipedia.org/w/index.php?title=Paul_Prudhomme&diff=prev&oldid=25680251'}
+===================================================
+1.9.0: Counter({'M:DET': 1, 'R:ADJ:FORM': 1})
+2.2.1: Counter({'M:DET': 1, 'R:MORPH': 1})
+{'edits': [[25, 25, 'M:DET', 'the', 25, 26], [25, 26, 'R:ADJ:FORM', 'worse', 26, 27]], 'sentence_gt': 'Lardner became involved in a number of ill - advised public disagreements with Isambard Kingdom Brunel regarding technical matters , in which he came off worst .', 'sentence': 'Lardner became involved in a number of ill - advised public disagreements with Isambard Kingdom Brunel regarding technical matters , in which he came off the worse .', 'url': 'https://en.wikipedia.org/w/index.php?title=Dionysius_Lardner&diff=prev&oldid=368568719'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Category:1960s', 0, 1]], 'sentence_gt': 'Category:1960 American television series', 'sentence': 'Category:1960s American television series', 'url': 'https://en.wikipedia.org/w/index.php?title=CBS_Playhouse&diff=prev&oldid=530977781'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:ADJ:FORM', 'retail', 3, 4]], 'sentence_gt': 'Category : Online retailing companies of the United States', 'sentence': 'Category : Online retail companies of the United States', 'url': 'https://en.wikipedia.org/w/index.php?title=QuiBids.com&diff=prev&oldid=521371794'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Category:2018', 0, 1]], 'sentence_gt': 'Category:2018s films', 'sentence': 'Category:2018 films', 'url': 'https://en.wikipedia.org/w/index.php?title=Chumbak&diff=prev&oldid=847862794'}
+===================================================
+1.9.0: Counter({'U:ADV': 1, 'R:ADJ:FORM': 1})
+2.2.1: Counter({'U:ADV': 1, 'R:MORPH': 1})
+{'edits': [[15, 16, 'U:ADV', '', 15, 15], [16, 17, 'R:ADJ:FORM', 'truer', 15, 16]], 'sentence_gt': 'Technical knowledge is therefore sometimes considered as important as writing ability , though this is more true in journalism than it is in book publishing .', 'sentence': 'Technical knowledge is therefore sometimes considered as important as writing ability , though this is truer in journalism than it is in book publishing .', 'url': 'https://en.wikipedia.org/w/index.php?title=Copy_editing&diff=prev&oldid=635904092'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[20, 21, 'R:ADJ:FORM', 'Czechs', 20, 21]], 'sentence_gt': "' ' ' Jarmila Veselá ' '' ( 29 November 1899 Prague - 2 January 1972 Prague ) was a Czech criminal lawyer , first associate professor at the Faculty of Law of the Charles University in Prague .", 'sentence': "' ' ' Jarmila Veselá ' '' ( 29 November 1899 Prague - 2 January 1972 Prague ) was a Czechs criminal lawyer , first associate professor at the Faculty of Law of the Charles University in Prague .", 'url': 'https://en.wikipedia.org/w/index.php?title=Jarmila_Vesel%C3%A1&diff=prev&oldid=864156368'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[16, 17, 'R:ADJ:FORM', 'Norwegians', 16, 17]], 'sentence_gt': "' ' ' Odd Arne Engh ' '' ( born 14 April 1951 ) is a Norwegian Nordic combined skier .", 'sentence': "' ' ' Odd Arne Engh ' '' ( born 14 April 1951 ) is a Norwegians Nordic combined skier .", 'url': 'https://en.wikipedia.org/w/index.php?title=Odd_Arne_Engh&diff=prev&oldid=832716585'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[27, 28, 'R:ADJ:FORM', 'Bengalis', 27, 28]], 'sentence_gt': "' ' ' Begum ' '' ' ' ' Shaista Suhrawardy Ikramullah ' '' ( 22 July 1915 – 11 December 2000 ) was a Pakistani people Bengali politician , diplomat and author .", 'sentence': "' ' ' Begum ' '' ' ' ' Shaista Suhrawardy Ikramullah ' '' ( 22 July 1915 – 11 December 2000 ) was a Pakistani people Bengalis politician , diplomat and author .", 'url': 'https://en.wikipedia.org/w/index.php?title=Shaista_Suhrawardy_Ikramullah&diff=prev&oldid=828647433'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:VERB:SVA': 1, 'M:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Category:2011', 0, 1], [4, 4, 'M:NOUN', 'debuts', 4, 5]], 'sentence_gt': 'Category:2011s American television series', 'sentence': 'Category:2011 American television series debuts', 'url': 'https://en.wikipedia.org/w/index.php?title=NY_Ink&diff=prev&oldid=432509461'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[2, 3, 'R:ADJ:FORM', 'Selected', 2, 3]], 'sentence_gt': '= = Select bibliography==', 'sentence': '= = Selected bibliography==', 'url': 'https://en.wikipedia.org/w/index.php?title=Michel_P%C3%AAcheux&diff=prev&oldid=824314727'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[15, 16, 'R:ADJ:FORM', 'necropoleis', 15, 16]], 'sentence_gt': "' ' ' Imentet ' '' was a goddess in Ancient Egyptian religion representing the necropolis west of the Nile .", 'sentence': "' ' ' Imentet ' '' was a goddess in Ancient Egyptian religion representing the necropoleis west of the Nile .", 'url': 'https://en.wikipedia.org/w/index.php?title=Imentet&diff=prev&oldid=368478825'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1, 'U:NOUN': 1})
+2.2.1: Counter({'R:MORPH': 1, 'U:NOUN': 1})
+{'edits': [[9, 10, 'R:ADJ:FORM', 'Germans', 9, 10], [10, 11, 'U:NOUN', '', 10, 10]], 'sentence_gt': 'His father was Judaism and his mother was a German people Catholic immigrant , from Hamburg .', 'sentence': 'His father was Judaism and his mother was a Germans Catholic immigrant , from Hamburg .', 'url': 'https://en.wikipedia.org/w/index.php?title=Tab_Hunter&diff=prev&oldid=850230597'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Other', 0, 1]], 'sentence_gt': 'Others sources stated that she was stabbed multiple times in the stomach and the leg before bleeding to death .', 'sentence': 'Other sources stated that she was stabbed multiple times in the stomach and the leg before bleeding to death .', 'url': 'https://en.wikipedia.org/w/index.php?title=Murder_of_Eunice_Olawale&diff=prev&oldid=730136712'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:ADJ': 1})
+{'edits': [[1, 3, 'R:ADJ:FORM', 'highest', 1, 2]], 'sentence_gt': "The most high - profile speculation to date came in a March 6 , 2014 , article in the magazine ' ' Newsweek '' , when journalist Leah McGrath Goodman identified Dorian Prentice Satoshi Nakamoto , a Japanese American man living in California , whose Name at birth is Satoshi Nakamoto , as the Nakamoto in question .", 'sentence': "The highest - profile speculation to date came in a March 6 , 2014 , article in the magazine ' ' Newsweek '' , when journalist Leah McGrath Goodman identified Dorian Prentice Satoshi Nakamoto , a Japanese American man living in California , whose Name at birth is Satoshi Nakamoto , as the Nakamoto in question .", 'url': 'https://en.wikipedia.org/w/index.php?title=Satoshi_Nakamoto&diff=prev&oldid=664350204'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[13, 14, 'R:ADJ:FORM', 'loose', 13, 14]], 'sentence_gt': 'The kaftan slowly gained popularity for its exoticism and as a form of looser - fitting clothing .', 'sentence': 'The kaftan slowly gained popularity for its exoticism and as a form of loose - fitting clothing .', 'url': 'https://en.wikipedia.org/w/index.php?title=Kaftan&diff=prev&oldid=841833115'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:ADJ:FORM', 'Casual', 1, 2]], 'sentence_gt': 'The Casuals subculture that emerged in the 1980s was heavily influenced by the soulboys , including the sideways fringed Wedge ( geometry ) hairstyle and Lois jeans', 'sentence': 'The Casual subculture that emerged in the 1980s was heavily influenced by the soulboys , including the sideways fringed Wedge ( geometry ) hairstyle and Lois jeans', 'url': 'https://en.wikipedia.org/w/index.php?title=Soulboy&diff=prev&oldid=845386237'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Other', 0, 1]], 'sentence_gt': 'Others art historians have drawn similarities between the glass case and the radio booths of late 1930 broadcasters , who warned in vain against impending calamity .', 'sentence': 'Other art historians have drawn similarities between the glass case and the radio booths of late 1930 broadcasters , who warned in vain against impending calamity .', 'url': 'https://en.wikipedia.org/w/index.php?title=Head_VI&diff=prev&oldid=589118105'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Other', 0, 1]], 'sentence_gt': 'Others publishers were very buttoned - down , and believed it was a gentleman \'s profession . "', 'sentence': 'Other publishers were very buttoned - down , and believed it was a gentleman \'s profession . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Bernard_J._Geis&diff=prev&oldid=718188989'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Category:2017', 0, 1]], 'sentence_gt': 'Category:2017s films', 'sentence': 'Category:2017 films', 'url': 'https://en.wikipedia.org/w/index.php?title=Chumbak&diff=prev&oldid=847862794'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[5, 6, 'R:ADJ:FORM', 'American', 5, 6]], 'sentence_gt': 'The CDI was developed by Americans clinical psychologist Maria Kovacs , and was published in 1979 .', 'sentence': 'The CDI was developed by American clinical psychologist Maria Kovacs , and was published in 1979 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Children%27s_Depression_Inventory&diff=prev&oldid=860278240'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Other', 0, 1]], 'sentence_gt': 'Others events on the list included the Knockengorroch festival and the Lockerbie Jazz Festival .', 'sentence': 'Other events on the list included the Knockengorroch festival and the Lockerbie Jazz Festival .', 'url': 'https://en.wikipedia.org/w/index.php?title=Eden_Festival&diff=prev&oldid=649060292'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[5, 6, 'R:ADJ:FORM', 'rounder', 5, 6]], 'sentence_gt': 'Known for his all - round capabilities , he was a right - handed batsman and bowler .', 'sentence': 'Known for his all - rounder capabilities , he was a right - handed batsman and bowler .', 'url': 'https://en.wikipedia.org/w/index.php?title=William_Walker_(Australian_cricketer)&diff=prev&oldid=702887078'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Word', 0, 1]], 'sentence_gt': 'Words definitions are not encyclopedic content .', 'sentence': 'Word definitions are not encyclopedic content .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Secret999&diff=prev&oldid=467916040'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[5, 6, 'R:ADJ:FORM', 'Astonishing', 5, 6]], 'sentence_gt': 'Lyssa : Rural Gods and Astonish Punishments', 'sentence': 'Lyssa : Rural Gods and Astonishing Punishments', 'url': 'https://en.wikipedia.org/w/index.php?title=George_Kollias_(drummer)&diff=prev&oldid=157276889'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:ADJ:FORM', 'Christian', 3, 4]], 'sentence_gt': 'Forty - eight Christians men and women are decapitated for refusing to convert or blaspheming Muhammad&mdash;Martyrs of Córdoba .', 'sentence': 'Forty - eight Christian men and women are decapitated for refusing to convert or blaspheming Muhammad&mdash;Martyrs of Córdoba .', 'url': 'https://en.wikipedia.org/w/index.php?title=Timeline_of_the_Muslim_presence_in_the_Iberian_Peninsula&diff=prev&oldid=622554028'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'R:ADJ:FORM': 1})
+2.2.1: Counter({'M:ADJ': 1, 'R:MORPH': 1})
+{'edits': [[41, 41, 'M:NOUN', 'Lithic', 41, 42], [41, 42, 'R:ADJ:FORM', 'flake', 42, 43]], 'sentence_gt': "The related English adjective ' ' Hoabinhian '' ( French ' ' hoabianien '' ) has become a common term in the English based literature to describe rock ( geology ) Artifact ( archaeology ) assemblages in Southeast Asia that contain flaked , Cobble ( geology ) artifacts , dated to c. 10,000&ndash;2000 BCE .", 'sentence': "The related English adjective ' ' Hoabinhian '' ( French ' ' hoabianien '' ) has become a common term in the English based literature to describe rock ( geology ) Artifact ( archaeology ) assemblages in Southeast Asia that contain Lithic flake , Cobble ( geology ) artifacts , dated to c. 10,000&ndash;2000 BCE .", 'url': 'https://en.wikipedia.org/w/index.php?title=Hoabinhian&diff=prev&oldid=666842363'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1, 'R:VERB:FORM': 1})
+{'edits': [[6, 7, 'R:MORPH', 'low', 6, 7], [8, 9, 'R:ADJ:FORM', 'ranking', 8, 9]], 'sentence_gt': 'Phelps is initially depicted as a lowly - ranked police officer in the LAPD , with a background involving traumatic events in the war , which he rarely speaks about .', 'sentence': 'Phelps is initially depicted as a low - ranking police officer in the LAPD , with a background involving traumatic events in the war , which he rarely speaks about .', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_L.A._Noire_characters&diff=prev&oldid=696965820'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Category:1952', 0, 1]], 'sentence_gt': 'Category:1952s births', 'sentence': 'Category:1952 births', 'url': 'https://en.wikipedia.org/w/index.php?title=James_McNair&diff=prev&oldid=612729322'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[10, 11, 'R:ADJ:FORM', 'wild', 10, 11]], 'sentence_gt': 'The book is an esoteric look at some of the wilder characters emanating from the United Kingdom and has been described as " a work of maniacal genius " .', 'sentence': 'The book is an esoteric look at some of the wild characters emanating from the United Kingdom and has been described as " a work of maniacal genius " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Brewer%27s_Rogues,_Villains_and_Eccentrics&diff=prev&oldid=488526237'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'R:MORPH': 1, 'U:PUNCT': 1})
+{'edits': [[66, 67, 'R:ADJ:FORM', 'abbreviate', 66, 67], [67, 68, 'U:PUNCT', '', 67, 67]], 'sentence_gt': 'Despite being a highly evolved species , alligator gar are often referred to as " primitive fishes " , or " living fossils " because they have retained a few Morphological ( biology ) characteristics of their earliest ancestors with seemingly few to no apparent changes , such as a spiral valve intestine , which is also common to the digestive system of sharks , an abbreviated - heterocercal tail , and a swim bladder lung for breathing in both air and water .', 'sentence': 'Despite being a highly evolved species , alligator gar are often referred to as " primitive fishes " , or " living fossils " because they have retained a few Morphological ( biology ) characteristics of their earliest ancestors with seemingly few to no apparent changes , such as a spiral valve intestine , which is also common to the digestive system of sharks , an abbreviate heterocercal tail , and a swim bladder lung for breathing in both air and water .', 'url': 'https://en.wikipedia.org/w/index.php?title=Alligator_gar&diff=prev&oldid=893695055'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:ADJ:FORM', 'scarce', 1, 2]], 'sentence_gt': 'Three scarcer decay products of uranium or thorium , ( astatine , francium , and protactinium ) , and', 'sentence': 'Three scarce decay products of uranium or thorium , ( astatine , francium , and protactinium ) , and', 'url': 'https://en.wikipedia.org/w/index.php?title=Chemical_element&diff=prev&oldid=555656693'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Cheetahs', 0, 1]], 'sentence_gt': 'Cheetah breed throughout the year ; they are Induced ovulation ( animals ) .', 'sentence': 'Cheetahs breed throughout the year ; they are Induced ovulation ( animals ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Cheetah&diff=prev&oldid=718891091'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[21, 22, 'R:ADJ:FORM', 'Cubans', 21, 22]], 'sentence_gt': "' ' ' Carlos Enrique Prado Herrera ' '' ( born in Havana on January 7 , 1978 ) is a Cuban contemporary artist .", 'sentence': "' ' ' Carlos Enrique Prado Herrera ' '' ( born in Havana on January 7 , 1978 ) is a Cubans contemporary artist .", 'url': 'https://en.wikipedia.org/w/index.php?title=Carlos_Enrique_Prado_Herrera&diff=prev&oldid=414154385'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[17, 18, 'R:ADJ:FORM', 'closed', 17, 18]], 'sentence_gt': 'Damage to the airport from the 2009 Samoa earthquake and ensuing tsunami caused it to be temporarily close following the disaster .', 'sentence': 'Damage to the airport from the 2009 Samoa earthquake and ensuing tsunami caused it to be temporarily closed following the disaster .', 'url': 'https://en.wikipedia.org/w/index.php?title=Niuatoputapu_Airport&diff=prev&oldid=453198934'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[18, 19, 'R:ADJ:FORM', 'Americans', 18, 19]], 'sentence_gt': "' ' ' Barbara Rae - Venter ' '' ( born July 17 , 1948 ) is an American genetic genealogist and retired patent attorney best known for her work helping police and investigators identify a suspect in the Golden State Killer case .", 'sentence': "' ' ' Barbara Rae - Venter ' '' ( born July 17 , 1948 ) is an Americans genetic genealogist and retired patent attorney best known for her work helping police and investigators identify a suspect in the Golden State Killer case .", 'url': 'https://en.wikipedia.org/w/index.php?title=Barbara_Rae-Venter&diff=prev&oldid=915511956'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1, 'R:ORTH': 1})
+2.2.1: Counter({'R:VERB:FORM': 1, 'R:ORTH': 1})
+{'edits': [[2, 3, 'R:ADJ:FORM', 'Selected', 2, 3], [3, 4, 'R:ORTH', 'discography', 3, 4]], 'sentence_gt': '= = Select Discography = =', 'sentence': '= = Selected discography = =', 'url': 'https://en.wikipedia.org/w/index.php?title=GoodWill_%26_MGI&diff=prev&oldid=625225259'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:ADJ:FORM', 'common', 3, 4]], 'sentence_gt': 'There are two commons ways this is accomplished :', 'sentence': 'There are two common ways this is accomplished :', 'url': 'https://en.wikipedia.org/w/index.php?title=Zipper&diff=prev&oldid=873952618'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Train', 0, 1]], 'sentence_gt': 'Trains service began in 1890 .', 'sentence': 'Train service began in 1890 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Kennebec_Central_Railroad&diff=prev&oldid=173641196'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[15, 16, 'R:ADJ:FORM', 'paid', 15, 16]], 'sentence_gt': 'In the late 18th century , boxing became more commercialised with promoters and publicans organising payed matches that attracted spectators , and with them heavy betting .', 'sentence': 'In the late 18th century , boxing became more commercialised with promoters and publicans organising paid matches that attracted spectators , and with them heavy betting .', 'url': 'https://en.wikipedia.org/w/index.php?title=Boxing_in_Wales&diff=prev&oldid=348005743'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[28, 29, 'R:ADJ:FORM', 'led', 28, 29]], 'sentence_gt': 'The status of Acadia was one of the more contentious issues in the negotiations leading to the 1713 Treaty of Utrecht ( 1713 ) , and very nearly lead to renewed war .', 'sentence': 'The status of Acadia was one of the more contentious issues in the negotiations leading to the 1713 Treaty of Utrecht ( 1713 ) , and very nearly led to renewed war .', 'url': 'https://en.wikipedia.org/w/index.php?title=Siege_of_Port_Royal_(1710)&diff=prev&oldid=412645000'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[20, 21, 'R:ADJ:FORM', 'plainer', 20, 21]], 'sentence_gt': 'Females are generally the ones that drive partner selection , although in the polyandrous phalaropes , this is reversed : plain males choose brightly coloured females .', 'sentence': 'Females are generally the ones that drive partner selection , although in the polyandrous phalaropes , this is reversed : plainer males choose brightly coloured females .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bird&diff=prev&oldid=177414334'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1, 'R:ADJ:FORM': 1})
+2.2.1: Counter({'M:ADJ': 1, 'R:MORPH': 1})
+{'edits': [[22, 22, 'M:ADJ', 'Irish', 22, 23], [22, 23, 'R:ADJ:FORM', 'American', 23, 24]], 'sentence_gt': '\' \' \' John Vincent " Jack " Geraghty , Jr. \' \'\' ( born February 23 , 1934 ) is an Americans civic politician , journalist , and public relations consultant from Spokane , Washington .', 'sentence': '\' \' \' John Vincent " Jack " Geraghty , Jr. \' \'\' ( born February 23 , 1934 ) is an Irish American civic politician , journalist , and public relations consultant from Spokane , Washington .', 'url': 'https://en.wikipedia.org/w/index.php?title=Jack_Geraghty&diff=prev&oldid=539855330'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[10, 11, 'R:ADJ:FORM', 'continued', 10, 11]], 'sentence_gt': 'So , thank you for your participation and for your continues sense of fairness and compassion in all areas of WP .', 'sentence': 'So , thank you for your participation and for your continued sense of fairness and compassion in all areas of WP .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Atama&diff=prev&oldid=598311707'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[8, 9, 'R:VERB:TENSE', 'wrote', 8, 9], [30, 31, 'R:ADJ:FORM', 'sung', 30, 31]], 'sentence_gt': 'In 1857 , an editor for Knickerbocker magazine writes about visiting a " Colored Camp - Meeting " in New York where a song called " The Warning " was sang which featured an almost identical last verse .', 'sentence': 'In 1857 , an editor for Knickerbocker magazine wrote about visiting a " Colored Camp - Meeting " in New York where a song called " The Warning " was sung which featured an almost identical last verse .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Gospel_Train&diff=prev&oldid=222099515'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:ADJ:FORM', 'retail', 3, 4]], 'sentence_gt': 'Category : Online retailing companies of the United States', 'sentence': 'Category : Online retail companies of the United States', 'url': 'https://en.wikipedia.org/w/index.php?title=Power_Equipment_Direct&diff=prev&oldid=474385166'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Other', 0, 1]], 'sentence_gt': 'Others important companies are SKANSKA , Hoechst - Biotika , ŽOS Vrútky .', 'sentence': 'Other important companies are SKANSKA , Hoechst - Biotika , ŽOS Vrútky .', 'url': 'https://en.wikipedia.org/w/index.php?title=Martin,_Slovakia&diff=prev&oldid=412743614'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[9, 10, 'R:ADJ:FORM', 'Cubans', 9, 10]], 'sentence_gt': "' ' ' Yusnier Viera ' '' is a Cuban mental calculator .", 'sentence': "' ' ' Yusnier Viera ' '' is a Cubans mental calculator .", 'url': 'https://en.wikipedia.org/w/index.php?title=Yusnier_Viera&diff=prev&oldid=414154787'}
+===================================================
+1.9.0: Counter({'R:ADJ:FORM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:ADJ:FORM', 'Advance', 0, 1]], 'sentence_gt': 'Advanced ticket purchase is often induced by lower fares .', 'sentence': 'Advance ticket purchase is often induced by lower fares .', 'url': 'https://en.wikipedia.org/w/index.php?title=Transport_economics&diff=prev&oldid=514104452'}
+===================================================

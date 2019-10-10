@@ -1,0 +1,332 @@
+1.9.0: Counter({'R:NOUN:POSS': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:PUNCT': 1, 'R:MORPH': 1})
+{'edits': [[11, 12, 'R:NOUN:POSS', '–', 11, 12], [19, 20, 'R:MORPH', 'architecture', 19, 20]], 'sentence_gt': "' ' ' Mathurin Cherpitel ' '' ( 1736 , Paris - 1809 , Paris ) was a French architect , whose notable buildings include the Hôtel du Châtelet .", 'sentence': "' ' ' Mathurin Cherpitel ' '' ( 1736 , Paris – 1809 , Paris ) was a French architecture , whose notable buildings include the Hôtel du Châtelet .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mathurin_Cherpitel&diff=prev&oldid=413293569'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:PART': 1, 'R:VERB:FORM': 1})
+{'edits': [[19, 20, 'R:PART', 'to', 19, 20], [20, 21, 'R:MORPH', 'run', 20, 21]], 'sentence_gt': 'The term caused speculation in the Palm community as to whether Saguaro was intended to replace the Palm OS for running applications or if it was designed to be a widget engine .', 'sentence': 'The term caused speculation in the Palm community as to whether Saguaro was intended to replace the Palm OS to run applications or if it was designed to be a widget engine .', 'url': 'https://en.wikipedia.org/w/index.php?title=Saguaro_(Palm_OS)&diff=prev&oldid=352643187'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:ADJ:FORM': 1})
+{'edits': [[25, 26, 'R:MORPH', 'mainstream', 25, 26]], 'sentence_gt': 'In fact , the Surgeon General praised a seminal study by Lovaas ( 1987 ) , reporting 47% of the children were able to attend mainstreamed classrooms by age 7 .', 'sentence': 'In fact , the Surgeon General praised a seminal study by Lovaas ( 1987 ) , reporting 47% of the children were able to attend mainstream classrooms by age 7 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Discrete_trial_training&diff=prev&oldid=739632012'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[24, 25, 'R:MORPH', 'dreamt', 24, 25]], 'sentence_gt': "When Khomeini called for women to attend public demonstrations and to ignore the night curfew , millions of women who would otherwise not have dreamed of leaving their homes without their husbands ' and fathers ' permission , took to the streets .", 'sentence': "When Khomeini called for women to attend public demonstrations and to ignore the night curfew , millions of women who would otherwise not have dreamt of leaving their homes without their husbands ' and fathers ' permission , took to the streets .", 'url': 'https://en.wikipedia.org/w/index.php?title=Women%27s_rights_in_Iran&diff=prev&oldid=155607828'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:ORTH': 1, 'R:VERB:FORM': 1})
+{'edits': [[17, 18, 'R:ORTH', 'gang', 17, 18], [18, 19, 'R:MORPH', 'raped', 18, 19]], 'sentence_gt': 'A short while after , whilst Davis is working in the greenhouse , he is assaulted and Gang rape by a group of boys .', 'sentence': 'A short while after , whilst Davis is working in the greenhouse , he is assaulted and gang raped by a group of boys .', 'url': 'https://en.wikipedia.org/w/index.php?title=Scum_(television_play)&diff=prev&oldid=866086770'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[11, 12, 'R:MORPH', 'user', 11, 12]], 'sentence_gt': "In February 2017 , a further controversy erupted when a twitter use shared an old pro - Pakistan facebook message by Wasim 's mother posted during an India – Pakistan cricket rivalry played in Dhaka for 2014 ICC World Twenty20 .", 'sentence': "In February 2017 , a further controversy erupted when a twitter user shared an old pro - Pakistan facebook message by Wasim 's mother posted during an India – Pakistan cricket rivalry played in Dhaka for 2014 ICC World Twenty20 .", 'url': 'https://en.wikipedia.org/w/index.php?title=Zaira_Wasim&diff=prev&oldid=806423043'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'R:PRON': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:PRON': 1})
+{'edits': [[19, 20, 'R:MORPH', 'runs', 19, 20], [35, 36, 'R:PRON', 'it', 35, 36]], 'sentence_gt': 'It was announced in December 2011 that when the franchise is renewed in 2013 , all services that FCC run will continue in the new Thameslink franchise and be merged with the Southern franchise when that ends .', 'sentence': 'It was announced in December 2011 that when the franchise is renewed in 2013 , all services that FCC runs will continue in the new Thameslink franchise and be merged with the Southern franchise when it ends .', 'url': 'https://en.wikipedia.org/w/index.php?title=First_Capital_Connect&diff=prev&oldid=609870049'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[6, 7, 'R:MORPH', 'readership', 6, 7]], 'sentence_gt': '= = = Declining Wikipedia article readerships = = =', 'sentence': '= = = Declining Wikipedia article readership = = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Knowledge_Graph&diff=prev&oldid=909130218'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:ADJ:FORM': 1})
+{'edits': [[16, 17, 'R:MORPH', 'disheveled', 16, 17]], 'sentence_gt': 'Milne charged at Mayne a second time before being restrained by security , who ejected the dishevelled Milne from the event .', 'sentence': 'Milne charged at Mayne a second time before being restrained by security , who ejected the disheveled Milne from the event .', 'url': 'https://en.wikipedia.org/w/index.php?title=Walkley_Awards&diff=prev&oldid=398556322'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'R:VERB:INFL': 1})
+{'edits': [[3, 4, 'R:VERB:TENSE', 'included', 3, 4], [8, 9, 'R:MORPH', 'forgetting', 8, 9]], 'sentence_gt': 'This time Myriam include some texmex songs without forgeting of the ballads and the pop .', 'sentence': 'This time Myriam included some texmex songs without forgetting of the ballads and the pop .', 'url': 'https://en.wikipedia.org/w/index.php?title=Vete_de_Aqui&diff=prev&oldid=290696380'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[4, 5, 'R:MORPH', 'rhyme', 4, 5]], 'sentence_gt': "' ' ' Half rhymes ' '' sometimes called ' ' ' slant ' '' , ' ' ' sprung ' '' , ' ' ' near rhyme ' '' , ' ' ' oblique rhyme ' '' , ' ' ' off rhyme ' '' or ' ' ' imperfect rhyme ' '' is Literary_consonance on the final consonants of the words involved .", 'sentence': "' ' ' Half rhyme ' '' sometimes called ' ' ' slant ' '' , ' ' ' sprung ' '' , ' ' ' near rhyme ' '' , ' ' ' oblique rhyme ' '' , ' ' ' off rhyme ' '' or ' ' ' imperfect rhyme ' '' is Literary_consonance on the final consonants of the words involved .", 'url': 'https://en.wikipedia.org/w/index.php?title=Half_rhyme&diff=prev&oldid=298034977'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[11, 12, 'R:MORPH', 'User', 11, 12]], 'sentence_gt': 'If you McCaskill is notable , please drop a line at Use talk : AshLin .', 'sentence': 'If you McCaskill is notable , please drop a line at User talk : AshLin .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Gpsdc1&diff=prev&oldid=325442898'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'R:NOUN': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1, 'R:NOUN': 1})
+{'edits': [[2, 3, 'R:MORPH', 'WikiProjects', 2, 3], [3, 4, 'R:NOUN', 'Lepidoptera', 3, 4]], 'sentence_gt': 'Category : WikiProject Arthropods', 'sentence': 'Category : WikiProjects Lepidoptera', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Lepidoptera&diff=prev&oldid=55037799'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'R:PREP': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:PREP': 1})
+{'edits': [[7, 8, 'R:MORPH', 'reverting', 7, 8], [8, 9, 'R:PREP', 'of', 8, 9]], 'sentence_gt': '= = = = Jimbo has sanctioned reverts by the banned editor====', 'sentence': '= = = = Jimbo has sanctioned reverting of the banned editor====', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Arbitration/Requests/Case/Banning_Policy/Workshop&diff=prev&oldid=626830814'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[38, 39, 'R:MORPH', 'Americans', 38, 39]], 'sentence_gt': "' ' ' Fumiko Hayashida ' '' ( January 21 , 1911 – November 2 , 2014 ) was an United States activist , originally from Bainbridge Island , Washington , who became one of the first Japanese American to be interned in March 1942 .", 'sentence': "' ' ' Fumiko Hayashida ' '' ( January 21 , 1911 – November 2 , 2014 ) was an United States activist , originally from Bainbridge Island , Washington , who became one of the first Japanese Americans to be interned in March 1942 .", 'url': 'https://en.wikipedia.org/w/index.php?title=Fumiko_Hayashida&diff=prev&oldid=783721595'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:MORPH', 'worship', 3, 4]], 'sentence_gt': '= = Religious worships = =', 'sentence': '= = Religious worship = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Tenali&diff=prev&oldid=618525353'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:ADJ:FORM': 1})
+{'edits': [[31, 32, 'R:MORPH', 'unblock', 31, 32]], 'sentence_gt': ": : : : Dusti , that 's the thing - I do n't have the impression that he really does understand what was wrong about his behavior , because the unblocked request I 'm reading reads the same way his past behavior sort of did to me .", 'sentence': ": : : : Dusti , that 's the thing - I do n't have the impression that he really does understand what was wrong about his behavior , because the unblock request I 'm reading reads the same way his past behavior sort of did to me .", 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:WorldTraveller101/Last&diff=prev&oldid=566768047'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:MORPH': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[14, 14, 'M:PUNCT', '] ]', 14, 16], [15, 16, 'R:MORPH', 'alb', 17, 18]], 'sentence_gt': '" Piper at the Gates of Dawn " , a track on The Waterboys \' album \' \' Where_the_Action_Is_(The_Waterboys_album ) \'\'', 'sentence': '" Piper at the Gates of Dawn " , a track on The Waterboys ] ] \' alb \' \' Where_the_Action_Is_(The_Waterboys_album ) \'\'', 'url': 'https://en.wikipedia.org/w/index.php?title=Piper_at_the_Gates_of_Dawn_(disambiguation)&diff=prev&oldid=911568375'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[8, 9, 'R:MORPH', 'officer', 8, 9]], 'sentence_gt': "Raun K. Kaufman is currently the chief executive office ( CEO ) of the ' ' Autism Treatment Center of America . ''", 'sentence': "Raun K. Kaufman is currently the chief executive officer ( CEO ) of the ' ' Autism Treatment Center of America . ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Son-Rise:_A_Miracle_of_Love&diff=prev&oldid=270363716'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'M:NOUN': 1})
+{'edits': [[3, 4, 'R:MORPH', 'Cypriot', 3, 4], [4, 4, 'M:NOUN', 'people', 4, 5]], 'sentence_gt': 'Category : Greek Cypriots', 'sentence': 'Category : Greek Cypriot people', 'url': 'https://en.wikipedia.org/w/index.php?title=Elias_Elia_(businessman)&diff=prev&oldid=516355336'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[6, 7, 'R:MORPH', 'programming', 6, 7]], 'sentence_gt': 'Category : Malayalam - language television programing', 'sentence': 'Category : Malayalam - language television programming', 'url': 'https://en.wikipedia.org/w/index.php?title=Kumkumapoovu&diff=prev&oldid=611442277'}
+===================================================
+1.9.0: Counter({'U:VERB': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[1, 3, 'U:VERB', '', 1, 1], [3, 4, 'R:MORPH', 'questions', 1, 2]], 'sentence_gt': "Cecil begins to question the king 's motives after forcibly stealing the Water Crystal from the wizards ' town of Mysidia.", 'sentence': "Cecil questions the king 's motives after forcibly stealing the Water Crystal from the wizards ' town of Mysidia.", 'url': 'https://en.wikipedia.org/w/index.php?title=Final_Fantasy_IV&diff=prev&oldid=75923438'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[15, 16, 'R:MORPH', 'submitted', 15, 16]], 'sentence_gt': 'Another video , shown on MTV2 and Fuse TV , features segued segments of other submited videos , with the winning video only appearing for five seconds .', 'sentence': 'Another video , shown on MTV2 and Fuse TV , features segued segments of other submitted videos , with the winning video only appearing for five seconds .', 'url': 'https://en.wikipedia.org/w/index.php?title=Missed_the_Boat&diff=prev&oldid=306276681'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[29, 30, 'R:MORPH', 'glare', 29, 30]], 'sentence_gt': "The suit 's color was supposed to be bright blue ; however , it was given a more grayish tint to make it look more metallic and produce less glaring on the camera when it was being filmed .", 'sentence': "The suit 's color was supposed to be bright blue ; however , it was given a more grayish tint to make it look more metallic and produce less glare on the camera when it was being filmed .", 'url': 'https://en.wikipedia.org/w/index.php?title=RoboCop&diff=prev&oldid=618501627'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[5, 6, 'R:MORPH', 'desk', 5, 6]], 'sentence_gt': '= = = = Service desking = = = =', 'sentence': '= = = = Service desk = = = =', 'url': 'https://en.wikipedia.org/w/index.php?title=ITIL&diff=prev&oldid=607766476'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[4, 5, 'R:MORPH', 'fanlights', 4, 5]], 'sentence_gt': 'Door openings retain their Fanlight above single - light flush panel doors which have replaced French doors .', 'sentence': 'Door openings retain their fanlights above single - light flush panel doors which have replaced French doors .', 'url': 'https://en.wikipedia.org/w/index.php?title=Aramac_State_School&diff=prev&oldid=816001114'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[12, 13, 'R:MORPH', 'baseman', 12, 13]], 'sentence_gt': 'On January 31 , 2013 , the Red Sox signed veteran first basemen Lyle Overbay to a one - year minor league contract .', 'sentence': 'On January 31 , 2013 , the Red Sox signed veteran first baseman Lyle Overbay to a one - year minor league contract .', 'url': 'https://en.wikipedia.org/w/index.php?title=2013_Boston_Red_Sox_season&diff=prev&oldid=539310337'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[2, 3, 'R:MORPH', 'Computing', 2, 3]], 'sentence_gt': 'Category : Computer terminology', 'sentence': 'Category : Computing terminology', 'url': 'https://en.wikipedia.org/w/index.php?title=Pairing_(computing)&diff=prev&oldid=518755783'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:ORTH': 1, 'R:NOUN:NUM': 1})
+{'edits': [[5, 6, 'R:ORTH', 'Warm', 5, 6], [6, 7, 'R:MORPH', 'fuzzies', 6, 7]], 'sentence_gt': 'They are a form of warm fuzzy : they are free to give and they bring joy to the recipient .', 'sentence': 'They are a form of Warm fuzzies : they are free to give and they bring joy to the recipient .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Barnstars&diff=prev&oldid=816841334'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[4, 5, 'R:MORPH', 'graphic', 4, 5]], 'sentence_gt': 'Category : Visualization ( graphics )', 'sentence': 'Category : Visualization ( graphic )', 'url': 'https://en.wikipedia.org/w/index.php?title=Starlight_Information_Visualization_System&diff=prev&oldid=319602064'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[13, 14, 'R:MORPH', 'axes', 13, 14]], 'sentence_gt': "A ' ' ' stem ' '' is one of two main structural axis of a vascular plant .", 'sentence': "A ' ' ' stem ' '' is one of two main structural axes of a vascular plant .", 'url': 'https://en.wikipedia.org/w/index.php?title=Plant_stem&diff=prev&oldid=417453651'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[1, 2, 'R:MORPH', 'broadcast', 1, 2]], 'sentence_gt': 'Livedome broadcasted the show live on the 13th of October as a live stream through 36 portals .', 'sentence': 'Livedome broadcast the show live on the 13th of October as a live stream through 36 portals .', 'url': 'https://en.wikipedia.org/w/index.php?title=Hind_Laroussi&diff=prev&oldid=398413278'}
+===================================================
+1.9.0: Counter({'R:VERB': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:VERB': 1, 'R:ADJ:FORM': 1})
+{'edits': [[6, 7, 'R:VERB', 'was', 6, 7], [13, 14, 'R:MORPH', 'late', 13, 14]], 'sentence_gt': 'The carrack ( or nau ) represented the state of the art in later medieval shipbuilding .', 'sentence': 'The carrack ( or nau ) was the state of the art in late medieval shipbuilding .', 'url': 'https://en.wikipedia.org/w/index.php?title=Caravel&diff=prev&oldid=247724990'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[44, 45, 'R:MORPH', 'Star', 44, 45]], 'sentence_gt': "David , Thomas and Qaasim plot to overthrow the movie 's bullying director and Nat discovers he 's starting to have feelings for his co - star , actress Miranda Cosgrove who plays herself .. '''Special Guest Appearance by : ' '' Miranda Cosgrove'''Guest Stars : ' '' Toni Seawright'''Songs Performed : ' '' ' ' Blueberry Cotton '' , ' ' Scary World '' , ' ' Face In The Hall''http://www.marketwatch.com / news / story / nickelodeon - kicks - off - new - season / story.aspx?guid=%7B41F02BE8-F8B9 - 49CA - B183 - 5F31982279C2%7D&dist = hppr", 'sentence': "David , Thomas and Qaasim plot to overthrow the movie 's bullying director and Nat discovers he 's starting to have feelings for his co - star , actress Miranda Cosgrove who plays herself .. '''Special Guest Appearance by : ' '' Miranda Cosgrove'''Guest Star : ' '' Toni Seawright'''Songs Performed : ' '' ' ' Blueberry Cotton '' , ' ' Scary World '' , ' ' Face In The Hall''http://www.marketwatch.com / news / story / nickelodeon - kicks - off - new - season / story.aspx?guid=%7B41F02BE8-F8B9 - 49CA - B183 - 5F31982279C2%7D&dist = hppr", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_The_Naked_Brothers_Band_episodes&diff=prev&oldid=246193244'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[2, 3, 'R:MORPH', 'Electronics', 2, 3]], 'sentence_gt': 'Category : Electronic companies of the United States', 'sentence': 'Category : Electronics companies of the United States', 'url': 'https://en.wikipedia.org/w/index.php?title=Underwater_Audio&diff=prev&oldid=563960804'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[13, 14, 'R:MORPH', 'sphecid', 13, 14], [14, 14, 'M:NOUN', 'wasps', 14, 15]], 'sentence_gt': 'Other natural enemies of larvae included reduviid bugs ; birds ; spiders ; sphecids ; and chameleons .', 'sentence': 'Other natural enemies of larvae included reduviid bugs ; birds ; spiders ; sphecid wasps ; and chameleons .', 'url': 'https://en.wikipedia.org/w/index.php?title=Papilio_demoleus&diff=prev&oldid=399359126'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:MORPH': 1, 'R:OTHER': 1})
+{'edits': [[2, 3, 'R:MORPH', 'Austr', 2, 3], [4, 5, 'R:ADJ', 'Ottoman', 4, 5]], 'sentence_gt': 'After the Austrian - Turkish wars , together with the other Macedonian cities , the trade development and the overall thriving of the city was stifled .', 'sentence': 'After the Austr - Ottoman wars , together with the other Macedonian cities , the trade development and the overall thriving of the city was stifled .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bitola&diff=prev&oldid=69331599'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:MORPH', 'work', 3, 4]], 'sentence_gt': '= = Great works guys !', 'sentence': '= = Great work guys !', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:List_of_rock_instrumentals&diff=prev&oldid=32598929'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'M:DET': 1})
+2.2.1: Counter({'R:MORPH': 1, 'M:CONJ': 1})
+{'edits': [[10, 11, 'R:MORPH', 'detrimental', 10, 11], [12, 12, 'M:DET', 'both', 12, 13]], 'sentence_gt': "Moon 's penchant for the wild life would eventually be detriment to his drumming ability and his reliability as a band member .", 'sentence': "Moon 's penchant for the wild life would eventually be detrimental to both his drumming ability and his reliability as a band member .", 'url': 'https://en.wikipedia.org/w/index.php?title=Keith_Moon&diff=prev&oldid=46266121'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:MORPH', 'modeling', 3, 4]], 'sentence_gt': 'Category : Scientific modelling', 'sentence': 'Category : Scientific modeling', 'url': 'https://en.wikipedia.org/w/index.php?title=Model_year_(computer_modeling)&diff=prev&oldid=433182680'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[7, 8, 'R:MORPH', 'plastic', 7, 8]], 'sentence_gt': 'They are the characteristic property of thermosetting plastics materials .', 'sentence': 'They are the characteristic property of thermosetting plastic materials .', 'url': 'https://en.wikipedia.org/w/index.php?title=Cross-link&diff=prev&oldid=56923300'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:SVA': 1})
+{'edits': [[12, 13, 'R:MORPH', 'proceeds', 12, 13]], 'sentence_gt': 'The video depicts the band as it travels to the site and proceed to dig up the abandoned cartridges .', 'sentence': 'The video depicts the band as it travels to the site and proceeds to dig up the abandoned cartridges .', 'url': 'https://en.wikipedia.org/w/index.php?title=Atari_video_game_burial&diff=prev&oldid=278055701'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[2, 3, 'R:MORPH', 'Speeches', 2, 3]], 'sentence_gt': 'Category : Speech', 'sentence': 'Category : Speeches', 'url': 'https://en.wikipedia.org/w/index.php?title=National_Forensic_Association&diff=prev&oldid=331438908'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[2, 3, 'R:MORPH', 'WikiProject', 2, 3]], 'sentence_gt': 'Category : WikiProjects Lepidoptera', 'sentence': 'Category : WikiProject Lepidoptera', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Lepidoptera&diff=prev&oldid=56246481'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[8, 9, 'R:MORPH', 'point', 8, 9]], 'sentence_gt': 'Hi ; I redirected the page to Action points because we already have an article on AP .', 'sentence': 'Hi ; I redirected the page to Action point because we already have an article on AP .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:TheYellowShark&diff=prev&oldid=113227735'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[4, 5, 'R:MORPH', 'hearings', 4, 5]], 'sentence_gt': '= = = Judges hearing and final decisions===', 'sentence': '= = = Judges hearings and final decisions===', 'url': 'https://en.wikipedia.org/w/index.php?title=Dec._No._5946/212/2015&diff=prev&oldid=757774107'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[6, 7, 'R:MORPH', 'Receiving', 6, 7]], 'sentence_gt': 'This model differs from the " Receiver party pays " ( RPP ) model in which the receiver of the call pays for receiving it .', 'sentence': 'This model differs from the " Receiving party pays " ( RPP ) model in which the receiver of the call pays for receiving it .', 'url': 'https://en.wikipedia.org/w/index.php?title=Calling_party_pays&diff=prev&oldid=885348257'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[9, 10, 'R:MORPH', 'sniper', 9, 10]], 'sentence_gt': 'Buildings there had often been used by militants as sniping posts and mortar ( weapon ) bases to shoot at Israeli settlements and soldiers .', 'sentence': 'Buildings there had often been used by militants as sniper posts and mortar ( weapon ) bases to shoot at Israeli settlements and soldiers .', 'url': 'https://en.wikipedia.org/w/index.php?title=Khan_Yunis&diff=prev&oldid=482769774'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[30, 31, 'R:MORPH', 'remarks', 30, 31]], 'sentence_gt': 'As he is nitpicking to the manager about the candy bar , he notes that the mechanic said he was eating a $ 100,000 bar when another person working there remarked , " Is n\'t it called a 100 Grand Bar now ? "', 'sentence': 'As he is nitpicking to the manager about the candy bar , he notes that the mechanic said he was eating a $ 100,000 bar when another person working there remarks , " Is n\'t it called a 100 Grand Bar now ? "', 'url': 'https://en.wikipedia.org/w/index.php?title=100_Grand_Bar&diff=prev&oldid=140757932'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[2, 3, 'R:MORPH', 'Electronics', 2, 3]], 'sentence_gt': 'Category : Electronic companies of Switzerland', 'sentence': 'Category : Electronics companies of Switzerland', 'url': 'https://en.wikipedia.org/w/index.php?title=Enics&diff=prev&oldid=687801981'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:ADJ:FORM': 1, 'M:PUNCT': 1})
+{'edits': [[8, 9, 'R:MORPH', 'hard', 8, 9], [9, 9, 'M:PUNCT', '-', 9, 10]], 'sentence_gt': "It received criticism by Dylan fans for its harder rock sound , a noticeable difference from the artist 's earlier folk music .", 'sentence': "It received criticism by Dylan fans for its hard - rock sound , a noticeable difference from the artist 's earlier folk music .", 'url': 'https://en.wikipedia.org/w/index.php?title=Like_a_Rolling_Stone&diff=prev&oldid=219099369'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[1, 2, 'R:MORPH', 'was', 1, 2]], 'sentence_gt': 'Wells wa born in Seattle and raised in Spokane , Washington .', 'sentence': 'Wells was born in Seattle and raised in Spokane , Washington .', 'url': 'https://en.wikipedia.org/w/index.php?title=Tyrone_Wells&diff=prev&oldid=467411384'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[7, 8, 'R:MORPH', 'is', 7, 8]], 'sentence_gt': 'But it is a POV edit and iss excessively vague per WP : SUMMARYNO , to the point that it is " functionally the equivalent to not providing a summary at all . "', 'sentence': 'But it is a POV edit and is excessively vague per WP : SUMMARYNO , to the point that it is " functionally the equivalent to not providing a summary at all . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators%27_noticeboard/Incidents&diff=prev&oldid=790258870'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[2, 3, 'R:MORPH', 'Charter', 2, 3]], 'sentence_gt': 'Category : Chartered airlines', 'sentence': 'Category : Charter airlines', 'url': 'https://en.wikipedia.org/w/index.php?title=Havana_Air&diff=prev&oldid=732294341'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[6, 7, 'R:MORPH', 'provided', 6, 7]], 'sentence_gt': 'She then plants evidence that Lecter provider her , and Lecter leaves a voicemail taking the credit for the crime .', 'sentence': 'She then plants evidence that Lecter provided her , and Lecter leaves a voicemail taking the credit for the crime .', 'url': 'https://en.wikipedia.org/w/index.php?title=Hannibal_(Harris_novel)&diff=prev&oldid=207693863'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[5, 6, 'R:MORPH', 'counseling', 5, 6]], 'sentence_gt': 'Such measures may range from counselling to placement at special care unit .', 'sentence': 'Such measures may range from counseling to placement at special care unit .', 'url': 'https://en.wikipedia.org/w/index.php?title=Defense_of_infancy&diff=prev&oldid=355516694'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[14, 15, 'R:MORPH', 'Love', 14, 15]], 'sentence_gt': "' ' ' ' ' Aashiqui ' '' '' ' ' ( Translation : Lover ) '' is a 1990 Bollywood musical romance film directed by Mahesh Bhatt , starring Rahul Roy , Anu Aggarwal , and Deepak Tijori in pivotal roles .", 'sentence': "' ' ' ' ' Aashiqui ' '' '' ' ' ( Translation : Love ) '' is a 1990 Bollywood musical romance film directed by Mahesh Bhatt , starring Rahul Roy , Anu Aggarwal , and Deepak Tijori in pivotal roles .", 'url': 'https://en.wikipedia.org/w/index.php?title=Aashiqui&diff=prev&oldid=715927827'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:VERB:FORM': 1, 'M:NOUN': 1})
+{'edits': [[2, 3, 'R:MORPH', 'Requesting', 2, 3], [3, 3, 'M:NOUN', 'rights', 3, 4]], 'sentence_gt': '= = Request = =', 'sentence': '= = Requesting rights = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Mass_message_senders&diff=prev&oldid=620022684'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[14, 15, 'R:MORPH', 'baseman', 14, 15]], 'sentence_gt': 'On February 20 , 2013 , the Red Sox acquired former Seattle Mariners first basemen Mike Carp for cash considerations .', 'sentence': 'On February 20 , 2013 , the Red Sox acquired former Seattle Mariners first baseman Mike Carp for cash considerations .', 'url': 'https://en.wikipedia.org/w/index.php?title=2013_Boston_Red_Sox_season&diff=prev&oldid=539310232'}
+===================================================
+1.9.0: Counter({'U:VERB': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[6, 8, 'U:VERB', '', 6, 6], [8, 9, 'R:MORPH', 'expands', 6, 7]], 'sentence_gt': "' ' Dynasty Warriors 4 '' continues to expand on its predecessors by adding new characters , new modes of play and a completely new Edit Mode Instead of having strict routines to follow during battle , officers , to some extent , will react to events on the battlefield .", 'sentence': "' ' Dynasty Warriors 4 '' expands on its predecessors by adding new characters , new modes of play and a completely new Edit Mode Instead of having strict routines to follow during battle , officers , to some extent , will react to events on the battlefield .", 'url': 'https://en.wikipedia.org/w/index.php?title=Dynasty_Warriors_4&diff=prev&oldid=117574223'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'M:NOUN': 1})
+{'edits': [[3, 4, 'R:MORPH', 'Dominican', 3, 4], [4, 4, 'M:NOUN', 'Order', 4, 5]], 'sentence_gt': 'Dominique Grenier , Dominicans 1326–1347Grenier had been Master of the Sacred Palace for Pope John XXII .', 'sentence': 'Dominique Grenier , Dominican Order 1326–1347Grenier had been Master of the Sacred Palace for Pope John XXII .', 'url': 'https://en.wikipedia.org/w/index.php?title=Roman_Catholic_Diocese_of_Pamiers&diff=prev&oldid=813662050'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:MORPH': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:VERB:FORM': 1})
+{'edits': [[9, 9, 'M:PUNCT', ',', 9, 10], [18, 19, 'R:MORPH', 'consumed', 19, 20]], 'sentence_gt': 'If a full field project was to be undertaken it is estimated that for every unit of energy consumer 3.5&nbsp;units would be produced over the project life cycle .', 'sentence': 'If a full field project was to be undertaken , it is estimated that for every unit of energy consumed 3.5&nbsp;units would be produced over the project life cycle .', 'url': 'https://en.wikipedia.org/w/index.php?title=Shale_oil_extraction&diff=prev&oldid=169163449'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:SVA': 1})
+{'edits': [[12, 13, 'R:MORPH', 'release', 12, 13]], 'sentence_gt': 'Other authors have also argued that indirect land use changes not only releases sequestered carbon , but also has other significant social and environmental impacts , putting pressure on biodiversity , soil , water quality , food vs. fuel , concentration of land tenure , displacement of workers and local communities , and cultural disruption .', 'sentence': 'Other authors have also argued that indirect land use changes not only release sequestered carbon , but also has other significant social and environmental impacts , putting pressure on biodiversity , soil , water quality , food vs. fuel , concentration of land tenure , displacement of workers and local communities , and cultural disruption .', 'url': 'https://en.wikipedia.org/w/index.php?title=Indirect_land_use_change_impacts_of_biofuels&diff=prev&oldid=353653480'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:VERB:SVA': 1})
+{'edits': [[1, 2, 'R:NOUN:NUM', 'sizes', 1, 2], [2, 3, 'R:MORPH', 'vary', 2, 3]], 'sentence_gt': 'Plasmid size varies from 1 to over 1,000 Base pair ( kbp).', 'sentence': 'Plasmid sizes vary from 1 to over 1,000 Base pair ( kbp).', 'url': 'https://en.wikipedia.org/w/index.php?title=Plasmid&diff=prev&oldid=421915987'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[17, 18, 'R:MORPH', 'Czechs', 17, 18]], 'sentence_gt': "' ' ' Jan Bárta ' '' ( born 9 August 1942 in Prague ) is a Czech architect and preservationist .", 'sentence': "' ' ' Jan Bárta ' '' ( born 9 August 1942 in Prague ) is a Czechs architect and preservationist .", 'url': 'https://en.wikipedia.org/w/index.php?title=Jan_B%C3%A1rta_(architect)&diff=prev&oldid=852887809'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[27, 28, 'R:MORPH', 'explains', 27, 28]], 'sentence_gt': "As I 've previously opined when this quantification subject has been raised elsewhere , I do not think that such data is available for the reasons Smallbones explaines above .", 'sentence': "As I 've previously opined when this quantification subject has been raised elsewhere , I do not think that such data is available for the reasons Smallbones explains above .", 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Jimbo_Wales&diff=prev&oldid=582246042'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[1, 2, 'R:MORPH', 'octree', 1, 2]], 'sentence_gt': 'Linear octrees', 'sentence': 'Linear octree', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_data_structures&diff=prev&oldid=417019720'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[4, 5, 'R:MORPH', 'episome', 4, 5]], 'sentence_gt': "An ' ' ' episomes ' '' is a plasmid that can integrate itself into the chromosomal DNA of the host organism ( Fig .", 'sentence': "An ' ' ' episome ' '' is a plasmid that can integrate itself into the chromosomal DNA of the host organism ( Fig .", 'url': 'https://en.wikipedia.org/w/index.php?title=Plasmid&diff=prev&oldid=74835985'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[26, 27, 'R:MORPH', 'meteoroid', 26, 27]], 'sentence_gt': 'Evaluation of this observational data allowed V. G. Fesenkov , then chairman of the meteorite committee of the Russian Academy of Sciences , to estimate the meteoroids orbit before it encountered the Earth .', 'sentence': 'Evaluation of this observational data allowed V. G. Fesenkov , then chairman of the meteorite committee of the Russian Academy of Sciences , to estimate the meteoroid orbit before it encountered the Earth .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sikhote-Alin_meteorite&diff=prev&oldid=183068765'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:ADJ:FORM': 1})
+{'edits': [[9, 10, 'R:MORPH', 'advanced', 9, 10]], 'sentence_gt': 'Currently the DRDO is engaged in developing the most advances series of ICBM named Surya , which would probably have a range of more than 10000&nbsp;km .', 'sentence': 'Currently the DRDO is engaged in developing the most advanced series of ICBM named Surya , which would probably have a range of more than 10000&nbsp;km .', 'url': 'https://en.wikipedia.org/w/index.php?title=Military_history_of_India&diff=prev&oldid=314515643'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[5, 6, 'R:MORPH', 'leader', 5, 6]], 'sentence_gt': "When he discovered that his leaded had been captured by the Government , the loyal Hess turned himself in to the authorities .. After the putsch the party was banned in Bavaria , but it participated in 1924 's two elections by proxy as the National Socialist Freedom Movement .", 'sentence': "When he discovered that his leader had been captured by the Government , the loyal Hess turned himself in to the authorities .. After the putsch the party was banned in Bavaria , but it participated in 1924 's two elections by proxy as the National Socialist Freedom Movement .", 'url': 'https://en.wikipedia.org/w/index.php?title=Adolf_Hitler%27s_rise_to_power&diff=prev&oldid=398956531'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'R:SPELL': 1})
+2.2.1: Counter({'R:VERB:FORM': 1, 'R:SPELL': 1})
+{'edits': [[12, 13, 'R:MORPH', 'receive', 12, 13], [14, 15, 'R:SPELL', 'attention', 14, 15]], 'sentence_gt': "I was also surprised to see that the music video did not received media attantion at all , I know that section looks empty tho lol ; unfortunately , there are no articles on the web commenting on Stan or Selena 's live performances .", 'sentence': "I was also surprised to see that the music video did not receive media attention at all , I know that section looks empty tho lol ; unfortunately , there are no articles on the web commenting on Stan or Selena 's live performances .", 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Mr._Saxobeat/GA1&diff=prev&oldid=784352373'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[4, 5, 'R:MORPH', 'canoeing', 4, 5]], 'sentence_gt': 'There is also night canoing from 01 March to 31 July between 18:00 and 7:00 , otherwise between 21:00 and 07:00 .', 'sentence': 'There is also night canoeing from 01 March to 31 July between 18:00 and 7:00 , otherwise between 21:00 and 07:00 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Franconian_Saale&diff=prev&oldid=377662665'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[14, 15, 'R:MORPH', 'Americans', 14, 15]], 'sentence_gt': 'A Christian church in Islamabad was attacked after 11 September 2001 , and some American were among the dead .', 'sentence': 'A Christian church in Islamabad was attacked after 11 September 2001 , and some Americans were among the dead .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sectarian_violence_in_Pakistan&diff=prev&oldid=586141802'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[33, 34, 'R:MORPH', 'sing', 33, 34]], 'sentence_gt': 'The school has a long musical tradition , and a close association with Brentwood Cathedral ( Roman Catholic ) and Chelmsford Cathedral ( Anglican ) cathedrals ; a number of pupils and staff singing in the choir of each cathedral .', 'sentence': 'The school has a long musical tradition , and a close association with Brentwood Cathedral ( Roman Catholic ) and Chelmsford Cathedral ( Anglican ) cathedrals ; a number of pupils and staff sing in the choir of each cathedral .', 'url': 'https://en.wikipedia.org/w/index.php?title=Brentwood_School,_Essex&diff=prev&oldid=750602893'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[7, 8, 'R:MORPH', 'user', 7, 8]], 'sentence_gt': 'Please block the user , as the use had never responded to any alerts in months ( possibly over a year . )', 'sentence': 'Please block the user , as the user had never responded to any alerts in months ( possibly over a year . )', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:YellowMonkey&diff=prev&oldid=372022441'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1, 'M:NOUN': 1})
+{'edits': [[32, 33, 'R:MORPH', 'Polar', 32, 33], [33, 33, 'M:NOUN', 'Bears', 33, 34]], 'sentence_gt': "Season 2 starts off with a new Naked Brothers Band movie , The Naked Brothers Band : The Sidekicks and end 's with a new movie , The Naked Brothers Band : Polars .", 'sentence': "Season 2 starts off with a new Naked Brothers Band movie , The Naked Brothers Band : The Sidekicks and end 's with a new movie , The Naked Brothers Band : Polar Bears .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band_(TV_series)&diff=prev&oldid=200209823'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'U:NOUN': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'U:NOUN': 1})
+{'edits': [[9, 10, 'R:MORPH', 'Bengalis', 9, 10], [10, 11, 'U:NOUN', '', 10, 10]], 'sentence_gt': 'Brahmachari , a prominent surname / title among the Bengali people of West Bengal , Assam and Bangladesh .', 'sentence': 'Brahmachari , a prominent surname / title among the Bengalis of West Bengal , Assam and Bangladesh .', 'url': 'https://en.wikipedia.org/w/index.php?title=Brahmachari&diff=prev&oldid=818033072'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[14, 15, 'R:MORPH', 'Lancer', 14, 15]], 'sentence_gt': 'From the 65th Armoured Regiment onwards , the terms " Cavalry " and " Lance " have been dispensed with .', 'sentence': 'From the 65th Armoured Regiment onwards , the terms " Cavalry " and " Lancer " have been dispensed with .', 'url': 'https://en.wikipedia.org/w/index.php?title=Indian_Army_Armoured_Corps&diff=prev&oldid=374989167'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[15, 16, 'R:MORPH', 'stared', 15, 16]], 'sentence_gt': 'She had previously been in a church choir , but passed out after having everybody stare at her while singing solo .', 'sentence': 'She had previously been in a church choir , but passed out after having everybody stared at her while singing solo .', 'url': 'https://en.wikipedia.org/w/index.php?title=High_School_Musical&diff=prev&oldid=175035464'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[4, 5, 'R:MORPH', 'list', 4, 5]], 'sentence_gt': 'Category : Malaysian honours lists', 'sentence': 'Category : Malaysian honours list', 'url': 'https://en.wikipedia.org/w/index.php?title=Lawrence_Spitzig&diff=prev&oldid=318850924'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:VERB:SVA': 1})
+{'edits': [[44, 45, 'R:MORPH', 'house', 44, 45]], 'sentence_gt': 'Weatherfield areas are often shot on location around Manchester , as its filming studios , the Granada Studios complex on Quay Street in Manchester city centre ( closed 2013 ) and its new set MediaCityUK in Salford Quays ( opened 2014 ) , only houses the outdoor sets of Coronation Street and its immediate surrounding streets .', 'sentence': 'Weatherfield areas are often shot on location around Manchester , as its filming studios , the Granada Studios complex on Quay Street in Manchester city centre ( closed 2013 ) and its new set MediaCityUK in Salford Quays ( opened 2014 ) , only house the outdoor sets of Coronation Street and its immediate surrounding streets .', 'url': 'https://en.wikipedia.org/w/index.php?title=Weatherfield&diff=prev&oldid=747386297'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[8, 9, 'R:MORPH', 'doctrines', 8, 9]], 'sentence_gt': "' ' ' Evolutionism ' '' refers to doctrine of evolution , specifically to a widely held 19th century belief that organisms are intrinsically bound to improve themselves , and that changes are progressive and arise through inheritance of acquired characters , as in Lamarckism .", 'sentence': "' ' ' Evolutionism ' '' refers to doctrines of evolution , specifically to a widely held 19th century belief that organisms are intrinsically bound to improve themselves , and that changes are progressive and arise through inheritance of acquired characters , as in Lamarckism .", 'url': 'https://en.wikipedia.org/w/index.php?title=Evolutionism&diff=prev&oldid=328002287'}
+===================================================

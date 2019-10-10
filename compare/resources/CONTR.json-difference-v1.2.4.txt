@@ -1,0 +1,432 @@
+1.9.0: Counter({'R:PUNCT': 1, 'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 2})
+{'edits': [[30, 31, 'R:PUNCT', ':', 30, 31], [38, 39, 'R:CONTR', "'ve", 38, 39]], 'sentence_gt': 'According to Epstein , Emanuel made racist and anti - gay remarks and prevented her from sending a script about United States Navy SEALs to actor Wesley Snipes , saying , " That is the dumbest thing I ’ve ever heard .', 'sentence': 'According to Epstein , Emanuel made racist and anti - gay remarks and prevented her from sending a script about United States Navy SEALs to actor Wesley Snipes , saying : " That is the dumbest thing I \'ve ever heard .', 'url': 'https://en.wikipedia.org/w/index.php?title=Ari_Emanuel&diff=prev&oldid=633913787'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'U:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1, 'U:CONTR': 1})
+{'edits': [[1, 2, 'R:VERB:TENSE', 'couldnot', 1, 2], [2, 3, 'U:CONTR', '', 2, 2]], 'sentence_gt': "He could n't explain ' ' how '' organisms might change over generations .", 'sentence': "He couldnot explain ' ' how '' organisms might change over generations .", 'url': 'https://en.wikipedia.org/w/index.php?title=Evolution&diff=prev&oldid=95353688'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:CONTR': 1, 'R:OTHER': 1})
+{'edits': [[4, 5, 'R:CONTR', 'are', 4, 5], [5, 6, 'R:ADJ', 'aghast', 5, 6]], 'sentence_gt': "One day , they 're puzzled when they discover that their trucks have gone missing .", 'sentence': 'One day , they are aghast when they discover that their trucks have gone missing .', 'url': 'https://en.wikipedia.org/w/index.php?title=Thomas_%26_Friends_(series_2)&diff=prev&oldid=612386184'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'M:CONTR': 1})
+2.2.1: Counter({'R:DET': 1, 'M:OTHER': 1})
+{'edits': [[24, 25, 'R:PRON', 'you', 24, 25], [25, 25, 'M:CONTR', "'ve", 25, 26]], 'sentence_gt': ": : : : : : I 'm not very good on technical - code type stuff , but if I 'm reading what your written correctly that would give ' reviewers ' the ability to move any move - protected page on Wikipedia -- which is a pretty big change ; I do n't think the community would ever agree to it .", 'sentence': ": : : : : : I 'm not very good on technical - code type stuff , but if I 'm reading what you 've written correctly that would give ' reviewers ' the ability to move any move - protected page on Wikipedia -- which is a pretty big change ; I do n't think the community would ever agree to it .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Articles_for_creation&diff=prev&oldid=552318094'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:SPELL': 1})
+{'edits': [[12, 13, 'R:CONTR', 'have', 12, 13]], 'sentence_gt': "He stated ' ' Wonderful Wonderful '' is the closest thing they 've done to their 2006 album .", 'sentence': "He stated ' ' Wonderful Wonderful '' is the closest thing they have done to their 2006 album .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wonderful_Wonderful_(Killers_album)&diff=prev&oldid=802271664'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[7, 8, 'R:CONTR', "n't", 7, 8]], 'sentence_gt': 'The narrator is a guy that ca n’t let the memory of a woman escape him .', 'sentence': "The narrator is a guy that ca n't let the memory of a woman escape him .", 'url': 'https://en.wikipedia.org/w/index.php?title=A_Fire_I_Can%27t_Put_Out&diff=prev&oldid=883236305'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[23, 24, 'R:CONTR', "'m", 23, 24]], 'sentence_gt': 'One of the men said , " \' \' I \'\' am Maurice Walsh , " to which Hemingway responded , " I ’m Jack Hemingway ... pleased to meet you . "', 'sentence': 'One of the men said , " \' \' I \'\' am Maurice Walsh , " to which Hemingway responded , " I \'m Jack Hemingway ... pleased to meet you . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Jack_Hemingway&diff=prev&oldid=697675673'}
+===================================================
+1.9.0: Counter({'R:CONTR': 2})
+2.2.1: Counter({'R:PUNCT': 1, 'R:CONTR': 1})
+{'edits': [[26, 27, 'R:CONTR', "'m", 26, 27], [34, 35, 'R:CONTR', "'s", 34, 35]], 'sentence_gt': 'The live record is taken from the very end of two years of touring behind \' \' Boys and Girls in America \'\' , and I ’m glad we recorded then , because it ’s the real peak of the band as a performing unit . "', 'sentence': 'The live record is taken from the very end of two years of touring behind \' \' Boys and Girls in America \'\' , and I \'m glad we recorded then , because it \'s the real peak of the band as a performing unit . "', 'url': 'https://en.wikipedia.org/w/index.php?title=A_Positive_Rage&diff=prev&oldid=741180979'}
+===================================================
+1.9.0: Counter({'U:CONTR': 1, 'R:ORTH': 1})
+2.2.1: Counter({'U:OTHER': 1, 'R:ORTH': 1})
+{'edits': [[23, 25, 'U:CONTR', 'Got', 23, 24], [25, 26, 'R:ORTH', 'Rhythm', 24, 25]], 'sentence_gt': "Written in 1948 it is a contrafact of Honeysuckle Rose ( song ) with a bridge based on the chord changes to I 've got rhythm .", 'sentence': 'Written in 1948 it is a contrafact of Honeysuckle Rose ( song ) with a bridge based on the chord changes to I Got Rhythm .', 'url': 'https://en.wikipedia.org/w/index.php?title=Ah-Leu-Cha&diff=prev&oldid=496776239'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:PUNCT': 1, 'M:PUNCT': 1})
+{'edits': [[10, 11, 'R:CONTR', "'m", 10, 11], [31, 31, 'M:PUNCT', '"', 31, 32]], 'sentence_gt': 'She further commented about the writing process , " I ’m conscious of having been so mad during so much of the writing of this book ... Like really mad .', 'sentence': 'She further commented about the writing process , " I \'m conscious of having been so mad during so much of the writing of this book ... Like really mad . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Trust_Exercise&diff=prev&oldid=912932595'}
+===================================================
+1.9.0: Counter({'M:CONTR': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[1, 1, 'M:CONTR', "'m", 1, 2]], 'sentence_gt': "I kind of disappointment that Jimbo hasn't weighed in on this .", 'sentence': "I 'm kind of disappointment that Jimbo hasn't weighed in on this .", 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Jimbo_Wales&diff=prev&oldid=605747526'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:CONTR': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:PUNCT': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [34, 35, 'R:CONTR', "'ve", 33, 34]], 'sentence_gt': '" All the different emotions that are written about on this album are all pretty much about the kind of tumultuous , crazy , insane , intense , semi - toxic relationships that I ’ve experienced in the last two years .', 'sentence': "All the different emotions that are written about on this album are all pretty much about the kind of tumultuous , crazy , insane , intense , semi - toxic relationships that I 've experienced in the last two years .", 'url': 'https://en.wikipedia.org/w/index.php?title=Red_(Taylor_Swift_album)&diff=prev&oldid=648271778'}
+===================================================
+1.9.0: Counter({'R:CONTR': 2})
+2.2.1: Counter({'R:CONTR': 1, 'R:OTHER': 1})
+{'edits': [[37, 38, 'R:CONTR', "'s", 37, 38], [54, 55, 'R:CONTR', "n't", 54, 55]], 'sentence_gt': 'PopMatters writer Michael Frauenhofer wrote that " \' \' The Return of Dr. Octagon \'\' is still better than anything Kool Keith \'s done in a little while , but apart from its best tracks , it ’s not close to the level of his finest work of the past , and it does n’t really build much on the legend of Dr. Octagon , which still rests most firmly on the good doctor \'s debut . "', 'sentence': 'PopMatters writer Michael Frauenhofer wrote that " \' \' The Return of Dr. Octagon \'\' is still better than anything Kool Keith \'s done in a little while , but apart from its best tracks , it \'s not close to the level of his finest work of the past , and it does n\'t really build much on the legend of Dr. Octagon , which still rests most firmly on the good doctor \'s debut . "', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Return_of_Dr._Octagon&diff=prev&oldid=266984525'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[46, 47, 'R:CONTR', "'ve", 46, 47]], 'sentence_gt': 'Dornbush highlighted how " gorgeous " the skyscrapers of the city looked , and that " swinging around at dusk as the calm oranges of the setting sun hit the reflective glass ... evoked some of the most calming , zen - like gameplay sessions I ’ve experienced in awhile " .', 'sentence': 'Dornbush highlighted how " gorgeous " the skyscrapers of the city looked , and that " swinging around at dusk as the calm oranges of the setting sun hit the reflective glass ... evoked some of the most calming , zen - like gameplay sessions I \'ve experienced in awhile " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Spider-Man_(2018_video_game)&diff=prev&oldid=884414263'}
+===================================================
+1.9.0: Counter({'R:CONTR': 2})
+2.2.1: Counter({'R:PUNCT': 1, 'R:CONTR': 1})
+{'edits': [[1, 2, 'R:CONTR', "'m", 1, 2], [19, 20, 'R:CONTR', "'re", 19, 20]], 'sentence_gt': "I ’m not at a point where I can say it 's definitely gon na happen , but we ’re all working on trying to make it happen .", 'sentence': "I 'm not at a point where I can say it 's definitely gon na happen , but we 're all working on trying to make it happen .", 'url': 'https://en.wikipedia.org/w/index.php?title=Foreigner_(band)&diff=prev&oldid=734804944'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[5, 6, 'R:CONTR', "'m", 5, 6]], 'sentence_gt': 'I could answer " I ’m still an atheist , thank God . "', 'sentence': 'I could answer " I \'m still an atheist , thank God . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Luis_Bu%C3%B1uel&diff=prev&oldid=775702769'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 6, 'R:CONTR', "'ll", 5, 6]], 'sentence_gt': ": : Okay , I 'm setting up ClueBot III . '", 'sentence': ": : Okay , I 'll setting up ClueBot III . '", 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Bengalis&diff=prev&oldid=657208978'}
+===================================================
+1.9.0: Counter({'U:CONTR': 1})
+2.2.1: Counter({'U:NOUN:POSS': 1})
+{'edits': [[5, 6, 'U:CONTR', '', 5, 5]], 'sentence_gt': "The Game ( rapper ) 's album ' ' The Documentary '' along with a well publicized G - Unit vs.", 'sentence': "The Game ( rapper ) album ' ' The Documentary '' along with a well publicized G - Unit vs.", 'url': 'https://en.wikipedia.org/w/index.php?title=West_Coast_hip_hop&diff=prev&oldid=286968363'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[14, 15, 'R:CONTR', "'m", 14, 15]], 'sentence_gt': 'Not to blow my own trumpet or anything , but you know what I ’m saying . "', 'sentence': 'Not to blow my own trumpet or anything , but you know what I \'m saying . "', 'url': 'https://en.wikipedia.org/w/index.php?title=AM_(Arctic_Monkeys_album)&diff=prev&oldid=635218509'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'U:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[2, 3, 'R:NOUN', 'mid-1970s', 2, 3], [3, 4, 'U:CONTR', '', 3, 3]], 'sentence_gt': "By the mid-70 's the club was faltering .", 'sentence': 'By the mid-1970s the club was faltering .', 'url': 'https://en.wikipedia.org/w/index.php?title=FK_Pirmasens&diff=prev&oldid=740825094'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[1, 2, 'R:CONTR', "'ve", 1, 2]], 'sentence_gt': 'They ’ve been competing since they were teenagers and Gina always loses .', 'sentence': "They 've been competing since they were teenagers and Gina always loses .", 'url': 'https://en.wikipedia.org/w/index.php?title=Fake_Plastic_Snow&diff=prev&oldid=894788065'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[26, 27, 'R:CONTR', "'m", 26, 27]], 'sentence_gt': 'On January 19 , 2016 , Yasiin Bey announced his retirement from both the music and film industries on Kanye West \'s website : " I ’m retiring from the music recording industry as it is currently assembled today , and also Hollywood , effective immediately .', 'sentence': 'On January 19 , 2016 , Yasiin Bey announced his retirement from both the music and film industries on Kanye West \'s website : " I \'m retiring from the music recording industry as it is currently assembled today , and also Hollywood , effective immediately .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mos_Def&diff=prev&oldid=750951204'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[1, 2, 'R:CONTR', "'m", 1, 2]], 'sentence_gt': 'I m currently involved in an edit war with User : BookwormUK at Black Stone .', 'sentence': "I 'm currently involved in an edit war with User : BookwormUK at Black Stone .", 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Zora&diff=prev&oldid=69117161'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[14, 15, 'R:CONTR', "'d", 14, 15]], 'sentence_gt': "Taking Jasmine as a base point the writers started connecting back the dots they 've set up in previous seasons .", 'sentence': "Taking Jasmine as a base point the writers started connecting back the dots they 'd set up in previous seasons .", 'url': 'https://en.wikipedia.org/w/index.php?title=Connor_(Angel)&diff=prev&oldid=476063063'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'M:ADJ': 1})
+2.2.1: Counter({'R:CONTR': 1, 'M:ADV': 1})
+{'edits': [[1, 2, 'R:CONTR', 'is', 1, 2], [6, 6, 'M:ADJ', 'long', 6, 7]], 'sentence_gt': "It 's around 2.5 million words .", 'sentence': 'It is around 2.5 million words long .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mahabharata&diff=prev&oldid=37951708'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[1, 2, 'R:CONTR', "'ve", 1, 2]], 'sentence_gt': 'I ’ve got to get out of here . "', 'sentence': 'I \'ve got to get out of here . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Gilda_Radner&diff=prev&oldid=594464947'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[13, 14, 'R:CONTR', "n't", 13, 14]], 'sentence_gt': 'Charles Gunn was born in the badlands — an area the police would n’t go — of inner - city Los Angeles where he looked after his sister Alonna from a very young age .', 'sentence': "Charles Gunn was born in the badlands — an area the police would n't go — of inner - city Los Angeles where he looked after his sister Alonna from a very young age .", 'url': 'https://en.wikipedia.org/w/index.php?title=Charles_Gunn_(Angel)&diff=prev&oldid=49233279'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[33, 34, 'R:CONTR', "'m", 33, 34]], 'sentence_gt': 'Bieber continues ; " Yeah , I ’m a bad guy / Ain’t no holdin’ back guy / Come off like a mad guy / Always got your back guy / Yeah I ’m the real type / Keep you full of thrills type / Show you what it feels like / Got an open invite " , before chanting " I \'m the bad guy " .', 'sentence': 'Bieber continues ; " Yeah , I ’m a bad guy / Ain’t no holdin’ back guy / Come off like a mad guy / Always got your back guy / Yeah I \'m the real type / Keep you full of thrills type / Show you what it feels like / Got an open invite " , before chanting " I \'m the bad guy " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bad_Guy_(Billie_Eilish_song)&diff=prev&oldid=914372412'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:VERB:FORM': 1})
+{'edits': [[14, 15, 'R:CONTR', 'am', 14, 15], [15, 16, 'R:VERB:FORM', 'headed', 15, 16]], 'sentence_gt': "= = Articles I might like to edit , from SuggestBot ( where I 'm heading next ) = =", 'sentence': '= = Articles I might like to edit , from SuggestBot ( where I am headed next ) = =', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Frank_Niro&diff=prev&oldid=602201728'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[20, 21, 'R:CONTR', "'d", 20, 21]], 'sentence_gt': 'Divine reaches out to students on an individual basis and asks , " What \'s something big and bold you ’d like to do with your life to make your world better ?', 'sentence': 'Divine reaches out to students on an individual basis and asks , " What \'s something big and bold you \'d like to do with your life to make your world better ?', 'url': 'https://en.wikipedia.org/w/index.php?title=Divine_Bradley&diff=prev&oldid=753562826'}
+===================================================
+1.9.0: Counter({'R:CONTR': 2})
+2.2.1: Counter({'R:PUNCT': 1, 'R:CONTR': 1})
+{'edits': [[1, 2, 'R:CONTR', "'m", 1, 2], [19, 20, 'R:CONTR', "'re", 19, 20]], 'sentence_gt': "I ’m not at a point where I can say it 's definitely gon na happen , but we ’re all working on trying to make it happen .", 'sentence': "I 'm not at a point where I can say it 's definitely gon na happen , but we 're all working on trying to make it happen .", 'url': 'https://en.wikipedia.org/w/index.php?title=Foreigner_(band)&diff=prev&oldid=734804944'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[26, 27, 'R:CONTR', "'m", 26, 27]], 'sentence_gt': 'On October 14 , 2016 , Yasiin Bey posted a video to Facebook where he announced that he \'s still planning to retire : " I ’m retiring for real this year , this week .', 'sentence': 'On October 14 , 2016 , Yasiin Bey posted a video to Facebook where he announced that he \'s still planning to retire : " I \'m retiring for real this year , this week .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mos_Def&diff=prev&oldid=750951204'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[39, 40, 'R:CONTR', "'m", 39, 40]], 'sentence_gt': 'Hecht was raised in a " pretty secular " Jewish household;http://www.jewishexponent.com/\'bridge\'-workshttp://blogs.forward.com / the - arty - semite/174864/jessica - hecht - talks - broadway - vs - hollywood/ she has stated that she is " Reconstructionist Judaism Jewish and I ’m fairly spiritual".http://blogs.wsj.com / speakeasy/2013/04/17/jessica - hecht - on - broadways - the - assembled - parties/', 'sentence': 'Hecht was raised in a " pretty secular " Jewish household;http://www.jewishexponent.com/\'bridge\'-workshttp://blogs.forward.com / the - arty - semite/174864/jessica - hecht - talks - broadway - vs - hollywood/ she has stated that she is " Reconstructionist Judaism Jewish and I \'m fairly spiritual".http://blogs.wsj.com / speakeasy/2013/04/17/jessica - hecht - on - broadways - the - assembled - parties/', 'url': 'https://en.wikipedia.org/w/index.php?title=Jessica_Hecht&diff=prev&oldid=634093484'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:NOUN:POSS': 1})
+{'edits': [[5, 6, 'R:CONTR', "'s", 5, 6]], 'sentence_gt': "His first film was 2001 ’s ' ' Ghost World ( film ) '' .", 'sentence': "His first film was 2001 's ' ' Ghost World ( film ) '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Daniel_Clowes&diff=prev&oldid=894789768'}
+===================================================
+1.9.0: Counter({'M:CONTR': 1, 'R:VERB': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:VERB': 1})
+{'edits': [[39, 39, 'M:CONTR', "'ve", 39, 40], [47, 48, 'R:VERB', 'appear', 48, 49]], 'sentence_gt': 'Stan was later sued by Prodan for using her previous songs ( which were composed by him ) without having the copyright , but won the copyright on June 15.http://traiestemuzica.ro/stiri/alexandra-stan-a-castigat-procesul-cu-marcel-prodan-artista-poate-canta-piesele-care-au-consacrat-o/ It was decided that the three singles that should make part of her second studio album would be on a re - issue of " Saxobeats " , entitled \' \' Cliché ( Hush Hush ) \'\' .', 'sentence': 'Stan was later sued by Prodan for using her previous songs ( which were composed by him ) without having the copyright , but won the copyright on June 15.http://traiestemuzica.ro/stiri/alexandra-stan-a-castigat-procesul-cu-marcel-prodan-artista-poate-canta-piesele-care-au-consacrat-o/ It was decided that the three singles that should \'ve make part of her second studio album would appear on a re - issue of " Saxobeats " , entitled \' \' Cliché ( Hush Hush ) \'\' .', 'url': 'https://en.wikipedia.org/w/index.php?title=Unlocked_(Alexandra_Stan_album)&diff=prev&oldid=668871405'}
+===================================================
+1.9.0: Counter({'R:CONTR': 2})
+2.2.1: Counter({'R:PUNCT': 2})
+{'edits': [[29, 30, 'R:CONTR', "'m", 29, 30], [36, 37, 'R:CONTR', "'m", 36, 37]], 'sentence_gt': 'Seventeen years later , in an interview with the \' \' The New Yorker \'\' , Buñuel expressed a somewhat different opinion about religion and atheism : " I ’m not a Christian , but I ’m not an atheist either , ...', 'sentence': 'Seventeen years later , in an interview with the \' \' The New Yorker \'\' , Buñuel expressed a somewhat different opinion about religion and atheism : " I \'m not a Christian , but I \'m not an atheist either , ...', 'url': 'https://en.wikipedia.org/w/index.php?title=Luis_Bu%C3%B1uel&diff=prev&oldid=775702769'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[18, 19, 'R:CONTR', "'s", 18, 19]], 'sentence_gt': 'Manning Squires Hennig Co. , of Batavia , N.Y. , is the general contractor for this project that ’s included in the five - year capital plan launched in 2008 .', 'sentence': "Manning Squires Hennig Co. , of Batavia , N.Y. , is the general contractor for this project that 's included in the five - year capital plan launched in 2008 .", 'url': 'https://en.wikipedia.org/w/index.php?title=State_University_of_New_York_at_Fredonia&diff=prev&oldid=863590934'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[42, 43, 'R:CONTR', "'ve", 42, 43]], 'sentence_gt': 'The four - day Festival features 60 + domestic and international film premieres and screenings , an opening night party , educational panels and workshops , a VIP lounge , and the Changemaker Honoree Gala that honors an actor and actress who ’ve used film to impact positive social change .', 'sentence': "The four - day Festival features 60 + domestic and international film premieres and screenings , an opening night party , educational panels and workshops , a VIP lounge , and the Changemaker Honoree Gala that honors an actor and actress who 've used film to impact positive social change .", 'url': 'https://en.wikipedia.org/w/index.php?title=Greenwich_International_Film_Festival&diff=prev&oldid=878954629'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[2, 3, 'R:PRON', 'it', 2, 3], [3, 4, 'R:CONTR', 'has', 3, 4]], 'sentence_gt': "To date they 've raised more than $ 76 million for groups like Planned Parenthood , Rainforest Action Network and Oxfam America .", 'sentence': 'To date it has raised more than $ 76 million for groups like Planned Parenthood , Rainforest Action Network and Oxfam America .', 'url': 'https://en.wikipedia.org/w/index.php?title=CREDO_Mobile&diff=prev&oldid=644769482'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[32, 33, 'R:CONTR', "n't", 32, 33]], 'sentence_gt': '\' \' Variety ( magazine ) \'\' was more critical , writing that " Some genre fans who prefer the silly to the satiric may bite , but the anemic pic is n’t remotely weird or witty enough for cult immortality . "', 'sentence': '\' \' Variety ( magazine ) \'\' was more critical , writing that " Some genre fans who prefer the silly to the satiric may bite , but the anemic pic is n\'t remotely weird or witty enough for cult immortality . "', 'url': 'https://en.wikipedia.org/w/index.php?title=What_We_Do_in_the_Shadows&diff=prev&oldid=667019298'}
+===================================================
+1.9.0: Counter({'R:CONTR': 2})
+2.2.1: Counter({'R:PUNCT': 2})
+{'edits': [[1, 2, 'R:CONTR', "'m", 1, 2], [9, 10, 'R:CONTR', "'m", 9, 10]], 'sentence_gt': 'I ’m not going to tell you how I ’m going to end my book , but I suspect the overall flavor is going to be as much bittersweet as it is happy . "', 'sentence': 'I \'m not going to tell you how I \'m going to end my book , but I suspect the overall flavor is going to be as much bittersweet as it is happy . "', 'url': 'https://en.wikipedia.org/w/index.php?title=A_Song_of_Ice_and_Fire&diff=prev&oldid=763771468'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[1, 2, 'R:CONTR', 'have', 1, 2]], 'sentence_gt': "They 've danced for years without becoming close .", 'sentence': 'They have danced for years without becoming close .', 'url': 'https://en.wikipedia.org/w/index.php?title=Danz%C3%B3n&diff=prev&oldid=591494390'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'M:CONTR': 1})
+2.2.1: Counter({'R:VERB': 1, 'M:CONTR': 1})
+{'edits': [[13, 14, 'R:VERB:TENSE', 'could', 13, 14], [14, 14, 'M:CONTR', "n't", 14, 15]], 'sentence_gt': 'At their lifetime , the Greek authors and mortuary priests and temple priests couldn´t explain the impressive monuments and statues of Khafra better than as the result of a megalomaniac character .', 'sentence': "At their lifetime , the Greek authors and mortuary priests and temple priests could n't explain the impressive monuments and statues of Khafra better than as the result of a megalomaniac character .", 'url': 'https://en.wikipedia.org/w/index.php?title=Khafra&diff=prev&oldid=675789805'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:SPELL': 1, 'R:VERB:FORM': 1})
+{'edits': [[11, 12, 'R:CONTR', 'have', 11, 12], [12, 13, 'R:VERB:FORM', 'began', 12, 13]], 'sentence_gt': "Since the border post has been in rebel hands , they 've begun bringing supplies from Tunisia into the besieged towns of the Nafusa Mountains .", 'sentence': 'Since the border post has been in rebel hands , they have began bringing supplies from Tunisia into the besieged towns of the Nafusa Mountains .', 'url': 'https://en.wikipedia.org/w/index.php?title=Battle_of_Wazzin&diff=prev&oldid=426525437'}
+===================================================
+1.9.0: Counter({'M:CONTR': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[17, 17, 'M:CONTR', "'m", 17, 18]], 'sentence_gt': 'Since the repetitive and tiresome COI editing seems to be a thing of the past , I not opposed to removal of the COI tag .', 'sentence': "Since the repetitive and tiresome COI editing seems to be a thing of the past , I 'm not opposed to removal of the COI tag .", 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Wikipediocracy&diff=prev&oldid=683338533'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[17, 18, 'R:CONTR', "'m", 17, 18]], 'sentence_gt': 'But , even though I disagree with him , his simulation is pretty good , so I ’m willing to credit him with real thought.', 'sentence': "But , even though I disagree with him , his simulation is pretty good , so I 'm willing to credit him with real thought.", 'url': 'https://en.wikipedia.org/w/index.php?title=Chinese_room&diff=prev&oldid=591717271'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[8, 9, 'R:CONTR', "n't", 8, 9]], 'sentence_gt': 'If the cranky old men in Alberta do n’t like it , too bad .', 'sentence': "If the cranky old men in Alberta do n't like it , too bad .", 'url': 'https://en.wikipedia.org/w/index.php?title=Culture_war&diff=prev&oldid=612437250'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'M:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:CONTR': 1})
+{'edits': [[74, 75, 'R:VERB:TENSE', 'need', 74, 75], [75, 75, 'M:CONTR', "n't", 75, 76]], 'sentence_gt': "Though it might eventually find interest to give it substance , the area of aromaticity , and this very narrow niche subject of spiroaromaticity ( a physical organic chemistry subject , mostly ) , is best served as a solid paragraph in an article on spiro compounds in general—(1 ) so the structures already appearing in spiro can be used as reference , and ( 2 ) so general concepts of orthgonality of rings need't be redundantly explained — with a cross reference and summary in the aromaticity article .", 'sentence': "Though it might eventually find interest to give it substance , the area of aromaticity , and this very narrow niche subject of spiroaromaticity ( a physical organic chemistry subject , mostly ) , is best served as a solid paragraph in an article on spiro compounds in general—(1 ) so the structures already appearing in spiro can be used as reference , and ( 2 ) so general concepts of orthgonality of rings need n't be redundantly explained — with a cross reference and summary in the aromaticity article .", 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Spiro_compound&diff=prev&oldid=703227302'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[10, 11, 'R:CONTR', "'d", 10, 11]], 'sentence_gt': 'We made a more cruel kind of comedy than I ’d do now ... Society has moved on a lot since then and my own views have evolved " .', 'sentence': 'We made a more cruel kind of comedy than I \'d do now ... Society has moved on a lot since then and my own views have evolved " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Little_Britain&diff=prev&oldid=803832023'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:CONTR': 1, 'R:OTHER': 1})
+{'edits': [[33, 34, 'R:CONTR', 'is', 33, 34], [36, 37, 'R:ADJ', 'legitimate', 36, 37]], 'sentence_gt': "A product not meeting the special requirements of ' ' gönci barackpálinka '' ( apricot pálinka of Gönc ) for example , can not be labeled as such , not even if it 's otherwise a legit apricot pálinka from Gönc .", 'sentence': "A product not meeting the special requirements of ' ' gönci barackpálinka '' ( apricot pálinka of Gönc ) for example , can not be labeled as such , not even if it is otherwise a legitimate apricot pálinka from Gönc .", 'url': 'https://en.wikipedia.org/w/index.php?title=P%C3%A1linka&diff=prev&oldid=640839290'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[29, 30, 'R:CONTR', "n't", 29, 30]], 'sentence_gt': 'Buñuel was later to explain that he was so strapped for cash that he , " took everything that was offered to me , as long as it was n’t humiliating . "', 'sentence': 'Buñuel was later to explain that he was so strapped for cash that he , " took everything that was offered to me , as long as it was n\'t humiliating . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Luis_Bu%C3%B1uel&diff=prev&oldid=775702769'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[28, 29, 'R:CONTR', "'ve", 28, 29]], 'sentence_gt': 'But then again , when the makers term the movie to be “ based on a fake story ” , you must n’t really apply logic because they ’ve already asked you not to . "', 'sentence': 'But then again , when the makers term the movie to be “ based on a fake story ” , you must n’t really apply logic because they \'ve already asked you not to . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Kinavalli&diff=prev&oldid=906400809'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 6, 'R:CONTR', "n't", 5, 6]], 'sentence_gt': '" Baby , You Would n’t Last a Minute on the Creek "', 'sentence': '" Baby , You Would n\'t Last a Minute on the Creek "', 'url': 'https://en.wikipedia.org/w/index.php?title=All%27s_Well_That_Ends_Well_(Chiodos_album)&diff=prev&oldid=774434317'}
+===================================================
+1.9.0: Counter({'R:CONTR': 2})
+2.2.1: Counter({'R:PUNCT': 2})
+{'edits': [[29, 30, 'R:CONTR', "'m", 29, 30], [36, 37, 'R:CONTR', "'m", 36, 37]], 'sentence_gt': 'Seventeen years later , in an interview with the \' \' The New Yorker \'\' , Buñuel expressed a somewhat different opinion about religion and atheism : " I ’m not a Christian , but I ’m not an atheist either , ...', 'sentence': 'Seventeen years later , in an interview with the \' \' The New Yorker \'\' , Buñuel expressed a somewhat different opinion about religion and atheism : " I \'m not a Christian , but I \'m not an atheist either , ...', 'url': 'https://en.wikipedia.org/w/index.php?title=Luis_Bu%C3%B1uel&diff=prev&oldid=775702769'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[14, 15, 'R:CONTR', "'m", 14, 15]], 'sentence_gt': 'I have a really solid idea about what Season 2 is , and I ’m starting to think about notions for Season 3 , knock on wood . "', 'sentence': 'I have a really solid idea about what Season 2 is , and I \'m starting to think about notions for Season 3 , knock on wood . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Revolution_(TV_series)&diff=prev&oldid=646783551'}
+===================================================
+1.9.0: Counter({'R:CONTR': 2})
+2.2.1: Counter({'R:PUNCT': 1, 'R:CONTR': 1})
+{'edits': [[26, 27, 'R:CONTR', "'m", 26, 27], [34, 35, 'R:CONTR', "'s", 34, 35]], 'sentence_gt': 'The live record is taken from the very end of two years of touring behind \' \' Boys and Girls in America \'\' , and I ’m glad we recorded then , because it ’s the real peak of the band as a performing unit . "', 'sentence': 'The live record is taken from the very end of two years of touring behind \' \' Boys and Girls in America \'\' , and I \'m glad we recorded then , because it \'s the real peak of the band as a performing unit . "', 'url': 'https://en.wikipedia.org/w/index.php?title=A_Positive_Rage&diff=prev&oldid=741180979'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1, 'U:CONTR': 1})
+2.2.1: Counter({'M:NOUN:POSS': 1, 'U:NOUN:POSS': 1})
+{'edits': [[29, 29, 'M:NOUN:POSS', "'", 29, 30], [30, 31, 'U:CONTR', '', 31, 31]], 'sentence_gt': 'In 1984 , he starred in the \' \' Murder She Wrote \'\' episode , " Deadly Lady " ; and in 1990 , \' \' The Golden Girls \'\' \'s " The Mangiacavallo Curse Makes a Lousy Wedding Present " .', 'sentence': 'In 1984 , he starred in the \' \' Murder She Wrote \'\' episode , " Deadly Lady " ; and in 1990 , \' \' The Golden Girls \' \'\' " The Mangiacavallo Curse Makes a Lousy Wedding Present " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Howard_Duff&diff=prev&oldid=719625220'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[9, 10, 'R:CONTR', "'m", 9, 10]], 'sentence_gt': 'Twelve hundred and something I think , unless I ’m lying .', 'sentence': "Twelve hundred and something I think , unless I 'm lying .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Doctor_(Doctor_Who)&diff=prev&oldid=747692844'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:VERB': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[12, 13, 'R:CONTR', 'not', 12, 13], [13, 14, 'R:VERB', 'pose', 13, 14]], 'sentence_gt': "After this first attack Nelson was conscious that the French flotilla did n't suppose any serious risk .", 'sentence': 'After this first attack Nelson was conscious that the French flotilla did not pose any serious risk .', 'url': 'https://en.wikipedia.org/w/index.php?title=Raids_on_Boulogne&diff=prev&oldid=691129426'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[16, 17, 'R:CONTR', "n't", 16, 17]], 'sentence_gt': 'He knows he has to move on and find someone new , but he just ca n’t let the fire that burns for his former lover go .', 'sentence': "He knows he has to move on and find someone new , but he just ca n't let the fire that burns for his former lover go .", 'url': 'https://en.wikipedia.org/w/index.php?title=A_Fire_I_Can%27t_Put_Out&diff=prev&oldid=883236305'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:NOUN:POSS': 1})
+{'edits': [[28, 29, 'R:CONTR', "'s", 28, 29]], 'sentence_gt': 'While at the University of Utah , Smith set a record for yards per catch with a 20.6 average , and was chosen to play for the conference ’s all - star team twice .', 'sentence': "While at the University of Utah , Smith set a record for yards per catch with a 20.6 average , and was chosen to play for the conference 's all - star team twice .", 'url': 'https://en.wikipedia.org/w/index.php?title=Steve_Smith_Sr.&diff=prev&oldid=729492807'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1, 'U:CONTR': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'M:PUNCT': 1, 'U:NOUN:POSS': 1})
+{'edits': [[6, 7, 'R:NOUN:POSS', "carriers '", 6, 8], [8, 9, 'U:CONTR', '', 9, 9]], 'sentence_gt': "' ' ' Attacker class escort carrier '' 's were a type of aircraft carrier in service with the British Royal Navy during the Second World War .", 'sentence': "' ' ' Attacker class escort carriers ' '' were a type of aircraft carrier in service with the British Royal Navy during the Second World War .", 'url': 'https://en.wikipedia.org/w/index.php?title=Attacker-class_escort_carrier&diff=prev&oldid=391337448'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:VERB': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[35, 36, 'R:CONTR', 'not', 35, 36], [36, 37, 'R:VERB', 'want', 36, 37]], 'sentence_gt': "Writers might consider this appropriate where they are trying to indicate a close relationship between two sentences , or a ' run - on ' in meaning from one to the next ; they do n't wish the connection to be broken by the abrupt use of a full - stop .", 'sentence': "Writers might consider this appropriate where they are trying to indicate a close relationship between two sentences , or a ' run - on ' in meaning from one to the next ; they do not want the connection to be broken by the abrupt use of a full - stop .", 'url': 'https://en.wikipedia.org/w/index.php?title=Semicolon&diff=prev&oldid=102422426'}
+===================================================
+1.9.0: Counter({'R:CONTR': 2})
+2.2.1: Counter({'R:OTHER': 1, 'R:CONTR': 1})
+{'edits': [[2, 3, 'R:CONTR', "n't", 2, 3], [11, 12, 'R:CONTR', "'s", 11, 12]], 'sentence_gt': 'I would n’t say he becomes the character , but there ’s definitely some kind of internalisation . "', 'sentence': 'I would n\'t say he becomes the character , but there \'s definitely some kind of internalisation . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Anniyan&diff=prev&oldid=681405941'}
+===================================================
+1.9.0: Counter({'R:CONTR': 2})
+2.2.1: Counter({'R:OTHER': 1, 'R:CONTR': 1})
+{'edits': [[2, 3, 'R:CONTR', "n't", 2, 3], [11, 12, 'R:CONTR', "'s", 11, 12]], 'sentence_gt': 'I would n’t say he becomes the character , but there ’s definitely some kind of internalisation . "', 'sentence': 'I would n\'t say he becomes the character , but there \'s definitely some kind of internalisation . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Anniyan&diff=prev&oldid=681405941'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 2})
+{'edits': [[6, 7, 'R:PUNCT', '"', 6, 7], [8, 9, 'R:CONTR', "'m", 8, 9]], 'sentence_gt': 'Dweck said in a statement , “ I ’m thrilled and honored to be the inaugural recipient of this amazing prize .', 'sentence': 'Dweck said in a statement , " I \'m thrilled and honored to be the inaugural recipient of this amazing prize .', 'url': 'https://en.wikipedia.org/w/index.php?title=Carol_Dweck&diff=prev&oldid=812536390'}
+===================================================
+1.9.0: Counter({'R:CONTR': 2})
+2.2.1: Counter({'R:PUNCT': 2})
+{'edits': [[1, 2, 'R:CONTR', "'m", 1, 2], [9, 10, 'R:CONTR', "'m", 9, 10]], 'sentence_gt': 'I ’m not going to tell you how I ’m going to end my book , but I suspect the overall flavor is going to be as much bittersweet as it is happy . "', 'sentence': 'I \'m not going to tell you how I \'m going to end my book , but I suspect the overall flavor is going to be as much bittersweet as it is happy . "', 'url': 'https://en.wikipedia.org/w/index.php?title=A_Song_of_Ice_and_Fire&diff=prev&oldid=763771468'}
+===================================================
+1.9.0: Counter({'U:CONTR': 1})
+2.2.1: Counter({'U:NOUN:POSS': 1})
+{'edits': [[20, 21, 'U:CONTR', '', 20, 20]], 'sentence_gt': "He also produced The Verve album ' ' A Northern Soul '' ( 1995 ) , Ash ( band ) 's ' ' 1977 ( album ) '' ( 1996 ) and the debut UK album , ' ' For God 's Sake '' for Thai rock star Sek Loso .", 'sentence': "He also produced The Verve album ' ' A Northern Soul '' ( 1995 ) , Ash ( band ) ' ' 1977 ( album ) '' ( 1996 ) and the debut UK album , ' ' For God 's Sake '' for Thai rock star Sek Loso .", 'url': 'https://en.wikipedia.org/w/index.php?title=Owen_Morris&diff=prev&oldid=268233025'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[13, 14, 'R:CONTR', "'m", 13, 14]], 'sentence_gt': 'I had a 1940 Martin D-18 that I sold last year ; I ’m just a Gibson guy .', 'sentence': "I had a 1940 Martin D-18 that I sold last year ; I 'm just a Gibson guy .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mike_Ness&diff=prev&oldid=773842542'}
+===================================================
+1.9.0: Counter({'U:CONTR': 1})
+2.2.1: Counter({'U:NOUN:POSS': 1})
+{'edits': [[14, 15, 'U:CONTR', '', 14, 14]], 'sentence_gt': "' ' ' Sam Sneed ' '' ( formerly ' ' ' Sam Chuck 's ' '' ; February 29 , 1968 in McKeesport , Pennsylvania ) is an American record producer and rapper .", 'sentence': "' ' ' Sam Sneed ' '' ( formerly ' ' ' Sam Chuck ' '' ; February 29 , 1968 in McKeesport , Pennsylvania ) is an American record producer and rapper .", 'url': 'https://en.wikipedia.org/w/index.php?title=Sam_Sneed&diff=prev&oldid=844188362'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:ORTH': 1})
+2.2.1: Counter({'R:CONTR': 1})
+{'edits': [[13, 14, 'R:CONTR', 'not', 13, 14], [16, 18, 'R:ORTH', 'mouth.', 16, 17]], 'sentence_gt': "Unlike his G1 counterpart , Blurr talks at a normal pace and does n't have a mouth .", 'sentence': 'Unlike his G1 counterpart , Blurr talks at a normal pace and does not have a mouth.', 'url': 'https://en.wikipedia.org/w/index.php?title=Blurr&diff=prev&oldid=374031702'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[10, 11, 'R:CONTR', "n't", 10, 11]], 'sentence_gt': 'She grew up in a household where going braless was n’t seen as sexual or taboo . "', 'sentence': 'She grew up in a household where going braless was n\'t seen as sexual or taboo . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Bralessness&diff=prev&oldid=897567522'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'U:CONTR': 1})
+2.2.1: Counter({'R:DET': 1, 'U:CONTR': 1})
+{'edits': [[6, 7, 'R:PRON', 'your', 6, 7], [7, 8, 'U:CONTR', '', 7, 7]], 'sentence_gt': "Or maybe I 'm confused with you 're raising the same point at the RfC at Talk : Adam Milstein?", 'sentence': "Or maybe I 'm confused with your raising the same point at the RfC at Talk : Adam Milstein?", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Reliable_sources/Noticeboard&diff=prev&oldid=863292576'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:NOUN:POSS': 1})
+{'edits': [[9, 10, 'R:CONTR', "'s", 9, 10]], 'sentence_gt': "He was the on - screen narrator in 2010 ’s ' ' Beats of Freedom '' , Chris Salewicz lives in London .", 'sentence': "He was the on - screen narrator in 2010 's ' ' Beats of Freedom '' , Chris Salewicz lives in London .", 'url': 'https://en.wikipedia.org/w/index.php?title=Chris_Salewicz&diff=prev&oldid=741940293'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[24, 25, 'R:CONTR', "'m", 24, 25]], 'sentence_gt': 'I believe the board of the university and the administration have this one chance to be on the right side of history and I ’m hoping they find a way to take it.', 'sentence': "I believe the board of the university and the administration have this one chance to be on the right side of history and I 'm hoping they find a way to take it.", 'url': 'https://en.wikipedia.org/w/index.php?title=Silent_Sam&diff=prev&oldid=862326150'}
+===================================================
+1.9.0: Counter({'R:CONTR': 2})
+2.2.1: Counter({'R:CONTR': 1, 'R:OTHER': 1})
+{'edits': [[37, 38, 'R:CONTR', "'s", 37, 38], [54, 55, 'R:CONTR', "n't", 54, 55]], 'sentence_gt': 'PopMatters writer Michael Frauenhofer wrote that " \' \' The Return of Dr. Octagon \'\' is still better than anything Kool Keith \'s done in a little while , but apart from its best tracks , it ’s not close to the level of his finest work of the past , and it does n’t really build much on the legend of Dr. Octagon , which still rests most firmly on the good doctor \'s debut . "', 'sentence': 'PopMatters writer Michael Frauenhofer wrote that " \' \' The Return of Dr. Octagon \'\' is still better than anything Kool Keith \'s done in a little while , but apart from its best tracks , it \'s not close to the level of his finest work of the past , and it does n\'t really build much on the legend of Dr. Octagon , which still rests most firmly on the good doctor \'s debut . "', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Return_of_Dr._Octagon&diff=prev&oldid=266984525'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:NOUN:POSS': 1})
+{'edits': [[13, 14, 'R:CONTR', "'s", 13, 14]], 'sentence_gt': "He made only the occasional film , including a brief appearance in 1995 ’s ' ' Sense and Sensibility ( film ) '' and a villain in ' ' The Ghost and the Darkness '' ( 1996 ) .", 'sentence': "He made only the occasional film , including a brief appearance in 1995 's ' ' Sense and Sensibility ( film ) '' and a villain in ' ' The Ghost and the Darkness '' ( 1996 ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=Tom_Wilkinson&diff=prev&oldid=671072696'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[15, 16, 'R:CONTR', "'ve", 15, 16]], 'sentence_gt': 'The film carried over one song from \' \' Toy Story \'\' , " You \'re Got a Friend in Me , " sung at different points during the film by Tom Hanks and Robert Goulet.', 'sentence': 'The film carried over one song from \' \' Toy Story \'\' , " You \'ve Got a Friend in Me , " sung at different points during the film by Tom Hanks and Robert Goulet.', 'url': 'https://en.wikipedia.org/w/index.php?title=Toy_Story_2&diff=prev&oldid=583176925'}
+===================================================
+1.9.0: Counter({'R:VERB': 1, 'R:CONTR': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'R:CONTR': 1})
+{'edits': [[6, 7, 'R:VERB', 'am', 6, 7], [7, 8, 'R:CONTR', 'not', 7, 8]], 'sentence_gt': 'Samberg responds by saying " I ai n\'t gon na let you poison me . "', 'sentence': 'Samberg responds by saying " I am not gon na let you poison me . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Threw_It_on_the_Ground&diff=prev&oldid=528095836'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[34, 35, 'R:CONTR', "'m", 34, 35]], 'sentence_gt': 'Savage was quoted as saying Muslims " need deportation " , and that adherents of Islam would do well to " take your religion and shove it up your behind " because " I ’m sick of you.', 'sentence': 'Savage was quoted as saying Muslims " need deportation " , and that adherents of Islam would do well to " take your religion and shove it up your behind " because " I \'m sick of you.', 'url': 'https://en.wikipedia.org/w/index.php?title=Michael_Savage&diff=prev&oldid=402412492'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:NOUN:POSS': 1})
+{'edits': [[3, 4, 'R:CONTR', "'s", 3, 4]], 'sentence_gt': 'The following year ’s \' \' Gon na Take a Miracle \'\' was a collection of Nyro \'s favorite " teenage heartbeat songs " , recorded with vocal group Labelle ( Patti Labelle , Nona Hendryx , and Sarah Dash ) and the production team of Kenny Gamble and Leon Huff .', 'sentence': 'The following year \'s \' \' Gon na Take a Miracle \'\' was a collection of Nyro \'s favorite " teenage heartbeat songs " , recorded with vocal group Labelle ( Patti Labelle , Nona Hendryx , and Sarah Dash ) and the production team of Kenny Gamble and Leon Huff .', 'url': 'https://en.wikipedia.org/w/index.php?title=Laura_Nyro&diff=prev&oldid=776540336'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:CONTR': 1})
+2.2.1: Counter({'R:NOUN': 1, 'R:OTHER': 1})
+{'edits': [[2, 3, 'R:NOUN', 'Pages', 2, 3], [4, 5, 'R:CONTR', 'have', 4, 5]], 'sentence_gt': "= = Articles I 've created = =", 'sentence': '= = Pages I have created = =', 'url': 'https://en.wikipedia.org/w/index.php?title=User:SamCordes&diff=prev&oldid=850729924'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:SPELL': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[3, 4, 'R:CONTR', "n't", 3, 4], [4, 5, 'R:SPELL', 'forget', 4, 5]], 'sentence_gt': 'Oh , do nt fourget to sign off on your message posts by placing four tildes ( ~~~~ ) in a row after the text .', 'sentence': "Oh , do n't forget to sign off on your message posts by placing four tildes ( ~~~~ ) in a row after the text .", 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Struhs&diff=prev&oldid=160558829'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[15, 16, 'R:CONTR', 'not', 15, 16], [16, 18, 'R:VERB:TENSE', 'post', 16, 17]], 'sentence_gt': "He posted his first video to Vine on August 17 , 2014 , but did n't begin posting regularly until February 2015 .", 'sentence': 'He posted his first video to Vine on August 17 , 2014 , but did not post regularly until February 2015 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Jacob_Sartorius&diff=prev&oldid=729491889'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[1, 2, 'R:CONTR', "'m", 1, 2]], 'sentence_gt': 'I was a Wikipedia administrator .', 'sentence': "I 'm a Wikipedia administrator .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Pgk&diff=prev&oldid=886627467'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'M:DET': 1})
+2.2.1: Counter({'R:NOUN': 1, 'M:DET': 1})
+{'edits': [[15, 16, 'R:CONTR', "'m", 15, 16], [16, 16, 'M:DET', 'an', 16, 17]], 'sentence_gt': "It 's been a long time since we 've chatted ... Have you noticed I 've adopter , now ?", 'sentence': "It 's been a long time since we 've chatted ... Have you noticed I 'm an adopter , now ?", 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Chubbennaitor&diff=prev&oldid=224622452'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[15, 16, 'R:CONTR', "'ve", 15, 16]], 'sentence_gt': 'Packer was less than impressed with the opening show , telling Stone : " You ’ve blown it , son .', 'sentence': 'Packer was less than impressed with the opening show , telling Stone : " You \'ve blown it , son .', 'url': 'https://en.wikipedia.org/w/index.php?title=Gerald_Stone&diff=prev&oldid=657430190'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:PREP': 1})
+{'edits': [[9, 10, 'R:CONTR', "'ve", 9, 10]], 'sentence_gt': "By the way , I do n't believe you 'd opined in this AfD yourself on the issue at hand .", 'sentence': "By the way , I do n't believe you 've opined in this AfD yourself on the issue at hand .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Jews_and_Communism_(2nd_nomination)&diff=prev&oldid=608370208'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[32, 33, 'R:CONTR', "'ve", 32, 33]], 'sentence_gt': 'Chris De Ville of Stereogum gave " A Sky Full of Stars " an overwhelmingly positive comment , stating that the song is " the most energetic and classically Coldplay song we ’ve heard from the album so far " .', 'sentence': 'Chris De Ville of Stereogum gave " A Sky Full of Stars " an overwhelmingly positive comment , stating that the song is " the most energetic and classically Coldplay song we \'ve heard from the album so far " .', 'url': 'https://en.wikipedia.org/w/index.php?title=A_Sky_Full_of_Stars&diff=prev&oldid=681291609'}
+===================================================
+1.9.0: Counter({'U:CONTR': 1})
+2.2.1: Counter({'U:NOUN:POSS': 1})
+{'edits': [[20, 21, 'U:CONTR', '', 20, 20]], 'sentence_gt': "' ' ' Charismatic authority ' '' is one of three forms of authority laid out by sociologist Max Weber 's in his tripartite classification of authority , the other two being traditional authority and rational - legal authority .", 'sentence': "' ' ' Charismatic authority ' '' is one of three forms of authority laid out by sociologist Max Weber in his tripartite classification of authority , the other two being traditional authority and rational - legal authority .", 'url': 'https://en.wikipedia.org/w/index.php?title=Charismatic_authority&diff=prev&oldid=531788845'}
+===================================================
+1.9.0: Counter({'M:CONTR': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'M:NOUN:POSS': 1, 'R:NOUN:NUM': 1})
+{'edits': [[35, 35, 'M:CONTR', "'s", 35, 36], [40, 41, 'R:NOUN:NUM', 'women', 41, 42]], 'sentence_gt': "If the plural is not one that is formed by adding ' 's '' , an ' 's '' is added for the possessive , ' ' after '' the apostrophe : ' ' children hats '' , ' ' woman 's hairdresser '' , ' ' some people 's eyes '' ( but compare ' ' some peoples ' recent emergence into nationhood '' , where ' ' peoples '' is meant as the plural of the singular ' ' people '' ) .", 'sentence': "If the plural is not one that is formed by adding ' 's '' , an ' 's '' is added for the possessive , ' ' after '' the apostrophe : ' ' children 's hats '' , ' ' women 's hairdresser '' , ' ' some people 's eyes '' ( but compare ' ' some peoples ' recent emergence into nationhood '' , where ' ' peoples '' is meant as the plural of the singular ' ' people '' ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=Apostrophe&diff=prev&oldid=455698218'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:CONTR', 'haveve', 4, 5]], 'sentence_gt': "Since 2008 , they 've won 18 of 20 tournaments ( 90% ) .", 'sentence': 'Since 2008 , they haveve won 18 of 20 tournaments ( 90% ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Big_Four_(tennis)&diff=prev&oldid=563086198'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1, 'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:NOUN:POSS', "'", 4, 5], [5, 6, 'R:CONTR', "'s", 5, 6]], 'sentence_gt': '\' \' The Times \'\' ’s Will Hodgkinson also pointed out that instead of filled with " high - octave pop bangers " , the singer has gone the other way , using sparse production techniques to frame songs about love and longing .', 'sentence': '\' \' The Times \' \'s Will Hodgkinson also pointed out that instead of filled with " high - octave pop bangers " , the singer has gone the other way , using sparse production techniques to frame songs about love and longing .', 'url': 'https://en.wikipedia.org/w/index.php?title=Camila_(album)&diff=prev&oldid=820004074'}
+===================================================
+1.9.0: Counter({'U:CONTR': 1})
+2.2.1: Counter({'U:OTHER': 1})
+{'edits': [[2, 3, 'U:CONTR', '', 2, 2]], 'sentence_gt': "Also I 've have a design project that I have to really get to grips with - I 've been using Wikipedia as displacement activity .", 'sentence': "Also I have a design project that I have to really get to grips with - I 've been using Wikipedia as displacement activity .", 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Acabashi&diff=prev&oldid=436394320'}
+===================================================
+1.9.0: Counter({'U:CONTR': 1})
+2.2.1: Counter({'U:NOUN:POSS': 1})
+{'edits': [[5, 6, 'U:CONTR', '', 5, 5]], 'sentence_gt': "John Pollard ( mathematician ) 's Pollard 's p - 1 algorithm is also used to search for larger factors .", 'sentence': "John Pollard ( mathematician ) Pollard 's p - 1 algorithm is also used to search for larger factors .", 'url': 'https://en.wikipedia.org/w/index.php?title=Great_Internet_Mersenne_Prime_Search&diff=prev&oldid=287534366'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1, 'R:CONTR': 1})
+2.2.1: Counter({'R:NOUN:POSS': 2})
+{'edits': [[57, 58, 'R:NOUN:POSS', "'s", 57, 58], [105, 106, 'R:CONTR', "'s", 105, 106]], 'sentence_gt': 'Already while in secondary school ( probably in 1937–38 ) he was initiated into the National Radical Camp ( 1934 ) ( \' \' Obóz Narodowo Radykalny \'\' or ONR ) , a nationalist conspiracy organization opposed to the then government of the " Colonels " , and when Poland was attacked , he joined the ONR ’s military force , the \' \' Związek Jaszczurczy \'\' ( ZJ or Salamander Association ) , which later in 1942 became the National Armed Forces ( \' \' Narodowe Siły Zbrojne \'\' or NSZ ; not to be confused with the Polish Government - in - Exile ’s \' \' Armia Krajowa \'\' or Home Army ) .', 'sentence': 'Already while in secondary school ( probably in 1937–38 ) he was initiated into the National Radical Camp ( 1934 ) ( \' \' Obóz Narodowo Radykalny \'\' or ONR ) , a nationalist conspiracy organization opposed to the then government of the " Colonels " , and when Poland was attacked , he joined the ONR \'s military force , the \' \' Związek Jaszczurczy \'\' ( ZJ or Salamander Association ) , which later in 1942 became the National Armed Forces ( \' \' Narodowe Siły Zbrojne \'\' or NSZ ; not to be confused with the Polish Government - in - Exile \'s \' \' Armia Krajowa \'\' or Home Army ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Stanis%C5%82aw_B%C3%B3br-Tylingo&diff=prev&oldid=883358034'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:PUNCT': 1, 'M:PUNCT': 1})
+{'edits': [[1, 2, 'R:CONTR', "'m", 1, 2], [9, 9, 'M:PUNCT', '"', 9, 10]], 'sentence_gt': 'I ’m not getting all that love yet .', 'sentence': 'I \'m not getting all that love yet . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Lockheed_Martin&diff=prev&oldid=629967033'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:PUNCT': 1, 'M:PUNCT': 1})
+{'edits': [[2, 3, 'R:CONTR', "'m", 2, 3], [19, 19, 'M:PUNCT', '"', 19, 20]], 'sentence_gt': '“ I ’m hoping they can enjoy some of the joy and success I had playing the sport .', 'sentence': '“ I \'m hoping they can enjoy some of the joy and success I had playing the sport . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Darren_Turcotte&diff=prev&oldid=777713475'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:CONTR': 1, 'R:OTHER': 1})
+{'edits': [[4, 5, 'R:CONTR', 'are', 4, 5], [5, 6, 'R:ADJ', 'aghast', 5, 6]], 'sentence_gt': "One day , they 're puzzled when they discover that their trucks have gone missing .", 'sentence': 'One day , they are aghast when they discover that their trucks have gone missing .', 'url': 'https://en.wikipedia.org/w/index.php?title=Thomas_%26_Friends_(series_2)&diff=prev&oldid=612377170'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 6, 'R:CONTR', 'have', 5, 6]], 'sentence_gt': "Homer claims that Bart should 've been a better role model , but Marge comes to Bart 's defense by saying that self - improvement is best left to people who live in big cities .", 'sentence': "Homer claims that Bart should have been a better role model , but Marge comes to Bart 's defense by saying that self - improvement is best left to people who live in big cities .", 'url': 'https://en.wikipedia.org/w/index.php?title=Bart%27s_Inner_Child&diff=prev&oldid=696636280'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:VERB': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[16, 17, 'R:CONTR', 'not', 16, 17], [17, 18, 'R:VERB', 'withstand', 17, 18]], 'sentence_gt': "The engineer told him that it was currently impossible , because the human skeletal structure could n't stand that much time in space .", 'sentence': 'The engineer told him that it was currently impossible , because the human skeletal structure could not withstand that much time in space .', 'url': 'https://en.wikipedia.org/w/index.php?title=Spaceman_(comics)&diff=prev&oldid=476209736'}
+===================================================
+1.9.0: Counter({'M:PREP': 1, 'R:CONTR': 1})
+2.2.1: Counter({'M:PREP': 1, 'R:OTHER': 1})
+{'edits': [[31, 31, 'M:PREP', 'that', 31, 32], [34, 35, 'R:CONTR', "n't", 35, 36]], 'sentence_gt': 'In a recent Public Broadcasting Service ( PBS ) programme on the subject of genetic ancestry testing , the academic Henry Louis Gates , who identifies as African American , said he " was n’t thrilled with the AIM results ( it turns out that 50 percent of his ancestors are likely European ) . "', 'sentence': 'In a recent Public Broadcasting Service ( PBS ) programme on the subject of genetic ancestry testing , the academic Henry Louis Gates , who identifies as African American , said that he " was n\'t thrilled with the AIM results ( it turns out that 50 percent of his ancestors are likely European ) . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Race_(human_categorization)&diff=prev&oldid=633776008'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:CONTR': 1, 'R:VERB:FORM': 1})
+{'edits': [[10, 11, 'R:CONTR', 'not', 10, 11], [29, 30, 'R:VERB:TENSE', 'used', 29, 30]], 'sentence_gt': "His native accent was so strong that his daughter could n't understand a word he said when he used it to sing old Cockney songs to her or purposely use it to playfully annoy her .", 'sentence': 'His native accent was so strong that his daughter could not understand a word he said when he used it to sing old Cockney songs to her or purposely used it to playfully annoy her .', 'url': 'https://en.wikipedia.org/w/index.php?title=Claude_Rains&diff=prev&oldid=802451339'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:NOUN:POSS': 1})
+{'edits': [[30, 31, 'R:CONTR', "'s", 30, 31]], 'sentence_gt': "He went on to train other celebrities including actors Brad Pitt ( for the 2004 film ' ' Troy ( film ) '' ) , Tobey Maguire ( for 2002 ’s ' ' Spider - Man ( 2002 film ) '' ) and Leonardo DiCaprio , singers Gwen Stefani and Pink ( singer ) and supermodel Gisele Bündchen .", 'sentence': "He went on to train other celebrities including actors Brad Pitt ( for the 2004 film ' ' Troy ( film ) '' ) , Tobey Maguire ( for 2002 's ' ' Spider - Man ( 2002 film ) '' ) and Leonardo DiCaprio , singers Gwen Stefani and Pink ( singer ) and supermodel Gisele Bündchen .", 'url': 'https://en.wikipedia.org/w/index.php?title=Gregory_Joujon-Roche&diff=prev&oldid=883235547'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'U:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[2, 3, 'R:NOUN', 'mid-1970s', 2, 3], [3, 4, 'U:CONTR', '', 3, 3]], 'sentence_gt': "In the mid-70 's the band marched in 8-to-5 and used a knees - up bicycle step and mark time .", 'sentence': 'In the mid-1970s the band marched in 8-to-5 and used a knees - up bicycle step and mark time .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sound_of_Today&diff=prev&oldid=740649988'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[28, 29, 'R:CONTR', "'m", 28, 29]], 'sentence_gt': 'In a 1960 interview , he was asked about his attitude toward religion , and his response has become one of his most celebrated quotes : " I ’m still an atheist , thank God . "', 'sentence': 'In a 1960 interview , he was asked about his attitude toward religion , and his response has become one of his most celebrated quotes : " I \'m still an atheist , thank God . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Luis_Bu%C3%B1uel&diff=prev&oldid=775702769'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[15, 16, 'R:CONTR', 'heave', 15, 16]], 'sentence_gt': "This is believed to be because they may be physically unable to leave once they 've done so and are wary of taking the risk .", 'sentence': 'This is believed to be because they may be physically unable to leave once they heave done so and are wary of taking the risk .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mythology_of_Final_Fantasy_X&diff=prev&oldid=42134467'}
+===================================================
+1.9.0: Counter({'R:NOUN:POSS': 1, 'R:CONTR': 1})
+2.2.1: Counter({'R:NOUN:POSS': 1, 'R:OTHER': 1})
+{'edits': [[51, 52, 'R:NOUN:POSS', "'s", 51, 52], [68, 69, 'R:CONTR', "n't", 68, 69]], 'sentence_gt': 'Vali was very courageous this can be understood from the fact that , when Tara ( Ramayana ) tried to stop him and begged him to not to go to fight Sugriva , by saying that it is God ( Rama ) who is helping Sugriva and has come to Sugriva ’s rescue ; Vali replied to Tara that even if he is fighting against God he ca n’t ignore a challenge for a fight and remain quiet .', 'sentence': "Vali was very courageous this can be understood from the fact that , when Tara ( Ramayana ) tried to stop him and begged him to not to go to fight Sugriva , by saying that it is God ( Rama ) who is helping Sugriva and has come to Sugriva 's rescue ; Vali replied to Tara that even if he is fighting against God he ca n't ignore a challenge for a fight and remain quiet .", 'url': 'https://en.wikipedia.org/w/index.php?title=Vali_(Ramayana)&diff=prev&oldid=601337073'}
+===================================================

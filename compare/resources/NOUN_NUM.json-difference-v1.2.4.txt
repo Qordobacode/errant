@@ -1,0 +1,184 @@
+1.9.0: Counter({'R:NOUN:POSS': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:NOUN:POSS': 1, 'R:VERB:SVA': 1})
+{'edits': [[1, 3, 'R:NOUN:POSS', "girls '", 1, 3], [3, 4, 'R:NOUN:NUM', 'doubles', 3, 4]], 'sentence_gt': "Cadet girl 's double bronze medalist in Indian open – 2013", 'sentence': "Cadet girls ' doubles bronze medalist in Indian open – 2013", 'url': 'https://en.wikipedia.org/w/index.php?title=Naina_Jaiswal&diff=prev&oldid=732220475'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:SVA': 1})
+{'edits': [[3, 4, 'R:NOUN:NUM', 'degrees', 3, 4]], 'sentence_gt': ', B.Ch ) degree .', 'sentence': ', B.Ch ) degrees .', 'url': 'https://en.wikipedia.org/w/index.php?title=Alan_Clemetson&diff=prev&oldid=801123723'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:VERB': 1})
+{'edits': [[11, 12, 'R:NOUN:NUM', 'reputation', 11, 12], [14, 15, 'R:ADJ', 'intended', 14, 15]], 'sentence_gt': 'Such editing can be seriously counterproductive , and can damage the reputations of the supposed beneficiaries .', 'sentence': 'Such editing can be seriously counterproductive , and can damage the reputation of the intended beneficiaries .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Conflict_of_interest_limit&diff=prev&oldid=582689898'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:SVA': 1})
+{'edits': [[18, 19, 'R:NOUN:NUM', 'stripes', 18, 19]], 'sentence_gt': 'Agouti can also be used for similar multi - colour patterns in cats , such as the grey strips in tabby cats that are actually a combination of colours .', 'sentence': 'Agouti can also be used for similar multi - colour patterns in cats , such as the grey stripes in tabby cats that are actually a combination of colours .', 'url': 'https://en.wikipedia.org/w/index.php?title=Common_agouti&diff=prev&oldid=566343265'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'R:ORTH': 1})
+2.2.1: Counter({'R:MORPH': 1, 'R:ORTH': 1})
+{'edits': [[4, 5, 'R:NOUN:NUM', 'paramilitary', 4, 5], [9, 10, 'R:ORTH', 'in', 9, 10]], 'sentence_gt': "Aristide 's use of paramilitaries caused dissatisfaction , and In August 1991 , his government faced a Motion of no confidence within the Haitian Chamber of Deputies and Senate .", 'sentence': "Aristide 's use of paramilitary caused dissatisfaction , and in August 1991 , his government faced a Motion of no confidence within the Haitian Chamber of Deputies and Senate .", 'url': 'https://en.wikipedia.org/w/index.php?title=Haiti&diff=prev&oldid=340608551'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[2, 3, 'R:NOUN:NUM', 'boxing', 2, 3]], 'sentence_gt': 'World champion boxer Julian Jackson was born on St. Thomas', 'sentence': 'World champion boxing Julian Jackson was born on St. Thomas', 'url': 'https://en.wikipedia.org/w/index.php?title=Saint_Thomas,_U.S._Virgin_Islands&diff=prev&oldid=174290540'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[37, 38, 'R:NOUN:NUM', 'density', 37, 38]], 'sentence_gt': "' Levuana irridescens '' is known only from Fiji where it used to be a serious pest of coconuts from the late 1800 's until around 1925 when a classical biological control program permanently reduced high population densities to almost non - detectable levels .", 'sentence': "' Levuana irridescens '' is known only from Fiji where it used to be a serious pest of coconuts from the late 1800 's until around 1925 when a classical biological control program permanently reduced high population density to almost non - detectable levels .", 'url': 'https://en.wikipedia.org/w/index.php?title=Levuana_moth&diff=prev&oldid=170474691'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:NOUN': 1, 'R:MORPH': 1})
+{'edits': [[0, 1, 'R:NOUN', 'Interventions', 0, 1], [17, 18, 'R:NOUN:NUM', 'parent', 17, 18]], 'sentence_gt': 'Efforts may include social skills training , cognitive behavioral therapy , physical therapy , speech therapy , parenting training , and medications for associated problems such as depression or anxiety .', 'sentence': 'Interventions may include social skills training , cognitive behavioral therapy , physical therapy , speech therapy , parent training , and medications for associated problems such as depression or anxiety .', 'url': 'https://en.wikipedia.org/w/index.php?title=Asperger_syndrome&diff=prev&oldid=719174894'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:ORTH': 1, 'R:VERB:FORM': 1})
+{'edits': [[22, 23, 'R:ORTH', 'Cast', 22, 23], [23, 24, 'R:NOUN:NUM', 'listing', 23, 24]], 'sentence_gt': "In the film 's trailer , Bogart is repeatedly mentioned first but Robinson 's name is listed above Bogart 's in a cast list at the end .", 'sentence': "In the film 's trailer , Bogart is repeatedly mentioned first but Robinson 's name is listed above Bogart 's in a Cast listing at the end .", 'url': 'https://en.wikipedia.org/w/index.php?title=Key_Largo_(film)&diff=prev&oldid=866091969'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[13, 14, 'R:NOUN:NUM', 'school', 13, 14]], 'sentence_gt': 'The species is best kept in groups , to allow the species to schooling , in tropical freshwater Community tank with other peaceful , non - predatory fishes .', 'sentence': 'The species is best kept in groups , to allow the species to school , in tropical freshwater Community tank with other peaceful , non - predatory fishes .', 'url': 'https://en.wikipedia.org/w/index.php?title=Thayeria_boehlkei&diff=prev&oldid=339501981'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'U:NOUN': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[0, 1, 'R:NOUN:NUM', 'Girls', 0, 1], [1, 2, 'U:NOUN', '', 1, 1]], 'sentence_gt': 'Girl ’s Golf has also won as a team twice .', 'sentence': 'Girls Golf has also won as a team twice .', 'url': 'https://en.wikipedia.org/w/index.php?title=Rossview_High_School&diff=prev&oldid=735278513'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[6, 7, 'R:NOUN:NUM', 'Greeks', 6, 7]], 'sentence_gt': 'Nick Trakakis ( 1972- ) : Greek philosopher at the Australian Catholic University , where he is Assistant Director of the recently established Centre for Philosophy and Phenomenology of Religion.https://www.abc.net.au / religion / why - i - am - not - orthodox/10097536', 'sentence': 'Nick Trakakis ( 1972- ) : Greeks philosopher at the Australian Catholic University , where he is Assistant Director of the recently established Centre for Philosophy and Phenomenology of Religion.https://www.abc.net.au / religion / why - i - am - not - orthodox/10097536', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_atheist_philosophers&diff=prev&oldid=866283632'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[7, 8, 'R:NOUN:NUM', 'sleeping', 7, 8]], 'sentence_gt': 'Circadian rhythms are important in determining the sleep and feeding patterns of all animals , including humans .', 'sentence': 'Circadian rhythms are important in determining the sleeping and feeding patterns of all animals , including humans .', 'url': 'https://en.wikipedia.org/w/index.php?title=Circadian_rhythm&diff=prev&oldid=38888463'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'U:NOUN': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[1, 2, 'R:NOUN:NUM', 'girls', 1, 2], [2, 3, 'U:NOUN', '', 2, 2]], 'sentence_gt': 'The girl ’s begun to emerge as a powerhouse of female football in the western suburbs of Melbourne .', 'sentence': 'The girls begun to emerge as a powerhouse of female football in the western suburbs of Melbourne .', 'url': 'https://en.wikipedia.org/w/index.php?title=Albion_Rovers_FC_(Cairnlea)&diff=prev&oldid=732222444'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[34, 35, 'R:NOUN:NUM', 'sibling', 34, 35]], 'sentence_gt': 'Occasionally , family disputes occur on set ; for example , in July 2008&mdash;after filming for a long period of time on the set&mdash;when Draper gives one of the boys an instruction , the siblings irritatingly reply : " I know , Mom ! "', 'sentence': 'Occasionally , family disputes occur on set ; for example , in July 2008&mdash;after filming for a long period of time on the set&mdash;when Draper gives one of the boys an instruction , the sibling irritatingly reply : " I know , Mom ! "', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band_(TV_series)&diff=prev&oldid=299500315'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[3, 4, 'R:NOUN:NUM', 'ageing', 3, 4]], 'sentence_gt': '; Memory and aging but not AD', 'sentence': '; Memory and ageing but not AD', 'url': 'https://en.wikipedia.org/w/index.php?title=Alzheimer%27s_disease&diff=prev&oldid=799485745'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[14, 15, 'R:NOUN:NUM', 'Volunteering', 14, 15]], 'sentence_gt': 'The most affected area are the Hwanghae Province and South Hwanghae Province , where volunteers from the national Red Cross are conducting search and rescue operations.', 'sentence': 'The most affected area are the Hwanghae Province and South Hwanghae Province , where Volunteering from the national Red Cross are conducting search and rescue operations.', 'url': 'https://en.wikipedia.org/w/index.php?title=2018_North_Korean_floods&diff=prev&oldid=858470897'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[18, 19, 'R:NOUN:NUM', 'gaming', 18, 19]], 'sentence_gt': 'This graphical shift , as well as the cast in general , has received generally positive reviews from game magazines and websites .', 'sentence': 'This graphical shift , as well as the cast in general , has received generally positive reviews from gaming magazines and websites .', 'url': 'https://en.wikipedia.org/w/index.php?title=Characters_of_Final_Fantasy_VIII&diff=prev&oldid=115360936'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[9, 10, 'R:NOUN:NUM', 'Lithuanians', 9, 10]], 'sentence_gt': "' ' ' Pranciška Regina Liubertaitė ' '' is Lithuanian poet and novelist .", 'sentence': "' ' ' Pranciška Regina Liubertaitė ' '' is Lithuanians poet and novelist .", 'url': 'https://en.wikipedia.org/w/index.php?title=Pranci%C5%A1ka_Regina_Liubertait%C4%97&diff=prev&oldid=867406540'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[17, 18, 'R:NOUN:NUM', 'Israelis', 17, 18]], 'sentence_gt': "' ' ' Orit ' '' ( ' ' ' אורית ' '' ) is a Hebrew Israeli given name .", 'sentence': "' ' ' Orit ' '' ( ' ' ' אורית ' '' ) is a Hebrew Israelis given name .", 'url': 'https://en.wikipedia.org/w/index.php?title=Orit&diff=prev&oldid=877881341'}
+===================================================
+1.9.0: Counter({'M:NOUN:POSS': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'M:NOUN:POSS': 1, 'R:MORPH': 1})
+{'edits': [[41, 41, 'M:NOUN:POSS', "'", 41, 42], [41, 42, 'R:NOUN:NUM', 'nests', 42, 43]], 'sentence_gt': 'Scientists have recently found that honeyguide chicks kill the hatchlings of the host nest in brutal attacks using their needle - sharp beaks just after hatching , much like what cuckoo hatchlings do , which are also hatched in other birds nest .', 'sentence': "Scientists have recently found that honeyguide chicks kill the hatchlings of the host nest in brutal attacks using their needle - sharp beaks just after hatching , much like what cuckoo hatchlings do , which are also hatched in other birds ' nests .", 'url': 'https://en.wikipedia.org/w/index.php?title=Honeyguide&diff=prev&oldid=572791805'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:SVA': 1})
+{'edits': [[3, 4, 'R:NOUN:NUM', 'layouts', 3, 4]], 'sentence_gt': 'Category : Keyboard layout', 'sentence': 'Category : Keyboard layouts', 'url': 'https://en.wikipedia.org/w/index.php?title=Kreol_(software)&diff=prev&oldid=318597874'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[4, 5, 'R:NOUN:NUM', 'television', 4, 5]], 'sentence_gt': 'Category : American anthology televisions series', 'sentence': 'Category : American anthology television series', 'url': 'https://en.wikipedia.org/w/index.php?title=CBS_Playhouse&diff=prev&oldid=530977781'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[4, 6, 'R:NOUN', 'Race', 4, 5], [6, 7, 'R:NOUN:NUM', 'track', 5, 6]], 'sentence_gt': 'They generally race on asphalt oval tracks , but have also raced on street courses and dirt tracks as well .', 'sentence': 'They generally race on Race track , but have also raced on street courses and dirt tracks as well .', 'url': 'https://en.wikipedia.org/w/index.php?title=Microstock_(racing)&diff=prev&oldid=712877361'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[17, 18, 'R:NOUN:NUM', 'lamella', 17, 18]], 'sentence_gt': "The body or ' blade ' of a typical flattened scale consists of an upper and lower lamellae with an air - space in between .", 'sentence': "The body or ' blade ' of a typical flattened scale consists of an upper and lower lamella with an air - space in between .", 'url': 'https://en.wikipedia.org/w/index.php?title=External_morphology_of_Lepidoptera&diff=prev&oldid=398017297'}
+===================================================
+1.9.0: Counter({'R:DET': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:DET': 1, 'R:MORPH': 1})
+{'edits': [[3, 4, 'R:DET', 'its', 3, 4], [4, 5, 'R:NOUN:NUM', 'story', 4, 5]], 'sentence_gt': 'The film tells it stories by relating the accounts of Jewish survivors " who return to Italy in their late adulthood to revisit the scenes of their worst nightmares : hidden in terror , fleeing in desperation , separated from loved ones , saying final goodbyes without knowing they were final . "', 'sentence': 'The film tells its story by relating the accounts of Jewish survivors " who return to Italy in their late adulthood to revisit the scenes of their worst nightmares : hidden in terror , fleeing in desperation , separated from loved ones , saying final goodbyes without knowing they were final . "', 'url': 'https://en.wikipedia.org/w/index.php?title=My_Italian_Secret:_The_Forgotten_Heroes&diff=prev&oldid=655044646'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[4, 5, 'R:NOUN:NUM', 'begging', 4, 5]], 'sentence_gt': "To silence Martin 's begs to return to their homeworld , his comrades drugged him with pharmaceuticals so that he would lose most of his memories .", 'sentence': "To silence Martin 's begging to return to their homeworld , his comrades drugged him with pharmaceuticals so that he would lose most of his memories .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Stargate_SG-1_characters&diff=prev&oldid=230210866'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[16, 17, 'R:NOUN:NUM', 'Dacians', 16, 17]], 'sentence_gt': "The ' ' ' Apuli ' '' or ' ' ' Biefi ' '' were a Dacian tribe centered at the Dacians town ' ' Apulon '' ( Latin ' ' Apulum ( castra ) '' ) near what is now Alba Iulia in Transylvania , Romania .", 'sentence': "The ' ' ' Apuli ' '' or ' ' ' Biefi ' '' were a Dacians tribe centered at the Dacians town ' ' Apulon '' ( Latin ' ' Apulum ( castra ) '' ) near what is now Alba Iulia in Transylvania , Romania .", 'url': 'https://en.wikipedia.org/w/index.php?title=Apuli&diff=prev&oldid=870576208'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[2, 3, 'R:NOUN:NUM', 'Derivatives', 2, 3]], 'sentence_gt': '= = Derivative of OsiriX = =', 'sentence': '= = Derivatives of OsiriX = =', 'url': 'https://en.wikipedia.org/w/index.php?title=OsiriX&diff=prev&oldid=850421018'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[53, 54, 'R:NOUN:NUM', 'TIE', 53, 54], [54, 54, 'M:NOUN', 'fighters', 54, 55]], 'sentence_gt': "The plot of ' ' Star Wars : Rebel Assault II : The Hidden Empire '' revolves around destroying the Empire 's ability to manufacture the cloaking device TIE phantom starfighter , and a campaign in ' ' Star Wars : X - Wing Alliance '' centers on destroying experimental remote - control TIEs .", 'sentence': "The plot of ' ' Star Wars : Rebel Assault II : The Hidden Empire '' revolves around destroying the Empire 's ability to manufacture the cloaking device TIE phantom starfighter , and a campaign in ' ' Star Wars : X - Wing Alliance '' centers on destroying experimental remote - control TIE fighters .", 'url': 'https://en.wikipedia.org/w/index.php?title=TIE_fighter&diff=prev&oldid=150055961'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'U:ADJ': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'U:NOUN': 1})
+{'edits': [[25, 26, 'R:NOUN:NUM', 'boys', 25, 26], [26, 27, 'U:ADJ', '', 26, 26]], 'sentence_gt': 'After he goes to Korea , he finds out that Jae Hee is pretending to be a boy and has transferred to an all - boy ’s school , and he tries to take her back to America .', 'sentence': 'After he goes to Korea , he finds out that Jae Hee is pretending to be a boy and has transferred to an all - boys school , and he tries to take her back to America .', 'url': 'https://en.wikipedia.org/w/index.php?title=To_the_Beautiful_You&diff=prev&oldid=734632420'}
+===================================================
+1.9.0: Counter({'U:VERB': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[2, 3, 'U:VERB', '', 2, 2], [3, 4, 'R:NOUN:NUM', 'experiences', 2, 3]], 'sentence_gt': 'The area does experience lake effect , primarily in the form of increased cloudiness during late fall and early winter .', 'sentence': 'The area experiences lake effect , primarily in the form of increased cloudiness during late fall and early winter .', 'url': 'https://en.wikipedia.org/w/index.php?title=Ann_Arbor,_Michigan&diff=prev&oldid=110191773'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:MORPH': 1})
+{'edits': [[33, 33, 'M:PUNCT', ',', 33, 34], [43, 44, 'R:NOUN:NUM', 'form', 44, 45]], 'sentence_gt': 'It was influenced by its non - Slavic neighbours in the Balkan linguistic union ( mostly grammatically ) and later also by Turkish language , which was the official language of Ottoman empire in the form of the Ottoman language ( an earlier former of Turkish ) , mostly lexically .', 'sentence': 'It was influenced by its non - Slavic neighbours in the Balkan linguistic union ( mostly grammatically ) and later also by Turkish language , which was the official language of Ottoman empire , in the form of the Ottoman language ( an earlier form of Turkish ) , mostly lexically .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bulgarian_language&diff=prev&oldid=51758422'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:SVA': 1})
+{'edits': [[16, 17, 'R:NOUN:NUM', 'campuses', 16, 17]], 'sentence_gt': 'Several departments of the University of Mumbai are at places other than the Fort or Kalina campus .', 'sentence': 'Several departments of the University of Mumbai are at places other than the Fort or Kalina campuses .', 'url': 'https://en.wikipedia.org/w/index.php?title=University_of_Mumbai&diff=prev&oldid=553035759'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'U:VERB': 1})
+2.2.1: Counter({'R:OTHER': 1, 'U:NOUN': 1})
+{'edits': [[12, 13, 'R:NOUN:NUM', 'ones', 12, 13], [13, 14, 'U:VERB', '', 13, 13]], 'sentence_gt': "File : Black_Eyed_Peas_at_Walmart_meeting.jpg ( ' ' pictured '' ) scored two number one hits in 2004 .", 'sentence': "File : Black_Eyed_Peas_at_Walmart_meeting.jpg ( ' ' pictured '' ) scored two number ones in 2004 .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Cartoon_network_freak/sandbox&diff=prev&oldid=790348481'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:NOUN': 1, 'R:MORPH': 1})
+{'edits': [[2, 3, 'R:NOUN', 'bicycle', 2, 3], [3, 4, 'R:NOUN:NUM', 'rack', 3, 4]], 'sentence_gt': 'There are cycle racks for ten cycles .', 'sentence': 'There are bicycle rack for ten cycles .', 'url': 'https://en.wikipedia.org/w/index.php?title=Jordanhill_railway_station&diff=prev&oldid=41829017'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[20, 21, 'R:NOUN:NUM', 'Indonesians', 20, 21]], 'sentence_gt': "' ' ' Beckham Putra Nugraha ' '' ( born in Bandung , October 29 , 2001 ) is an Indonesian footballer who plays for the Persib Bandung .", 'sentence': "' ' ' Beckham Putra Nugraha ' '' ( born in Bandung , October 29 , 2001 ) is an Indonesians footballer who plays for the Persib Bandung .", 'url': 'https://en.wikipedia.org/w/index.php?title=Beckham_Putra&diff=prev&oldid=892876229'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[6, 7, 'R:NOUN:NUM', 'forms', 6, 7]], 'sentence_gt': 'Breakthrough song " kangal irandaal " form the Tamil movie " Subramaniya puram "', 'sentence': 'Breakthrough song " kangal irandaal " forms the Tamil movie " Subramaniya puram "', 'url': 'https://en.wikipedia.org/w/index.php?title=Deepa_Miriam&diff=prev&oldid=264168174'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:SVA': 1})
+{'edits': [[7, 8, 'R:NOUN:NUM', 'episodes', 7, 8]], 'sentence_gt': 'They have a List of The Simpsons episode as well , but it is not included in the infobox .', 'sentence': 'They have a List of The Simpsons episodes as well , but it is not included in the infobox .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Doctor_Who&diff=prev&oldid=118307249'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:SVA': 1})
+{'edits': [[2, 3, 'R:NOUN:NUM', 'anguishs', 2, 3]], 'sentence_gt': "The family anguish over the situation and thorny problems arise such as how to disguise Tulip 's crystal eyes , and what to do about Soobie , who is made of blue cloth .", 'sentence': "The family anguishs over the situation and thorny problems arise such as how to disguise Tulip 's crystal eyes , and what to do about Soobie , who is made of blue cloth .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Mennyms&diff=prev&oldid=282247145'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'U:NOUN': 1, 'R:NOUN:NUM': 1})
+{'edits': [[5, 6, 'U:ADJ', '', 5, 5], [7, 8, 'R:NOUN:NUM', 'pack', 6, 7]], 'sentence_gt': "' '' ... and another .rar game packs , go here : ' ''", 'sentence': "' '' ... and another game pack , go here : ' ''", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Addams_Family_(video_game_series)&diff=prev&oldid=363518900'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:NOUN:NUM', 'Lepidoptera', 0, 1]], 'sentence_gt': 'Lepidopteran morphology', 'sentence': 'Lepidoptera morphology', 'url': 'https://en.wikipedia.org/w/index.php?title=Scale_(insect_anatomy)&diff=prev&oldid=309072953'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[7, 8, 'R:NOUN:NUM', 'claims', 7, 8]], 'sentence_gt': 'However , the defense lawyers deny these claim and insist that they were local criminals .', 'sentence': 'However , the defense lawyers deny these claims and insist that they were local criminals .', 'url': 'https://en.wikipedia.org/w/index.php?title=Liberation_Tigers_of_Tamil_Eelam&diff=prev&oldid=278658353'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:VERB:SVA': 1})
+{'edits': [[5, 6, 'R:NOUN:NUM', 'Rajputs', 5, 6]], 'sentence_gt': '= = Cleanup requiredat Tomar Rajput = =', 'sentence': '= = Cleanup requiredat Tomar Rajputs = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Noticeboard_for_India-related_topics&diff=prev&oldid=278992219'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:VERB:SVA': 1})
+{'edits': [[1, 2, 'R:NOUN:NUM', 'sizes', 1, 2], [2, 3, 'R:MORPH', 'vary', 2, 3]], 'sentence_gt': 'Plasmid size varies from 1 to over 1,000 Base pair ( kbp).', 'sentence': 'Plasmid sizes vary from 1 to over 1,000 Base pair ( kbp).', 'url': 'https://en.wikipedia.org/w/index.php?title=Plasmid&diff=prev&oldid=421915987'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:MORPH': 1})
+{'edits': [[17, 18, 'R:NOUN:NUM', 'Oak', 17, 18], [37, 38, 'R:NOUN:INFL', 'alata', 37, 38]], 'sentence_gt': "Less important associates are willow oak(''Quercus phellos '' ) , water oak(''Qercus nigra '' ) , and Oaks ( ' ' Quercus durandii '' ) ; American elm ( ' ' Ulmus americana '' ) and Ulmus alatas ( ' ' Ulmus alata '' ) ; yellow - poplar ( ' ' Liriodendron tulipifera '' ) ; and American beech ( ' ' Fagus grandifolia '' ) .", 'sentence': "Less important associates are willow oak(''Quercus phellos '' ) , water oak(''Qercus nigra '' ) , and Oak ( ' ' Quercus durandii '' ) ; American elm ( ' ' Ulmus americana '' ) and Ulmus alata ( ' ' Ulmus alata '' ) ; yellow - poplar ( ' ' Liriodendron tulipifera '' ) ; and American beech ( ' ' Fagus grandifolia '' ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=Carya_myristiciformis&diff=prev&oldid=368533318'}
+===================================================

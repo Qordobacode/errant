@@ -1,0 +1,524 @@
+1.9.0: Counter({'R:ADJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'R:ADJ': 2})
+{'edits': [[13, 14, 'R:ADJ', 'anti', 13, 14], [15, 16, 'R:NOUN', 'copyright', 15, 16]], 'sentence_gt': 'In 2003 , he was one of the founders of Piratbyrån , the pro - piracy organization that , in turn , once founded BitTorrent tracker The Pirate Bay .', 'sentence': 'In 2003 , he was one of the founders of Piratbyrån , the anti - copyright organization that , in turn , once founded BitTorrent tracker The Pirate Bay .', 'url': 'https://en.wikipedia.org/w/index.php?title=Rasmus_Fleischer&diff=prev&oldid=273630044'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:ADV': 1})
+{'edits': [[17, 18, 'U:ADJ', '', 17, 17]], 'sentence_gt': 'Stromal cells ( in the dermis layer ) adjacent to the Epidermis ( skin ) ( the very top layer of the skin ) release growth factors that promote cell division .', 'sentence': 'Stromal cells ( in the dermis layer ) adjacent to the Epidermis ( skin ) ( the top layer of the skin ) release growth factors that promote cell division .', 'url': 'https://en.wikipedia.org/w/index.php?title=Stromal_cell&diff=prev&oldid=843608373'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 6, 'R:ADJ', 'freezing', 5, 6]], 'sentence_gt': "Despite Haise 's fever and cold conditions inside the cabin , the crew succeeds in righting their wayward spacecraft .", 'sentence': "Despite Haise 's fever and freezing conditions inside the cabin , the crew succeeds in righting their wayward spacecraft .", 'url': 'https://en.wikipedia.org/w/index.php?title=Apollo_13_(film)&diff=prev&oldid=274336031'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:NOUN': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:10583', 0, 1], [1, 2, 'R:DET', 'till:12081', 1, 2]], 'sentence_gt': 'from:10656 till:12175 text : " : Category : Wikify from September 2007 "', 'sentence': 'from:10583 till:12081 text : " : Category : Wikify from September 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[4, 5, 'U:ADJ', '', 4, 4]], 'sentence_gt': "Kidd 's brother was celebrated psychotherapist Dr. Howard Greenwald and he was the uncle of filmmaker and political activist , Robert Greenwald .", 'sentence': "Kidd 's brother was psychotherapist Dr. Howard Greenwald and he was the uncle of filmmaker and political activist , Robert Greenwald .", 'url': 'https://en.wikipedia.org/w/index.php?title=Michael_Kidd&diff=prev&oldid=595653553'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[0, 0, 'M:ADJ', '#', 0, 1]], 'sentence_gt': "Sub - articles and lists that ' ' ' have potential to provide ' ' enough encyclopedic coverage '' to warrant an article ' '' should be given time to develop .", 'sentence': "# Sub - articles and lists that ' ' ' have potential to provide ' ' enough encyclopedic coverage '' to warrant an article ' '' should be given time to develop .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Deckiller/Notability_(fiction)&diff=prev&oldid=136403571'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:ADV': 1})
+{'edits': [[3, 4, 'R:ADJ', '5th', 3, 4]], 'sentence_gt': 'making it the 10th largest city of Bihar .', 'sentence': 'making it the 5th largest city of Bihar .', 'url': 'https://en.wikipedia.org/w/index.php?title=Purnia&diff=prev&oldid=840985827'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'R:VERB': 1})
+2.2.1: Counter({'U:NOUN': 1, 'R:VERB': 1})
+{'edits': [[3, 4, 'U:ADJ', '', 3, 3], [5, 6, 'R:VERB', 'puts', 4, 5]], 'sentence_gt': 'Often , his deadpan humor brings him at odds with Domon , which forces the other Timerangers to prevent a possible fistfight between the two .', 'sentence': 'Often , his humor puts him at odds with Domon , which forces the other Timerangers to prevent a possible fistfight between the two .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mirai_Sentai_Timeranger&diff=prev&oldid=566230355'}
+===================================================
+1.9.0: Counter({'R:CONTR': 1, 'M:ADJ': 1})
+2.2.1: Counter({'R:CONTR': 1, 'M:ADV': 1})
+{'edits': [[1, 2, 'R:CONTR', 'is', 1, 2], [6, 6, 'M:ADJ', 'long', 6, 7]], 'sentence_gt': "It 's around 2.5 million words .", 'sentence': 'It is around 2.5 million words long .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mahabharata&diff=prev&oldid=37951708'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1, 'R:VERB': 1})
+2.2.1: Counter({'M:NOUN': 1, 'R:VERB': 1})
+{'edits': [[0, 0, 'M:ADJ', 'Indian', 0, 1], [2, 3, 'R:VERB', 'use', 3, 4]], 'sentence_gt': 'Rāgas often employ intervals smaller than a semitone .', 'sentence': 'Indian Rāgas often use intervals smaller than a semitone .', 'url': 'https://en.wikipedia.org/w/index.php?title=Scale_(music)&diff=prev&oldid=441832376'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[75, 77, 'R:ADJ', 'dear', 75, 76]], 'sentence_gt': 'Following several concert performances ( including one at the Rock and Roll Hall of Fame in Cleveland , Ohio as well as a state county fair ) , the TV movie special " Polar Bears ( TV movie ) " depicts the ending of the band \'s tour in New Orleans , Louisiana , where they — along with their babysitter , Jesse — reunite with the siblings \' father and the Wolff family \'s long lost friends who are victims of Hurricane Katrina .', 'sentence': 'Following several concert performances ( including one at the Rock and Roll Hall of Fame in Cleveland , Ohio as well as a state county fair ) , the TV movie special " Polar Bears ( TV movie ) " depicts the ending of the band \'s tour in New Orleans , Louisiana , where they — along with their babysitter , Jesse — reunite with the siblings \' father and the Wolff family \'s dear friends who are victims of Hurricane Katrina .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band_(TV_series)&diff=prev&oldid=680602065'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:ADJ': 2})
+{'edits': [[16, 17, 'R:NOUN', '19th', 16, 17], [19, 20, 'R:ADJ', '20th', 19, 20]], 'sentence_gt': 'The private school system began largely as a result of Christian mission efforts during the late nineteenth and early twentieth centuries .', 'sentence': 'The private school system began largely as a result of Christian mission efforts during the late 19th and early 20th centuries .', 'url': 'https://en.wikipedia.org/w/index.php?title=Zambia&diff=prev&oldid=102371424'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[19, 20, 'R:ADJ', 'others.http://askville.amazon.com/explain-marco-polo-thing/AnswerViewer.do?requestId=10825147', 19, 20]], 'sentence_gt': 'Marco Polo can be played with the addition of rules from Fish out of Water ( game ) and others.http://askville.amazon.com/explain-marco-polo-thing/AnswerViewer.do?requestId=10825147r', 'sentence': 'Marco Polo can be played with the addition of rules from Fish out of Water ( game ) and others.http://askville.amazon.com/explain-marco-polo-thing/AnswerViewer.do?requestId=10825147', 'url': 'https://en.wikipedia.org/w/index.php?title=Marco_Polo_(game)&diff=prev&oldid=588096539'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:PREP': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:PREP': 1})
+{'edits': [[6, 7, 'R:ADJ', 'madams"(female', 6, 7], [38, 39, 'R:PREP', 'for', 38, 39]], 'sentence_gt': 'It found that Brothel and " madams":(female brothel owners ) had largely become a thing of the past , and that prostitutes were paid little better than clerks , earning $ 5000 to $ 6000 in net income in a six - day workweek .', 'sentence': 'It found that Brothel and " madams"(female brothel owners ) had largely become a thing of the past , and that prostitutes were paid little better than clerks , earning $ 5000 to $ 6000 in net income for a six - day workweek .', 'url': 'https://en.wikipedia.org/w/index.php?title=Charles_Winick&diff=prev&oldid=671569209'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[2, 3, 'R:ADJ', 'irony#irony_of_fate', 2, 3]], 'sentence_gt': 'This is ironic , not only because Einstein is far better - known for relativity , but also because the photoelectric effect is a quantum phenomenon , and Einstein became somewhat disenchanted with the path quantum theory would take .', 'sentence': 'This is irony#irony_of_fate , not only because Einstein is far better - known for relativity , but also because the photoelectric effect is a quantum phenomenon , and Einstein became somewhat disenchanted with the path quantum theory would take .', 'url': 'https://en.wikipedia.org/w/index.php?title=Albert_Einstein&diff=prev&oldid=9882058'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', "//importScript('MediaWiki", 0, 1]], 'sentence_gt': "importScript('MediaWiki talk : Gadget - DRN - wizard.js / sandbox ' ) ;", 'sentence': "//importScript('MediaWiki talk : Gadget - DRN - wizard.js / sandbox ' ) ;", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/common.js&diff=prev&oldid=730300833'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ', 'Protein', 0, 1], [1, 2, 'R:NOUN', 'family', 1, 2]], 'sentence_gt': 'structural biology', 'sentence': 'Protein family', 'url': 'https://en.wikipedia.org/w/index.php?title=Structural_domain&diff=prev&oldid=53640315'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:NOUN': 1})
+{'edits': [[2, 3, 'M:ADJ', 'Music career', 2, 4]], 'sentence_gt': '= = Career = =', 'sentence': '= = Music career = =', 'url': 'https://en.wikipedia.org/w/index.php?title=6ix9ine&diff=prev&oldid=869805556'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:ADJ': 2})
+{'edits': [[9, 10, 'R:NOUN', '18th', 9, 10], [11, 12, 'R:ADJ', '19th', 11, 12]], 'sentence_gt': 'Belief in progress was a dominant paradigm in the eighteenth and nineteenth centuries , and the Industrial Revolution .', 'sentence': 'Belief in progress was a dominant paradigm in the 18th and 19th centuries , and the Industrial Revolution .', 'url': 'https://en.wikipedia.org/w/index.php?title=Progress_(history)&diff=prev&oldid=106533811'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[3, 4, 'R:ADJ', 'new', 3, 4]], 'sentence_gt': "I 'm pretty knew to film stories , but I hope to do more film and theatrical articles , so I had a question that has come up .", 'sentence': "I 'm pretty new to film stories , but I hope to do more film and theatrical articles , so I had a question that has come up .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Film&diff=prev&oldid=595012708'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'M:ADV': 1})
+2.2.1: Counter({'U:ADJ': 1, 'M:ADJ': 1})
+{'edits': [[19, 20, 'U:ADJ', '', 19, 19], [21, 21, 'M:ADV', 'short', 20, 21]], 'sentence_gt': 'Some of the footage from the film was used by Billy Wilder shortly after the war to produce a shorter film on the concentration camps , \' \' Death Mills \'\' , which Bradshaw describes as different than the " grieving meditation on inhumanity that Bernstein conceived . "', 'sentence': 'Some of the footage from the film was used by Billy Wilder shortly after the war to produce a film short on the concentration camps , \' \' Death Mills \'\' , which Bradshaw describes as different than the " grieving meditation on inhumanity that Bernstein conceived . "', 'url': 'https://en.wikipedia.org/w/index.php?title=German_Concentration_Camps_Factual_Survey&diff=prev&oldid=645194851'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[4, 5, 'R:ADJ', 'issues===', 4, 5]], 'sentence_gt': '= = = Other stories===', 'sentence': '= = = Other issues===', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipediocracy&diff=prev&oldid=655113221'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[3, 3, 'M:ADJ', 'compact', 3, 4], [3, 4, 'R:NOUN', 'disc single', 4, 6]], 'sentence_gt': 'Nat recorded a tape in the studio with Alex and their dad .', 'sentence': 'Nat recorded a compact disc single in the studio with Alex and their dad .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band_(TV_series)&diff=prev&oldid=517429437'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'U:ADJ': 1})
+2.2.1: Counter({'R:ADJ': 1, 'U:NOUN': 1})
+{'edits': [[1, 2, 'R:ADJ', 'main', 1, 2], [5, 6, 'U:ADJ', '', 5, 5]], 'sentence_gt': "A primary obstacle to the Ukrainian anarchist army , and one which it never overcame throughout its existence , was a lack of access to Russia 's primary industrial manufacturing resources , specifically factories capable of producing large amounts of arms and ammunition .", 'sentence': "A main obstacle to the anarchist army , and one which it never overcame throughout its existence , was a lack of access to Russia 's primary industrial manufacturing resources , specifically factories capable of producing large amounts of arms and ammunition .", 'url': 'https://en.wikipedia.org/w/index.php?title=Revolutionary_Insurrectionary_Army_of_Ukraine&diff=prev&oldid=280936300'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:ADV': 1})
+{'edits': [[1, 2, 'U:ADJ', '', 1, 1]], 'sentence_gt': "A very brief scene in the movie was actually shot inside the crater of Washington State 's Mount St. Helens .", 'sentence': "A brief scene in the movie was actually shot inside the crater of Washington State 's Mount St. Helens .", 'url': 'https://en.wikipedia.org/w/index.php?title=Dante%27s_Peak&diff=prev&oldid=44560725'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[23, 24, 'U:ADJ', '', 23, 23]], 'sentence_gt': 'According to writer Felicia R. Lee , of \' \' The New York Times \'\' , the siblings act undistinguishable from their genuine everyday lives : " chatty , guileless , fun - loving . "', 'sentence': 'According to writer Felicia R. Lee , of \' \' The New York Times \'\' , the siblings act undistinguishable from their genuine lives : " chatty , guileless , fun - loving . "', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band_(TV_series)&diff=prev&oldid=513803431'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[26, 27, 'R:ADJ', 'lifelike', 26, 27]], 'sentence_gt': "Other measures taken included implementing rental cars for use in - game , and the use of motion capture technology to give the game 's characters realistic movements in the game 's FMV sequences .", 'sentence': "Other measures taken included implementing rental cars for use in - game , and the use of motion capture technology to give the game 's characters lifelike movements in the game 's FMV sequences .", 'url': 'https://en.wikipedia.org/w/index.php?title=Final_Fantasy_VIII&diff=prev&oldid=64054149'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:ADJ': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [3, 4, 'R:ADJ', 'debuts===', 4, 5]], 'sentence_gt': '= = International debuts==', 'sentence': '= = = International debuts===', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band:_The_Movie&diff=prev&oldid=259962562'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[2, 2, 'M:ADJ', '72-page', 2, 3]], 'sentence_gt': "Galarza 's report to the House Education and Labor Committee was published in April 1964 .", 'sentence': "Galarza 's 72-page report to the House Education and Labor Committee was published in April 1964 .", 'url': 'https://en.wikipedia.org/w/index.php?title=Chualar_bus_crash&diff=prev&oldid=598713010'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', "//importScript('MediaWiki", 0, 1]], 'sentence_gt': "importScript('MediaWiki talk : Gadget - popups.js / sandbox ' ) ;", 'sentence': "//importScript('MediaWiki talk : Gadget - popups.js / sandbox ' ) ;", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/common.js&diff=prev&oldid=826966619'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:VERB': 1})
+{'edits': [[10, 10, 'M:ADJ', 'permablocked', 10, 11]], 'sentence_gt': 'The above sock is a WP : DUCK reappearance of Barbarajohnson1 , contributions confined solely to now - deleted article CK Morgan and related AFD .', 'sentence': 'The above sock is a WP : DUCK reappearance of permablocked Barbarajohnson1 , contributions confined solely to now - deleted article CK Morgan and related AFD .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Sockpuppet_investigations/Barbarajohnson1&diff=prev&oldid=618837716'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[6, 7, 'R:ADJ', 'lax', 6, 7]], 'sentence_gt': "Other main characters include Nancy 's slacker brother - in - law ( Justin Kirk ) moving in to help raise her children ; foolish acquaintance ( Kevin Nealon ) ; narcissistic neighbor ( Elizabeth Perkins ) , who lives with her husband ( Andy Milder ) and their daughter ( Allie Grant ) ; as well as Nancy 's wholesalers ( Tonye Patano and Romany Malco ) .", 'sentence': "Other main characters include Nancy 's lax brother - in - law ( Justin Kirk ) moving in to help raise her children ; foolish acquaintance ( Kevin Nealon ) ; narcissistic neighbor ( Elizabeth Perkins ) , who lives with her husband ( Andy Milder ) and their daughter ( Allie Grant ) ; as well as Nancy 's wholesalers ( Tonye Patano and Romany Malco ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=Weeds_(TV_series)&diff=prev&oldid=901154123'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:ADJ': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:NOUN': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [4, 5, 'R:ADJ', 'reading==', 3, 4]], 'sentence_gt': '= = = Further reading===', 'sentence': '= = Further reading==', 'url': 'https://en.wikipedia.org/w/index.php?title=Odette_Hallowes&diff=prev&oldid=722690864'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 6, 'R:ADJ', 'tropical', 5, 6]], 'sentence_gt': 'On the other hand , torrid regions had a natural monopoly in the production of certain raw materials .', 'sentence': 'On the other hand , tropical regions had a natural monopoly in the production of certain raw materials .', 'url': 'https://en.wikipedia.org/w/index.php?title=Friedrich_List&diff=prev&oldid=282296787'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'R:ORTH': 1})
+2.2.1: Counter({'U:NOUN': 1, 'R:ORTH': 1})
+{'edits': [[2, 3, 'U:ADJ', '', 2, 2], [3, 4, 'R:ORTH', 'Images = =', 2, 5]], 'sentence_gt': '= = Auroral images==', 'sentence': '= = Images = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Aurora&diff=prev&oldid=195250908'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ', 'Category:1928', 0, 1]], 'sentence_gt': 'Category:1929 births', 'sentence': 'Category:1928 births', 'url': 'https://en.wikipedia.org/w/index.php?title=May_Wynn&diff=prev&oldid=890085060'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'R:ADJ': 1})
+2.2.1: Counter({'M:ADJ': 1, 'R:ADJ': 1})
+{'edits': [[6, 6, 'M:NOUN', 'faux', 6, 7], [10, 11, 'R:ADJ', 'fictional', 11, 12]], 'sentence_gt': "It also includes the band 's manager , Nat 's faux female interest , the siblings ' real life cousin as the group 's babysitter , and the siblings ' genuine father playing their widowed accordion - playing dad .", 'sentence': "It also includes the band 's faux manager , Nat 's fictional female interest , the siblings ' real life cousin as the group 's babysitter , and the siblings ' genuine father playing their widowed accordion - playing dad .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band:_The_Movie&diff=prev&oldid=879206879'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:ADJ': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [3, 4, 'R:ADJ', 'literature===', 4, 5]], 'sentence_gt': '= = In literature==', 'sentence': '= = = In literature===', 'url': 'https://en.wikipedia.org/w/index.php?title=Oliver_Loving&diff=prev&oldid=616019823'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[3, 4, 'U:ADJ', '', 3, 3]], 'sentence_gt': '= = = Cuban Revolution = = =', 'sentence': '= = = Revolution = = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Cuba&diff=prev&oldid=351522014'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'U:SPACE': 1})
+2.2.1: Counter({'U:ADJ': 1})
+{'edits': [[3, 5, 'U:ADJ', 'Semi', 3, 4], [12, 13, 'U:SPACE', '', 11, 11]], 'sentence_gt': "' ' ' Indefinite semi - protection : ' '' Persistent vandalism \xa0 – Recurrent vandalism .", 'sentence': "' ' ' Semi - protection : ' '' Persistent vandalism \xa0 – Recurrent vandalism .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_page_protection&diff=prev&oldid=578592871'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[2, 3, 'R:ADJ', 'Notable', 2, 3]], 'sentence_gt': '= = Mandinka people by country==', 'sentence': '= = Notable people by country==', 'url': 'https://en.wikipedia.org/w/index.php?title=Mandinka_people&diff=prev&oldid=537845018'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', 'AFCH.api.isBlacklisted', 0, 1]], 'sentence_gt': '//AFCH.api.isBlacklisted ( page ) ,', 'sentence': 'AFCH.api.isBlacklisted ( page ) ,', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/afch-master.js/submissions.js&diff=prev&oldid=908073566'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[2, 3, 'R:ADJ', 'Other', 2, 3]], 'sentence_gt': '= = Weird appearances==', 'sentence': '= = Other appearances==', 'url': 'https://en.wikipedia.org/w/index.php?title=Yinka_Dare&diff=prev&oldid=132249777'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[9, 10, 'U:ADJ', '', 9, 9]], 'sentence_gt': 'Draper based the screenplay on the experiences of her noted jazz musician husband Michael Wolff , who has Tourette syndrome .', 'sentence': 'Draper based the screenplay on the experiences of her jazz musician husband Michael Wolff , who has Tourette syndrome .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Tic_Code&diff=prev&oldid=895365765'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:SPELL': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:SPELL': 1})
+{'edits': [[13, 14, 'R:ADJ', 'financial', 13, 14], [29, 30, 'R:SPELL', 'shipbuilders', 29, 30]], 'sentence_gt': "These declines were caused by labor unrest , Seoul 's unwillingness to provide vagina assistance , and Tokyo 's new low - interest export financing in support of Japanese vaginabuilders .", 'sentence': "These declines were caused by labor unrest , Seoul 's unwillingness to provide financial assistance , and Tokyo 's new low - interest export financing in support of Japanese shipbuilders .", 'url': 'https://en.wikipedia.org/w/index.php?title=Economy_of_South_Korea&diff=prev&oldid=415537355'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'U:ADJ': 1})
+2.2.1: Counter({'R:ADJ': 1, 'U:NOUN': 1})
+{'edits': [[1, 2, 'R:ADJ', 'main', 1, 2], [5, 6, 'U:ADJ', '', 5, 5]], 'sentence_gt': "A primary obstacle to the Ukrainian anarchist army , and one which it never overcame throughout its existence , was a lack of access to Russia 's primary industrial manufacturing resources , specifically factories capable of producing large amounts of arms and ammunition .", 'sentence': "A main obstacle to the anarchist army , and one which it never overcame throughout its existence , was a lack of access to Russia 's primary industrial manufacturing resources , specifically factories capable of producing large amounts of arms and ammunition .", 'url': 'https://en.wikipedia.org/w/index.php?title=Revolutionary_Insurrectionary_Army_of_Ukraine&diff=prev&oldid=280936300'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ', 'Category:1896', 0, 1]], 'sentence_gt': 'Category:1894 births', 'sentence': 'Category:1896 births', 'url': 'https://en.wikipedia.org/w/index.php?title=Johnny_Broderick&diff=prev&oldid=600931252'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[14, 16, 'R:ADJ', 'series’', 14, 15]], 'sentence_gt': "According to ' ' The New York Times '' reporter Jacques Steinberg , the show ’s popularity is equivalent to the Disney Channel TV shows , ' ' Hannah Montana '' and ' ' Cory in the House '' .", 'sentence': "According to ' ' The New York Times '' reporter Jacques Steinberg , the series’ popularity is equivalent to the Disney Channel TV shows , ' ' Hannah Montana '' and ' ' Cory in the House '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band_(TV_series)&diff=prev&oldid=892052675'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:ADJ': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:6348', 0, 1], [1, 2, 'R:DET', 'till:7913', 1, 2]], 'sentence_gt': 'from:6395 till:7962 text : " : Category : Wikify from June 2007 "', 'sentence': 'from:6348 till:7913 text : " : Category : Wikify from June 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:NOUN': 1})
+{'edits': [[3, 4, 'M:ADJ', 'Royal flight', 3, 5]], 'sentence_gt': '= = = Flight to Varennes===', 'sentence': '= = = Royal flight to Varennes===', 'url': 'https://en.wikipedia.org/w/index.php?title=French_Revolution&diff=prev&oldid=204655906'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[10, 11, 'R:ADJ', 'nonsensical', 10, 11]], 'sentence_gt': "Jesse Draper starred as Jesse Cook , the band 's ditzy nanny and tutor .", 'sentence': "Jesse Draper starred as Jesse Cook , the band 's nonsensical nanny and tutor .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band:_The_Movie&diff=prev&oldid=316244981'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[4, 5, 'R:ADJ', 'teen', 4, 5]], 'sentence_gt': "The duo 's initial tween pop boy band entitled , The Naked Brothers Band , was depicted in their Nickelodeon series that aired from 2007 to 2009 .", 'sentence': "The duo 's initial teen pop boy band entitled , The Naked Brothers Band , was depicted in their Nickelodeon series that aired from 2007 to 2009 .", 'url': 'https://en.wikipedia.org/w/index.php?title=Nat_and_Alex_Wolff&diff=prev&oldid=350266351'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:ADJ': 2})
+{'edits': [[22, 23, 'R:NOUN', '18th', 22, 23], [25, 26, 'R:ADJ', '19th', 25, 26]], 'sentence_gt': "India 's cotton - processing sector gradually declined during Britain expansion in India and the establishment of British Raj during the late eighteenth and early nineteenth centuries .", 'sentence': "India 's cotton - processing sector gradually declined during Britain expansion in India and the establishment of British Raj during the late 18th and early 19th centuries .", 'url': 'https://en.wikipedia.org/w/index.php?title=Cotton&diff=prev&oldid=72349418'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'R:WO': 1})
+2.2.1: Counter({'U:NOUN': 1, 'R:WO': 1})
+{'edits': [[14, 15, 'U:ADJ', '', 14, 14], [33, 35, 'R:WO', '" .', 32, 34]], 'sentence_gt': 'In an edition of " Kent \'s People " , Kent Brockman tells the heartbreaking story of Frank Grimes , " the man who had to struggle for everything he got in life . "', 'sentence': 'In an edition of " Kent \'s People " , Kent Brockman tells the story of Frank Grimes , " the man who had to struggle for everything he got in life " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Homer%27s_Enemy&diff=prev&oldid=120369055'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:DET': 1})
+{'edits': [[0, 1, 'M:ADJ', '| year', 0, 2]], 'sentence_gt': 'Year = 1994', 'sentence': '| year = 1994', 'url': 'https://en.wikipedia.org/w/index.php?title=Rajasthan&diff=prev&oldid=793840323'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[12, 13, 'R:ADJ', 'east', 12, 13]], 'sentence_gt': 'They followed up by a campaign which swept the allies to the right bank of the Rhine and left the French , by the beginning of 1795 , conquering Holland itself .', 'sentence': 'They followed up by a campaign which swept the allies to the east bank of the Rhine and left the French , by the beginning of 1795 , conquering Holland itself .', 'url': 'https://en.wikipedia.org/w/index.php?title=French_Revolution&diff=prev&oldid=422821188'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:ADJ': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [5, 6, 'R:ADJ', 'proceedings===', 4, 5]], 'sentence_gt': '= = = = Civil proceedings====', 'sentence': '= = = Civil proceedings===', 'url': 'https://en.wikipedia.org/w/index.php?title=BP&diff=prev&oldid=552480658'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'U:VERB:TENSE': 1})
+2.2.1: Counter({'R:ADJ': 1, 'U:VERB': 1})
+{'edits': [[1, 3, 'R:ADJ', 'several', 1, 2], [6, 7, 'U:VERB:TENSE', '', 5, 5]], 'sentence_gt': 'After many different takes , Kershner shouted told Ford to improvise on the spot .', 'sentence': 'After several takes , Kershner told Ford to improvise on the spot .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Empire_Strikes_Back&diff=prev&oldid=110600671'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:426', 0, 1], [1, 2, 'R:DET', 'till:1142', 1, 2]], 'sentence_gt': 'from:444 till:1166 text : " : Category : Wikify from February 2007 "', 'sentence': 'from:426 till:1142 text : " : Category : Wikify from February 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[7, 8, 'U:ADJ', '', 7, 7]], 'sentence_gt': "Siobhan Magnus & mdash ; ' ' Top Runner - up ''", 'sentence': "Siobhan Magnus & mdash ; ' ' Runner - up ''", 'url': 'https://en.wikipedia.org/w/index.php?title=User:ATC/Opinion_of_ordering_on_%27Idol%27_and_%27X_Factor%27&diff=prev&oldid=349090414'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1, 'R:ORTH': 1})
+2.2.1: Counter({'M:VERB': 1, 'R:ORTH': 1})
+{'edits': [[7, 7, 'M:ADJ', 'hidden', 7, 8], [7, 8, 'R:ORTH', 'states', 8, 9]], 'sentence_gt': "' ' x '' & mdash ; States of the Markov model", 'sentence': "' ' x '' & mdash ; hidden states of the Markov model", 'url': 'https://en.wikipedia.org/w/index.php?title=Hidden_Markov_model&diff=prev&oldid=50132789'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:NOUN': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:1142', 0, 1], [1, 2, 'R:DET', 'till:3061', 1, 2]], 'sentence_gt': 'from:1166 till:3095 text : " : Category : Wikify from March 2007 "', 'sentence': 'from:1142 till:3061 text : " : Category : Wikify from March 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:ADV': 1})
+{'edits': [[13, 13, 'M:ADJ', 'more', 13, 14]], 'sentence_gt': 'Most people that get better from autism has Aspergers syndrome a milder and high functing version of autism .', 'sentence': 'Most people that get better from autism has Aspergers syndrome a milder and more high functing version of autism .', 'url': 'https://en.wikipedia.org/w/index.php?title=Autism&diff=prev&oldid=154875625'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:NOUN': 1})
+{'edits': [[41, 41, 'M:ADJ', 'ditzy', 41, 42]], 'sentence_gt': "Although portraying fictional characters , the ensemble cast keep their full names on - screen ; however Allie DiMeco plays Nat 's female admirer and band member Rosalina , the siblings ' cousin ( Jesse Draper ) plays the group 's nanny Jesse Cook , and the siblings ' jazz pianist father ( Michael Wolff ) portrays their inept accordion - playing dad Sonny .", 'sentence': "Although portraying fictional characters , the ensemble cast keep their full names on - screen ; however Allie DiMeco plays Nat 's female admirer and band member Rosalina , the siblings ' cousin ( Jesse Draper ) plays the group 's ditzy nanny Jesse Cook , and the siblings ' jazz pianist father ( Michael Wolff ) portrays their inept accordion - playing dad Sonny .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band_(TV_series)&diff=prev&oldid=433640325'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[14, 15, 'U:ADJ', '', 14, 14]], 'sentence_gt': 'It lies on the A70 road road to Ayr , and has approximately 800 inbred inhabitants .', 'sentence': 'It lies on the A70 road road to Ayr , and has approximately 800 inhabitants .', 'url': 'https://en.wikipedia.org/w/index.php?title=Rigside&diff=prev&oldid=593321528'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'R:ORTH': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[2, 3, 'U:ADJ', '', 2, 2], [3, 4, 'R:ORTH', 'Server', 2, 3]], 'sentence_gt': '= = 9P server applications = =', 'sentence': '= = Server applications = =', 'url': 'https://en.wikipedia.org/w/index.php?title=9P_(protocol)&diff=prev&oldid=290458502'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[3, 4, 'U:ADJ', '', 3, 3]], 'sentence_gt': '= = = Haitian Revolution===', 'sentence': '= = = Revolution===', 'url': 'https://en.wikipedia.org/w/index.php?title=Haiti&diff=prev&oldid=341424578'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[6, 7, 'R:ADJ', 'difficult', 6, 7]], 'sentence_gt': 'It is important ( but often hard ) to differentiate between paralogs and orthologs in biological research .', 'sentence': 'It is important ( but often difficult ) to differentiate between paralogs and orthologs in biological research .', 'url': 'https://en.wikipedia.org/w/index.php?title=Gene_duplication&diff=prev&oldid=106934297'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:ADJ': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [3, 4, 'R:ADJ', 'debuts===', 4, 5]], 'sentence_gt': '= = International debuts==', 'sentence': '= = = International debuts===', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band:_The_Movie&diff=prev&oldid=371946696'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:OTHER': 1})
+{'edits': [[3, 6, 'U:ADJ', 'By', 3, 4]], 'sentence_gt': '= = = Sexual enslavement by Nazi Germany in WWII = = =', 'sentence': '= = = By Nazi Germany in WWII = = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Sexual_slavery&diff=prev&oldid=191377346'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', '//AFCH.api.isBlacklisted', 0, 1]], 'sentence_gt': 'AFCH.api.isBlacklisted ( page ) ,', 'sentence': '//AFCH.api.isBlacklisted ( page ) ,', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/afch-master.js/submissions.js&diff=prev&oldid=908069282'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:NOUN': 1})
+{'edits': [[20, 20, 'M:ADJ', 'Cellular', 20, 21]], 'sentence_gt': 'If the user is a member of multiple Closed User Groups there will be a Preferred CUG assigned by the network that will be used by default .', 'sentence': 'If the user is a member of multiple Closed User Groups there will be a Preferred CUG assigned by the Cellular network that will be used by default .', 'url': 'https://en.wikipedia.org/w/index.php?title=Closed_user_group&diff=prev&oldid=712947181'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:NOUN': 1})
+{'edits': [[8, 8, 'M:ADJ', 'european', 8, 9]], 'sentence_gt': "In 2005 flint tools and teeth from the water vole ' ' Mimomys savini '' , a key dating species , were found in the cliffs at Pakefield near Lowestoft in Suffolk .", 'sentence': "In 2005 flint tools and teeth from the european water vole ' ' Mimomys savini '' , a key dating species , were found in the cliffs at Pakefield near Lowestoft in Suffolk .", 'url': 'https://en.wikipedia.org/w/index.php?title=Homo_antecessor&diff=prev&oldid=644652386'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[5, 6, 'U:ADJ', '', 5, 5]], 'sentence_gt': 'During his days as a roving detective , Broderick lived quietly in Jackson Heights , Queens , where he enjoyed listening to his wife play the piano and was described by his \' \' New York Times \'\' obituary as being , off - duty , " the gentlest of men . "', 'sentence': 'During his days as a detective , Broderick lived quietly in Jackson Heights , Queens , where he enjoyed listening to his wife play the piano and was described by his \' \' New York Times \'\' obituary as being , off - duty , " the gentlest of men . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Johnny_Broderick&diff=prev&oldid=600766576'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:NOUN': 1})
+{'edits': [[0, 0, 'M:ADJ', 'Free', 0, 1]], 'sentence_gt': 'Wi - Fi is available at the venue but you are strongly advised to bring a data card/ mobile Internet dongle along .', 'sentence': 'Free Wi - Fi is available at the venue but you are strongly advised to bring a data card/ mobile Internet dongle along .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Workshop_Mulund,_Mumbai&diff=prev&oldid=566053369'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[7, 8, 'R:ADJ', 'four', 7, 8]], 'sentence_gt': 'The two - time Grammy Award and five - time Latin Grammy winner has sold more than 12 million albums worldwide .', 'sentence': 'The two - time Grammy Award and four - time Latin Grammy winner has sold more than 12 million albums worldwide .', 'url': 'https://en.wikipedia.org/w/index.php?title=Marc_Anthony&diff=prev&oldid=582899115'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[32, 33, 'U:ADJ', '', 32, 32]], 'sentence_gt': 'The band has a food fight in a restaurant , prompting Thomas , David , and Josh to leave and form a new group , called The Gold Boulders , managed by snotty Mort Needleman .', 'sentence': 'The band has a food fight in a restaurant , prompting Thomas , David , and Josh to leave and form a new group , called The Gold Boulders , managed by Mort Needleman .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band:_The_Movie&diff=prev&oldid=316379593'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:PUNCT': 1})
+{'edits': [[19, 20, 'R:ADJ', 'unacceptable{{fact', 19, 20], [20, 20, 'M:PUNCT', '} }', 20, 22]], 'sentence_gt': 'The German peace delegation in France signed the Treaty of Versailles accepting mass reductions of the German military , unacceptable war reparations payments , and the controversial " War Guilt Clause " .', 'sentence': 'The German peace delegation in France signed the Treaty of Versailles accepting mass reductions of the German military , unacceptable{{fact } } war reparations payments , and the controversial " War Guilt Clause " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Weimar_Republic&diff=prev&oldid=282015751'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[20, 21, 'R:ADJ', 'unpleased', 20, 21]], 'sentence_gt': 'Celia is demanding over her younger daughter Isabelle \'s ( Allie Grant ) " weight problem " , and is unhappy with her being a lesbian .', 'sentence': 'Celia is demanding over her younger daughter Isabelle \'s ( Allie Grant ) " weight problem " , and is unpleased with her being a lesbian .', 'url': 'https://en.wikipedia.org/w/index.php?title=Weeds_(TV_series)&diff=prev&oldid=513732896'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:ADJ': 2})
+{'edits': [[30, 31, 'R:NOUN', '19th', 30, 31], [33, 34, 'R:ADJ', '20th', 33, 34]], 'sentence_gt': 'This structure duplicates the in - group / out - group naming conventions used by many peoples , and may reflect a period of traumatic conflict with outsiders during the nineteenth and early twentieth century rubber boom .', 'sentence': 'This structure duplicates the in - group / out - group naming conventions used by many peoples , and may reflect a period of traumatic conflict with outsiders during the 19th and early 20th century rubber boom .', 'url': 'https://en.wikipedia.org/w/index.php?title=Huaorani_people&diff=prev&oldid=157860174'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:ADV': 1})
+{'edits': [[3, 4, 'M:ADJ', 'Strong keep', 3, 5]], 'sentence_gt': "' ' ' Keep ' '' .", 'sentence': "' ' ' Strong keep ' '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Evan_McMullin&diff=prev&oldid=760587369'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:ADV': 1})
+{'edits': [[7, 8, 'U:ADJ', '', 7, 7]], 'sentence_gt': 'RPG Maker allows people to make their very own role playing games ( RPGs ) .', 'sentence': 'RPG Maker allows people to make their own role playing games ( RPGs ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=RPG_Maker&diff=prev&oldid=32680592'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:ADJ': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [3, 4, 'R:ADJ', 'creatures===', 4, 5]], 'sentence_gt': '= = Other creatures==', 'sentence': '= = = Other creatures===', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Deckiller/Creatures_of_Final_Fantasy&diff=prev&oldid=102258375'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[3, 4, 'R:ADJ', 'appearances==', 3, 4]], 'sentence_gt': '= = Other appearences==', 'sentence': '= = Other appearances==', 'url': 'https://en.wikipedia.org/w/index.php?title=Squall_Leonhart&diff=prev&oldid=130095096'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:ADJ': 2})
+{'edits': [[4, 5, 'R:NOUN', '17th', 4, 5], [6, 7, 'R:ADJ', '16th', 6, 7]], 'sentence_gt': 'This period ( the seventeenth and sixteenth centuries BC , MM III / Neopalatial ) represents the apex of the Minoan civilization .', 'sentence': 'This period ( the 17th and 16th centuries BC , MM III / Neopalatial ) represents the apex of the Minoan civilization .', 'url': 'https://en.wikipedia.org/w/index.php?title=Minoan_civilization&diff=prev&oldid=304248652'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:ADJ': 2})
+{'edits': [[3, 4, 'R:NOUN', '17th', 3, 4], [6, 7, 'R:ADJ', '18th', 6, 7]], 'sentence_gt': 'In the late seventeenth and early eighteenth centuries , many younger sons of England aristocrats specifically chose to leave England for Virginia in the Colonies .', 'sentence': 'In the late 17th and early 18th centuries , many younger sons of England aristocrats specifically chose to leave England for Virginia in the Colonies .', 'url': 'https://en.wikipedia.org/w/index.php?title=Primogeniture&diff=prev&oldid=280151473'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:3061', 0, 1], [1, 2, 'R:DET', 'till:4594', 1, 2]], 'sentence_gt': 'from:3095 till:4633 text : " : Category : Wikify from April 2007 "', 'sentence': 'from:3061 till:4594 text : " : Category : Wikify from April 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:OTHER': 1})
+{'edits': [[3, 7, 'U:ADJ', 'Repositories', 3, 4]], 'sentence_gt': '= = = Major open content repositories and directories===', 'sentence': '= = = Repositories and directories===', 'url': 'https://en.wikipedia.org/w/index.php?title=Open_content&diff=prev&oldid=476267354'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ', 'Category:1990s', 0, 1]], 'sentence_gt': 'Category:2000s drama films', 'sentence': 'Category:1990s drama films', 'url': 'https://en.wikipedia.org/w/index.php?title=Gloria_(1999_American_film)&diff=prev&oldid=902016922'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', "importScript('MediaWiki", 0, 1]], 'sentence_gt': "//importScript('MediaWiki talk : Gadget - popups.js / sandbox ' ) ;", 'sentence': "importScript('MediaWiki talk : Gadget - popups.js / sandbox ' ) ;", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/common.js&diff=prev&oldid=826966841'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 2})
+{'edits': [[0, 1, 'R:ADJ', 'from:12081', 0, 1], [1, 2, 'R:DET', 'till:13656', 1, 2]], 'sentence_gt': 'from:12175 till:13647 text : " : Category : Wikify from October 2007 "', 'sentence': 'from:12081 till:13656 text : " : Category : Wikify from October 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 2})
+{'edits': [[0, 1, 'R:ADJ', 'from:4594', 0, 1], [1, 2, 'R:DET', 'till:6348', 1, 2]], 'sentence_gt': 'from:4633 till:6395 text : " : Category : Wikify from May 2007 "', 'sentence': 'from:4594 till:6348 text : " : Category : Wikify from May 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:ADJ': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [5, 6, 'R:ADJ', 'image===', 4, 5]], 'sentence_gt': '= = = = Popular image====', 'sentence': '= = = Popular image===', 'url': 'https://en.wikipedia.org/w/index.php?title=William_Jennings_Bryan&diff=prev&oldid=283114649'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[3, 5, 'U:ADJ', 'Dispersal', 3, 4]], 'sentence_gt': '= = = Acorn dispersal agents===', 'sentence': '= = = Dispersal agents===', 'url': 'https://en.wikipedia.org/w/index.php?title=Acorn&diff=prev&oldid=389836172'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', '7th', 0, 1]], 'sentence_gt': '6th', 'sentence': '7th', 'url': 'https://en.wikipedia.org/w/index.php?title=Juan_Pablo_Montoya&diff=prev&oldid=68051753'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ', 'umber=', 0, 1]], 'sentence_gt': 'pisodeNumber= 29 - 30', 'sentence': 'umber= 29 - 30', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_The_Naked_Brothers_Band_episodes&diff=prev&oldid=254307931'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', "importScript('MediaWiki", 0, 1]], 'sentence_gt': "//importScript('MediaWiki talk : Gadget - DRN - wizard.js / sandbox ' ) ;", 'sentence': "importScript('MediaWiki talk : Gadget - DRN - wizard.js / sandbox ' ) ;", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/common.js&diff=prev&oldid=730302802'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 7, 'R:ADJ', 'mid-19th', 5, 6]], 'sentence_gt': 'Before European settlement in the middle nineteenth century , there is evidence this area was used by the Washoe people .', 'sentence': 'Before European settlement in the mid-19th century , there is evidence this area was used by the Washoe people .', 'url': 'https://en.wikipedia.org/w/index.php?title=Desolation_Wilderness&diff=prev&oldid=912816777'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:ORTH': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:ORTH': 1})
+{'edits': [[3, 4, 'R:ADJ', 'Middle', 3, 4], [4, 5, 'R:ORTH', 'ages===', 4, 5]], 'sentence_gt': '= = = Medieval Ages===', 'sentence': '= = = Middle ages===', 'url': 'https://en.wikipedia.org/w/index.php?title=Kyrenia&diff=prev&oldid=309859360'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[0, 1, 'R:ADJ', "''Dynamic", 0, 1]], 'sentence_gt': '"\'\'Dynamic forces in Capitalist Development : A Long - Run Comparative View \'\' , by Angus Maddison .', 'sentence': "''Dynamic forces in Capitalist Development : A Long - Run Comparative View '' , by Angus Maddison .", 'url': 'https://en.wikipedia.org/w/index.php?title=Friedrich_List&diff=prev&oldid=282300080'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:MORPH': 1, 'R:OTHER': 1})
+{'edits': [[2, 3, 'R:MORPH', 'Austr', 2, 3], [4, 5, 'R:ADJ', 'Ottoman', 4, 5]], 'sentence_gt': 'After the Austrian - Turkish wars , together with the other Macedonian cities , the trade development and the overall thriving of the city was stifled .', 'sentence': 'After the Austr - Ottoman wars , together with the other Macedonian cities , the trade development and the overall thriving of the city was stifled .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bitola&diff=prev&oldid=69331599'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[4, 5, 'R:ADJ', 'tween', 4, 5]], 'sentence_gt': "The duo 's initial teen pop boy band entitled , The Naked Brothers Band , was depicted in their Nickelodeon series that aired from 2007 to 2009 .", 'sentence': "The duo 's initial tween pop boy band entitled , The Naked Brothers Band , was depicted in their Nickelodeon series that aired from 2007 to 2009 .", 'url': 'https://en.wikipedia.org/w/index.php?title=Nat_and_Alex_Wolff&diff=prev&oldid=350266272'}
+===================================================
+1.9.0: Counter({'U:VERB': 1, 'U:ADJ': 1})
+2.2.1: Counter({'U:ADJ': 2})
+{'edits': [[3, 4, 'U:VERB', '', 3, 3], [26, 27, 'U:ADJ', '', 25, 25]], 'sentence_gt': "It offers a striking set of allegorical insights into matters such as man 's tolerance for violence towards races considered as ' alien ' , the chilling effects of military indoctrination , and the depersonalisation of warfare in a simulated ' computer - game battlefield ' .", 'sentence': "It offers a set of allegorical insights into matters such as man 's tolerance for violence towards races considered as ' alien ' , the effects of military indoctrination , and the depersonalisation of warfare in a simulated ' computer - game battlefield ' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Ender_Wiggin&diff=prev&oldid=180495654'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:ADJ': 1})
+2.2.1: Counter({'M:OTHER': 1, 'U:ADJ': 1})
+{'edits': [[0, 0, 'M:NOUN', '#', 0, 1], [3, 4, 'U:ADJ', '', 4, 4]], 'sentence_gt': "' ' ' Strong oppose ' '' - not feasible , and AfC seems to be a decent solution to the new IP issue .", 'sentence': "# ' ' ' oppose ' '' - not feasible , and AfC seems to be a decent solution to the new IP issue .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Articles_for_creation/RfC_2013&diff=prev&oldid=567974442'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 2, 'R:ADJ', 'Venous', 0, 1], [2, 3, 'R:NOUN', 'obstruction', 1, 2]], 'sentence_gt': 'Reduced cardiac output ( e.g.', 'sentence': 'Venous obstruction ( e.g.', 'url': 'https://en.wikipedia.org/w/index.php?title=Cyanosis&diff=prev&oldid=149914899'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[8, 9, 'U:ADJ', '', 8, 8]], 'sentence_gt': "He has a crush on the band 's ditzy nanny and tutor , the 19-year - old Jesse Cook ( Jesse Draper ) .", 'sentence': "He has a crush on the band 's nanny and tutor , the 19-year - old Jesse Cook ( Jesse Draper ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band:_The_Movie&diff=prev&oldid=371736276'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:ADV': 1})
+{'edits': [[18, 19, 'R:ADJ', '6th', 18, 19]], 'sentence_gt': 'The film ended with $ 423.0 million domestically and just over $ 1 billion worldwide , becoming the sixth - highest grossing film domestically and the third - highest worldwide .', 'sentence': 'The film ended with $ 423.0 million domestically and just over $ 1 billion worldwide , becoming the 6th - highest grossing film domestically and the third - highest worldwide .', 'url': 'https://en.wikipedia.org/w/index.php?title=Pirates_of_the_Caribbean:_Dead_Man%27s_Chest&diff=prev&oldid=101229181'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:ADJ': 1})
+{'edits': [[0, 1, 'R:NOUN', 'window.replyLinkDryRun', 0, 1], [2, 3, 'R:ADJ', 'true', 2, 3]], 'sentence_gt': '//window.replyLinkDryRun = false ;', 'sentence': 'window.replyLinkDryRun = true ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/common.js&diff=prev&oldid=856584147'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:VERB': 1})
+{'edits': [[22, 23, 'R:ADJ', 'acclaimed', 22, 23]], 'sentence_gt': "' ' ' Bruno Maddox ' '' is a United Kingdom literary novelist and journalist who is best known for his critically lauded novel ' ' My Little Blue Dress '' ( 2001 ) and for his satirical magazine essays .", 'sentence': "' ' ' Bruno Maddox ' '' is a United Kingdom literary novelist and journalist who is best known for his critically acclaimed novel ' ' My Little Blue Dress '' ( 2001 ) and for his satirical magazine essays .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Today%27s_featured_article/January_21,_2008&diff=prev&oldid=185831432'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:7913', 0, 1], [1, 2, 'R:DET', 'till:9186', 1, 2]], 'sentence_gt': 'from:7962 till:9246 text : " : Category : Wikify from July 2007 "', 'sentence': 'from:7913 till:9186 text : " : Category : Wikify from July 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:OTHER': 1})
+{'edits': [[3, 4, 'U:ADJ', '', 3, 3]], 'sentence_gt': 'Congress failed to hi act any further until 1858 , when lawmakers set out in the Act of 1858 $ 100,000 in United States Bond ( finance ) left from the Compromise of 1850 to put towards the universities .', 'sentence': 'Congress failed to act any further until 1858 , when lawmakers set out in the Act of 1858 $ 100,000 in United States Bond ( finance ) left from the Compromise of 1850 to put towards the universities .', 'url': 'https://en.wikipedia.org/w/index.php?title=History_of_the_University_of_Texas_at_Austin&diff=prev&oldid=596241915'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'R:DET': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ', 'from:9186', 0, 1], [1, 2, 'R:DET', 'till:10583', 1, 2]], 'sentence_gt': 'from:9246 till:10656 text : " : Category : Wikify from August 2007 "', 'sentence': 'from:9186 till:10583 text : " : Category : Wikify from August 2007 "', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Wikification_progress&diff=prev&oldid=167853117'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[4, 5, 'U:ADJ', '', 4, 4]], 'sentence_gt': '= = Politics and Armenian activism==', 'sentence': '= = Politics and activism==', 'url': 'https://en.wikipedia.org/w/index.php?title=Charles_Aznavour&diff=prev&oldid=862085287'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:NOUN': 1, 'R:NOUN': 1})
+{'edits': [[10, 11, 'U:ADJ', '', 10, 10], [13, 14, 'R:NOUN', 'musician', 12, 13]], 'sentence_gt': "Onfroy 's first opener for a major act happened when rapper DRAM ( rapper ) brought Onfroy out at a concert on April 9 , 2017 at the Staples Center in Los Angeles during Kendrick Lamar 's Damn ( Kendrick Lamar album ) Tour .", 'sentence': "Onfroy 's first opener for a major act happened when DRAM ( musician ) brought Onfroy out at a concert on April 9 , 2017 at the Staples Center in Los Angeles during Kendrick Lamar 's Damn ( Kendrick Lamar album ) Tour .", 'url': 'https://en.wikipedia.org/w/index.php?title=XXXTentacion&diff=prev&oldid=901675158'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1, 'R:ADV': 1})
+2.2.1: Counter({'R:ADV': 1})
+{'edits': [[0, 1, 'U:ADJ', '', 0, 0], [1, 3, 'R:ADV', 'Thereafter', 0, 1]], 'sentence_gt': 'Much later on , the entire group speaks at a press conference in which Alex is looking at a calendar on the wall .', 'sentence': 'Thereafter , the entire group speaks at a press conference in which Alex is looking at a calendar on the wall .', 'url': 'https://en.wikipedia.org/w/index.php?title=Polar_Bears_(film)&diff=prev&oldid=390756961'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[17, 18, 'U:ADJ', '', 17, 17]], 'sentence_gt': "Their popularity is the result of having been signed on to music executive John B. Williams ' record label , Who 's the Man Records .", 'sentence': "Their popularity is the result of having been signed on to music executive John B. Williams ' label , Who 's the Man Records .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band:_The_Movie&diff=prev&oldid=327568424'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[8, 9, 'R:ADJ', 'Out""Hardcore', 8, 9]], 'sentence_gt': '\'\'\'Songs Performed : \' \'\' " I \'m Out\'\'"Hardcore Wrestler ( with Inner Feelings)"\'\'\'Music Produced by : \' \'\' Michael Wolff , Michael A. Levine\'\'\'Music Supervised by : \' \'\' Michael Wolff\'\'\'Music Composed by : \' \'\' Nat Wolff ( Lead Vocals and Lyrics)\'\'\'Special Guest Appearance by : \' \'\' Snoop Dogg', 'sentence': '\'\'\'Songs Performed : \' \'\' " I \'m Out""Hardcore Wrestler ( with Inner Feelings)"\'\'\'Music Produced by : \' \'\' Michael Wolff , Michael A. Levine\'\'\'Music Supervised by : \' \'\' Michael Wolff\'\'\'Music Composed by : \' \'\' Nat Wolff ( Lead Vocals and Lyrics)\'\'\'Special Guest Appearance by : \' \'\' Snoop Dogg', 'url': 'https://en.wikipedia.org/w/index.php?title=User:ATC/Opinion_of_the_ordering_on_The_Naked_Brothers_Band_production&diff=prev&oldid=437322513'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[0, 1, 'R:ADJ', 'Category:1893', 0, 1]], 'sentence_gt': 'Category:1885 births', 'sentence': 'Category:1893 births', 'url': 'https://en.wikipedia.org/w/index.php?title=Alvin_%22Shipwreck%22_Kelly&diff=prev&oldid=638102108'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:ADJ', 'Category:2003', 0, 1]], 'sentence_gt': 'Category:2002 television films', 'sentence': 'Category:2003 television films', 'url': 'https://en.wikipedia.org/w/index.php?title=Game_Over_(2003_film)&diff=prev&oldid=902017047'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:ADJ', 'star===', 4, 5]], 'sentence_gt': '= = = Recurring stars===', 'sentence': '= = = Recurring star===', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band_(TV_series)&diff=prev&oldid=894923547'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[25, 26, 'R:ADJ', 'puzzled', 25, 26]], 'sentence_gt': "Nonetheless , Allie DiMeco plays Nat 's female admirer and the bassist Rosalina ; the siblings ' actress cousin Jesse Draper portrays the group 's ditzy nanny Jesse Cook ; and the boys ' jazz pianist father Michael Wolff ( musician ) plays their inept accordion - performing dad Mr. Wolff , the latter of whom Draper notes she wrote similar to that of a child .", 'sentence': "Nonetheless , Allie DiMeco plays Nat 's female admirer and the bassist Rosalina ; the siblings ' actress cousin Jesse Draper portrays the group 's puzzled nanny Jesse Cook ; and the boys ' jazz pianist father Michael Wolff ( musician ) plays their inept accordion - performing dad Mr. Wolff , the latter of whom Draper notes she wrote similar to that of a child .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band_(TV_series)&diff=prev&oldid=514742470'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[3, 5, 'U:ADJ', 'Flag===', 3, 4]], 'sentence_gt': '= = = Inca flag===', 'sentence': '= = = Flag===', 'url': 'https://en.wikipedia.org/w/index.php?title=Inca_Empire&diff=prev&oldid=682793508'}
+===================================================
+1.9.0: Counter({'U:ADJ': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[24, 25, 'U:ADJ', '', 24, 24]], 'sentence_gt': "The album cover of ' ' Illmatic '' features a picture of Nas as a child , which was taken after his father , musician Olu Dara , returned home from an overseas tour .", 'sentence': "The album cover of ' ' Illmatic '' features a picture of Nas as a child , which was taken after his father , Olu Dara , returned home from an overseas tour .", 'url': 'https://en.wikipedia.org/w/index.php?title=Illmatic&diff=prev&oldid=855017081'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:VERB': 1})
+{'edits': [[11, 12, 'R:NOUN:NUM', 'reputation', 11, 12], [14, 15, 'R:ADJ', 'intended', 14, 15]], 'sentence_gt': 'Such editing can be seriously counterproductive , and can damage the reputations of the supposed beneficiaries .', 'sentence': 'Such editing can be seriously counterproductive , and can damage the reputation of the intended beneficiaries .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Conflict_of_interest_limit&diff=prev&oldid=582689898'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:VERB': 1})
+{'edits': [[35, 35, 'M:ADJ', 'electric', 35, 36]], 'sentence_gt': 'These instruments are called isotope ratio mass spectrometers ( IR - MS ) and use a single magnet to bend a beam of ionized particles towards a series of cups which convert particle impacts to current .', 'sentence': 'These instruments are called isotope ratio mass spectrometers ( IR - MS ) and use a single magnet to bend a beam of ionized particles towards a series of cups which convert particle impacts to electric current .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mass_spectrometry&diff=prev&oldid=11244811'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[25, 26, 'R:ADJ', 'treasured', 25, 26]], 'sentence_gt': 'Corporate officials and public relations representatives who disclose their conflicts find that they are not shunned but welcomed , and their invariable courtesy makes them welcome members of the Wikipedia community .', 'sentence': 'Corporate officials and public relations representatives who disclose their conflicts find that they are not shunned but welcomed , and their invariable courtesy makes them treasured members of the Wikipedia community .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Ghostwriting&diff=prev&oldid=548051895'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[7, 8, 'R:ADJ', 'immigrant', 7, 8]], 'sentence_gt': "The club is mainly supported by the refugee population ( known as ' ' Bangal ) '' , who were forced to leave their home during the partition of 1947 .", 'sentence': "The club is mainly supported by the immigrant population ( known as ' ' Bangal ) '' , who were forced to leave their home during the partition of 1947 .", 'url': 'https://en.wikipedia.org/w/index.php?title=East_Bengal_F.C.&diff=prev&oldid=913233816'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:SPELL': 1, 'R:OTHER': 1})
+{'edits': [[10, 11, 'R:SPELL', 'documentary', 10, 11], [13, 14, 'R:ADJ', 'mockumentary', 13, 14]], 'sentence_gt': 'The Naked Brothers Band ( film ) — an independent mockumentary film / documentary film , with a comedic twist ( 2005 ) .', 'sentence': 'The Naked Brothers Band ( film ) — an independent documentary film / mockumentary film , with a comedic twist ( 2005 ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band&diff=prev&oldid=173990987'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[4, 5, 'R:ADJ', 'use==', 4, 5]], 'sentence_gt': '= = Operation and utilization==', 'sentence': '= = Operation and use==', 'url': 'https://en.wikipedia.org/w/index.php?title=Earth_battery&diff=prev&oldid=267789744'}
+===================================================
+1.9.0: Counter({'M:ADJ': 1})
+2.2.1: Counter({'M:NOUN': 1})
+{'edits': [[8, 8, 'M:ADJ', 'civilian', 8, 9]], 'sentence_gt': '= = = Speedy end of war saved lives===', 'sentence': '= = = Speedy end of war saved civilian lives===', 'url': 'https://en.wikipedia.org/w/index.php?title=Debate_over_the_atomic_bombings_of_Hiroshima_and_Nagasaki&diff=prev&oldid=567949064'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1})
+2.2.1: Counter({'R:PUNCT': 1})
+{'edits': [[4, 5, 'R:ADJ', 'stars===', 4, 5]], 'sentence_gt': '= = = Recurring actors===', 'sentence': '= = = Recurring stars===', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band_(TV_series)&diff=prev&oldid=894923507'}
+===================================================

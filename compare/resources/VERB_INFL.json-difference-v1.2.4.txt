@@ -1,0 +1,312 @@
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[12, 13, 'R:VERB:INFL', 'applies', 12, 13]], 'sentence_gt': 'Hi , Just wanted to let you know that WP : INDICSCRIPT applys only to lead and is not applicable to infobox .', 'sentence': 'Hi , Just wanted to let you know that WP : INDICSCRIPT applies only to lead and is not applicable to infobox .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Magentic_Manifestations&diff=prev&oldid=641696335'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[29, 30, 'R:VERB:INFL', 'labelling', 29, 30]], 'sentence_gt': 'Commonly - created false narratives include : unsubstantiated accusations of WP : CANVAS like - minded editors , of having a non - disclosed WP : COI , of labeling another editor as a point - of - view pusher , and of being a sockpuppet or meatpuppet of a previously banned user .', 'sentence': 'Commonly - created false narratives include : unsubstantiated accusations of WP : CANVAS like - minded editors , of having a non - disclosed WP : COI , of labelling another editor as a point - of - view pusher , and of being a sockpuppet or meatpuppet of a previously banned user .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:POV_railroad&diff=prev&oldid=601018412'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[44, 45, 'R:VERB:INFL', 'committing', 44, 45]], 'sentence_gt': 'Columbine High School Massacre ( United States of America , 1999 ) : Eric Harris and Dylan Klebold , using a Hi - Point carbine and a TEC - DC9 , killed 12 students and one teacher and injured 24 in one hour before commiting suicide', 'sentence': 'Columbine High School Massacre ( United States of America , 1999 ) : Eric Harris and Dylan Klebold , using a Hi - Point carbine and a TEC - DC9 , killed 12 students and one teacher and injured 24 in one hour before committing suicide', 'url': 'https://en.wikipedia.org/w/index.php?title=Spree_killer&diff=prev&oldid=289087366'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'R:VERB:INFL': 1})
+2.2.1: Counter({'R:SPELL': 1, 'R:MORPH': 1})
+{'edits': [[1, 2, 'R:SPELL', 'repeated', 1, 2], [12, 13, 'R:VERB:INFL', 'editing', 12, 13]], 'sentence_gt': 'Also repreted decrease in readability should trigger a request for a copy editinging expert to improve the text .', 'sentence': 'Also repeated decrease in readability should trigger a request for a copy editing expert to improve the text .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:TronBot/QA&diff=prev&oldid=496247436'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:VERB:INFL', 'Putting', 0, 1]], 'sentence_gt': 'Puting Kahoy ) to the south ( S ) and by the Santa Rosa City to the west ( W ) with the Barangays Malitlit ( SW ) , Dita ( W ) and Caingin ( NW ) respectively .', 'sentence': 'Putting Kahoy ) to the south ( S ) and by the Santa Rosa City to the west ( W ) with the Barangays Malitlit ( SW ) , Dita ( W ) and Caingin ( NW ) respectively .', 'url': 'https://en.wikipedia.org/w/index.php?title=Cabuyao&diff=prev&oldid=309219416'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[63, 64, 'R:VERB:INFL', 'committed', 63, 64]], 'sentence_gt': 'By the late 1970s Thompson received complaints from critics , fans and friends alike that he was regurgitating his past glories without much in the way of new innovation on his part;http://www.gonzo.org / hst / interviews.asp?ID=10 these concerns are alluded to in the introduction of \' \' The Great Shark Hunt , \'\' where Thompson eerily suggested that his " old self " commited suicide .', 'sentence': 'By the late 1970s Thompson received complaints from critics , fans and friends alike that he was regurgitating his past glories without much in the way of new innovation on his part;http://www.gonzo.org / hst / interviews.asp?ID=10 these concerns are alluded to in the introduction of \' \' The Great Shark Hunt , \'\' where Thompson eerily suggested that his " old self " committed suicide .', 'url': 'https://en.wikipedia.org/w/index.php?title=Hunter_S._Thompson&diff=prev&oldid=95046311'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 2})
+2.2.1: Counter({'R:MORPH': 1, 'R:VERB:INFL': 1})
+{'edits': [[14, 15, 'R:VERB:INFL', 'lying', 14, 15], [26, 27, 'R:VERB:INFL', 'lying', 26, 27]], 'sentence_gt': 'Each of these areas when compared to each other are staggered with the beach lieing somewhat north or south of the lake , and chasm screens lieing both north and south of the lake .', 'sentence': 'Each of these areas when compared to each other are staggered with the beach lying somewhat north or south of the lake , and chasm screens lying both north and south of the lake .', 'url': 'https://en.wikipedia.org/w/index.php?title=King%27s_Quest&diff=prev&oldid=411299104'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[20, 21, 'R:VERB:INFL', 'committing', 20, 21]], 'sentence_gt': "He asks her advice on Robin and Alison suggests he cuts himself free , or love can be ' like commiting suicide ' .", 'sentence': "He asks her advice on Robin and Alison suggests he cuts himself free , or love can be ' like committing suicide ' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Psyche_59&diff=prev&oldid=899201170'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1, 'R:SPELL': 1})
+2.2.1: Counter({'R:MORPH': 1, 'R:SPELL': 1})
+{'edits': [[7, 8, 'R:VERB:INFL', 'barrelled', 7, 8], [10, 11, 'R:SPELL', 'calibre', 10, 11]], 'sentence_gt': 'The Gatling Gun was a multi - barreled , .58 caliber repeating machine gun that was capable of firing off 1000 rounds per minute that was created by Dr. Richard Jordan Gatling .', 'sentence': 'The Gatling Gun was a multi - barrelled , .58 calibre repeating machine gun that was capable of firing off 1000 rounds per minute that was created by Dr. Richard Jordan Gatling .', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_weapons_in_the_American_Civil_War&diff=prev&oldid=231985924'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:VERB:INFL', 'was', 1, 2]], 'sentence_gt': "'' wass a semi - professional England association football club based in the town of Goole , East Riding of Yorkshire , founded in 1912 .", 'sentence': "'' was a semi - professional England association football club based in the town of Goole , East Riding of Yorkshire , founded in 1912 .", 'url': 'https://en.wikipedia.org/w/index.php?title=Goole_Town_F.C.&diff=prev&oldid=664221588'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[17, 18, 'R:VERB:INFL', 'was', 17, 18]], 'sentence_gt': "The Athletics at the 2007 Pan American Games – Women 's 5000 metres Pan American Games champion wass Megan Metcalfe of Canada .", 'sentence': "The Athletics at the 2007 Pan American Games – Women 's 5000 metres Pan American Games champion was Megan Metcalfe of Canada .", 'url': 'https://en.wikipedia.org/w/index.php?title=Athletics_at_the_2011_Pan_American_Games_%E2%80%93_Women%27s_5000_metres&diff=prev&oldid=461485542'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[18, 19, 'R:VERB:INFL', 'committing', 18, 19]], 'sentence_gt': 'August 20 – leading Israeli TV personality Dudu Topaz died in the Nitzan Detention Center in Ramla after commiting suicide by hanging himself in his prison cell as he as he awaited trial over assaulting top media Israeli media executives .', 'sentence': 'August 20 – leading Israeli TV personality Dudu Topaz died in the Nitzan Detention Center in Ramla after committing suicide by hanging himself in his prison cell as he as he awaited trial over assaulting top media Israeli media executives .', 'url': 'https://en.wikipedia.org/w/index.php?title=2009_in_Israel&diff=prev&oldid=375918212'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[18, 19, 'R:VERB:INFL', 'was', 18, 19]], 'sentence_gt': "The Athletics at the 2007 Pan American Games – Women 's 400 metres hurdles Pan American Games champion wass Sheena Johnson of the United States .", 'sentence': "The Athletics at the 2007 Pan American Games – Women 's 400 metres hurdles Pan American Games champion was Sheena Johnson of the United States .", 'url': 'https://en.wikipedia.org/w/index.php?title=Athletics_at_the_2011_Pan_American_Games_%E2%80%93_Women%27s_400_metres_hurdles&diff=prev&oldid=461485218'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[21, 22, 'R:VERB:INFL', 'apply', 21, 22]], 'sentence_gt': "A ' ' ' pen ' '' ( Latin ' ' penna '' , feather ) is a device used to applys ink to a surface , usually paper , for writing or drawing .", 'sentence': "A ' ' ' pen ' '' ( Latin ' ' penna '' , feather ) is a device used to apply ink to a surface , usually paper , for writing or drawing .", 'url': 'https://en.wikipedia.org/w/index.php?title=Pen&diff=prev&oldid=442238026'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[5, 6, 'R:VERB:INFL', 'cast', 5, 6]], 'sentence_gt': 'Although the number of ballots casted was higher than in 2004 , the number of registered voters increased considerably in these elections , making the final turnout share lower than in 2004 .', 'sentence': 'Although the number of ballots cast was higher than in 2004 , the number of registered voters increased considerably in these elections , making the final turnout share lower than in 2004 .', 'url': 'https://en.wikipedia.org/w/index.php?title=2009_European_Parliament_election_in_Portugal&diff=prev&oldid=795540832'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[7, 8, 'R:VERB:INFL', 'signalling', 7, 8]], 'sentence_gt': 'Integrins play an important role in cell signaling .', 'sentence': 'Integrins play an important role in cell signalling .', 'url': 'https://en.wikipedia.org/w/index.php?title=Integrin&diff=prev&oldid=394951124'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[12, 13, 'R:VERB:INFL', 'beginning', 12, 13]], 'sentence_gt': 'The term New Age has appeared through history to signify a new begining whether desired or actual .', 'sentence': 'The term New Age has appeared through history to signify a new beginning whether desired or actual .', 'url': 'https://en.wikipedia.org/w/index.php?title=New_Age&diff=prev&oldid=95037226'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 2})
+2.2.1: Counter({'R:MORPH': 1, 'R:VERB:INFL': 1})
+{'edits': [[14, 15, 'R:VERB:INFL', 'lying', 14, 15], [26, 27, 'R:VERB:INFL', 'lying', 26, 27]], 'sentence_gt': 'Each of these areas when compared to each other are staggered with the beach lieing somewhat north or south of the lake , and chasm screens lieing both north and south of the lake .', 'sentence': 'Each of these areas when compared to each other are staggered with the beach lying somewhat north or south of the lake , and chasm screens lying both north and south of the lake .', 'url': 'https://en.wikipedia.org/w/index.php?title=King%27s_Quest&diff=prev&oldid=411299104'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[17, 18, 'R:VERB:INFL', 'was', 17, 18]], 'sentence_gt': "The Athletics at the 2007 Pan American Games – Men 's 10,000 metres Pan American Games champion wass José David Galván of Mexico .", 'sentence': "The Athletics at the 2007 Pan American Games – Men 's 10,000 metres Pan American Games champion was José David Galván of Mexico .", 'url': 'https://en.wikipedia.org/w/index.php?title=Athletics_at_the_2011_Pan_American_Games_%E2%80%93_Men%27s_10,000_metres&diff=prev&oldid=461485495'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[19, 20, 'R:VERB:INFL', 'stopping', 19, 20]], 'sentence_gt': 'Lenalee is introduced into the series when the gatekeeper of the Black Order mistakenly identifies Allen as an Akuma stoping Kanda from killing AllenD.Gray - man Manga - Vol.1 Chapter 3 .', 'sentence': 'Lenalee is introduced into the series when the gatekeeper of the Black Order mistakenly identifies Allen as an Akuma stopping Kanda from killing AllenD.Gray - man Manga - Vol.1 Chapter 3 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Lenalee_Lee&diff=prev&oldid=207205308'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[8, 9, 'R:VERB:INFL', 'occurring', 8, 9]], 'sentence_gt': 'A revision of the Turridae ( Pleurotomidae ) occuring in the Persian Gulf , Gulf of Oman and North Arabian Sea as evidenced mostly through the results of dredgings carried out by Mr. F.W.', 'sentence': 'A revision of the Turridae ( Pleurotomidae ) occurring in the Persian Gulf , Gulf of Oman and North Arabian Sea as evidenced mostly through the results of dredgings carried out by Mr. F.W.', 'url': 'https://en.wikipedia.org/w/index.php?title=Pseudorhaphitoma_ditylota&diff=prev&oldid=818453867'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:VERB:INFL', 'was', 1, 2]], 'sentence_gt': 'It wass operational at 24 HQ locations and more than 200 subsidiaries in the UK , Europe and the USA .', 'sentence': 'It was operational at 24 HQ locations and more than 200 subsidiaries in the UK , Europe and the USA .', 'url': 'https://en.wikipedia.org/w/index.php?title=Corporate_Headquarters_Office_Technology_System&diff=prev&oldid=460819069'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1, 'R:VERB:INFL': 1})
+2.2.1: Counter({'R:ORTH': 1, 'R:MORPH': 1})
+{'edits': [[0, 1, 'R:ORTH', 'Yeddyurappa', 0, 1], [1, 2, 'R:VERB:INFL', 'was', 1, 2]], 'sentence_gt': 'yeddyurappa wa born on 27 February 1943 in a village called Bookanakere in Krishnarajpet of Mandya district .', 'sentence': 'Yeddyurappa was born on 27 February 1943 in a village called Bookanakere in Krishnarajpet of Mandya district .', 'url': 'https://en.wikipedia.org/w/index.php?title=B._S._Yediyurappa&diff=prev&oldid=841651491'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'R:VERB:INFL': 1})
+2.2.1: Counter({'R:NOUN': 1, 'R:VERB:INFL': 1})
+{'edits': [[3, 4, 'R:PUNCT', 'brother(Juju', 3, 4], [11, 12, 'R:VERB:INFL', 'loving', 11, 12]], 'sentence_gt': 'She loves her borther(Juju ) stating if Juju would to stop loveing her she would not bear it .', 'sentence': 'She loves her brother(Juju ) stating if Juju would to stop loving her she would not bear it .', 'url': 'https://en.wikipedia.org/w/index.php?title=Agharta_(manga)&diff=prev&oldid=354671299'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[29, 30, 'R:VERB:INFL', 'occurring', 29, 30]], 'sentence_gt': 'During recurrence fewer lesions are likely to develop , lesions are less painful , and lesions heal faster ( within 5–10 days without antiviral treatment ) , than those occuring during the primary infection .', 'sentence': 'During recurrence fewer lesions are likely to develop , lesions are less painful , and lesions heal faster ( within 5–10 days without antiviral treatment ) , than those occurring during the primary infection .', 'url': 'https://en.wikipedia.org/w/index.php?title=Herpes_simplex&diff=prev&oldid=216033807'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:VERB:INFL', 'beginning', 3, 4]], 'sentence_gt': 'The current ( begining of 2007 ) track extent is between 220 and 230 kms .', 'sentence': 'The current ( beginning of 2007 ) track extent is between 220 and 230 kms .', 'url': 'https://en.wikipedia.org/w/index.php?title=Trams_in_Saint_Petersburg&diff=prev&oldid=105750246'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[11, 12, 'R:VERB:INFL', 'occurring', 11, 12]], 'sentence_gt': "Similar to ' ' Apheloria virginiensis '' and several co - occuring ' ' Brachoria '' species , it is boldly patterned black and yellow or red .", 'sentence': "Similar to ' ' Apheloria virginiensis '' and several co - occurring ' ' Brachoria '' species , it is boldly patterned black and yellow or red .", 'url': 'https://en.wikipedia.org/w/index.php?title=Brachoria_dentata&diff=prev&oldid=797450381'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[22, 23, 'R:VERB:INFL', 'committing', 22, 23]], 'sentence_gt': 'Sakuragi is wanted dead by both Ishihara and Dr. Sasaki and his friend Hagino , was violated by Dr. Sasaki and before commiting suicide , he wrote a suicidal note which blames the two of them .', 'sentence': 'Sakuragi is wanted dead by both Ishihara and Dr. Sasaki and his friend Hagino , was violated by Dr. Sasaki and before committing suicide , he wrote a suicidal note which blames the two of them .', 'url': 'https://en.wikipedia.org/w/index.php?title=Rainbow:_Nisha_Rokub%C5%8D_no_Shichinin&diff=prev&oldid=375917407'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[22, 23, 'R:VERB:INFL', 'rethought', 22, 23]], 'sentence_gt': 'This is still a work in progress ; I think that the approach of this article to alternative energy needs to be rethinked .', 'sentence': 'This is still a work in progress ; I think that the approach of this article to alternative energy needs to be rethought .', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:BP&diff=prev&oldid=552477720'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[2, 3, 'R:VERB:INFL', 'voiced', 2, 3]], 'sentence_gt': 'Pat Morita voiceed Master Udon in " Karate Island " ; Morita died before the episode aired , and the program was dedicated in his memory .', 'sentence': 'Pat Morita voiced Master Udon in " Karate Island " ; Morita died before the episode aired , and the program was dedicated in his memory .', 'url': 'https://en.wikipedia.org/w/index.php?title=SpongeBob_SquarePants_(season_4)&diff=prev&oldid=583855893'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[11, 12, 'R:VERB:INFL', 'occurring', 11, 12]], 'sentence_gt': "Despite the facts that there was no music - related celebration occuring in Cincinnati during that year , that Stephen Foster 's connection to Cincinnati was dubious ( he had worked for his brother as a bookkeeper for three years in the 1840s ) , that the year of 1886 did not seem to hold any special relevance to Cincinnati music and that the Cincinnati Musical Center was unknown to any of the established Cincinnati musical groups of the time , the mintage of 15,000 coins was authorized by the act of March 31 , 1936.Swiatek , p. 140 The coins were to be sold at $ 7.75 per three coin set consisting of one coin from each mint ; Philadelphia Mint , Denver Mint and San Francisco Mint .", 'sentence': "Despite the facts that there was no music - related celebration occurring in Cincinnati during that year , that Stephen Foster 's connection to Cincinnati was dubious ( he had worked for his brother as a bookkeeper for three years in the 1840s ) , that the year of 1886 did not seem to hold any special relevance to Cincinnati music and that the Cincinnati Musical Center was unknown to any of the established Cincinnati musical groups of the time , the mintage of 15,000 coins was authorized by the act of March 31 , 1936.Swiatek , p. 140 The coins were to be sold at $ 7.75 per three coin set consisting of one coin from each mint ; Philadelphia Mint , Denver Mint and San Francisco Mint .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:RHM22/Constance_Ortmayer&diff=prev&oldid=401190901'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[16, 17, 'R:VERB:INFL', 'committing', 16, 17]], 'sentence_gt': 'Todd returns to Edinburgh and has to go through the ritual of being caught in flagrante commiting adultery so Sonia can divorce him .', 'sentence': 'Todd returns to Edinburgh and has to go through the ritual of being caught in flagrante committing adultery so Sonia can divorce him .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_New_Confessions&diff=prev&oldid=375918249'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[1, 2, 'R:VERB:INFL', 'dwells', 1, 2]], 'sentence_gt': 'Schneider dwelles on a Rock music oriented sound , with a vintage feel .', 'sentence': 'Schneider dwells on a Rock music oriented sound , with a vintage feel .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sebastian_Schneider&diff=prev&oldid=335700207'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'R:VERB:INFL': 1})
+2.2.1: Counter({'R:SPELL': 1, 'R:MORPH': 1})
+{'edits': [[4, 5, 'R:SPELL', 'television', 4, 5], [6, 7, 'R:VERB:INFL', 'beginning', 6, 7]], 'sentence_gt': 'He started acting in tele serials begining with " Doddamane " .', 'sentence': 'He started acting in television serials beginning with " Doddamane " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Karibasavaiah&diff=prev&oldid=483623642'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[8, 9, 'R:VERB:INFL', 'Lying', 8, 9]], 'sentence_gt': 'Roger Leatherwood directed the short animated film " Lieing Man " http://www.imdb.com/title/tt1366683/ in 2008 .', 'sentence': 'Roger Leatherwood directed the short animated film " Lying Man " http://www.imdb.com/title/tt1366683/ in 2008 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Usher_(2004_film)&diff=prev&oldid=411298860'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[16, 17, 'R:VERB:INFL', 'fuelled', 16, 17]], 'sentence_gt': 'The internal landing gear would have been too small to carry the weight of the fully fueled rocket , so emergency landings would have required the fuel to be dumped.', 'sentence': 'The internal landing gear would have been too small to carry the weight of the fully fuelled rocket , so emergency landings would have required the fuel to be dumped.', 'url': 'https://en.wikipedia.org/w/index.php?title=British_Aerospace_HOTOL&diff=prev&oldid=716005730'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[16, 17, 'R:VERB:INFL', 'committing', 16, 17]], 'sentence_gt': 'This was the birth of Rap Therapy and within weeks the children opened up about parents commiting suicide and them witnessing their father jump off a roof , painful sexual abuse , and parents being addicted to crack and heroin .', 'sentence': 'This was the birth of Rap Therapy and within weeks the children opened up about parents committing suicide and them witnessing their father jump off a roof , painful sexual abuse , and parents being addicted to crack and heroin .', 'url': 'https://en.wikipedia.org/w/index.php?title=Blake_LeVine&diff=prev&oldid=375917982'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[32, 33, 'R:VERB:INFL', 'overthrew', 32, 33]], 'sentence_gt': 'Tombalbaye renamed his party in 1973 , calling it National Movement for the Cultural and Social Revolution , that survived only two years , for in 1975 a Chadian coup of 1975 overthrowed Tombalbaye and brought to a new government that immediately banished the party .', 'sentence': 'Tombalbaye renamed his party in 1973 , calling it National Movement for the Cultural and Social Revolution , that survived only two years , for in 1975 a Chadian coup of 1975 overthrew Tombalbaye and brought to a new government that immediately banished the party .', 'url': 'https://en.wikipedia.org/w/index.php?title=Chadian_Progressive_Party&diff=prev&oldid=398952707'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[11, 12, 'R:VERB:INFL', 'committed', 11, 12]], 'sentence_gt': "From 1951 until his retirement in 1956 he was once again commited to the Teatro dell'Opera di Roma .", 'sentence': "From 1951 until his retirement in 1956 he was once again committed to the Teatro dell'Opera di Roma .", 'url': 'https://en.wikipedia.org/w/index.php?title=Giacomo_Vaghi&diff=prev&oldid=382993727'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[22, 23, 'R:VERB:INFL', 'occurring', 22, 23]], 'sentence_gt': 'By the time the season was half over , the team was 28–14 , with a season best eleven game winning streak occuring during that span , while they went 29–13 in the second half .', 'sentence': 'By the time the season was half over , the team was 28–14 , with a season best eleven game winning streak occurring during that span , while they went 29–13 in the second half .', 'url': 'https://en.wikipedia.org/w/index.php?title=1972%E2%80%9373_Carolina_Cougars_season&diff=prev&oldid=731113909'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[35, 36, 'R:VERB:INFL', 'occurring', 35, 36]], 'sentence_gt': 'A neonatal withdrawal syndrome can also occur if nitrazepam or other benzodiazepines are used during pregnancy with symptoms such as hyper - excitability , tremor and gastro - intestinal upset ( diarrhea or vomiting ) occuring .', 'sentence': 'A neonatal withdrawal syndrome can also occur if nitrazepam or other benzodiazepines are used during pregnancy with symptoms such as hyper - excitability , tremor and gastro - intestinal upset ( diarrhea or vomiting ) occurring .', 'url': 'https://en.wikipedia.org/w/index.php?title=Nitrazepam&diff=prev&oldid=368115927'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[22, 23, 'R:VERB:INFL', 'lying', 22, 23]], 'sentence_gt': "Jean - Baptiste Oudry 's classic illustration of La Fontaine 's fable , dating originally from the 1730s , showed the peasant lieing face upward asleep beneath an oak .", 'sentence': "Jean - Baptiste Oudry 's classic illustration of La Fontaine 's fable , dating originally from the 1730s , showed the peasant lying face upward asleep beneath an oak .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Acorn_and_the_Pumpkin&diff=prev&oldid=657264570'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[10, 11, 'R:VERB:INFL', 'equipped', 10, 11]], 'sentence_gt': 'In April 1992 , the Battery was again re - equiped , this time with FH-70 .', 'sentence': 'In April 1992 , the Battery was again re - equipped , this time with FH-70 .', 'url': 'https://en.wikipedia.org/w/index.php?title=203_(Elswick)_Battery_Royal_Artillery&diff=prev&oldid=610485365'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[8, 9, 'R:VERB:INFL', 'totalled', 8, 9]], 'sentence_gt': 'In the UK , the film sub - totaled £ 1.303 million and $ 72,844 in the U.S.', 'sentence': 'In the UK , the film sub - totalled £ 1.303 million and $ 72,844 in the U.S.', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Wind_in_the_Willows_(1996_film)&diff=prev&oldid=777942961'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[21, 22, 'R:VERB:INFL', 'committing', 21, 22]], 'sentence_gt': "In his poem , ' ' Flowering Rifle '' Campbell attacked the Republic , praised Franco , and accused Communists of commiting far more heinous atrocities than any Fascist government .", 'sentence': "In his poem , ' ' Flowering Rifle '' Campbell attacked the Republic , praised Franco , and accused Communists of committing far more heinous atrocities than any Fascist government .", 'url': 'https://en.wikipedia.org/w/index.php?title=Roy_Campbell_(poet)&diff=prev&oldid=375918460'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[6, 7, 'R:VERB:INFL', 'fed', 6, 7]], 'sentence_gt': 'Most of the stations lineup is feeded in from national feeds of FOX Sports Radio and ESPN Radio', 'sentence': 'Most of the stations lineup is fed in from national feeds of FOX Sports Radio and ESPN Radio', 'url': 'https://en.wikipedia.org/w/index.php?title=WINZ_(AM)&diff=prev&oldid=464415251'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[5, 6, 'R:VERB:INFL', 'modelling', 5, 6]], 'sentence_gt': "' ' ' Rail transport modeling utilises a variety of Scale ( ratio ) ' '' ( ratio between the real world and the model ) to ensure scale models look correct when placed next to each other .", 'sentence': "' ' ' Rail transport modelling utilises a variety of Scale ( ratio ) ' '' ( ratio between the real world and the model ) to ensure scale models look correct when placed next to each other .", 'url': 'https://en.wikipedia.org/w/index.php?title=Rail_transport_modelling_scales&diff=prev&oldid=252178381'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[2, 3, 'R:VERB:INFL', 'was', 2, 3]], 'sentence_gt': 'RushmoreDrive News wass a tool that enabled the Black community to find news headlines from the entire World Wide Web , including well known Black media , blogs and countless relevant online voices , as well as recognized mainstream news sources.', 'sentence': 'RushmoreDrive News was a tool that enabled the Black community to find news headlines from the entire World Wide Web , including well known Black media , blogs and countless relevant online voices , as well as recognized mainstream news sources.', 'url': 'https://en.wikipedia.org/w/index.php?title=RushmoreDrive&diff=prev&oldid=461485763'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 2})
+2.2.1: Counter({'R:NOUN:INFL': 1, 'R:VERB:INFL': 1})
+{'edits': [[23, 24, 'R:VERB:INFL', 'preferring', 23, 24], [43, 44, 'R:VERB:INFL', 'preferring', 43, 44]], 'sentence_gt': "Despite scoring only his home debut , Hudson has never managed to establish himself in the Palace first - team , with Dowie prefering Darren Ward ( defender ) and Fitz Hall , and Dowie 's replacement as manager , Peter John Taylor prefering Ward and Leon Cort at centre - back .", 'sentence': "Despite scoring only his home debut , Hudson has never managed to establish himself in the Palace first - team , with Dowie preferring Darren Ward ( defender ) and Fitz Hall , and Dowie 's replacement as manager , Peter John Taylor preferring Ward and Leon Cort at centre - back .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mark_Hudson_(footballer,_born_1982)&diff=prev&oldid=105043996'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[7, 8, 'R:VERB:INFL', 'admitted', 7, 8]], 'sentence_gt': "He doubted her campaign , and later admited he did n't vote for her .", 'sentence': "He doubted her campaign , and later admitted he did n't vote for her .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Amazing_Mrs_Pritchard&diff=prev&oldid=105926527'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 2})
+2.2.1: Counter({'R:NOUN:INFL': 1, 'R:VERB:INFL': 1})
+{'edits': [[23, 24, 'R:VERB:INFL', 'preferring', 23, 24], [43, 44, 'R:VERB:INFL', 'preferring', 43, 44]], 'sentence_gt': "Despite scoring only his home debut , Hudson has never managed to establish himself in the Palace first - team , with Dowie prefering Darren Ward ( defender ) and Fitz Hall , and Dowie 's replacement as manager , Peter John Taylor prefering Ward and Leon Cort at centre - back .", 'sentence': "Despite scoring only his home debut , Hudson has never managed to establish himself in the Palace first - team , with Dowie preferring Darren Ward ( defender ) and Fitz Hall , and Dowie 's replacement as manager , Peter John Taylor preferring Ward and Leon Cort at centre - back .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mark_Hudson_(footballer,_born_1982)&diff=prev&oldid=105043996'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[24, 25, 'R:VERB:INFL', 'beginning', 24, 25]], 'sentence_gt': 'The station began broadcasting from its new , purpose - built facility near Swope Park in Kansas City on August 23 , 2007 , begining with KMBC 9 News at 5:00 .', 'sentence': 'The station began broadcasting from its new , purpose - built facility near Swope Park in Kansas City on August 23 , 2007 , beginning with KMBC 9 News at 5:00 .', 'url': 'https://en.wikipedia.org/w/index.php?title=KMBC-TV&diff=prev&oldid=161661009'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[32, 33, 'R:VERB:INFL', 'produced', 32, 33]], 'sentence_gt': "' ' ' Unforgiven ( 2008 ) ' '' will be the eleventh annual WWE Unforgiven Professional wrestling Pay - per - view List of WWE pay - per - view events produceds by World Wrestling Entertainment ( WWE ) .", 'sentence': "' ' ' Unforgiven ( 2008 ) ' '' will be the eleventh annual WWE Unforgiven Professional wrestling Pay - per - view List of WWE pay - per - view events produced by World Wrestling Entertainment ( WWE ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=Unforgiven_(2008)&diff=prev&oldid=226513709'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[14, 15, 'R:VERB:INFL', 'forbade', 14, 15]], 'sentence_gt': 'However , the early Ming government enacted a law , later rescinded , which forbad Han Chinese to learn the tenets of Tibetan Buddhism .', 'sentence': 'However , the early Ming government enacted a law , later rescinded , which forbade Han Chinese to learn the tenets of Tibetan Buddhism .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sino-Tibetan_relations_during_the_Ming_dynasty&diff=prev&oldid=219403477'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[14, 15, 'R:VERB:INFL', 'injured', 14, 15]], 'sentence_gt': 'Despite extensive attack , our medical staff succeeded in rescuing most of the critically injureds .', 'sentence': 'Despite extensive attack , our medical staff succeeded in rescuing most of the critically injured .', 'url': 'https://en.wikipedia.org/w/index.php?title=Iraqi_chemical_weapons_program&diff=prev&oldid=302575102'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[9, 10, 'R:VERB:INFL', 'was', 9, 10]], 'sentence_gt': 'The Grand Prix de la ville de la Baule wass the mayor competition of the Jumping International de France 2011 .', 'sentence': 'The Grand Prix de la ville de la Baule was the mayor competition of the Jumping International de France 2011 .', 'url': 'https://en.wikipedia.org/w/index.php?title=2011_Jumping_International_de_France&diff=prev&oldid=461487512'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[13, 14, 'R:VERB:INFL', 'fucking', 13, 14]], 'sentence_gt': 'Put on something tight and low - cut and tell your father to fuckinging stop it .', 'sentence': 'Put on something tight and low - cut and tell your father to fucking stop it .', 'url': 'https://en.wikipedia.org/w/index.php?title=Full_Frontal_with_Samantha_Bee&diff=prev&oldid=844281377'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:VERB:INFL', 'committing', 1, 2]], 'sentence_gt': 'Before commiting to a change , one should test it first .', 'sentence': 'Before committing to a change , one should test it first .', 'url': 'https://en.wikipedia.org/w/index.php?title=Help:Testing&diff=prev&oldid=355075134'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1, 'R:ORTH': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[28, 29, 'R:VERB:INFL', 'sought', 28, 29], [38, 40, 'R:ORTH', 'time.', 38, 39]], 'sentence_gt': "The chapel bears a sign in Latin stating ' ' NON GODE L’IMMUNITA ECCLESIAS '' , meaning that the church did not offer sanctuary to criminal offenders who seeked asylum within the church , something common at that time .", 'sentence': "The chapel bears a sign in Latin stating ' ' NON GODE L’IMMUNITA ECCLESIAS '' , meaning that the church did not offer sanctuary to criminal offenders who sought asylum within the church , something common at that time.", 'url': 'https://en.wikipedia.org/w/index.php?title=St_George%27s_Chapel,_Bir%C5%BCebbu%C4%A1a&diff=prev&oldid=795616823'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[17, 18, 'R:VERB:INFL', 'beginning', 17, 18]], 'sentence_gt': 'Starting in the year 2000 , Stockton has placed a major emphaisis on revitalizing the downtown area begining at Weber Point and radiating outward .', 'sentence': 'Starting in the year 2000 , Stockton has placed a major emphaisis on revitalizing the downtown area beginning at Weber Point and radiating outward .', 'url': 'https://en.wikipedia.org/w/index.php?title=Stockton,_California&diff=prev&oldid=95051984'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[10, 11, 'R:VERB:INFL', 'was', 10, 11]], 'sentence_gt': 'He came from a middle class family and his father wass a teacher .', 'sentence': 'He came from a middle class family and his father was a teacher .', 'url': 'https://en.wikipedia.org/w/index.php?title=Babu_Mohan&diff=prev&oldid=447861772'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:VERB:INFL', 'regarded', 3, 4]], 'sentence_gt': 'He is widely regardes as one of the best quarterbacks of all time .', 'sentence': 'He is widely regarded as one of the best quarterbacks of all time .', 'url': 'https://en.wikipedia.org/w/index.php?title=Peyton_Manning&diff=prev&oldid=335862408'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1, 'R:NOUN': 1})
+2.2.1: Counter({'R:VERB:INFL': 1, 'R:OTHER': 1})
+{'edits': [[5, 6, 'R:VERB:INFL', 'wore', 5, 6], [7, 8, 'R:NOUN', 'sleeve', 7, 8]], 'sentence_gt': "The 7th Muslim Mountain Brigade weared a sleave badge with ' ' Shahada '' , which alarmed and confused outside observers .", 'sentence': "The 7th Muslim Mountain Brigade wore a sleeve badge with ' ' Shahada '' , which alarmed and confused outside observers .", 'url': 'https://en.wikipedia.org/w/index.php?title=7th_Muslim_Brigade&diff=prev&oldid=874832946'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[18, 19, 'R:VERB:INFL', 'was', 18, 19]], 'sentence_gt': 'Anchor Brewing ( San Francisco , CA ) produced Anchor Bock Beer between 2005 and 2014 ; it wass released " in celebration of the coming of spring , " and available January – April .', 'sentence': 'Anchor Brewing ( San Francisco , CA ) produced Anchor Bock Beer between 2005 and 2014 ; it was released " in celebration of the coming of spring , " and available January – April .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bock&diff=prev&oldid=609631217'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:VERB:INFL', 'strove', 1, 2]], 'sentence_gt': 'Hendrix strived to combine what he called \' \' " earth " \'\' , a blues , jazz , or funk driven rhythm accompaniment , with \' \' " space " \'\' , the high - pitched psychedelic sounds created by his guitar improvisations .', 'sentence': 'Hendrix strove to combine what he called \' \' " earth " \'\' , a blues , jazz , or funk driven rhythm accompaniment , with \' \' " space " \'\' , the high - pitched psychedelic sounds created by his guitar improvisations .', 'url': 'https://en.wikipedia.org/w/index.php?title=Jimi_Hendrix&diff=prev&oldid=94806332'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[8, 9, 'R:VERB:INFL', 'roasting', 8, 9]], 'sentence_gt': 'Early humans made the first sausages by stuffing roastinged intestines into stomachs.', 'sentence': 'Early humans made the first sausages by stuffing roasting intestines into stomachs.', 'url': 'https://en.wikipedia.org/w/index.php?title=Sausage&diff=prev&oldid=820003119'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:VERB:INFL', 'admitted', 1, 2]], 'sentence_gt': 'Trinidad admited Dwayne “ The Rock ” Johnson Inspired Her to Act and Says She Wants to be the Female Rey Mysterio on Maria Menounos’ Black Hollywood Live Networkhttp://www.pwinsider.com / ViewArticle.php?id=82960', 'sentence': 'Trinidad admitted Dwayne “ The Rock ” Johnson Inspired Her to Act and Says She Wants to be the Female Rey Mysterio on Maria Menounos’ Black Hollywood Live Networkhttp://www.pwinsider.com / ViewArticle.php?id=82960', 'url': 'https://en.wikipedia.org/w/index.php?title=Zelina_Vega&diff=prev&oldid=593687378'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[11, 12, 'R:VERB:INFL', 'beginning', 11, 12]], 'sentence_gt': 'However , the combination of as an evolving family life and begining political career led to many arguments about balancing work and family .', 'sentence': 'However , the combination of as an evolving family life and beginning political career led to many arguments about balancing work and family .', 'url': 'https://en.wikipedia.org/w/index.php?title=Michelle_Obama&diff=prev&oldid=199888326'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[4, 5, 'R:VERB:INFL', 'modelling', 4, 5]], 'sentence_gt': 'Category : Rail transport modeling', 'sentence': 'Category : Rail transport modelling', 'url': 'https://en.wikipedia.org/w/index.php?title=Rail_transport_modelling_scales&diff=prev&oldid=252178381'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1})
+{'edits': [[15, 16, 'R:VERB:INFL', 'modelling', 15, 16]], 'sentence_gt': 'In common with Rod Stewart and Eric Clapton , Collins is also a Rail transport modeling enthusiast .', 'sentence': 'In common with Rod Stewart and Eric Clapton , Collins is also a Rail transport modelling enthusiast .', 'url': 'https://en.wikipedia.org/w/index.php?title=Phil_Collins&diff=prev&oldid=784478508'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[5, 6, 'R:VERB:INFL', 'was', 5, 6]], 'sentence_gt': 'The school maintained that discipline wass strict despite the " no - caning policy".', 'sentence': 'The school maintained that discipline was strict despite the " no - caning policy".', 'url': 'https://en.wikipedia.org/w/index.php?title=Telok_Kurau_Secondary_School&diff=prev&oldid=461487180'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[7, 8, 'R:VERB:INFL', 'was', 7, 8]], 'sentence_gt': 'The 2009/2010 season in National League 2 wass their second season in the National Leagues , but they were relegated straight away after finishing 3rd from bottom .', 'sentence': 'The 2009/2010 season in National League 2 was their second season in the National Leagues , but they were relegated straight away after finishing 3rd from bottom .', 'url': 'https://en.wikipedia.org/w/index.php?title=Broadstreet_Rugby_Club&diff=prev&oldid=461485133'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[23, 24, 'R:VERB:INFL', 'beginning', 23, 24]], 'sentence_gt': 'In 1995 , Sanchez successfully ran city - wide for at large position on Houston City Council , where he served three terms begining in January 1996 to January 2002 and stepped down due to term limits .', 'sentence': 'In 1995 , Sanchez successfully ran city - wide for at large position on Houston City Council , where he served three terms beginning in January 1996 to January 2002 and stepped down due to term limits .', 'url': 'https://en.wikipedia.org/w/index.php?title=Orlando_Sanchez_(politician)&diff=prev&oldid=627622294'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[6, 7, 'R:VERB:INFL', 'beginning', 6, 7]], 'sentence_gt': 'Its classic style of war film begining raised giant influence to the Europen and Hollywood , ex : few talks and series tough combats .', 'sentence': 'Its classic style of war film beginning raised giant influence to the Europen and Hollywood , ex : few talks and series tough combats .', 'url': 'https://en.wikipedia.org/w/index.php?title=7-Man_Army&diff=prev&oldid=256515303'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[9, 10, 'R:VERB:INFL', 'proceed', 9, 10]], 'sentence_gt': 'After a big struggling , The six Gold Saint procees to perform Athena Exclamation , even though this would mean the Sanctuary could be destroyed .', 'sentence': 'After a big struggling , The six Gold Saint proceed to perform Athena Exclamation , even though this would mean the Sanctuary could be destroyed .', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Saint_Seiya_chapters_(series)&diff=prev&oldid=375462705'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[31, 32, 'R:VERB:INFL', 'committing', 31, 32]], 'sentence_gt': 'In a montage set to the song , Paul is seen struggling with his addiction , while fighting with his wife , and later driving around town , ending with Paul commiting suicide in a parking lot .', 'sentence': 'In a montage set to the song , Paul is seen struggling with his addiction , while fighting with his wife , and later driving around town , ending with Paul committing suicide in a parking lot .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Temptations_(miniseries)&diff=prev&oldid=375918311'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[16, 17, 'R:VERB:INFL', 'heard', 16, 17]], 'sentence_gt': 'Another euro - disco act was Amena Lear , where euro - disco sound is most heared in Enigma ( " Give a bit of hmmm to me " ) song ( 1978 ) .', 'sentence': 'Another euro - disco act was Amena Lear , where euro - disco sound is most heard in Enigma ( " Give a bit of hmmm to me " ) song ( 1978 ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Disco&diff=prev&oldid=609921599'}
+===================================================
+1.9.0: Counter({'R:VERB:INFL': 1, 'R:NOUN:NUM': 1})
+2.2.1: Counter({'R:MORPH': 1, 'R:NOUN:NUM': 1})
+{'edits': [[31, 32, 'R:VERB:INFL', 'publish', 31, 32], [32, 33, 'R:NOUN:NUM', 'works', 32, 33]], 'sentence_gt': 'In 1960 , Allen moved from New York to San Francisco , where he established Grey Fox Press and the Four Seasons Foundation , two literary presses where he continued to publishs work from Beat , San Francisco Renaissance , Black Mountain , and New York School writers .', 'sentence': 'In 1960 , Allen moved from New York to San Francisco , where he established Grey Fox Press and the Four Seasons Foundation , two literary presses where he continued to publish works from Beat , San Francisco Renaissance , Black Mountain , and New York School writers .', 'url': 'https://en.wikipedia.org/w/index.php?title=Donald_Allen&diff=prev&oldid=819941330'}
+===================================================

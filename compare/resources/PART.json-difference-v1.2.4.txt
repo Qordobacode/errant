@@ -1,0 +1,660 @@
+1.9.0: Counter({'R:VERB': 1, 'R:PART': 1})
+2.2.1: Counter({'R:VERB': 1, 'R:PREP': 1})
+{'edits': [[21, 22, 'R:VERB', 'shared', 21, 22], [24, 25, 'R:PART', 'on', 24, 25]], 'sentence_gt': 'Democratic Alliance for the Betterment and Progress of Hong Kong politician and LegCo member Ann Chiang from pro - establishment camp uploaded a video to Facebook on July 7 , 2019 , slamming Sham for being gay and alleging that he intentionally concealed his LGBT identity in order to gain status with the pan - democracy camp in Hong Kong .', 'sentence': 'Democratic Alliance for the Betterment and Progress of Hong Kong politician and LegCo member Ann Chiang from pro - establishment camp shared a video on Facebook on July 7 , 2019 , slamming Sham for being gay and alleging that he intentionally concealed his LGBT identity in order to gain status with the pan - democracy camp in Hong Kong .', 'url': 'https://en.wikipedia.org/w/index.php?title=Jimmy_Sham&diff=prev&oldid=918565006'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[15, 16, 'U:PART', '', 15, 15]], 'sentence_gt': 'The proposed location of this convent provoked hostility from some sectors of the Jewish community to to the idea of building the Catholic institution on the ground where mass genocide of Jews and the deaths of millions of Poles was carried out .', 'sentence': 'The proposed location of this convent provoked hostility from some sectors of the Jewish community to the idea of building the Catholic institution on the ground where mass genocide of Jews and the deaths of millions of Poles was carried out .', 'url': 'https://en.wikipedia.org/w/index.php?title=Pope_John_Paul_II_and_Judaism&diff=prev&oldid=286149157'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[10, 11, 'U:PART', '', 10, 10]], 'sentence_gt': 'Respect mankind ’s diversity of needs and provide corresponding choices to to the flat and shop owners but not long confined to monetary compensation .', 'sentence': 'Respect mankind ’s diversity of needs and provide corresponding choices to the flat and shop owners but not long confined to monetary compensation .', 'url': 'https://en.wikipedia.org/w/index.php?title=Lee_Tung_Street&diff=prev&oldid=790756193'}
+===================================================
+1.9.0: Counter({'M:PART': 1, 'U:ADV': 1})
+2.2.1: Counter({'M:PART': 1, 'U:PART': 1})
+{'edits': [[24, 24, 'M:PART', 'down', 24, 25], [27, 28, 'U:ADV', '', 28, 28]], 'sentence_gt': 'On Microsoft Windows , an en dash may be entered as Alt+0150 , where the digits are typed on the numeric keypad while holding the Alt key down .', 'sentence': 'On Microsoft Windows , an en dash may be entered as Alt+0150 , where the digits are typed on the numeric keypad while holding down the Alt key .', 'url': 'https://en.wikipedia.org/w/index.php?title=Dash&diff=prev&oldid=309929400'}
+===================================================
+1.9.0: Counter({'U:PART': 1, 'U:PRON': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'U:PRON': 1})
+{'edits': [[7, 8, 'U:PART', '', 7, 7], [11, 12, 'U:PRON', '', 10, 10]], 'sentence_gt': 'Horrified by his crime , he chose to self - exile himself to the planet , creating the replicas of Rishon and their house with which to spend the rest of eternity , and using a recreation of the Husnock ship as intimidation to keep their privacy .', 'sentence': 'Horrified by his crime , he chose self - exile to the planet , creating the replicas of Rishon and their house with which to spend the rest of eternity , and using a recreation of the Husnock ship as intimidation to keep their privacy .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Survivors_(Star_Trek:_The_Next_Generation)&diff=prev&oldid=336407575'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[26, 27, 'U:PART', '', 26, 26]], 'sentence_gt': 'Robert Neal Rudmose - Brown , chronicler of the \' \' Scotia \'\' voyage and later Bruce \'s first biographer , wrote in a 1913 letter to to the President of the Royal Scottish Geographical Society that this neglect was " a slight to Scotland and to Scottish endeavour".Speak , pp .', 'sentence': 'Robert Neal Rudmose - Brown , chronicler of the \' \' Scotia \'\' voyage and later Bruce \'s first biographer , wrote in a 1913 letter to the President of the Royal Scottish Geographical Society that this neglect was " a slight to Scotland and to Scottish endeavour".Speak , pp .', 'url': 'https://en.wikipedia.org/w/index.php?title=William_Speirs_Bruce&diff=prev&oldid=219594483'}
+===================================================
+1.9.0: Counter({'U:PART': 1, 'R:PREP': 1})
+2.2.1: Counter({'R:PREP': 1, 'U:PREP': 1})
+{'edits': [[27, 28, 'U:PART', '', 27, 27], [28, 29, 'R:PREP', 'near', 27, 28]], 'sentence_gt': 'On the first day of the battle of Gettysburg , July 1 , 1863 , Confederate States Army engaged Union troops to the west of town , out by the Lutheran Theological Seminary .', 'sentence': 'On the first day of the battle of Gettysburg , July 1 , 1863 , Confederate States Army engaged Union troops to the west of town , near the Lutheran Theological Seminary .', 'url': 'https://en.wikipedia.org/w/index.php?title=Horatio_Stockton_Howell&diff=prev&oldid=449120890'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[28, 29, 'R:PART', 'to', 28, 29]], 'sentence_gt': 'However , just before they are about to make the trip , they hear that the evidence clerk has suddenly died from eating food laced with peanuts ( on which he was allergic ) .', 'sentence': 'However , just before they are about to make the trip , they hear that the evidence clerk has suddenly died from eating food laced with peanuts ( to which he was allergic ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Limitless_(TV_series)&diff=prev&oldid=720015417'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:NOUN': 1})
+2.2.1: Counter({'R:PREP': 1, 'R:NOUN': 1})
+{'edits': [[9, 10, 'R:PART', 'over', 9, 10], [10, 11, 'R:NOUN', 'lawns', 10, 11]], 'sentence_gt': 'Pied - wingeds living near humans will often feed near villages .', 'sentence': 'Pied - wingeds living near humans will often feed over lawns .', 'url': 'https://en.wikipedia.org/w/index.php?title=Pied-winged_swallow&diff=prev&oldid=873474775'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'R:PREP': 1, 'R:VERB:FORM': 1})
+{'edits': [[0, 1, 'R:PART', 'To', 0, 1], [1, 2, 'R:VERB:FORM', 'access', 1, 2]], 'sentence_gt': "In accessing DRAM , controllers first select a memory bank , then a row ( using the ' ' row address strobe '' , RAS ) , then a column ( using the CAS ) , and finally request to read the data from the physical location of the memory cell .", 'sentence': "To access DRAM , controllers first select a memory bank , then a row ( using the ' ' row address strobe '' , RAS ) , then a column ( using the CAS ) , and finally request to read the data from the physical location of the memory cell .", 'url': 'https://en.wikipedia.org/w/index.php?title=CAS_latency&diff=prev&oldid=56257996'}
+===================================================
+1.9.0: Counter({'R:PREP': 1, 'R:PART': 1})
+2.2.1: Counter({'R:PREP': 2})
+{'edits': [[7, 8, 'R:PREP', 'to', 7, 8], [13, 14, 'R:PART', 'to', 13, 14]], 'sentence_gt': 'This is the same as switching John for " Johnny " and George for " Georgie " .', 'sentence': 'This is the same as switching John to " Johnny " and George to " Georgie " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Slavic_name_suffixes&diff=prev&oldid=765708392'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'M:PART': 1})
+2.2.1: Counter({'R:NOUN': 1, 'M:PREP': 1})
+{'edits': [[19, 20, 'R:NOUN', 'charts', 19, 20], [22, 22, 'M:PART', 'on', 22, 23]], 'sentence_gt': 'Commercially , the recording experienced commercial success in Europe , reaching the top five in the majority of the territories it peaked .', 'sentence': 'Commercially , the recording experienced commercial success in Europe , reaching the top five in the majority of the charts it peaked on .', 'url': 'https://en.wikipedia.org/w/index.php?title=Lost_on_You&diff=prev&oldid=742396905'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 6, 'R:PART', 'off', 5, 6]], 'sentence_gt': 'This has gone far enough of course .', 'sentence': 'This has gone far enough off course .', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Andy_Murray&diff=prev&oldid=283705340'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[4, 5, 'U:PART', '', 4, 4]], 'sentence_gt': 'The church is next to to the historic Granary Burying Ground .', 'sentence': 'The church is next to the historic Granary Burying Ground .', 'url': 'https://en.wikipedia.org/w/index.php?title=Park_Street_Church&diff=prev&oldid=790759506'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[47, 48, 'R:PART', 'to', 47, 48]], 'sentence_gt': 'Prior to the album \'s release , Inna announced the release of an extended play titled \' \' Summer Days \'\' , for which six promotional songs were made availabe for digital download : " Take Me Higher " , \' \' Latinna \'\' was later renamed into simply \' \' Inna \'\' , and the EP \' \' Summer Days \'\' was never released , so all its songs ( with the exception of " Summer Days " ) were brought together on \' \' Body and the Sun \'\' and \' \' Inna \'\' .', 'sentence': 'Prior to the album \'s release , Inna announced the release of an extended play titled \' \' Summer Days \'\' , for which six promotional songs were made availabe for digital download : " Take Me Higher " , \' \' Latinna \'\' was later renamed to simply \' \' Inna \'\' , and the EP \' \' Summer Days \'\' was never released , so all its songs ( with the exception of " Summer Days " ) were brought together on \' \' Body and the Sun \'\' and \' \' Inna \'\' .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Cartoon_network_freak/sandbox&diff=prev&oldid=689167125'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:ADV': 1})
+{'edits': [[51, 51, 'M:PART', 'down', 51, 52]], 'sentence_gt': "She maintained the his father 's friendship with the explorer David Livingstone , giving him permission to visit all her kingdom ; but when the explorer returned in 1853 to the Makololo 's capital , Linyati , he found out that only shortly after her father 's death she had stepped in favour of his half - brother Sekeletu .", 'sentence': "She maintained the his father 's friendship with the explorer David Livingstone , giving him permission to visit all her kingdom ; but when the explorer returned in 1853 to the Makololo 's capital , Linyati , he found out that only shortly after her father 's death she had stepped down in favour of his half - brother Sekeletu .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mamochisane&diff=prev&oldid=203955039'}
+===================================================
+1.9.0: Counter({'U:PART': 1, 'R:PREP': 1})
+2.2.1: Counter({'R:PREP': 1, 'U:VERB:FORM': 1})
+{'edits': [[5, 6, 'U:PART', '', 5, 5], [6, 7, 'R:PREP', 'around', 5, 6]], 'sentence_gt': 'Torrential rains from Gert affected up to 20,000 people in Guatemala , and one girl was killed as a direct result of the storm .', 'sentence': 'Torrential rains from Gert affected around 20,000 people in Guatemala , and one girl was killed as a direct result of the storm .', 'url': 'https://en.wikipedia.org/w/index.php?title=Hurricane_Gert&diff=prev&oldid=458558629'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[7, 7, 'M:PART', 'to', 7, 8]], 'sentence_gt': "In Finland the game is often referred informally as ' ' Jasso '' .", 'sentence': "In Finland the game is often referred to informally as ' ' Jasso '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Payazzo&diff=prev&oldid=826765153'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[18, 19, 'U:PART', '', 18, 18]], 'sentence_gt': 'Previously , a Business license was required to start new businesses in town , which was only granted to if the new business did not compete with existing ones .', 'sentence': 'Previously , a Business license was required to start new businesses in town , which was only granted if the new business did not compete with existing ones .', 'url': 'https://en.wikipedia.org/w/index.php?title=Orania,_Northern_Cape&diff=prev&oldid=886974067'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[7, 8, 'U:PART', '', 7, 7]], 'sentence_gt': 'Asma ( Shweta Menon ) is married to to a 70-year - old Iranian as his fifth wife .', 'sentence': 'Asma ( Shweta Menon ) is married to a 70-year - old Iranian as his fifth wife .', 'url': 'https://en.wikipedia.org/w/index.php?title=Naval_Enna_Jewel&diff=prev&oldid=816103849'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[4, 5, 'U:PART', '', 4, 4]], 'sentence_gt': 'The same phenomenon applied to to Forest and Watermael - Boitsfort , where the went from completely Dutch - speaking to half monolingual French and half bilingual , with monolingual Dutch - speakers at only 6% .', 'sentence': 'The same phenomenon applied to Forest and Watermael - Boitsfort , where the went from completely Dutch - speaking to half monolingual French and half bilingual , with monolingual Dutch - speakers at only 6% .', 'url': 'https://en.wikipedia.org/w/index.php?title=Francization_of_Brussels&diff=prev&oldid=351503736'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[18, 19, 'U:PART', '', 18, 18]], 'sentence_gt': 'The Palestinian society rejects Nimer because of his sexual orientation , whereas the Israeli society rejects him due to to his nationality .', 'sentence': 'The Palestinian society rejects Nimer because of his sexual orientation , whereas the Israeli society rejects him due to his nationality .', 'url': 'https://en.wikipedia.org/w/index.php?title=Out_in_the_Dark&diff=prev&oldid=790759205'}
+===================================================
+1.9.0: Counter({'U:PART': 1, 'R:PREP': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'U:PART', '', 4, 4], [5, 6, 'R:PREP', 'through', 4, 5]], 'sentence_gt': 'Donovan and Elsa continue down to the Canyon of the Crescent Moon , where the temple containing the Grail is located .', 'sentence': 'Donovan and Elsa continue through the Canyon of the Crescent Moon , where the temple containing the Grail is located .', 'url': 'https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Last_Crusade&diff=prev&oldid=291445277'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[10, 11, 'R:PART', 'of', 10, 11]], 'sentence_gt': 'Faraday explained electromagnetic induction using a concept he called lines off force .', 'sentence': 'Faraday explained electromagnetic induction using a concept he called lines of force .', 'url': 'https://en.wikipedia.org/w/index.php?title=Electromagnetic_induction&diff=prev&oldid=642375803'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'R:PUNCT': 2})
+{'edits': [[0, 1, 'R:PART', '"The', 0, 1], [22, 23, 'R:PUNCT', '"', 22, 23]], 'sentence_gt': "'The visit of South African Prime Minister Mr P W Botha is causing a rising storm of protest in Britain and Europe ' , ' ' The Guardian '' ( 8 May 1984 ) , p. 2 .", 'sentence': '"The visit of South African Prime Minister Mr P W Botha is causing a rising storm of protest in Britain and Europe " , \' \' The Guardian \'\' ( 8 May 1984 ) , p. 2 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Premiership_of_Margaret_Thatcher&diff=prev&oldid=628290754'}
+===================================================
+1.9.0: Counter({'U:PART': 1, 'M:PREP': 1})
+2.2.1: Counter({'U:ADV': 1, 'M:PREP': 1})
+{'edits': [[14, 15, 'U:PART', '', 14, 14], [16, 16, 'M:PREP', 'to', 15, 16]], 'sentence_gt': 'In 1927 , almost forty years after his escape , he unexpectedly turned himself back in officials at the Broadmoor Asylum .', 'sentence': 'In 1927 , almost forty years after his escape , he unexpectedly turned himself in to officials at the Broadmoor Asylum .', 'url': 'https://en.wikipedia.org/w/index.php?title=Jack_the_Ripper_suspects&diff=prev&oldid=510993349'}
+===================================================
+1.9.0: Counter({'M:PART': 1, 'R:PREP': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 5, 'M:PART', 'up', 5, 6], [5, 6, 'R:PREP', 'to', 6, 7]], 'sentence_gt': 'The flammable liquid is filled in about half of the burner .', 'sentence': 'The flammable liquid is filled up to about half of the burner .', 'url': 'https://en.wikipedia.org/w/index.php?title=Alcohol_burner&diff=prev&oldid=699056384'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[39, 40, 'U:PART', '', 39, 39]], 'sentence_gt': "Despite Nixon squeaking by Humphrey nationwide , the Vice President ’s decisive victory in Maine made the state about thirteen percentage points more Democratic than the nation as a whole in 1968.http://uselectionatlas.org/RESULTS/state.php?year=1968&fips=23&off=0&elect=0&f=0 Humphrey ’s win was almost certainly due to to the popularityNelson , Michael ; ' ' Resilient America : Electing Nixon in 1968 , Channeling Dissent , and Dividing Government ( American Presidential Elections ) '' , pp .", 'sentence': "Despite Nixon squeaking by Humphrey nationwide , the Vice President ’s decisive victory in Maine made the state about thirteen percentage points more Democratic than the nation as a whole in 1968.http://uselectionatlas.org/RESULTS/state.php?year=1968&fips=23&off=0&elect=0&f=0 Humphrey ’s win was almost certainly due to the popularityNelson , Michael ; ' ' Resilient America : Electing Nixon in 1968 , Channeling Dissent , and Dividing Government ( American Presidential Elections ) '' , pp .", 'url': 'https://en.wikipedia.org/w/index.php?title=1968_United_States_presidential_election_in_Maine&diff=prev&oldid=790761740'}
+===================================================
+1.9.0: Counter({'U:PART': 1, 'R:PREP': 1})
+2.2.1: Counter({'R:PART': 1, 'U:PREP': 1})
+{'edits': [[2, 3, 'U:PART', '', 2, 2], [3, 4, 'R:PREP', 'before', 2, 3]], 'sentence_gt': 'iOS releases up till iOS 6 can only be run on iOS devices with 32-bit ARM processors ( ARMv6 and ARMv7-A architectures ) .', 'sentence': 'iOS releases before iOS 6 can only be run on iOS devices with 32-bit ARM processors ( ARMv6 and ARMv7-A architectures ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=IOS&diff=prev&oldid=808334717'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[8, 9, 'U:PART', '', 8, 8]], 'sentence_gt': 'It is found from Maritime Southeast Asia east to to the Hawaiian Islands , Marquesan Islands , and Ducie Island ; north to southern Japan ; south to the Lord Howe and Rapa islands ; and throughout Micronesia .', 'sentence': 'It is found from Maritime Southeast Asia east to the Hawaiian Islands , Marquesan Islands , and Ducie Island ; north to southern Japan ; south to the Lord Howe and Rapa islands ; and throughout Micronesia .', 'url': 'https://en.wikipedia.org/w/index.php?title=Teardrop_butterflyfish&diff=prev&oldid=790761206'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[24, 24, 'M:PART', 'to', 24, 25]], 'sentence_gt': "– The identification of the grave as Kaloyan 's burial place is controversial , because the ring bearing his name can not be dated before the 14th century .", 'sentence': "– The identification of the grave as Kaloyan 's burial place is controversial , because the ring bearing his name can not be dated to before the 14th century .", 'url': 'https://en.wikipedia.org/w/index.php?title=Kaloyan_of_Bulgaria&diff=prev&oldid=828460034'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[6, 6, 'M:PART', 'over', 6, 7]], 'sentence_gt': "From 1970 - 1971 he presided the ' ' Associazione Genetica Italiana''.", 'sentence': "From 1970 - 1971 he presided over the ' ' Associazione Genetica Italiana''.", 'url': 'https://en.wikipedia.org/w/index.php?title=Giuseppe_Sermonti&diff=prev&oldid=65448361'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[2, 3, 'R:PART', '\\varphi', 2, 3]], 'sentence_gt': 'To find φ we see from the similarity ( geometry ) of triangles ACO and BEO that', 'sentence': 'To find \\varphi we see from the similarity ( geometry ) of triangles ACO and BEO that', 'url': 'https://en.wikipedia.org/w/index.php?title=Belt_problem&diff=prev&oldid=282479153'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[26, 27, 'U:PART', '', 26, 26]], 'sentence_gt': 'In World War II , naval ships often rammed other vessels , though this was often due to circumstances , as considerable damage could be caused to to the attacking ship .', 'sentence': 'In World War II , naval ships often rammed other vessels , though this was often due to circumstances , as considerable damage could be caused to the attacking ship .', 'url': 'https://en.wikipedia.org/w/index.php?title=Ramming&diff=prev&oldid=459622186'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:PART', 'to', 4, 5]], 'sentence_gt': 'The French army started tp disintegrate : men were unpaid , even unfed ; there was lack of fodder for the horses ; desertion was rife ; troops were selling their equipment .', 'sentence': 'The French army started to disintegrate : men were unpaid , even unfed ; there was lack of fodder for the horses ; desertion was rife ; troops were selling their equipment .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Gog_the_Mild/sandbox2&diff=prev&oldid=862928472'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[16, 17, 'U:PART', '', 16, 16]], 'sentence_gt': 'In January 2017 , it was announced that the Western New York Flash has been sold to to the ownership group of the Carolina Railhawks .', 'sentence': 'In January 2017 , it was announced that the Western New York Flash has been sold to the ownership group of the Carolina Railhawks .', 'url': 'https://en.wikipedia.org/w/index.php?title=Katelyn_Rowland&diff=prev&oldid=790755897'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 6, 'R:PART', 'out', 5, 6]], 'sentence_gt': "I 've seen him helping around in many areas at WP .", 'sentence': "I 've seen him helping out in many areas at WP .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_adminship/EuroCarGT&diff=prev&oldid=648825900'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[16, 17, 'U:PART', '', 16, 16]], 'sentence_gt': 'He taught for several years at the Seminaire de Nicolet , and then was named Secretary to to Jean - Jacques Lartigue , vicar general of Montreal .', 'sentence': 'He taught for several years at the Seminaire de Nicolet , and then was named Secretary to Jean - Jacques Lartigue , vicar general of Montreal .', 'url': 'https://en.wikipedia.org/w/index.php?title=Ignace_Bourget&diff=prev&oldid=358979429'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[20, 21, 'R:PART', 'off', 20, 21]], 'sentence_gt': "If it ever reaches that point it would be a rather short list , and then we would be better of ' ' ' merging ' '' this to Polymath .", 'sentence': "If it ever reaches that point it would be a rather short list , and then we would be better off ' ' ' merging ' '' this to Polymath .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/List_of_Renaissance_men&diff=prev&oldid=557594590'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:PUNCT': 1})
+{'edits': [[9, 10, 'R:PART', 'over&nbsp;—', 9, 10], [10, 11, 'U:PUNCT', '', 10, 10]], 'sentence_gt': 'Equipment on the set had actually been accidentally knocked over — Capra left in Thomas Mitchell \'s impromptu ad lib ( although the " crashing " noise was augmented with added sound effects ) .', 'sentence': 'Equipment on the set had actually been accidentally knocked over&nbsp;— Capra left in Thomas Mitchell \'s impromptu ad lib ( although the " crashing " noise was augmented with added sound effects ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=It%27s_a_Wonderful_Life&diff=prev&oldid=446446881'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[32, 32, 'M:PART', 'to', 32, 33]], 'sentence_gt': 'The \' \' \' H. H. Bloomer Award \' \'\' is an award of the Linnean Society established in 1963 from a legacy by the amateur naturalist Harry Howard Bloomer , awarded " an amateur naturalist who has made an important contribution to biological knowledge . "', 'sentence': 'The \' \' \' H. H. Bloomer Award \' \'\' is an award of the Linnean Society established in 1963 from a legacy by the amateur naturalist Harry Howard Bloomer , awarded to " an amateur naturalist who has made an important contribution to biological knowledge . "', 'url': 'https://en.wikipedia.org/w/index.php?title=H._H._Bloomer_Award&diff=prev&oldid=575453717'}
+===================================================
+1.9.0: Counter({'U:PART': 1, 'R:PREP': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[10, 11, 'U:PART', '', 10, 10], [11, 12, 'R:PREP', 'until', 10, 11]], 'sentence_gt': 'Confining all prisoners , except workers , to their cells to at the end the day is a good example of a " lockdown period " in a corrections schedule .', 'sentence': 'Confining all prisoners , except workers , to their cells until the end the day is a good example of a " lockdown period " in a corrections schedule .', 'url': 'https://en.wikipedia.org/w/index.php?title=Lockdown&diff=prev&oldid=254423122'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:OTHER': 1})
+{'edits': [[31, 31, 'M:PART', 'up to', 31, 33]], 'sentence_gt': "Evacuations occurred in sequence to follow the storm 's forecast positions , and hundreds of thousands residents and tourists along portions of the Gulf Coast were forced to leave their homes twice in a matter of days .", 'sentence': "Evacuations occurred in sequence to follow the storm 's forecast positions , and hundreds of thousands residents and tourists along portions of the Gulf Coast were forced to leave their homes up to twice in a matter of days .", 'url': 'https://en.wikipedia.org/w/index.php?title=Hurricane_Elena&diff=prev&oldid=550253446'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:WO': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:WO': 1})
+{'edits': [[3, 4, 'R:PART', 'to', 3, 4], [4, 6, 'R:WO', 'be possibly', 4, 6]], 'sentence_gt': 'Lymexylidae are considered as possibly be the first beetles to evolve agriculture.', 'sentence': 'Lymexylidae are considered to be possibly the first beetles to evolve agriculture.', 'url': 'https://en.wikipedia.org/w/index.php?title=Lymexylidae&diff=prev&oldid=745299824'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[20, 21, 'U:PART', '', 20, 20]], 'sentence_gt': 'FC Lootus Kohtla - Järve finished in 10th and last place in the league 2010 Meistriliiga and were directly relegated to to the 2011 Esiliiga as a result , ending a one year stay in the Estonian top flight .', 'sentence': 'FC Lootus Kohtla - Järve finished in 10th and last place in the league 2010 Meistriliiga and were directly relegated to the 2011 Esiliiga as a result , ending a one year stay in the Estonian top flight .', 'url': 'https://en.wikipedia.org/w/index.php?title=2011_Meistriliiga&diff=prev&oldid=399071430'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[28, 29, 'R:PART', 'to', 28, 29]], 'sentence_gt': 'His maternal grandfather is venture capitalist and civic leader William Henry Draper III , and he is also the nephew of venture capitalist Timothy C. Draper , cousin of actress Jesse Draper , and the great - grandson of banker and diplomat William Henry Draper , Jr. His father is Jewish , while his mother is of Christian background ; Wolff was brought up " culturally Jewish . "', 'sentence': 'His maternal grandfather is venture capitalist and civic leader William Henry Draper III , and he is also the nephew of venture capitalist Timothy C. Draper , cousin to actress Jesse Draper , and the great - grandson of banker and diplomat William Henry Draper , Jr. His father is Jewish , while his mother is of Christian background ; Wolff was brought up " culturally Jewish . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Nat_Wolff&diff=prev&oldid=739338898'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[18, 19, 'U:PART', '', 18, 18]], 'sentence_gt': 'The following year , the finish moved to the Naval Training Center , and three years later moved to to the Parade Deck in Marine Corps Recruit Depot San Diego .', 'sentence': 'The following year , the finish moved to the Naval Training Center , and three years later moved to the Parade Deck in Marine Corps Recruit Depot San Diego .', 'url': 'https://en.wikipedia.org/w/index.php?title=Rock_%27n%27_Roll_San_Diego_Marathon&diff=prev&oldid=790760202'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:VERB:FORM': 1})
+{'edits': [[8, 9, 'U:PART', '', 8, 8]], 'sentence_gt': "' ' Brown Nation '' was initially reported to to be released by the Indian TV network Star Plus but eventually ended up being picked up for a global release for all 190 countries serving Netflix .", 'sentence': "' ' Brown Nation '' was initially reported to be released by the Indian TV network Star Plus but eventually ended up being picked up for a global release for all 190 countries serving Netflix .", 'url': 'https://en.wikipedia.org/w/index.php?title=Brown_Nation&diff=prev&oldid=790749305'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[4, 5, 'U:PART', '', 4, 4]], 'sentence_gt': "Hayward went to Columbia to for a supporting role alongside Ingrid Bergman in ' ' Adam Had Four Sons '' ( 1941 ) , then to Republic Pictures for ' ' Sis Hopkins ( 1941 film ) '' ( 1941 ) with Judy Canova and Bob Crosby .", 'sentence': "Hayward went to Columbia for a supporting role alongside Ingrid Bergman in ' ' Adam Had Four Sons '' ( 1941 ) , then to Republic Pictures for ' ' Sis Hopkins ( 1941 film ) '' ( 1941 ) with Judy Canova and Bob Crosby .", 'url': 'https://en.wikipedia.org/w/index.php?title=Susan_Hayward&diff=prev&oldid=918481891'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[7, 8, 'U:PART', '', 7, 7]], 'sentence_gt': 'Four years later WHST moved from 107.3 to to 106.1 and took the name " Mix 106 , " continuing to air ABC Radio \'s Today \'s Best Hits format with some local shows .', 'sentence': 'Four years later WHST moved from 107.3 to 106.1 and took the name " Mix 106 , " continuing to air ABC Radio \'s Today \'s Best Hits format with some local shows .', 'url': 'https://en.wikipedia.org/w/index.php?title=Northern_Christian_Radio&diff=prev&oldid=286559245'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[12, 13, 'U:PART', '', 12, 12]], 'sentence_gt': "The ' ' ' Kaipātiki Local Board ' '' covers Glenfield south to to the Northcote Peninsular , it 's easter boarder is the Northern Motorway and its western boarder is the Waitamata Harbour .", 'sentence': "The ' ' ' Kaipātiki Local Board ' '' covers Glenfield south to the Northcote Peninsular , it 's easter boarder is the Northern Motorway and its western boarder is the Waitamata Harbour .", 'url': 'https://en.wikipedia.org/w/index.php?title=Kaip%C4%81tiki_Local_Board&diff=prev&oldid=790755821'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[15, 16, 'U:PART', '', 15, 15]], 'sentence_gt': 'I will try to show my hand at requests for closure whenever time allows me to .', 'sentence': 'I will try to show my hand at requests for closure whenever time allows me .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Bellerophon&diff=prev&oldid=615966845'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[5, 6, 'U:PART', '', 5, 5]], 'sentence_gt': "Sorowitsch 's talents bring him to wider attention , and he is transferred out of the concentration camp .", 'sentence': "Sorowitsch 's talents bring him wider attention , and he is transferred out of the concentration camp .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Counterfeiters_(2007_film)&diff=prev&oldid=830164034'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[17, 18, 'U:PART', '', 17, 17]], 'sentence_gt': "The ' ' Privy Council ( Appeals from the High Court ) Act 1975 '' removed appeals to from the High Court to the Privy Council in both codified and common law matters .", 'sentence': "The ' ' Privy Council ( Appeals from the High Court ) Act 1975 '' removed appeals from the High Court to the Privy Council in both codified and common law matters .", 'url': 'https://en.wikipedia.org/w/index.php?title=Australia_Act_1986&diff=prev&oldid=33792654'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[17, 18, 'R:PART', 'ou', 17, 18]], 'sentence_gt': "I 've put it back up for review for someone who knows more than me to check out , you should probably take a look at WP : BALL however .", 'sentence': "I 've put it back up for review for someone who knows more than me to check ou , you should probably take a look at WP : BALL however .", 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Glacialfox&diff=prev&oldid=459672260'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[2, 3, 'U:PART', '', 2, 2]], 'sentence_gt': 'She married to Émile Mayrisch .', 'sentence': 'She married Émile Mayrisch .', 'url': 'https://en.wikipedia.org/w/index.php?title=Aline_Mayrisch_de_Saint-Hubert&diff=prev&oldid=863026558'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:VERB:FORM': 1})
+{'edits': [[10, 11, 'U:PART', '', 10, 10]], 'sentence_gt': "Perković win made her the only athlete of the meeting to to have won all Diamond races in a discipline after just five meetings , as Marvin Bracy 's 100&nbsp;m win erased Justin Gatlin 's streak .", 'sentence': "Perković win made her the only athlete of the meeting to have won all Diamond races in a discipline after just five meetings , as Marvin Bracy 's 100&nbsp;m win erased Justin Gatlin 's streak .", 'url': 'https://en.wikipedia.org/w/index.php?title=2015_IAAF_Diamond_League&diff=prev&oldid=666911594'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[23, 23, 'M:PART', 'to', 23, 24]], 'sentence_gt': "According to the 1856 and 1857 ' ' History and topography of the City of York , '' the Owst family name leads directly the original Saxon thanes who gave their name to the village .", 'sentence': "According to the 1856 and 1857 ' ' History and topography of the City of York , '' the Owst family name leads to directly the original Saxon thanes who gave their name to the village .", 'url': 'https://en.wikipedia.org/w/index.php?title=Owstwick&diff=prev&oldid=615890479'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[11, 11, 'M:PART', 'to', 11, 12]], 'sentence_gt': "On 31 January 1767 , she was married by Proxy marriage Louis Alexandre , Prince of Lamballe , ' ' prince de Lamballe '' , grandson of Louis XIV of France legitimised son , Louis Alexandre , Count of Toulouse , ' ' comte de Toulouse '' , and the only surviving son of Louis Jean Marie de Bourbon , Duke of Penthièvre , who had arranged the marriage .", 'sentence': "On 31 January 1767 , she was married by Proxy marriage to Louis Alexandre , Prince of Lamballe , ' ' prince de Lamballe '' , grandson of Louis XIV of France legitimised son , Louis Alexandre , Count of Toulouse , ' ' comte de Toulouse '' , and the only surviving son of Louis Jean Marie de Bourbon , Duke of Penthièvre , who had arranged the marriage .", 'url': 'https://en.wikipedia.org/w/index.php?title=Marie_Th%C3%A9r%C3%A8se_Louise_of_Savoy,_Princesse_de_Lamballe&diff=prev&oldid=735748067'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[29, 30, 'U:PART', '', 29, 29]], 'sentence_gt': 'Chavez proposed in December 2006 that Venezuela would build an oil refinery in Malaysia , and Golden Hope , a Malaysian state - owned palm oil company , agreed to with the Venezuelan state oil company to cultivate 40,000 ha of oil palms in Venezuela , while Malaysian company Petronas would start oil exploration in Venezuela .', 'sentence': 'Chavez proposed in December 2006 that Venezuela would build an oil refinery in Malaysia , and Golden Hope , a Malaysian state - owned palm oil company , agreed with the Venezuelan state oil company to cultivate 40,000 ha of oil palms in Venezuela , while Malaysian company Petronas would start oil exploration in Venezuela .', 'url': 'https://en.wikipedia.org/w/index.php?title=Malaysia%E2%80%93Venezuela_relations&diff=prev&oldid=308965995'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:PART', 'to', 4, 5]], 'sentence_gt': 'The French army started tp disintegrate : men were unpaid , even unfed ; there was lack of fodder for the horses ; desertion was rife ; troops were selling their equipment .', 'sentence': 'The French army started to disintegrate : men were unpaid , even unfed ; there was lack of fodder for the horses ; desertion was rife ; troops were selling their equipment .', 'url': 'https://en.wikipedia.org/w/index.php?title=Gascon_campaign_of_1345&diff=prev&oldid=862928340'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'R:PART': 1})
+2.2.1: Counter({'R:VERB': 1})
+{'edits': [[2, 3, 'R:SPELL', 'going', 2, 3], [3, 4, 'R:PART', 'to', 3, 4]], 'sentence_gt': 'There is gon na be an episode called " Lilly \'s Mom Has Got It Going On ! "', 'sentence': 'There is going to be an episode called " Lilly \'s Mom Has Got It Going On ! "', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Hannah_Montana_episodes&diff=prev&oldid=152011867'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[17, 18, 'R:PART', 'of', 17, 18]], 'sentence_gt': "' ' ' Terrorism ' '' , in its broadest sense , is defined as the use off violence , or threatened use of violence , in order to achieve a political , religious , or ideological aim .", 'sentence': "' ' ' Terrorism ' '' , in its broadest sense , is defined as the use of violence , or threatened use of violence , in order to achieve a political , religious , or ideological aim .", 'url': 'https://en.wikipedia.org/w/index.php?title=Terrorism&diff=prev&oldid=710054977'}
+===================================================
+1.9.0: Counter({'M:PREP': 1, 'U:PART': 1})
+2.2.1: Counter({'M:PREP': 1, 'U:VERB:TENSE': 1})
+{'edits': [[13, 13, 'M:PREP', 'of', 13, 14], [18, 19, 'U:PART', '', 19, 19]], 'sentence_gt': "What Delany does n't really address in the way that one would expect a black science fiction author to is race .", 'sentence': "What Delany does n't really address in the way that one would expect of a black science fiction author is race .", 'url': 'https://en.wikipedia.org/w/index.php?title=Stars_in_My_Pocket_Like_Grains_of_Sand&diff=prev&oldid=660375750'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1, 'U:PART': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'U:ADV': 1})
+{'edits': [[13, 14, 'U:VERB:TENSE', '', 13, 13], [16, 17, 'U:PART', '', 15, 15]], 'sentence_gt': 'With the promotion in 2009 in Lega Pro Prima Divisione , the team has finally left back a period of financial troubles , with internal problems that led the club to bankruptcy in 2003 .', 'sentence': 'With the promotion in 2009 in Lega Pro Prima Divisione , the team finally left a period of financial troubles , with internal problems that led the club to bankruptcy in 2003 .', 'url': 'https://en.wikipedia.org/w/index.php?title=U.S._Alessandria_Calcio_1912&diff=prev&oldid=697026246'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[16, 17, 'U:PART', '', 16, 16]], 'sentence_gt': 'The leg of the T projects to the rear of this section , and is joined to to the four - story second section .', 'sentence': 'The leg of the T projects to the rear of this section , and is joined to the four - story second section .', 'url': 'https://en.wikipedia.org/w/index.php?title=English_High_School_(1892_building)&diff=prev&oldid=790753873'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:VERB:FORM': 1})
+{'edits': [[12, 13, 'U:PART', '', 12, 12]], 'sentence_gt': 'Fiber provides bulk to the intestinal contents , and insoluble fiber especially to stimulates peristalsis -- the rhythmic muscular contractions of the intestines which move digesta along the digestive tract .', 'sentence': 'Fiber provides bulk to the intestinal contents , and insoluble fiber especially stimulates peristalsis -- the rhythmic muscular contractions of the intestines which move digesta along the digestive tract .', 'url': 'https://en.wikipedia.org/w/index.php?title=Nutrition&diff=prev&oldid=312826682'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[14, 15, 'R:PART', 'in', 14, 15]], 'sentence_gt': "Nicknamed ' Bajusz ' for his ' Twirly ' mustache , Gergely Pongrátz fought on less harmonious circumstances than his predecessor .", 'sentence': "Nicknamed ' Bajusz ' for his ' Twirly ' mustache , Gergely Pongrátz fought in less harmonious circumstances than his predecessor .", 'url': 'https://en.wikipedia.org/w/index.php?title=Battle_of_the_Corvin_Passage&diff=prev&oldid=648579895'}
+===================================================
+1.9.0: Counter({'M:PART': 1, 'U:ADV': 1})
+2.2.1: Counter({'M:PART': 1, 'U:PART': 1})
+{'edits': [[7, 7, 'M:PART', 'off', 7, 8], [11, 12, 'U:ADV', '', 12, 12]], 'sentence_gt': "Godzilla eventually ends the battle by blasting Ghidorah 's middle head off .", 'sentence': "Godzilla eventually ends the battle by blasting off Ghidorah 's middle head .", 'url': 'https://en.wikipedia.org/w/index.php?title=Godzilla_vs._King_Ghidorah&diff=prev&oldid=692928167'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[23, 24, 'U:PART', '', 23, 23]], 'sentence_gt': "She is very fond and caring of her suspectedly born - out - of - wedlock son , Shahrin , whom she sends to to the house of her religious friend Mas for Quranic lessons under Mas ' son who is Adam 's Ustad .", 'sentence': "She is very fond and caring of her suspectedly born - out - of - wedlock son , Shahrin , whom she sends to the house of her religious friend Mas for Quranic lessons under Mas ' son who is Adam 's Ustad .", 'url': 'https://en.wikipedia.org/w/index.php?title=Gubra&diff=prev&oldid=790754815'}
+===================================================
+1.9.0: Counter({'M:PART': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'M:PREP': 1, 'M:PUNCT': 1})
+{'edits': [[11, 11, 'M:PART', 'to', 11, 12], [13, 13, 'M:PUNCT', '.', 14, 15]], 'sentence_gt': 'Jacques - Joseph Haus married in Ghent September 13 , 1820 Angelique Roelandts', 'sentence': 'Jacques - Joseph Haus married in Ghent September 13 , 1820 to Angelique Roelandts .', 'url': 'https://en.wikipedia.org/w/index.php?title=Jacques-Joseph_Haus&diff=prev&oldid=357306555'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[5, 5, 'M:PART', 'to', 5, 6]], 'sentence_gt': 'After an ultimatum Metternich issued France went unheeded , Austria duly declared war on 12 August .', 'sentence': 'After an ultimatum Metternich issued to France went unheeded , Austria duly declared war on 12 August .', 'url': 'https://en.wikipedia.org/w/index.php?title=Klemens_von_Metternich&diff=prev&oldid=431907729'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[9, 10, 'U:PART', '', 9, 9]], 'sentence_gt': 'He was either known to have killed or admitted to to the killings of at least eight other people , including a fellow inmate and at least seven contract killings .', 'sentence': 'He was either known to have killed or admitted to the killings of at least eight other people , including a fellow inmate and at least seven contract killings .', 'url': 'https://en.wikipedia.org/w/index.php?title=Stephen_Wayne_Anderson&diff=prev&oldid=790760953'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:VERB:FORM': 1})
+{'edits': [[19, 20, 'U:PART', '', 19, 19]], 'sentence_gt': 'Seen in the previous section " Paul " is suggested by James Obertino of the University of Central Missouri to to have suffered from Posttraumatic stress disorder and narcissistic personality disorder both of which alter a persons train of thought and reasoning .', 'sentence': 'Seen in the previous section " Paul " is suggested by James Obertino of the University of Central Missouri to have suffered from Posttraumatic stress disorder and narcissistic personality disorder both of which alter a persons train of thought and reasoning .', 'url': 'https://en.wikipedia.org/w/index.php?title=Paul%27s_Case&diff=prev&oldid=790759649'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:ADV': 1})
+{'edits': [[6, 7, 'R:PART', 'in', 6, 7]], 'sentence_gt': 'Consequently , Loeb and Allyn stepped on as directors though the pair have very little experience in film directing .', 'sentence': 'Consequently , Loeb and Allyn stepped in as directors though the pair have very little experience in film directing .', 'url': 'https://en.wikipedia.org/w/index.php?title=Roe_v._Wade_(film)&diff=prev&oldid=850403716'}
+===================================================
+1.9.0: Counter({'M:PART': 1, 'R:NOUN': 1})
+2.2.1: Counter({'M:ADV': 1, 'R:NOUN': 1})
+{'edits': [[1, 2, 'M:PART', 'So praise', 1, 3], [4, 5, 'R:NOUN', 'freedom', 5, 6]], 'sentence_gt': ': Praise be to liberty ,', 'sentence': ': So praise be to freedom ,', 'url': 'https://en.wikipedia.org/w/index.php?title=Tavisupleba&diff=prev&oldid=234506305'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:PART': 1, 'R:VERB:FORM': 1})
+{'edits': [[25, 26, 'R:PART', 'to', 25, 26], [26, 27, 'R:MORPH', 'wage', 26, 27]], 'sentence_gt': 'It was reported that several Miami residents and Bosch met in the Dominican Republic shortly before the bombing and issued a statement declaring their intention of waging a terrorist campaign against Cuba .', 'sentence': 'It was reported that several Miami residents and Bosch met in the Dominican Republic shortly before the bombing and issued a statement declaring their intention to wage a terrorist campaign against Cuba .', 'url': 'https://en.wikipedia.org/w/index.php?title=Luis_Posada_Carriles&diff=prev&oldid=852099253'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:SPELL': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:SPELL': 1})
+{'edits': [[19, 20, 'R:PART', 'to', 19, 20], [23, 24, 'R:SPELL', 'achieve', 23, 24]], 'sentence_gt': "The school was awarded ' Technology College ' status in 1998.The school has become strict and has many aims ot help the children acheive their targets in life !", 'sentence': "The school was awarded ' Technology College ' status in 1998.The school has become strict and has many aims to help the children achieve their targets in life !", 'url': 'https://en.wikipedia.org/w/index.php?title=St_John_Plessington_Catholic_College&diff=prev&oldid=256486875'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:VERB:FORM': 1})
+{'edits': [[7, 8, 'U:PART', '', 7, 7]], 'sentence_gt': '98% of the circulating entacapone is bound to to serum Human serum albumin , which limits its Distribution ( pharmacology ) into Tissue ( biology ) .', 'sentence': '98% of the circulating entacapone is bound to serum Human serum albumin , which limits its Distribution ( pharmacology ) into Tissue ( biology ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Entacapone&diff=prev&oldid=790753893'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[13, 14, 'U:PART', '', 13, 13]], 'sentence_gt': 'The fruits are spherical with a woody shell and reach diameters of up to to 25 centimeters ( 10 inches ) , which give the species the common name " cannonball tree " .', 'sentence': 'The fruits are spherical with a woody shell and reach diameters of up to 25 centimeters ( 10 inches ) , which give the species the common name " cannonball tree " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Couroupita_guianensis&diff=prev&oldid=790750027'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[13, 14, 'U:PART', '', 13, 13]], 'sentence_gt': 'On November 16 the airline commenced a new route from Keflavík International Airport to to New York City ( John F. Kennedy International Airport ) after acquiring rights to serve the United States .', 'sentence': 'On November 16 the airline commenced a new route from Keflavík International Airport to New York City ( John F. Kennedy International Airport ) after acquiring rights to serve the United States .', 'url': 'https://en.wikipedia.org/w/index.php?title=Primera_Air&diff=prev&oldid=790759825'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[6, 7, 'U:PART', '', 6, 6]], 'sentence_gt': '– Typically the Gascons could field around 3,000–6,000 men , the large majority infantry , although up to two thirds of them would be tied down in garrisons.', 'sentence': '– Typically the Gascons could field 3,000–6,000 men , the large majority infantry , although up to two thirds of them would be tied down in garrisons.', 'url': 'https://en.wikipedia.org/w/index.php?title=Siege_of_Aiguillon&diff=prev&oldid=886613256'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[10, 11, 'U:PART', '', 10, 10]], 'sentence_gt': 'John Smith ( murderer ) , serial killer who murdered up to three women', 'sentence': 'John Smith ( murderer ) , serial killer who murdered to three women', 'url': 'https://en.wikipedia.org/w/index.php?title=John_Smith&diff=prev&oldid=262409415'}
+===================================================
+1.9.0: Counter({'U:PART': 1, 'R:PREP': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[30, 31, 'U:PART', '', 30, 30], [31, 32, 'R:PREP', 'on', 30, 31]], 'sentence_gt': ": : ' ' ' A : ' '' As far as articles go , I ’m rather proud of my work on Half - pipe skiing and getting it up to DYK , which was just a random article I found while new page patrolling .", 'sentence': ": : ' ' ' A : ' '' As far as articles go , I ’m rather proud of my work on Half - pipe skiing and getting it on DYK , which was just a random article I found while new page patrolling .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_adminship/Legoktm&diff=prev&oldid=553139092'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:VERB:FORM': 1})
+{'edits': [[7, 8, 'U:PART', '', 7, 7]], 'sentence_gt': 'A four lane Ring Road , proposed to to be constructed around Varanasi City would pass through Babhanpura .', 'sentence': 'A four lane Ring Road , proposed to be constructed around Varanasi City would pass through Babhanpura .', 'url': 'https://en.wikipedia.org/w/index.php?title=Babhanpura&diff=prev&oldid=790748795'}
+===================================================
+1.9.0: Counter({'R:VERB': 1, 'R:PART': 1})
+2.2.1: Counter({'R:VERB': 1, 'R:PREP': 1})
+{'edits': [[29, 30, 'R:VERB', 'campaigned', 29, 30], [30, 31, 'R:PART', 'to', 30, 31]], 'sentence_gt': 'Cameron and the Government supported a Remain vote , although the Conservative Party was officially neutral in the campaign and many Conservative politicians , including some Cabinet members , voted for Leave .', 'sentence': 'Cameron and the Government supported a Remain vote , although the Conservative Party was officially neutral in the campaign and many Conservative politicians , including some Cabinet members , campaigned to Leave .', 'url': 'https://en.wikipedia.org/w/index.php?title=2016_Conservative_Party_leadership_election&diff=prev&oldid=727558803'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[16, 17, 'U:PART', '', 16, 16]], 'sentence_gt': 'Major Robert Neville Parker ( 375739 ) , Royal Army Ordnance Corps ; formerly on loan to to the Government of the Federal Republic of Nigeria .', 'sentence': 'Major Robert Neville Parker ( 375739 ) , Royal Army Ordnance Corps ; formerly on loan to the Government of the Federal Republic of Nigeria .', 'url': 'https://en.wikipedia.org/w/index.php?title=1965_New_Year_Honours&diff=prev&oldid=790747240'}
+===================================================
+1.9.0: Counter({'R:VERB': 1, 'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:PREP': 1})
+{'edits': [[8, 9, 'R:VERB', 'dies', 8, 9], [9, 10, 'R:PART', 'from', 9, 10]], 'sentence_gt': 'Her purpose served , Melisandre leaves Winterfell and succumbs to old age .', 'sentence': 'Her purpose served , Melisandre leaves Winterfell and dies from old age .', 'url': 'https://en.wikipedia.org/w/index.php?title=Game_of_Thrones_(season_8)&diff=prev&oldid=895482375'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:VERB:FORM': 1})
+{'edits': [[2, 2, 'M:PART', 'to', 2, 3]], 'sentence_gt': 'Still need :', 'sentence': 'Still need to :', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Mpatel/sandbox/Symmetry_in_physics&diff=prev&oldid=33481763'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[9, 9, 'M:PART', 'to', 9, 10]], 'sentence_gt': 'Please change " the owner of the IP " " the owner of the IP address " for better consistency and correctness .', 'sentence': 'Please change " the owner of the IP " to " the owner of the IP address " for better consistency and correctness .', 'url': 'https://en.wikipedia.org/w/index.php?title=Template_talk:Whois&diff=prev&oldid=822363090'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[13, 14, 'U:PART', '', 13, 13]], 'sentence_gt': 'Walker was acquainted with abolitionist Frederick Douglass , and he wrote a letter to to the administration on her behalf asking that she be reconsidered , but they would not change their decision.&nbsp;Instead she studied from 1892 to 1895 under Thomas Eakins and John Henry Twachtman at the Cooper Union before traveling to Paris , where she lived from 1896 to 1902 .', 'sentence': 'Walker was acquainted with abolitionist Frederick Douglass , and he wrote a letter to the administration on her behalf asking that she be reconsidered , but they would not change their decision.&nbsp;Instead she studied from 1892 to 1895 under Thomas Eakins and John Henry Twachtman at the Cooper Union before traveling to Paris , where she lived from 1896 to 1902 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Annie_E._A._Walker&diff=prev&oldid=790748401'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[3, 4, 'R:PART', 'on', 3, 4]], 'sentence_gt': 'The Scythian hold of Gandhara loosened after the death of Maues , and petty kings of mixed or uncertain origin , like Artemidorus the son of Maues , King Telephos and perhaps Menander II emerged in the area .', 'sentence': 'The Scythian hold on Gandhara loosened after the death of Maues , and petty kings of mixed or uncertain origin , like Artemidorus the son of Maues , King Telephos and perhaps Menander II emerged in the area .', 'url': 'https://en.wikipedia.org/w/index.php?title=Apollodotus_II&diff=prev&oldid=820761767'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[32, 33, 'U:PART', '', 32, 32]], 'sentence_gt': 'His father then sent him to the seaside town of Kotor to join the Yugoslav Navy , but Arkan had other plans , ending up in Paris at the age of 15 to .', 'sentence': 'His father then sent him to the seaside town of Kotor to join the Yugoslav Navy , but Arkan had other plans , ending up in Paris at the age of 15 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Arkan&diff=prev&oldid=594439507'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:VERB:FORM': 1})
+{'edits': [[16, 17, 'U:PART', '', 16, 16]], 'sentence_gt': 'It was the first time in long history of the sport that Carbon Fiber was allowed to to be used in the production of the masts .', 'sentence': 'It was the first time in long history of the sport that Carbon Fiber was allowed to be used in the production of the masts .', 'url': 'https://en.wikipedia.org/w/index.php?title=Offshore_Spars&diff=prev&oldid=790759039'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[4, 5, 'U:PART', '', 4, 4]], 'sentence_gt': "He made regular trips to to Wembley , including a visit in 1991 where he and some members of the World Cup - winning team were reunited prior to that season 's 1991 FA Cup Final .", 'sentence': "He made regular trips to Wembley , including a visit in 1991 where he and some members of the World Cup - winning team were reunited prior to that season 's 1991 FA Cup Final .", 'url': 'https://en.wikipedia.org/w/index.php?title=Alf_Ramsey&diff=prev&oldid=790747826'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[5, 6, 'U:PART', '', 5, 5]], 'sentence_gt': 'The school renamed the building to " Memorial Hall " on August 15 , 2016 after anonymous donors donated US$ 1.2 million to repay the United Daughters of the Confederacy a $ 50,000 donation , adjusted for inflation .', 'sentence': 'The school renamed the building " Memorial Hall " on August 15 , 2016 after anonymous donors donated US$ 1.2 million to repay the United Daughters of the Confederacy a $ 50,000 donation , adjusted for inflation .', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Confederate_monuments_and_memorials&diff=prev&oldid=799399250'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[9, 10, 'U:PART', '', 9, 9]], 'sentence_gt': "Following his father 's death , Yisochor Dov acceded to to the positions of Town Rabbi of Belz and spiritual leader of the Belzer chasidim in 1894 .", 'sentence': "Following his father 's death , Yisochor Dov acceded to the positions of Town Rabbi of Belz and spiritual leader of the Belzer chasidim in 1894 .", 'url': 'https://en.wikipedia.org/w/index.php?title=Yissachar_Dov_Rokeach_(third_Belzer_rebbe)&diff=prev&oldid=257935164'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[9, 10, 'R:PART', 'of', 9, 10]], 'sentence_gt': 'He was the spiritual father , or teacher , to Symeon the New Theologian.', 'sentence': 'He was the spiritual father , or teacher , of Symeon the New Theologian.', 'url': 'https://en.wikipedia.org/w/index.php?title=Symeon_the_Studite&diff=prev&oldid=887466510'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[2, 3, 'R:PART', 'to', 2, 3]], 'sentence_gt': 'Nicolls promised ro see to his education.', 'sentence': 'Nicolls promised to see to his education.', 'url': 'https://en.wikipedia.org/w/index.php?title=Josiah_Francis_(Hillis_Hadjo)&diff=prev&oldid=836898229'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[2, 3, 'U:PART', '', 2, 2]], 'sentence_gt': 'Hewson moved to to her present chambers in March 2014 .', 'sentence': 'Hewson moved to her present chambers in March 2014 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Barbara_Hewson&diff=prev&oldid=666977650'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[7, 8, 'U:PART', '', 7, 7]], 'sentence_gt': 'An allergy is a abnormal immune reaction to to a harmless antigen .', 'sentence': 'An allergy is a abnormal immune reaction to a harmless antigen .', 'url': 'https://en.wikipedia.org/w/index.php?title=Immune_disorder&diff=prev&oldid=351200925'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:PART', '=D', 0, 1]], 'sentence_gt': ':D Look up at the previous thread .', 'sentence': '=D Look up at the previous thread .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Simply_south&diff=prev&oldid=202534810'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[2, 3, 'U:PART', '', 2, 2]], 'sentence_gt': 'They set about about sailing upriver , but their advance faced unremitting hostility from the Mandinka people inhabitants upriver .', 'sentence': 'They set about sailing upriver , but their advance faced unremitting hostility from the Mandinka people inhabitants upriver .', 'url': 'https://en.wikipedia.org/w/index.php?title=Alvise_Cadamosto&diff=prev&oldid=462621408'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[11, 12, 'U:PART', '', 11, 11]], 'sentence_gt': "On April 20 , 1990 , the Indianapolis Colts traded Him to to the Atlanta Falcons in exchange for the Atlanta Falcon 's first overall pick in the 1990 NFL Draft , which they used to select top quarterback prospect Jeff George .", 'sentence': "On April 20 , 1990 , the Indianapolis Colts traded Him to the Atlanta Falcons in exchange for the Atlanta Falcon 's first overall pick in the 1990 NFL Draft , which they used to select top quarterback prospect Jeff George .", 'url': 'https://en.wikipedia.org/w/index.php?title=Chris_Hinton&diff=prev&oldid=790749922'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[24, 24, 'M:PART', 'out', 24, 25]], 'sentence_gt': "The ' ' Tribune '' also reported that more than 60 groups have lined up behind Bathurst to get an anti - violence message to citizens in high - crime areas .", 'sentence': "The ' ' Tribune '' also reported that more than 60 groups have lined up behind Bathurst to get an anti - violence message out to citizens in high - crime areas .", 'url': 'https://en.wikipedia.org/w/index.php?title=Cynthia_Bathurst&diff=prev&oldid=470151392'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[10, 11, 'U:PART', '', 10, 10]], 'sentence_gt': 'The concentration entrance length can be determined by relating it to to the hydrodynamic entrance length with the Schmidt number .', 'sentence': 'The concentration entrance length can be determined by relating it to the hydrodynamic entrance length with the Schmidt number .', 'url': 'https://en.wikipedia.org/w/index.php?title=Entrance_length&diff=prev&oldid=790753944'}
+===================================================
+1.9.0: Counter({'U:NOUN': 1, 'M:PART': 1})
+2.2.1: Counter({'U:NOUN': 1, 'M:PREP': 1})
+{'edits': [[20, 21, 'U:NOUN', '', 20, 20], [23, 23, 'M:PART', 'up', 22, 23]], 'sentence_gt': 'MacLehose_Trail passes within 225 meters from the the peak of the hill , while smaller trails cut off the main stage MacLehose trail to the peak of Buffalo Hill .', 'sentence': 'MacLehose_Trail passes within 225 meters from the the peak of the hill , while smaller trails cut off the main MacLehose trail up to the peak of Buffalo Hill .', 'url': 'https://en.wikipedia.org/w/index.php?title=Buffalo_Hill_(Hong_Kong)&diff=prev&oldid=498314167'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[2, 3, 'R:PART', 'that', 2, 3]], 'sentence_gt': 'They found out :', 'sentence': 'They found that :', 'url': 'https://en.wikipedia.org/w/index.php?title=Tristan_Foison&diff=prev&oldid=716632527'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'M:PREP': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:PREP': 1})
+{'edits': [[27, 28, 'R:PART', 'off', 27, 28], [28, 28, 'M:PREP', 'in', 28, 29]], 'sentence_gt': 'While primitive forms of ashtrays existed way before the 19th century , it was during this century that the design , aesthetic and their popularity really took off.in the post - World War II era .', 'sentence': 'While primitive forms of ashtrays existed way before the 19th century , it was during this century that the design , aesthetic and their popularity really took off in the post - World War II era .', 'url': 'https://en.wikipedia.org/w/index.php?title=Ashtray&diff=prev&oldid=844760775'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'M:PREP': 1})
+2.2.1: Counter({'R:PREP': 1, 'M:PREP': 1})
+{'edits': [[14, 15, 'R:PART', 'into', 14, 15], [33, 33, 'M:PREP', 'that', 33, 34]], 'sentence_gt': "According to his official website , Khamenei was arrested six times before being sent to exile for three years during Mohammad Reza Pahlavi 's reign.http://english.khamenei.ir//index.php?option=com_content&task=view&id=57&Itemid=20 Ali Khamenei has reportedly reissued a fatwa saying the production , stockpiling and use of nuclear weapons is forbidden under Islam.", 'sentence': "According to his official website , Khamenei was arrested six times before being sent into exile for three years during Mohammad Reza Pahlavi 's reign.http://english.khamenei.ir//index.php?option=com_content&task=view&id=57&Itemid=20 Ali Khamenei has reportedly reissued a fatwa saying that the production , stockpiling and use of nuclear weapons is forbidden under Islam.", 'url': 'https://en.wikipedia.org/w/index.php?title=Ali_Khamenei&diff=prev&oldid=681394502'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:NOUN': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[12, 13, 'R:PART', 'firearms&nbsp;—', 12, 13], [26, 27, 'R:NOUN', 'dynamite&nbsp;—', 26, 27]], 'sentence_gt': 'As a result , Bo and Luke are not allowed to carry firearms&nbsp;;— instead , they often use compound bows , sometimes with arrows tipped with dynamite&nbsp;;— or to leave Hazzard County , although the exact details of their probation terms vary from episode to episode .', 'sentence': 'As a result , Bo and Luke are not allowed to carry firearms&nbsp;— instead , they often use compound bows , sometimes with arrows tipped with dynamite&nbsp;— or to leave Hazzard County , although the exact details of their probation terms vary from episode to episode .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Dukes_of_Hazzard&diff=prev&oldid=611561987'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[15, 16, 'U:PART', '', 15, 15]], 'sentence_gt': "The BPC ship ' ' Trienza '' , which was ' ' en route '' to to the island with supplies , was recalled .", 'sentence': "The BPC ship ' ' Trienza '' , which was ' ' en route '' to the island with supplies , was recalled .", 'url': 'https://en.wikipedia.org/w/index.php?title=Japanese_occupation_of_Nauru&diff=prev&oldid=790755580'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[5, 6, 'U:PART', '', 5, 5]], 'sentence_gt': 'The town of Javier belonged to to the Kingdom of Navarre which was always its own kingdom , never belonging to France .', 'sentence': 'The town of Javier belonged to the Kingdom of Navarre which was always its own kingdom , never belonging to France .', 'url': 'https://en.wikipedia.org/w/index.php?title=Castle_of_Xavier&diff=prev&oldid=790749471'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[7, 8, 'U:PART', '', 7, 7]], 'sentence_gt': 'In 2000 , Booth semi - retired to to adjunct faculty positions at ( sequentially ) , The School of The Museum of Fine Arts in Boston , The Rhode Island School of Design , The Massachusetts College of Art , The Art Institute of Boston , and Lesley University College of Art and Design .', 'sentence': 'In 2000 , Booth semi - retired to adjunct faculty positions at ( sequentially ) , The School of The Museum of Fine Arts in Boston , The Rhode Island School of Design , The Massachusetts College of Art , The Art Institute of Boston , and Lesley University College of Art and Design .', 'url': 'https://en.wikipedia.org/w/index.php?title=Jack_Lueders-Booth&diff=prev&oldid=790755405'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[6, 7, 'U:PART', '', 6, 6]], 'sentence_gt': 'The album title is a reference to to the movie rating standard meaning Universal / Adult .', 'sentence': 'The album title is a reference to the movie rating standard meaning Universal / Adult .', 'url': 'https://en.wikipedia.org/w/index.php?title=U/A_(album)&diff=prev&oldid=790761633'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[25, 26, 'R:PART', 'to', 25, 26]], 'sentence_gt': 'It is closely related to the game of rounders , and indeed emerged as a distinct sport when governing bodies in Wales and England agreed tLolOllo change the name of the game from " rounders " in 1892 .', 'sentence': 'It is closely related to the game of rounders , and indeed emerged as a distinct sport when governing bodies in Wales and England agreed to change the name of the game from " rounders " in 1892 .', 'url': 'https://en.wikipedia.org/w/index.php?title=British_baseball&diff=prev&oldid=668278674'}
+===================================================
+1.9.0: Counter({'U:PART': 1, 'R:PREP': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[28, 29, 'U:PART', '', 28, 28], [29, 30, 'R:PREP', 'at', 28, 29]], 'sentence_gt': 'Lying on the bed of the loch , it was then salvaged along with the remains of the LSTs , LCTs and landing tanks , and then dumped out to sea .', 'sentence': 'Lying on the bed of the loch , it was then salvaged along with the remains of the LSTs , LCTs and landing tanks , and then dumped at sea .', 'url': 'https://en.wikipedia.org/w/index.php?title=West_Loch_disaster&diff=prev&oldid=432064331'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[1, 2, 'U:PART', '', 1, 1]], 'sentence_gt': 'prior to to a three - year stint with F.C.', 'sentence': 'prior to a three - year stint with F.C.', 'url': 'https://en.wikipedia.org/w/index.php?title=Mouhamed_Dabo&diff=prev&oldid=790758678'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[35, 36, 'R:PART', 'along', 35, 36]], 'sentence_gt': "A 6 - 5 guard with high - time shooting ability , he was part of the Purdue Boilermakers men 's basketball team that reached the 1980 NCAA Men 's Division I Basketball Tournament , alongside with Joe Barry Carroll .", 'sentence': "A 6 - 5 guard with high - time shooting ability , he was part of the Purdue Boilermakers men 's basketball team that reached the 1980 NCAA Men 's Division I Basketball Tournament , along with Joe Barry Carroll .", 'url': 'https://en.wikipedia.org/w/index.php?title=Keith_Edmonson&diff=prev&oldid=613865533'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[13, 14, 'U:PART', '', 13, 13]], 'sentence_gt': 'This included a nonrefundable capital transfer form the International Monetary Fund in relation to to accumulated membership fees of £ 884,194 GBP .', 'sentence': 'This included a nonrefundable capital transfer form the International Monetary Fund in relation to accumulated membership fees of £ 884,194 GBP .', 'url': 'https://en.wikipedia.org/w/index.php?title=International_Forum_of_Sovereign_Wealth_Funds&diff=prev&oldid=790755109'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[16, 17, 'U:PART', '', 16, 16]], 'sentence_gt': "A sculpture entitled ' ' The Sacrifice '' was made by Malvina Hoffman as a memorial to to the late Ambassador of France , Robert Bacon , and alumnists of Harvard University who lost their lives during the World War I.", 'sentence': "A sculpture entitled ' ' The Sacrifice '' was made by Malvina Hoffman as a memorial to the late Ambassador of France , Robert Bacon , and alumnists of Harvard University who lost their lives during the World War I.", 'url': 'https://en.wikipedia.org/w/index.php?title=Robert_Bacon&diff=prev&oldid=790760173'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[25, 26, 'U:PART', '', 25, 25]], 'sentence_gt': 'Because it is difficult to justify a clearly defined point at which the table is destroyed and replaced by the chair , the best solution to to this puzzle may be mereological essentialism ( Chisholm 1973 ) .', 'sentence': 'Because it is difficult to justify a clearly defined point at which the table is destroyed and replaced by the chair , the best solution to this puzzle may be mereological essentialism ( Chisholm 1973 ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mereological_essentialism&diff=prev&oldid=790758531'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:SPELL': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:SPELL': 1})
+{'edits': [[3, 4, 'R:PART', 'to', 3, 4], [8, 9, 'R:SPELL', 'economy', 8, 9]], 'sentence_gt': 'They are planning ot reopen it if the conomy gets better .', 'sentence': 'They are planning to reopen it if the economy gets better .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bradley_International_Airport&diff=prev&oldid=312830884'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[19, 20, 'U:PART', '', 19, 19]], 'sentence_gt': 'When they reach the forest ( or seashore ) , he prepares to murder her , as he did to seven others .', 'sentence': 'When they reach the forest ( or seashore ) , he prepares to murder her , as he did seven others .', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_the_Child_Ballads&diff=prev&oldid=861857352'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:VERB:FORM': 1})
+{'edits': [[3, 4, 'U:PART', '', 3, 3]], 'sentence_gt': "The series appears to to be taking place in the present time , as it is said over a thousand years passed since Merlin 's victory over Morgana and there are some modern - day references .", 'sentence': "The series appears to be taking place in the present time , as it is said over a thousand years passed since Merlin 's victory over Morgana and there are some modern - day references .", 'url': 'https://en.wikipedia.org/w/index.php?title=Princess_Gwenevere_and_the_Jewel_Riders&diff=prev&oldid=447235541'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[18, 19, 'U:PART', '', 18, 18]], 'sentence_gt': 'The shortest path I found was a " See also " link from the Mission Indians article linked to from the hat - noted article .', 'sentence': 'The shortest path I found was a " See also " link from the Mission Indians article linked from the hat - noted article .', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:United_States&diff=prev&oldid=853959609'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[37, 38, 'U:PART', '', 37, 37]], 'sentence_gt': "Most , though not all , surnames associated with banshees have the ' ' Ó '' or ' ' Mc / Mac '' prefix - that is , surnames of Goidelic origin , indicating a family native to to the Insular Celtic lands rather than those of the Norse , English , or Norman invaders .", 'sentence': "Most , though not all , surnames associated with banshees have the ' ' Ó '' or ' ' Mc / Mac '' prefix - that is , surnames of Goidelic origin , indicating a family native to the Insular Celtic lands rather than those of the Norse , English , or Norman invaders .", 'url': 'https://en.wikipedia.org/w/index.php?title=Banshee&diff=prev&oldid=709436802'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[16, 17, 'R:PART', 'to', 16, 17], [17, 18, 'R:VERB:TENSE', 'have committed', 17, 19]], 'sentence_gt': 'Notoriously promiscuous , Joufflotte ( " chubby")&mdash;as she was nicknamed because of her generous proportions&mdash;was rumored of committing incest with her father .', 'sentence': 'Notoriously promiscuous , Joufflotte ( " chubby")&mdash;as she was nicknamed because of her generous proportions&mdash;was rumored to have committed incest with her father .', 'url': 'https://en.wikipedia.org/w/index.php?title=Let_Joy_Reign_Supreme&diff=prev&oldid=776028873'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[19, 20, 'U:PART', '', 19, 19]], 'sentence_gt': 'Originally , the tower was set to be a 74 meter tall , 17-story tower , although this changed to to a 38 floor tower , with 5 residential stories at the top , with a total height of 145 meters .', 'sentence': 'Originally , the tower was set to be a 74 meter tall , 17-story tower , although this changed to a 38 floor tower , with 5 residential stories at the top , with a total height of 145 meters .', 'url': 'https://en.wikipedia.org/w/index.php?title=Levinstein_Tower&diff=prev&oldid=323598827'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[24, 25, 'U:PART', '', 24, 24]], 'sentence_gt': 'She failed to qualify for any finals , however , her very respectible 14.366 on beam placed her 18th on the event and due to to the two per country rule made her the 4th reserve for the beam final .', 'sentence': 'She failed to qualify for any finals , however , her very respectible 14.366 on beam placed her 18th on the event and due to the two per country rule made her the 4th reserve for the beam final .', 'url': 'https://en.wikipedia.org/w/index.php?title=Vasiliki_Millousi&diff=prev&oldid=790761901'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[52, 53, 'U:PART', '', 52, 52]], 'sentence_gt': 'However , the main layers are ( either reconstructed or extrapolated ) Indo - European vocabulary , Greco - Roman scientific and technical vocabulary ( which is not discussed below , as it is more or less comparable to what is found in English ) and multiple sources extending from Western Europe up to Eastern Asia .', 'sentence': 'However , the main layers are ( either reconstructed or extrapolated ) Indo - European vocabulary , Greco - Roman scientific and technical vocabulary ( which is not discussed below , as it is more or less comparable to what is found in English ) and multiple sources extending from Western Europe to Eastern Asia .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sambahsa&diff=prev&oldid=836001927'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:PART': 1, 'R:VERB:FORM': 1})
+{'edits': [[17, 18, 'R:PART', 'to', 17, 18], [18, 19, 'R:MORPH', 'learn', 18, 19]], 'sentence_gt': "If there is an exception to this rule that is being followed , I 'd be interested in learning of it .", 'sentence': "If there is an exception to this rule that is being followed , I 'd be interested to learn of it .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Peer_review/P._G._Wodehouse/archive1&diff=prev&oldid=667062374'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:ADV': 1})
+{'edits': [[11, 11, 'M:PART', 'in', 11, 12]], 'sentence_gt': "When the Exorcists reach the room Road and Tyki were waiting , she traps Lenalee and Chaoji and sends Lavi 's mind to another dimension .", 'sentence': "When the Exorcists reach the room Road and Tyki were waiting in , she traps Lenalee and Chaoji and sends Lavi 's mind to another dimension .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Noah_Family&diff=prev&oldid=231420968'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[11, 12, 'R:PART', 'to', 11, 12]], 'sentence_gt': 'She cites her " love of theater " and drawing parallels with Greek tragedy as inspiration for the album \'s title .', 'sentence': 'She cites her " love of theater " and drawing parallels to Greek tragedy as inspiration for the album \'s title .', 'url': 'https://en.wikipedia.org/w/index.php?title=Melodrama_(Lorde_album)&diff=prev&oldid=847504707'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[24, 25, 'R:PART', 'upon', 24, 25]], 'sentence_gt': 'Due to the decrease in people crossing the border in the gulch , sensitive areas in the Tijuana River Estuary are no longer trampled on .', 'sentence': 'Due to the decrease in people crossing the border in the gulch , sensitive areas in the Tijuana River Estuary are no longer trampled upon .', 'url': 'https://en.wikipedia.org/w/index.php?title=Smuggler%27s_Gulch&diff=prev&oldid=909179919'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[35, 36, 'U:PART', '', 35, 35]], 'sentence_gt': "Sets in ancient China , Leslie Cheung plays a young Ouyang Feng ( the main antagonist in the novel ' ' The Legend of the Condor Heroes '' ) and serves as a common link to to the other young characters from the novel when he crosses paths with them .", 'sentence': "Sets in ancient China , Leslie Cheung plays a young Ouyang Feng ( the main antagonist in the novel ' ' The Legend of the Condor Heroes '' ) and serves as a common link to the other young characters from the novel when he crosses paths with them .", 'url': 'https://en.wikipedia.org/w/index.php?title=Ashes_of_Time&diff=prev&oldid=790748505'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[3, 4, 'U:PART', '', 3, 3]], 'sentence_gt': 'He was married to to his wife , Paula Cook Sculley ( deceased ) , for 40 years .', 'sentence': 'He was married to his wife , Paula Cook Sculley ( deceased ) , for 40 years .', 'url': 'https://en.wikipedia.org/w/index.php?title=David_Sculley&diff=prev&oldid=790750390'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'M:PREP': 1, 'R:PUNCT': 1})
+{'edits': [[13, 14, 'R:PART', 'on', 13, 14], [14, 14, 'M:PUNCT', '.', 14, 15]], 'sentence_gt': 'It has been primarily because of this publication that the sobriquet has caught on.jhkk', 'sentence': 'It has been primarily because of this publication that the sobriquet has caught on .', 'url': 'https://en.wikipedia.org/w/index.php?title=Seven_Sister_States&diff=prev&oldid=453845449'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:VERB:FORM': 1})
+{'edits': [[34, 35, 'U:PART', '', 34, 34]], 'sentence_gt': ", the divested Hyatt stake , which appears in a citation but not in text ) ; moreover , ' ' ' the relationship of other listed family business divestitures to JNP 's wealth to is unclear ' '' .", 'sentence': ", the divested Hyatt stake , which appears in a citation but not in text ) ; moreover , ' ' ' the relationship of other listed family business divestitures to JNP 's wealth is unclear ' '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Jennifer_Pritzker&diff=prev&oldid=700821007'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[29, 30, 'U:PART', '', 29, 29]], 'sentence_gt': 'Prior to the fourth match of the night IWRG introduced a new masked wrestler , Canis Lupus ( wrestler ) ( Latin for " Wolf " ) who came to to the ring to greet the fans and shake the hands of the wrestlers involved in the fourth match .', 'sentence': 'Prior to the fourth match of the night IWRG introduced a new masked wrestler , Canis Lupus ( wrestler ) ( Latin for " Wolf " ) who came to the ring to greet the fans and shake the hands of the wrestlers involved in the fourth match .', 'url': 'https://en.wikipedia.org/w/index.php?title=49th_Anniversary_of_Lucha_Libre_in_Estado_de_M%C3%A9xico&diff=prev&oldid=727896371'}
+===================================================
+1.9.0: Counter({'R:VERB': 1, 'R:PART': 1})
+2.2.1: Counter({'R:VERB': 1, 'R:OTHER': 1})
+{'edits': [[15, 16, 'R:VERB', 'turned', 15, 16], [16, 17, 'R:PART', 'off', 16, 17]], 'sentence_gt': 'Possible explanations are that such users register for only a single purpose , or are scared away by their experiences .', 'sentence': 'Possible explanations are that such users register for only a single purpose , or are turned off by their experiences .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia&diff=prev&oldid=622216671'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'M:PART': 1})
+2.2.1: Counter({'R:NOUN': 1, 'M:OTHER': 1})
+{'edits': [[4, 5, 'R:NOUN', 'VII', 4, 5], [5, 5, 'M:PART', "' 's", 5, 7]], 'sentence_gt': "' ' Final Fantasy VII''ss popularity inspired the appearances of several of its characters in other Square - Enix titles :", 'sentence': "' ' Final Fantasy VII ' 's popularity inspired the appearances of several of its characters in other Square - Enix titles :", 'url': 'https://en.wikipedia.org/w/index.php?title=Final_Fantasy_VII&diff=prev&oldid=48034447'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[9, 10, 'U:PART', '', 9, 9]], 'sentence_gt': 'This is the only speedy deletion criterion which applies to specifically to free images , all of the rest of the above apply only to fair - use images ( or in the case of I1 and I2 , all images ) .', 'sentence': 'This is the only speedy deletion criterion which applies specifically to free images , all of the rest of the above apply only to fair - use images ( or in the case of I1 and I2 , all images ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Seraphimblade/Deletion_FAQ&diff=prev&oldid=135295280'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:VERB:FORM': 1})
+{'edits': [[25, 26, 'U:PART', '', 25, 25]], 'sentence_gt': 'Although everyone is welcome to contribute to the encyclopedia , one or more of the Wikipedia : External links you added to the page : to Inflatable do not comply with our Wikipedia : External links and have been removed .', 'sentence': 'Although everyone is welcome to contribute to the encyclopedia , one or more of the Wikipedia : External links you added to the page : Inflatable do not comply with our Wikipedia : External links and have been removed .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Boghen&diff=prev&oldid=414403969'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[4, 5, 'U:PART', '', 4, 4]], 'sentence_gt': ': Yoshio , due to to his young age and positive childlike enthusiastic demeanor , often finds himself in encounters with pretty young woman , and other interesting individuals .', 'sentence': ': Yoshio , due to his young age and positive childlike enthusiastic demeanor , often finds himself in encounters with pretty young woman , and other interesting individuals .', 'url': 'https://en.wikipedia.org/w/index.php?title=Dokudami_Tenement&diff=prev&oldid=790753770'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:PART', 'up', 4, 5]], 'sentence_gt': 'In 1886 Schorlemer picked op administrative experience to the prosecuting authorities in Bonn and Duesseldorf .', 'sentence': 'In 1886 Schorlemer picked up administrative experience to the prosecuting authorities in Bonn and Duesseldorf .', 'url': 'https://en.wikipedia.org/w/index.php?title=Clemens_Freiherr_von_Schorlemer-Lieser&diff=prev&oldid=266518576'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:VERB:FORM': 1})
+{'edits': [[7, 8, 'U:PART', '', 7, 7]], 'sentence_gt': 'To acquire knowledge , it is important to to break free from the immediacy of personal circumstances and put things into a wider context , rather than following a routine .', 'sentence': 'To acquire knowledge , it is important to break free from the immediacy of personal circumstances and put things into a wider context , rather than following a routine .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sociological_imagination&diff=prev&oldid=484239632'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'R:PART': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:PREP': 1})
+{'edits': [[3, 4, 'R:NOUN:NUM', 'lyrics', 3, 4], [4, 5, 'R:PART', 'for', 4, 5]], 'sentence_gt': 'Examples include the lyric to " Tear It All Away " , a 1981 composition that appeared on the Church \'s Australian single " Too Fast for You " and their first US album .', 'sentence': 'Examples include the lyrics for " Tear It All Away " , a 1981 composition that appeared on the Church \'s Australian single " Too Fast for You " and their first US album .', 'url': 'https://en.wikipedia.org/w/index.php?title=Steve_Kilbey&diff=prev&oldid=563780426'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'M:PREP': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[11, 12, 'R:PART', 'up', 11, 12], [12, 12, 'M:PREP', 'against', 12, 13]], 'sentence_gt': 'After the plan was publicized , President Ter - Petrosyan came across strong opposition .', 'sentence': 'After the plan was publicized , President Ter - Petrosyan came up against strong opposition .', 'url': 'https://en.wikipedia.org/w/index.php?title=Vazgen_Sargsyan&diff=prev&oldid=575044693'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[0, 1, 'R:PART', 'to', 0, 1]], 'sentence_gt': 'of which this novel \'s protagonist is an adherent : " Porius owes to Pelagius the imaginative impulse that liberates him by allowing him to use his imagination to create the future through the soul \'s inmost desire".Michael Ballin , " John Cowper Powys \'s \' \' Porius \'\' and the Dialectic of History " , p. 29 .', 'sentence': 'to which this novel \'s protagonist is an adherent : " Porius owes to Pelagius the imaginative impulse that liberates him by allowing him to use his imagination to create the future through the soul \'s inmost desire".Michael Ballin , " John Cowper Powys \'s \' \' Porius \'\' and the Dialectic of History " , p. 29 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Porius:_A_Romance_of_the_Dark_Ages&diff=prev&oldid=879738842'}
+===================================================
+1.9.0: Counter({'U:PART': 1, 'R:PREP': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[6, 7, 'U:PART', '', 6, 6], [7, 8, 'R:PREP', 'until', 6, 7]], 'sentence_gt': 'After refurbishment the cars were used up to the 1990s , with some cars , chiefly baggage and dining cars , still used today .', 'sentence': 'After refurbishment the cars were used until the 1990s , with some cars , chiefly baggage and dining cars , still used today .', 'url': 'https://en.wikipedia.org/w/index.php?title=Streamliner_cars_(rail)&diff=prev&oldid=550597018'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[17, 18, 'U:PART', '', 17, 17]], 'sentence_gt': "The ' ' leanan sídhe '' is generally depicted as a beautiful muse , who offers inspiration to to an artist in exchange for fame and glory ; however , this exchange frequently results in madness for the artist , and often premature death .", 'sentence': "The ' ' leanan sídhe '' is generally depicted as a beautiful muse , who offers inspiration to an artist in exchange for fame and glory ; however , this exchange frequently results in madness for the artist , and often premature death .", 'url': 'https://en.wikipedia.org/w/index.php?title=Leanan_s%C3%ADdhe&diff=prev&oldid=235318273'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:ADV': 1})
+{'edits': [[22, 23, 'U:PART', '', 22, 22]], 'sentence_gt': "On 20 April 2006 it was announced on ' ' Blue Peter '' that a life - sized Dalek would be given away to anyone who could find and return one of the missing episodes .", 'sentence': "On 20 April 2006 it was announced on ' ' Blue Peter '' that a life - sized Dalek would be given to anyone who could find and return one of the missing episodes .", 'url': 'https://en.wikipedia.org/w/index.php?title=Doctor_Who_missing_episodes&diff=prev&oldid=424054364'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:PREP': 1})
+{'edits': [[7, 8, 'R:PART', 'to', 7, 8]], 'sentence_gt': 'This cult hit spawned five sequels , for which Bilson and DeMeo contributed some writing .', 'sentence': 'This cult hit spawned five sequels , to which Bilson and DeMeo contributed some writing .', 'url': 'https://en.wikipedia.org/w/index.php?title=Danny_Bilson&diff=prev&oldid=460971990'}
+===================================================
+1.9.0: Counter({'M:PART': 1, 'U:PREP': 1})
+2.2.1: Counter({'M:PART': 1, 'U:PART': 1})
+{'edits': [[14, 14, 'M:PART', 'to', 14, 15], [19, 20, 'U:PREP', '', 20, 20]], 'sentence_gt': "After Jess suddenly leaves town , Rory reunites with a now - married Dean whom she loses her virginity to in an unexpected fling , which ultimately ends Dean 's marriage and creates a short - lived rift between her and her mother .", 'sentence': "After Jess suddenly leaves town , Rory reunites with a now - married Dean to whom she loses her virginity in an unexpected fling , which ultimately ends Dean 's marriage and creates a short - lived rift between her and her mother .", 'url': 'https://en.wikipedia.org/w/index.php?title=Gilmore_Girls&diff=prev&oldid=406357775'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[5, 6, 'U:PART', '', 5, 5]], 'sentence_gt': 'It is awarded each year to to the player " who has the qualities and dedication of the Husker Tradition . "', 'sentence': 'It is awarded each year to the player " who has the qualities and dedication of the Husker Tradition . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Guy_Chamberlin&diff=prev&oldid=790754900'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'R:PART': 1})
+2.2.1: Counter({'R:SPELL': 1, 'R:OTHER': 1})
+{'edits': [[3, 4, 'R:SPELL', 'necessary', 3, 4], [6, 7, 'R:PART', 'to', 6, 7]], 'sentence_gt': 'It is also necrssary for you ti know that when I first created the article , it was deemed notable and kept after an AFD discussion .', 'sentence': 'It is also necessary for you to know that when I first created the article , it was deemed notable and kept after an AFD discussion .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Eruditescholar&diff=prev&oldid=651603066'}
+===================================================
+1.9.0: Counter({'R:PART': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[28, 29, 'R:PART', 'in', 28, 29]], 'sentence_gt': 'The type of music sung is generally Contemporary worship music , such as those by Calvary Chapel and Hillsong Music Australia , but can also include urban gospel is some of the inner - city or more progressive churches .', 'sentence': 'The type of music sung is generally Contemporary worship music , such as those by Calvary Chapel and Hillsong Music Australia , but can also include urban gospel in some of the inner - city or more progressive churches .', 'url': 'https://en.wikipedia.org/w/index.php?title=Assemblies_of_God_USA&diff=prev&oldid=350215930'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[30, 31, 'U:PART', '', 30, 30]], 'sentence_gt': 'Once it became evident that Gert would strike the Yucatán Peninsula , coastal areas from Belize northward to Cozumel , Mexico were placed under a tropical storm warning on September&nbsp;17 up until its landfall the next day .', 'sentence': 'Once it became evident that Gert would strike the Yucatán Peninsula , coastal areas from Belize northward to Cozumel , Mexico were placed under a tropical storm warning on September&nbsp;17 until its landfall the next day .', 'url': 'https://en.wikipedia.org/w/index.php?title=Hurricane_Gert&diff=prev&oldid=458184727'}
+===================================================
+1.9.0: Counter({'M:PART': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[19, 19, 'M:PART', 'to', 19, 20]], 'sentence_gt': 'After World War II , in 1951 , the authorities of East Berlin renamed Prinz - Albrecht - Straße Niederkirchnerstraße in honour of Käthe Niederkirchner ( 1909–1944 ) , a member of the communist German Resistance to the Nazis .', 'sentence': 'After World War II , in 1951 , the authorities of East Berlin renamed Prinz - Albrecht - Straße to Niederkirchnerstraße in honour of Käthe Niederkirchner ( 1909–1944 ) , a member of the communist German Resistance to the Nazis .', 'url': 'https://en.wikipedia.org/w/index.php?title=Niederkirchnerstra%C3%9Fe&diff=prev&oldid=476854468'}
+===================================================
+1.9.0: Counter({'M:DET': 1, 'R:PART': 1})
+2.2.1: Counter({'M:DET': 1, 'R:PREP': 1})
+{'edits': [[3, 3, 'M:DET', 'an', 3, 4], [4, 5, 'R:PART', 'to', 5, 6]], 'sentence_gt': 'They led to invitation of Sarto to come to the court of Francis I of France in 1518 .', 'sentence': 'They led to an invitation to Sarto to come to the court of Francis I of France in 1518 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Andrea_del_Sarto&diff=prev&oldid=338845485'}
+===================================================
+1.9.0: Counter({'M:PART': 1, 'R:CONJ': 1})
+2.2.1: Counter({'M:PUNCT': 2, 'R:OTHER': 1, 'M:CONJ': 1})
+{'edits': [[20, 20, 'M:PART', 'witchcraft&nbsp;—', 20, 21], [20, 21, 'R:CONJ', 'but', 21, 22]], 'sentence_gt': 'Religious groups that have stepped up their denunciations of all occult groups ... have once again begun to energetically denounce witchcraft&mdash;but there now is very little left to denounce .', 'sentence': 'Religious groups that have stepped up their denunciations of all occult groups ... have once again begun to energetically denounce witchcraft&nbsp;— but there now is very little left to denounce .', 'url': 'https://en.wikipedia.org/w/index.php?title=Neopaganism_in_the_United_States&diff=prev&oldid=204270328'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[22, 23, 'U:PART', '', 22, 22]], 'sentence_gt': 'In May 2012 , Floyd published a piece for \' \' Marie Claire \'\' , a women \'s magazine , a response to to Samantha Brick \'s essay , " Do n\'t Hate Me Because I \'m Beautiful . "', 'sentence': 'In May 2012 , Floyd published a piece for \' \' Marie Claire \'\' , a women \'s magazine , a response to Samantha Brick \'s essay , " Do n\'t Hate Me Because I \'m Beautiful . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Jami_Floyd&diff=prev&oldid=790755557'}
+===================================================
+1.9.0: Counter({'R:PART': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:PART': 1, 'R:VERB:FORM': 1})
+{'edits': [[19, 20, 'R:PART', 'to', 19, 20], [20, 21, 'R:MORPH', 'run', 20, 21]], 'sentence_gt': 'The term caused speculation in the Palm community as to whether Saguaro was intended to replace the Palm OS for running applications or if it was designed to be a widget engine .', 'sentence': 'The term caused speculation in the Palm community as to whether Saguaro was intended to replace the Palm OS to run applications or if it was designed to be a widget engine .', 'url': 'https://en.wikipedia.org/w/index.php?title=Saguaro_(Palm_OS)&diff=prev&oldid=352643187'}
+===================================================
+1.9.0: Counter({'U:PART': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[17, 18, 'U:PART', '', 17, 17]], 'sentence_gt': 'He was also the commander - in - chief of the Royal Burmese armed forces from 1258 to until his death in 1260 .', 'sentence': 'He was also the commander - in - chief of the Royal Burmese armed forces from 1258 until his death in 1260 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Yazathingyan_of_Pagan&diff=prev&oldid=641753458'}
+===================================================

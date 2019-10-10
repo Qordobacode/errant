@@ -1,0 +1,444 @@
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[3, 5, 'R:VERB:TENSE', 'collected', 3, 4]], 'sentence_gt': 'The 2018 Census will collect data on the following topics : http://stats.govt.nz / Census/2018-census/2018-census - content - report.aspx', 'sentence': 'The 2018 Census collected data on the following topics : http://stats.govt.nz / Census/2018-census/2018-census - content - report.aspx', 'url': 'https://en.wikipedia.org/w/index.php?title=New_Zealand_census&diff=prev&oldid=829179024'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[6, 8, 'R:VERB:TENSE', 'continued', 6, 7]], 'sentence_gt': 'After the Biennale , the shelter will continue to be used as gathering place for illegal workers from the Chinese countryside , many of whom were living in nearby shelters and abandoned buildings .', 'sentence': 'After the Biennale , the shelter continued to be used as gathering place for illegal workers from the Chinese countryside , many of whom were living in nearby shelters and abandoned buildings .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bug_Dome&diff=prev&oldid=620150908'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 2})
+2.2.1: Counter({'R:VERB:TENSE': 2, 'U:VERB:TENSE': 1})
+{'edits': [[5, 7, 'R:VERB:TENSE', 'took', 5, 6], [17, 19, 'R:VERB:TENSE', 'consisted', 16, 17]], 'sentence_gt': 'The Eurovision Song Contest 2018 will take place at the Altice Arena in Lisbon , Portugal and will consist of two semi - finals on 8 and 10 May , and the final on 12 May 2018 .', 'sentence': 'The Eurovision Song Contest 2018 took place at the Altice Arena in Lisbon , Portugal and consisted of two semi - finals on 8 and 10 May , and the final on 12 May 2018 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Goodbye_(The_Humans_song)&diff=prev&oldid=840741368'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[1, 3, 'R:VERB:TENSE', 'reconciles', 1, 2]], 'sentence_gt': 'Polly is reconciled with her mother after bearing a child who dies shortly after its birth .', 'sentence': 'Polly reconciles with her mother after bearing a child who dies shortly after its birth .', 'url': 'https://en.wikipedia.org/w/index.php?title=Love_in_a_Cold_Climate&diff=prev&oldid=549127100'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'M:VERB:TENSE': 1, 'R:MORPH': 1})
+{'edits': [[62, 63, 'R:VERB:TENSE', 'will progress', 62, 64]], 'sentence_gt': 'According to Eurovision rules , each country , except the host country and the " Big Four ( Eurovision ) " ( France , Germany , Italy , Spain and the United Kingdom ) , will be required to qualify from one of two semi - finals to compete for the final ; the top ten countries from each semi - final progressed to the final .', 'sentence': 'According to Eurovision rules , each country , except the host country and the " Big Four ( Eurovision ) " ( France , Germany , Italy , Spain and the United Kingdom ) , will be required to qualify from one of two semi - finals to compete for the final ; the top ten countries from each semi - final will progress to the final .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Cartoon_network_freak/sandbox2&diff=prev&oldid=883990332'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[30, 32, 'R:VERB:TENSE', 'descend', 30, 31]], 'sentence_gt': 'According to the study , all non - African populations are more closely related to each other than to Africans ; this supports the hypothesis that all non - Africans are descended from a single African population .', 'sentence': 'According to the study , all non - African populations are more closely related to each other than to Africans ; this supports the hypothesis that all non - Africans descend from a single African population .', 'url': 'https://en.wikipedia.org/w/index.php?title=Genetic_history_of_Europe&diff=prev&oldid=279510021'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[9, 10, 'U:DET', '', 9, 9], [10, 12, 'R:VERB:TENSE', 'calling', 9, 10]], 'sentence_gt': 'Since 2003 the country has experienced occasional antigovernment demonstrations that have called for political reforms .', 'sentence': 'Since 2003 the country has experienced occasional antigovernment demonstrations calling for political reforms .', 'url': 'https://en.wikipedia.org/w/index.php?title=Maldives&diff=prev&oldid=24957939'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:VERB:TENSE': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:NOUN:NUM': 1})
+{'edits': [[4, 4, 'M:PUNCT', ',', 4, 5], [60, 61, 'R:VERB:TENSE', 'progressed', 61, 62]], 'sentence_gt': 'According to Eurovision rules each country , except the host country and the " Big Four ( Eurovision ) " ( France , Germany , Italy , Spain and the United Kingdom ) , is required to qualify from one of two semi - finals to compete for the final ; the top ten countries from each semi - final progress to the final .', 'sentence': 'According to Eurovision rules , each country , except the host country and the " Big Four ( Eurovision ) " ( France , Germany , Italy , Spain and the United Kingdom ) , is required to qualify from one of two semi - finals to compete for the final ; the top ten countries from each semi - final progressed to the final .', 'url': 'https://en.wikipedia.org/w/index.php?title=Goodbye_(The_Humans_song)&diff=prev&oldid=840741368'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[1, 2, 'U:VERB:TENSE', '', 1, 1]], 'sentence_gt': 'It was was moved from its original location at 249 N. Church St. to its present location in November 1999 .', 'sentence': 'It was moved from its original location at 249 N. Church St. to its present location in November 1999 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bishop_William_Wallace_Duncan_House&diff=prev&oldid=617632842'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 2})
+2.2.1: Counter({'R:VERB:TENSE': 2, 'U:VERB:TENSE': 1})
+{'edits': [[2, 3, 'R:VERB:TENSE', 'began', 2, 3], [6, 8, 'R:VERB:TENSE', 'traveled', 6, 7]], 'sentence_gt': 'The tour begins in Latina and will travel throughout Italy .', 'sentence': 'The tour began in Latina and traveled throughout Italy .', 'url': 'https://en.wikipedia.org/w/index.php?title=Vasco_Live_2007&diff=prev&oldid=845302061'}
+===================================================
+1.9.0: Counter({'M:VERB:TENSE': 1})
+2.2.1: Counter({'M:DET': 1})
+{'edits': [[37, 37, 'M:VERB:TENSE', 'her', 37, 38]], 'sentence_gt': "However , during the neighborhood 's celebration for Callie potentially passing her new foster care bill , Mariana sees Nick walking in the crowd without realizing that she is only hallucinating , a side effect resulting from taking Jesus 's ADHD medication .", 'sentence': "However , during the neighborhood 's celebration for Callie potentially passing her new foster care bill , Mariana sees Nick walking in the crowd without realizing that she is only hallucinating , a side effect resulting from her taking Jesus 's ADHD medication .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Fosters_(American_TV_series)&diff=prev&oldid=737116815'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[9, 11, 'R:VERB:TENSE', 'returns', 9, 10]], 'sentence_gt': 'When you supply Freenet with a key , it will return the appropriate file ( if it is located ) .', 'sentence': 'When you supply Freenet with a key , it returns the appropriate file ( if it is located ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Freenet&diff=prev&oldid=64910510'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[1, 3, 'R:VERB:TENSE', 'became', 1, 2]], 'sentence_gt': 'It would become , almost instantly , one of the most influential organizations in American politics .', 'sentence': 'It became , almost instantly , one of the most influential organizations in American politics .', 'url': 'https://en.wikipedia.org/w/index.php?title=Pat_Robertson&diff=prev&oldid=21676860'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'M:VERB:TENSE': 1, 'R:VERB:FORM': 1, 'R:PUNCT': 1})
+{'edits': [[4, 5, 'R:VERB:TENSE', 'has recorded', 4, 6], [94, 95, 'R:PUNCT', '.', 95, 96]], 'sentence_gt': "Since 1998 , he records for Naxos Records : ' ' Music for Glass Harmonica '' ( 8.555295 ) , ' ' Music for Ondes Martenot '' ( 8.555779 ) , Olivier Messiaen 's ' ' Turangalîla - Symphonie '' ( 8.554478 - 79 ) , ' ' Classical Chill '' ( 8.520101 ) , ' ' Classical Heat '' ( 8.520102 ) , ' ' Mozart : Life and Works '' ( 8.558061 - 64 ) , ' ' Ecuatorial '' by Edgard Varèse , ' ' Missa Cantate '' by Thomas Bloch ...", 'sentence': "Since 1998 , he has recorded for Naxos Records : ' ' Music for Glass Harmonica '' ( 8.555295 ) , ' ' Music for Ondes Martenot '' ( 8.555779 ) , Olivier Messiaen 's ' ' Turangalîla - Symphonie '' ( 8.554478 - 79 ) , ' ' Classical Chill '' ( 8.520101 ) , ' ' Classical Heat '' ( 8.520102 ) , ' ' Mozart : Life and Works '' ( 8.558061 - 64 ) , ' ' Ecuatorial '' by Edgard Varèse , ' ' Missa Cantate '' by Thomas Bloch .", 'url': 'https://en.wikipedia.org/w/index.php?title=Thomas_Bloch&diff=prev&oldid=414809768'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[6, 7, 'R:VERB:TENSE', 'may', 6, 7]], 'sentence_gt': "' ' ' CEC ' '' ma refer to :", 'sentence': "' ' ' CEC ' '' may refer to :", 'url': 'https://en.wikipedia.org/w/index.php?title=CEC&diff=prev&oldid=894015931'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[5, 7, 'R:VERB:TENSE', 'progressed', 5, 6]], 'sentence_gt': 'The winner of the qualifiers will progress to ICC WCL Division 5 which will be staged in September 2017 .', 'sentence': 'The winner of the qualifiers progressed to ICC WCL Division 5 which will be staged in September 2017 .', 'url': 'https://en.wikipedia.org/w/index.php?title=2017_ICC_World_Cricket_League_East_Asia-Pacific_Region_Qualifiers&diff=prev&oldid=789277615'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[15, 17, 'R:VERB:TENSE', 'introduced', 15, 16]], 'sentence_gt': "1982 's ' ' Signals '' and 1984 's ' ' Grace Under Pressure '' would introduce even more synthesizer into the group 's sound , therefore matching and sometimes overcoming Alex Lifeson 's guitar riffs .", 'sentence': "1982 's ' ' Signals '' and 1984 's ' ' Grace Under Pressure '' introduced even more synthesizer into the group 's sound , therefore matching and sometimes overcoming Alex Lifeson 's guitar riffs .", 'url': 'https://en.wikipedia.org/w/index.php?title=Rush_(band)&diff=prev&oldid=26539843'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'M:ADJ': 1})
+{'edits': [[1, 3, 'R:VERB:TENSE', 'is', 1, 2], [4, 4, 'M:NOUN', 'longtime', 3, 4]], 'sentence_gt': 'Weinstein has been a supporter and contributor to the Democratic Party ( United States ) including the campaigns of Barack Obama and presidential candidates Hillary Clinton , and John Kerry .', 'sentence': 'Weinstein is a longtime supporter and contributor to the Democratic Party ( United States ) including the campaigns of Barack Obama and presidential candidates Hillary Clinton , and John Kerry .', 'url': 'https://en.wikipedia.org/w/index.php?title=Harvey_Weinstein&diff=prev&oldid=804874904'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:VERB': 1})
+{'edits': [[4, 5, 'R:VERB:TENSE', 'has', 4, 5]], 'sentence_gt': '\' \' \' It is minimalistic and declarative - oriented compilation scripts \' \'\' : typical " configure ; make ; make install " software can be scripted in two lines , greatly easing maintanance .', 'sentence': '\' \' \' It has minimalistic and declarative - oriented compilation scripts \' \'\' : typical " configure ; make ; make install " software can be scripted in two lines , greatly easing maintanance .', 'url': 'https://en.wikipedia.org/w/index.php?title=GoboLinux&diff=prev&oldid=87953819'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[1, 3, 'R:VERB:TENSE', 'estimates', 1, 2]], 'sentence_gt': 'It can estimate the importance of variables in determining classification .', 'sentence': 'It estimates the importance of variables in determining classification .', 'url': 'https://en.wikipedia.org/w/index.php?title=Random_forest&diff=prev&oldid=45827936'}
+===================================================
+1.9.0: Counter({'M:VERB:TENSE': 1})
+2.2.1: Counter({'M:PREP': 1})
+{'edits': [[11, 11, 'M:VERB:TENSE', 'to', 11, 12]], 'sentence_gt': 'In one of these , a lieutenant is quoted as confessing having organized a brothel and having used it himself .', 'sentence': 'In one of these , a lieutenant is quoted as confessing to having organized a brothel and having used it himself .', 'url': 'https://en.wikipedia.org/w/index.php?title=Comfort_women&diff=prev&oldid=218914265'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[10, 12, 'R:VERB:TENSE', 'seems', 10, 11]], 'sentence_gt': "His main resolve is his raw power , although he does seem to share Kane 's and Salima 's values .", 'sentence': "His main resolve is his raw power , although he seems to share Kane 's and Salima 's values .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Beyblade_characters&diff=prev&oldid=572020615'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[1, 3, 'R:VERB:TENSE', 'became', 1, 2]], 'sentence_gt': 'Dahlkemper has become used to tight campaigns in her short political career .', 'sentence': 'Dahlkemper became used to tight campaigns in her short political career .', 'url': 'https://en.wikipedia.org/w/index.php?title=2010_United_States_House_of_Representatives_elections_in_Pennsylvania&diff=prev&oldid=555722245'}
+===================================================
+1.9.0: Counter({'M:VERB:TENSE': 1})
+2.2.1: Counter({'M:ADV': 1})
+{'edits': [[24, 24, 'M:VERB:TENSE', 'most', 24, 25]], 'sentence_gt': 'According to Bulgarian data from 1942 , 10,000 Banat Bulgarians lived in Hungary , mainly in the major cities , but this number is likely overestimated .', 'sentence': 'According to Bulgarian data from 1942 , 10,000 Banat Bulgarians lived in Hungary , mainly in the major cities , but this number is most likely overestimated .', 'url': 'https://en.wikipedia.org/w/index.php?title=Banat_Bulgarians&diff=prev&oldid=152860308'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 2})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'R:NOUN:NUM': 1})
+{'edits': [[36, 37, 'R:VERB:TENSE', 'were', 36, 37], [64, 65, 'R:VERB:TENSE', 'progressed', 64, 65]], 'sentence_gt': 'According to Eurovision rules , all nations with the exceptions of the host country and the " Big Four ( Eurovision ) " ( France , Germany , Italy , Spain and the United Kingdom ) are required to qualify from one of two semi - finals in order to compete for the final ; the top ten countries from each semi - final progress to the final .', 'sentence': 'According to Eurovision rules , all nations with the exceptions of the host country and the " Big Four ( Eurovision ) " ( France , Germany , Italy , Spain and the United Kingdom ) were required to qualify from one of two semi - finals in order to compete for the final ; the top ten countries from each semi - final progressed to the final .', 'url': 'https://en.wikipedia.org/w/index.php?title=Yodel_It!&diff=prev&oldid=780272746'}
+===================================================
+1.9.0: Counter({'M:VERB:TENSE': 1})
+2.2.1: Counter({'M:VERB': 1})
+{'edits': [[9, 9, 'M:VERB:TENSE', 'be', 9, 10]], 'sentence_gt': "Notability is not inhereted or assumed ; it must ' ' proven '' .", 'sentence': "Notability is not inhereted or assumed ; it must be ' ' proven '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Deckiller/Notability_(fiction)&diff=prev&oldid=140443553'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1})
+2.2.1: Counter({'U:DET': 1})
+{'edits': [[37, 38, 'U:VERB:TENSE', '', 37, 37]], 'sentence_gt': "However , during the neighborhood 's celebration for Callie potentially passing her new foster care bill , Mariana sees Nick walking in the crowd without realizing that she is only hallucinating , a side effect resulting from her taking Jesus 's ADHD medication .", 'sentence': "However , during the neighborhood 's celebration for Callie potentially passing her new foster care bill , Mariana sees Nick walking in the crowd without realizing that she is only hallucinating , a side effect resulting from taking Jesus 's ADHD medication .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Fosters_(American_TV_series)&diff=prev&oldid=737563343'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[31, 33, 'R:VERB:TENSE', 'served', 31, 32]], 'sentence_gt': "On 30 October 2009 , in addition to his other duties in Rome , Pope Benedict appointed Murphy - O'Connor as a member of the Congregation for Bishops , where he will serve until his 80th birthday .", 'sentence': "On 30 October 2009 , in addition to his other duties in Rome , Pope Benedict appointed Murphy - O'Connor as a member of the Congregation for Bishops , where he served until his 80th birthday .", 'url': 'https://en.wikipedia.org/w/index.php?title=Cormac_Murphy-O%27Connor&diff=prev&oldid=529521081'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[4, 6, 'R:VERB:TENSE', 'requires', 4, 5]], 'sentence_gt': 'First , climate change will require more radical changes than previous pollution trading schemes such as the US SO2 market .', 'sentence': 'First , climate change requires more radical changes than previous pollution trading schemes such as the US SO2 market .', 'url': 'https://en.wikipedia.org/w/index.php?title=Emissions_trading&diff=prev&oldid=701061275'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'M:VERB:TENSE': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:VERB:TENSE': 1})
+{'edits': [[1, 2, 'R:VERB:TENSE', 'should', 1, 2], [23, 23, 'M:VERB:TENSE', 'has', 23, 24]], 'sentence_gt': 'We cab be forthright if we feel that this editor , though obviously socking , should be cut a break , because he done such a good job as an admin or whatever .', 'sentence': 'We should be forthright if we feel that this editor , though obviously socking , should be cut a break , because he has done such a good job as an admin or whatever .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators%27_noticeboard/Incidents&diff=prev&oldid=664290476'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1, 'U:PREP': 1})
+2.2.1: Counter({'U:VERB': 1, 'U:PREP': 1})
+{'edits': [[1, 2, 'U:VERB:TENSE', '', 1, 1], [3, 4, 'U:PREP', '', 2, 2]], 'sentence_gt': 'Whitaker is married to her husband Matt Whitaker in April 2007 .', 'sentence': 'Whitaker married her husband Matt Whitaker in April 2007 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Candi_Whitaker&diff=prev&oldid=844923082'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'M:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[11, 12, 'R:VERB:TENSE', 'would consider recusing', 11, 14]], 'sentence_gt': ': : On your user page , FON asked if you recused .', 'sentence': ': : On your user page , FON asked if you would consider recusing .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Jimbo_Wales&diff=prev&oldid=695308638'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 2})
+2.2.1: Counter({'R:VERB:TENSE': 2, 'U:VERB:TENSE': 1})
+{'edits': [[5, 7, 'R:VERB:TENSE', 'took', 5, 6], [18, 20, 'R:VERB:TENSE', 'consisted', 17, 18]], 'sentence_gt': 'The Eurovision Song Contest 2017 will take place at the International Exhibition Centre in Kyiv , Ukraine and will consist of two semi - finals on 9 and 11 May and the final on 13 May 2017 .', 'sentence': 'The Eurovision Song Contest 2017 took place at the International Exhibition Centre in Kyiv , Ukraine and consisted of two semi - finals on 9 and 11 May and the final on 13 May 2017 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Yodel_It!&diff=prev&oldid=780272746'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[19, 20, 'U:VERB:TENSE', '', 19, 19]], 'sentence_gt': 'For this reason the bailout regulator must be fitted with a submersible pressure gauge which the diver can refer to to check the pressure .', 'sentence': 'For this reason the bailout regulator must be fitted with a submersible pressure gauge which the diver can refer to check the pressure .', 'url': 'https://en.wikipedia.org/w/index.php?title=Surface-supplied_diving&diff=prev&oldid=465706919'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 2})
+2.2.1: Counter({'R:VERB:TENSE': 2, 'U:VERB:TENSE': 1})
+{'edits': [[2, 3, 'R:VERB:TENSE', 'began', 2, 3], [6, 8, 'R:VERB:TENSE', 'traveled', 6, 7]], 'sentence_gt': 'The tour begins in Latina and will travel throughout Italy .', 'sentence': 'The tour began in Latina and traveled throughout Italy .', 'url': 'https://en.wikipedia.org/w/index.php?title=Vasco_Live_2007&diff=prev&oldid=845302061'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[8, 10, 'R:VERB:TENSE', 'begins', 8, 9]], 'sentence_gt': 'In the first seven seasons , the show would begin with Jerry Seinfeld delivering his stand - up comedy routine , set in a club .', 'sentence': 'In the first seven seasons , the show begins with Jerry Seinfeld delivering his stand - up comedy routine , set in a club .', 'url': 'https://en.wikipedia.org/w/index.php?title=Seinfeld&diff=prev&oldid=177380291'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[26, 27, 'R:VERB:TENSE', 'resided', 26, 27]], 'sentence_gt': 'Eunice Sanborn , the oldest current living American supercentenarian and oldest current living supercentenarian in the world ( as of November 4 , 2010 ) , resides in Jacksonville .', 'sentence': 'Eunice Sanborn , the oldest current living American supercentenarian and oldest current living supercentenarian in the world ( as of November 4 , 2010 ) , resided in Jacksonville .', 'url': 'https://en.wikipedia.org/w/index.php?title=Jacksonville,_Texas&diff=prev&oldid=411494744'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'M:ADV': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[26, 27, 'R:VERB:TENSE', 'changed', 26, 27], [27, 27, 'M:ADV', 'not', 27, 28]], 'sentence_gt': 'How do you make an Info Box anyway and whenever I try to add or change some stuff on their it just make what ever I change show .', 'sentence': 'How do you make an Info Box anyway and whenever I try to add or change some stuff on their it just make what ever I changed not show .', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Nat_and_Alex_Wolff_discography&diff=prev&oldid=170666880'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:VERB': 1})
+{'edits': [[36, 37, 'R:VERB:TENSE', 'will', 36, 37]], 'sentence_gt': 'It already has taken some serious steps , in terms of its statement and letter , but needs to take the initiative because it is plain that , left to its own devices , the community is debate endlessly and do nothing .', 'sentence': 'It already has taken some serious steps , in terms of its statement and letter , but needs to take the initiative because it is plain that , left to its own devices , the community will debate endlessly and do nothing .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Jimbo_Wales&diff=prev&oldid=582432885'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'M:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[48, 49, 'R:VERB:TENSE', 'has frequented', 48, 50]], 'sentence_gt': 'Other scenes reveal that Vivi somehow has children ; Steiner and Beatrix have returned to their old posts as royal bodyguards ; Eiko has been adopted by Regent Cid and Hilda ; Freya is attempting to start over with her old boyfriend , Sir Fratley ; and Quina frequents the Alexandria Castle kitchen .', 'sentence': 'Other scenes reveal that Vivi somehow has children ; Steiner and Beatrix have returned to their old posts as royal bodyguards ; Eiko has been adopted by Regent Cid and Hilda ; Freya is attempting to start over with her old boyfriend , Sir Fratley ; and Quina has frequented the Alexandria Castle kitchen .', 'url': 'https://en.wikipedia.org/w/index.php?title=Final_Fantasy_IX&diff=prev&oldid=137328409'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[5, 6, 'R:VERB:TENSE', 'attributes', 5, 6]], 'sentence_gt': "Club '' 's Will Harris attributed to the extreme differences between the two shows .", 'sentence': "Club '' 's Will Harris attributes to the extreme differences between the two shows .", 'url': 'https://en.wikipedia.org/w/index.php?title=Jeannie_(TV_series)&diff=prev&oldid=884550546'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[12, 14, 'R:VERB:TENSE', 'continue', 12, 13]], 'sentence_gt': "His previously unpublished work is an immense treasure trove , and scholars are continuing to gain new insights into Russell 's thought .", 'sentence': "His previously unpublished work is an immense treasure trove , and scholars continue to gain new insights into Russell 's thought .", 'url': 'https://en.wikipedia.org/w/index.php?title=Bertrand_Russell&diff=prev&oldid=237665536'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1, 'U:NOUN:POSS': 1})
+2.2.1: Counter({'U:PUNCT': 2})
+{'edits': [[1, 2, 'U:VERB:TENSE', '', 1, 1], [6, 7, 'U:NOUN:POSS', '', 5, 5]], 'sentence_gt': "Some ' ' ' a priori ' '' constructed languages try to categorize their vocabulary , either to express an underlying philosophical system or to make it easier to memorize the completely new vocabulary .", 'sentence': "Some ' ' a priori '' constructed languages try to categorize their vocabulary , either to express an underlying philosophical system or to make it easier to memorize the completely new vocabulary .", 'url': 'https://en.wikipedia.org/w/index.php?title=A_priori_(languages)&diff=prev&oldid=103813986'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[16, 18, 'R:VERB:TENSE', 'became', 16, 17]], 'sentence_gt': 'Born in Scotland , he immigrated to Australia where in 1914 he founded the company that would become the swimwear giant Speedo .', 'sentence': 'Born in Scotland , he immigrated to Australia where in 1914 he founded the company that became the swimwear giant Speedo .', 'url': 'https://en.wikipedia.org/w/index.php?title=Alexander_MacRae&diff=prev&oldid=195743511'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[6, 8, 'R:VERB:TENSE', 'participated', 6, 7]], 'sentence_gt': "' ' ' Bangladesh ' '' will participate in the ' ' ' 2010 Summer Youth Olympics ' '' in Singapore .", 'sentence': "' ' ' Bangladesh ' '' participated in the ' ' ' 2010 Summer Youth Olympics ' '' in Singapore .", 'url': 'https://en.wikipedia.org/w/index.php?title=Bangladesh_at_the_2010_Summer_Youth_Olympics&diff=prev&oldid=845301426'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[16, 18, 'R:VERB:TENSE', 'realises', 16, 17]], 'sentence_gt': 'This holds true for each call terminated under CPP , as long as a single network can realise the termination .', 'sentence': 'This holds true for each call terminated under CPP , as long as a single network realises the termination .', 'url': 'https://en.wikipedia.org/w/index.php?title=Calling_party_pays&diff=prev&oldid=885665810'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[15, 17, 'R:VERB:TENSE', 'referred', 15, 16]], 'sentence_gt': "In ' ' History '' written in 1079 - 1080 , Byzantine historian Michael Attaliates was refer to the ' ' Albanoi '' as having taken part in a revolt against Constantinople in 1043 and to the ' ' Arbanitai '' as subjects of the duke of Durrës .", 'sentence': "In ' ' History '' written in 1079 - 1080 , Byzantine historian Michael Attaliates referred to the ' ' Albanoi '' as having taken part in a revolt against Constantinople in 1043 and to the ' ' Arbanitai '' as subjects of the duke of Durrës .", 'url': 'https://en.wikipedia.org/w/index.php?title=Origin_of_the_Albanians&diff=prev&oldid=66276279'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1, 'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:ORTH': 1, 'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[36, 37, 'R:ORTH', 'as', 36, 37], [38, 40, 'R:VERB:TENSE', 'plans', 38, 39]], 'sentence_gt': 'He also reveals he never called the police as he claimed , and suggests they stash the bodies in the cellar , leave quietly one at a time , and pretend the evening never happened , As he would plan to continue blackmailing them .', 'sentence': 'He also reveals he never called the police as he claimed , and suggests they stash the bodies in the cellar , leave quietly one at a time , and pretend the evening never happened , as he plans to continue blackmailing them .', 'url': 'https://en.wikipedia.org/w/index.php?title=Clue_(film)&diff=prev&oldid=252441114'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB': 1, 'R:MORPH': 1})
+{'edits': [[31, 33, 'R:VERB:TENSE', 'recovers', 31, 32]], 'sentence_gt': "Psychiatrist O. Ivar Lovaas ' method of Lovaas technique ( ABA ) is proven to be the most effective treatment ; though it remains controversial if ABA applied in toddler years helps recover previously diagnosed children.", 'sentence': "Psychiatrist O. Ivar Lovaas ' method of Lovaas technique ( ABA ) is proven to be the most effective treatment ; though it remains controversial if ABA applied in toddler years recovers previously diagnosed children.", 'url': 'https://en.wikipedia.org/w/index.php?title=Autism&diff=prev&oldid=400217003'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'M:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[46, 47, 'R:VERB:TENSE', 'have escaped', 46, 48]], 'sentence_gt': "At the end of Book III , Gandalf , Aragorn , Legolas and Gimli help defeat Saruman 's armies at the Battle of the Hornburg while Saruman himself is cornered by the tree - like Ents and Huorns , accompanied by Merry and Pippin , who escape from captivity .", 'sentence': "At the end of Book III , Gandalf , Aragorn , Legolas and Gimli help defeat Saruman 's armies at the Battle of the Hornburg while Saruman himself is cornered by the tree - like Ents and Huorns , accompanied by Merry and Pippin , who have escaped from captivity .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_Lord_of_the_Rings&diff=prev&oldid=79728190'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'M:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[12, 13, 'R:VERB:TENSE', 'be released', 12, 14]], 'sentence_gt': "Tisdale 's third studio album , ' ' Symptoms '' , will release in the fall of 2018 under newly - launched record label , Big Noise .", 'sentence': "Tisdale 's third studio album , ' ' Symptoms '' , will be released in the fall of 2018 under newly - launched record label , Big Noise .", 'url': 'https://en.wikipedia.org/w/index.php?title=Ashley_Tisdale&diff=prev&oldid=870547760'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[12, 13, 'R:VERB:TENSE', 'closed', 12, 13]], 'sentence_gt': 'Wisconsin ( Greyhound racing is legal , but the last operating track closes on December 31 , 2009 )', 'sentence': 'Wisconsin ( Greyhound racing is legal , but the last operating track closed on December 31 , 2009 )', 'url': 'https://en.wikipedia.org/w/index.php?title=Greyhound_racing&diff=prev&oldid=356208626'}
+===================================================
+1.9.0: Counter({'M:VERB:TENSE': 1})
+2.2.1: Counter({'M:VERB': 1})
+{'edits': [[1, 1, 'M:VERB:TENSE', 'is', 1, 2]], 'sentence_gt': "It destabilizing if the bullet 's center of pressure is ahead of the center of gravity , and stabilizing if the center of pressure is behind the center of gravity .", 'sentence': "It is destabilizing if the bullet 's center of pressure is ahead of the center of gravity , and stabilizing if the center of pressure is behind the center of gravity .", 'url': 'https://en.wikipedia.org/w/index.php?title=Magnus_effect&diff=prev&oldid=237009327'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 2})
+2.2.1: Counter({'R:VERB:TENSE': 2, 'U:VERB:TENSE': 1})
+{'edits': [[5, 7, 'R:VERB:TENSE', 'took', 5, 6], [18, 20, 'R:VERB:TENSE', 'consisted', 17, 18]], 'sentence_gt': 'The Eurovision Song Contest 2017 will take place at the International Exhibition Centre in Kyiv , Ukraine and will consist of two semi - finals on 9 and 11 May and the final on 13 May 2017 .', 'sentence': 'The Eurovision Song Contest 2017 took place at the International Exhibition Centre in Kyiv , Ukraine and consisted of two semi - finals on 9 and 11 May and the final on 13 May 2017 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Yodel_It!&diff=prev&oldid=780272746'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[1, 3, 'R:VERB:TENSE', 'reconciles', 1, 2]], 'sentence_gt': 'Polly is reconciled with her mother after bearing a child who dies shortly after its birth .', 'sentence': 'Polly reconciles with her mother after bearing a child who dies shortly after its birth .', 'url': 'https://en.wikipedia.org/w/index.php?title=Love_in_a_Cold_Climate&diff=prev&oldid=549126679'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[13, 14, 'U:VERB:TENSE', '', 13, 13]], 'sentence_gt': "Unlike the Friedrich - Brzezinski definition Bracher argued that totalitarian regimes did not boob require a single leader and could function with a collective leadership , which led the American historian Walter Laqueur to argue that Bracher 's definition seemed to fit reality better then the Friedrich - Brzezinski definition .", 'sentence': "Unlike the Friedrich - Brzezinski definition Bracher argued that totalitarian regimes did not require a single leader and could function with a collective leadership , which led the American historian Walter Laqueur to argue that Bracher 's definition seemed to fit reality better then the Friedrich - Brzezinski definition .", 'url': 'https://en.wikipedia.org/w/index.php?title=Totalitarianism&diff=prev&oldid=328645547'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[4, 5, 'U:VERB:TENSE', '', 4, 4]], 'sentence_gt': 'Younger brother Alex , inspired inspired by Ringo Starr , chose the drum kit as an alternate instrument to play .', 'sentence': 'Younger brother Alex , inspired by Ringo Starr , chose the drum kit as an alternate instrument to play .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Naked_Brothers_Band:_The_Movie&diff=prev&oldid=328703014'}
+===================================================
+1.9.0: Counter({'M:VERB:TENSE': 1})
+2.2.1: Counter({'M:VERB': 1})
+{'edits': [[3, 3, 'M:VERB:TENSE', 'are', 3, 4]], 'sentence_gt': "Neelix and Kes are romantically involved when they board ' ' Voyager '' , however , their relationship is later terminated by Kes under the control of an alien rebel during an away mission .", 'sentence': "Neelix and Kes are are romantically involved when they board ' ' Voyager '' , however , their relationship is later terminated by Kes under the control of an alien rebel during an away mission .", 'url': 'https://en.wikipedia.org/w/index.php?title=Neelix&diff=prev&oldid=412384520'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[2, 4, 'R:VERB:TENSE', 'produced', 2, 3]], 'sentence_gt': 'While Rush would produce a few other multichapter songs over the rest of their career , " Cygnus X-1 Book II : Hemispheres " was their last side - spanning epic .', 'sentence': 'While Rush produced a few other multichapter songs over the rest of their career , " Cygnus X-1 Book II : Hemispheres " was their last side - spanning epic .', 'url': 'https://en.wikipedia.org/w/index.php?title=Rush_(band)&diff=prev&oldid=30778396'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[3, 6, 'R:VERB:TENSE', 'reveals', 3, 4]], 'sentence_gt': 'After this he is shown revealing to the guests that he ( Green ) is an undercover FBI agent .', 'sentence': 'After this he reveals to the guests that he ( Green ) is an undercover FBI agent .', 'url': 'https://en.wikipedia.org/w/index.php?title=Clue_(film)&diff=prev&oldid=252441114'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[10, 12, 'R:VERB:TENSE', 'followed', 10, 11]], 'sentence_gt': '1978 \'s \' \' Hemispheres ( 1978 album ) \'\' would follow \' \' A Farewell to Kings \' \'\' progressive rock style , including a second part to the song " Cygnus X-1 " .', 'sentence': '1978 \'s \' \' Hemispheres ( 1978 album ) \'\' followed \' \' A Farewell to Kings \' \'\' progressive rock style , including a second part to the song " Cygnus X-1 " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Rush_(band)&diff=prev&oldid=30778396'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:ADJ': 1, 'M:NOUN': 1})
+{'edits': [[15, 16, 'R:VERB:TENSE', 'lowest', 15, 16], [17, 17, 'M:NOUN', 'superhero', 17, 18]], 'sentence_gt': "The game was featured in the Guinness World Records Gamer 's Edition 2009 book for highest rated game .", 'sentence': "The game was featured in the Guinness World Records Gamer 's Edition 2009 book for lowest rated superhero game .", 'url': 'https://en.wikipedia.org/w/index.php?title=Superman_64&diff=prev&oldid=394191921'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'M:NOUN': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1, 'M:NOUN': 1})
+{'edits': [[2, 4, 'R:VERB:TENSE', 'derives', 2, 3], [26, 26, 'M:NOUN', 'language', 25, 26]], 'sentence_gt': "The name is derived from the Latin for turnip , ' ' rāpum '' or ' ' rāpa '' , and is first recorded in English at the end of the 14th century .", 'sentence': "The name derives from the Latin for turnip , ' ' rāpum '' or ' ' rāpa '' , and is first recorded in English language at the end of the 14th century .", 'url': 'https://en.wikipedia.org/w/index.php?title=Rapeseed&diff=prev&oldid=183517622'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[3, 5, 'R:VERB:TENSE', 'fielded', 3, 4]], 'sentence_gt': 'The Moderate Party will field candidates for various state offices in the 2010 elections .', 'sentence': 'The Moderate Party fielded candidates for various state offices in the 2010 elections .', 'url': 'https://en.wikipedia.org/w/index.php?title=Moderate_Party_of_Rhode_Island&diff=prev&oldid=435148882'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 6, 'R:VERB:TENSE', 'wa', 5, 6]], 'sentence_gt': "The ' bug dome ' is constructed out of bamboo and weak concrete in the form of cement mixed with soil.", 'sentence': "The ' bug dome ' wa constructed out of bamboo and weak concrete in the form of cement mixed with soil.", 'url': 'https://en.wikipedia.org/w/index.php?title=Bug_Dome&diff=prev&oldid=620150908'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:MORPH': 1})
+{'edits': [[6, 8, 'R:VERB:TENSE', 'differs', 6, 7]], 'sentence_gt': 'The language medium in the Talmud will differ , broadly , by section - the Mishna sections and Bibilical references are in Hebrew language , and the Gemara sections in Aramaic .', 'sentence': 'The language medium in the Talmud differs , broadly , by section - the Mishna sections and Bibilical references are in Hebrew language , and the Gemara sections in Aramaic .', 'url': 'https://en.wikipedia.org/w/index.php?title=Talmud&diff=prev&oldid=66231752'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[7, 8, 'U:VERB:TENSE', '', 7, 7]], 'sentence_gt': 'As you know , I have just taken begun addressing what I consider to be two of the most serious problems on the page .', 'sentence': 'As you know , I have just begun addressing what I consider to be two of the most serious problems on the page .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:SlimVirgin&diff=prev&oldid=552466936'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 2})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'R:NOUN:NUM': 1})
+{'edits': [[36, 37, 'R:VERB:TENSE', 'were', 36, 37], [64, 65, 'R:VERB:TENSE', 'progressed', 64, 65]], 'sentence_gt': 'According to Eurovision rules , all nations with the exceptions of the host country and the " Big Four ( Eurovision ) " ( France , Germany , Italy , Spain and the United Kingdom ) are required to qualify from one of two semi - finals in order to compete for the final ; the top ten countries from each semi - final progress to the final .', 'sentence': 'According to Eurovision rules , all nations with the exceptions of the host country and the " Big Four ( Eurovision ) " ( France , Germany , Italy , Spain and the United Kingdom ) were required to qualify from one of two semi - finals in order to compete for the final ; the top ten countries from each semi - final progressed to the final .', 'url': 'https://en.wikipedia.org/w/index.php?title=Yodel_It!&diff=prev&oldid=780272746'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'R:VERB:SVA': 2, 'U:VERB:TENSE': 1})
+{'edits': [[20, 22, 'R:VERB:TENSE', 'begins', 20, 21], [27, 28, 'R:VERB:SVA', 'loses', 26, 27]], 'sentence_gt': "However , as soon as a constructed language ' ' does '' have a number of native speakers , it will begin to evolve , and thereby lose its constructed status over time .", 'sentence': "However , as soon as a constructed language ' ' does '' have a number of native speakers , it begins to evolve , and thereby loses its constructed status over time .", 'url': 'https://en.wikipedia.org/w/index.php?title=Constructed_language&diff=prev&oldid=22230139'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 2})
+2.2.1: Counter({'R:VERB:FORM': 2, 'U:VERB:TENSE': 1, 'M:VERB:TENSE': 1})
+{'edits': [[5, 7, 'R:VERB:TENSE', 'appear', 5, 6], [8, 9, 'R:VERB:TENSE', 'have opposed', 7, 9]], 'sentence_gt': 'The Blackfriars residents do not have appeared to oppose this move , perhaps because of the difference perceived between " public " theater audiences and the more select clientele of the " private " playhouse .', 'sentence': 'The Blackfriars residents do not appear to have opposed this move , perhaps because of the difference perceived between " public " theater audiences and the more select clientele of the " private " playhouse .', 'url': 'https://en.wikipedia.org/w/index.php?title=Lord_Chamberlain%27s_Men&diff=prev&oldid=163645918'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[6, 7, 'U:VERB:TENSE', '', 6, 6]], 'sentence_gt': 'Alex Stănescu from Romanian website InfoMusic wrote called the music video " summery " .', 'sentence': 'Alex Stănescu from Romanian website InfoMusic called the music video " summery " .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Cartoon_network_freak/sandbox&diff=prev&oldid=787227645'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 2})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[1, 2, 'R:VERB:TENSE', 'plays', 1, 2], [16, 18, 'R:VERB:TENSE', 'threatens', 16, 17]], 'sentence_gt': 'McCracken played a call girl , Dixie Evans , who was involved in the incident and is threatening to talk about it .', 'sentence': 'McCracken plays a call girl , Dixie Evans , who was involved in the incident and threatens to talk about it .', 'url': 'https://en.wikipedia.org/w/index.php?title=Joan_McCracken&diff=prev&oldid=598555913'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[31, 33, 'R:VERB:TENSE', 'helps', 31, 32]], 'sentence_gt': "Psychiatrist O. Ivar Lovaas ' method of Lovaas technique ( ABA ) is proven to be the most effective treatment ; though it remains controversial if ABA applied in toddler years can help recover previously diagnosed children.", 'sentence': "Psychiatrist O. Ivar Lovaas ' method of Lovaas technique ( ABA ) is proven to be the most effective treatment ; though it remains controversial if ABA applied in toddler years helps recover previously diagnosed children.", 'url': 'https://en.wikipedia.org/w/index.php?title=Autism&diff=prev&oldid=400202799'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[4, 6, 'R:VERB:TENSE', 'returns', 4, 5]], 'sentence_gt': 'Initially , a search will return few results , but one can set up " clusters " based on certain keywords , and over time , your client will learn the best route to obtain the information sought .', 'sentence': 'Initially , a search returns few results , but one can set up " clusters " based on certain keywords , and over time , your client will learn the best route to obtain the information sought .', 'url': 'https://en.wikipedia.org/w/index.php?title=Winny&diff=prev&oldid=473467364'}
+===================================================
+1.9.0: Counter({'R:ADJ': 1, 'U:VERB:TENSE': 1})
+2.2.1: Counter({'R:ADJ': 1, 'U:VERB': 1})
+{'edits': [[1, 3, 'R:ADJ', 'several', 1, 2], [6, 7, 'U:VERB:TENSE', '', 5, 5]], 'sentence_gt': 'After many different takes , Kershner shouted told Ford to improvise on the spot .', 'sentence': 'After several takes , Kershner told Ford to improvise on the spot .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Empire_Strikes_Back&diff=prev&oldid=110600671'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 2})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[1, 2, 'R:VERB:TENSE', 'plays', 1, 2], [16, 18, 'R:VERB:TENSE', 'threatens', 16, 17]], 'sentence_gt': 'McCracken played a call girl , Dixie Evans , who was involved in the incident and is threatening to talk about it .', 'sentence': 'McCracken plays a call girl , Dixie Evans , who was involved in the incident and threatens to talk about it .', 'url': 'https://en.wikipedia.org/w/index.php?title=Joan_McCracken&diff=prev&oldid=598555913'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[0, 1, 'U:VERB:TENSE', '', 0, 0]], 'sentence_gt': ', also screened internationally , was nominated for nine Citra Awards at the 2011 Indonesian Film Festival , winning one .', 'sentence': 'also screened internationally , was nominated for nine Citra Awards at the 2011 Indonesian Film Festival , winning one .', 'url': 'https://en.wikipedia.org/w/index.php?title=%3F_(film)&diff=prev&oldid=548136366'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[18, 20, 'R:VERB:TENSE', 'return', 18, 19]], 'sentence_gt': "Work on ' ' High School Musical 2 '' began in 2007 , and Tisdale was confirmed to be returning for the sequel as Sharpay Evans .", 'sentence': "Work on ' ' High School Musical 2 '' began in 2007 , and Tisdale was confirmed to return for the sequel as Sharpay Evans .", 'url': 'https://en.wikipedia.org/w/index.php?title=Ashley_Tisdale&diff=prev&oldid=623270639'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:ADV': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'R:ADV': 1, 'M:ADV': 1})
+{'edits': [[58, 59, 'R:VERB:TENSE', 'were', 58, 59], [59, 60, 'R:ADV', 'no longer', 59, 61]], 'sentence_gt': 'As the result of a 2011 ruling by the Massachusetts Department of Early Education and Care , governor Deval Patrick ’s administration imposed rules that only residents whose treatment plans were approved before that time and included the use of the GED , were still permitted to use it , but new students and residents enrolling into JRC are not allowed , by law , to receive the GED as part of their treatment plan .', 'sentence': 'As the result of a 2011 ruling by the Massachusetts Department of Early Education and Care , governor Deval Patrick ’s administration imposed rules that only residents whose treatment plans were approved before that time and included the use of the GED , were still permitted to use it , but new students and residents enrolling into JRC were no longer allowed , by law , to receive the GED as part of their treatment plan .', 'url': 'https://en.wikipedia.org/w/index.php?title=Judge_Rotenberg_Educational_Center&diff=prev&oldid=741530510'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[10, 12, 'R:VERB:TENSE', 'complete', 10, 11]], 'sentence_gt': 'The development of the game took just one year to be completed .', 'sentence': 'The development of the game took just one year to complete .', 'url': 'https://en.wikipedia.org/w/index.php?title=Final_Fantasy_VI&diff=prev&oldid=862699727'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1})
+2.2.1: Counter({'U:DET': 1})
+{'edits': [[17, 18, 'U:VERB:TENSE', '', 17, 17]], 'sentence_gt': 'It was written by Carolina Liar , Ross Golan and Max Martin , with Martin and Carlsson both acting as record and vocal producers .', 'sentence': 'It was written by Carolina Liar , Ross Golan and Max Martin , with Martin and Carlsson acting as record and vocal producers .', 'url': 'https://en.wikipedia.org/w/index.php?title=Dangerous_Woman_(song)&diff=prev&oldid=735559283'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[9, 10, 'U:VERB:TENSE', '', 9, 9]], 'sentence_gt': 'BBC apologized to Metallica fans after receiving 413 complaints having having cut their set on Live Earth before " Enter Sandman " on its UK terrestrial broadcast .', 'sentence': 'BBC apologized to Metallica fans after receiving 413 complaints having cut their set on Live Earth before " Enter Sandman " on its UK terrestrial broadcast .', 'url': 'https://en.wikipedia.org/w/index.php?title=Enter_Sandman&diff=prev&oldid=173856317'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:ADJ': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'R:OTHER': 1})
+{'edits': [[2, 3, 'R:VERB:TENSE', 'was', 2, 3], [3, 4, 'R:ADJ', 'renowned', 3, 4]], 'sentence_gt': 'Baji Rao is famous for rapid tactical movements in battle , using his cavalry inherited from Maratha generals including Santaji Ghorpade , Dhanaji Jadhav and Ananatrao Makaji .', 'sentence': 'Baji Rao was renowned for rapid tactical movements in battle , using his cavalry inherited from Maratha generals including Santaji Ghorpade , Dhanaji Jadhav and Ananatrao Makaji .', 'url': 'https://en.wikipedia.org/w/index.php?title=Baji_Rao_I&diff=prev&oldid=810503496'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'M:VERB:TENSE': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:VERB:TENSE': 1})
+{'edits': [[1, 2, 'R:VERB:TENSE', 'should', 1, 2], [23, 23, 'M:VERB:TENSE', 'has', 23, 24]], 'sentence_gt': 'We cab be forthright if we feel that this editor , though obviously socking , should be cut a break , because he done such a good job as an admin or whatever .', 'sentence': 'We should be forthright if we feel that this editor , though obviously socking , should be cut a break , because he has done such a good job as an admin or whatever .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators%27_noticeboard/Incidents&diff=prev&oldid=664290476'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 2})
+2.2.1: Counter({'R:VERB:TENSE': 2, 'U:VERB:TENSE': 1})
+{'edits': [[5, 7, 'R:VERB:TENSE', 'took', 5, 6], [17, 19, 'R:VERB:TENSE', 'consisted', 16, 17]], 'sentence_gt': 'The Eurovision Song Contest 2018 will take place at the Altice Arena in Lisbon , Portugal and will consist of two semi - finals on 8 and 10 May , and the final on 12 May 2018 .', 'sentence': 'The Eurovision Song Contest 2018 took place at the Altice Arena in Lisbon , Portugal and consisted of two semi - finals on 8 and 10 May , and the final on 12 May 2018 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Goodbye_(The_Humans_song)&diff=prev&oldid=840741368'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[1, 3, 'R:VERB:TENSE', 'stops', 1, 2]], 'sentence_gt': "Daniel can stop Ke'ra , who secretly uncovered her own psychological doppelgänger , from committing suicide , and Carter develops a medicine to recreate the amnesia to allow Ke'ra return to rebuild the collapsing society on her homeplanet .", 'sentence': "Daniel stops Ke'ra , who secretly uncovered her own psychological doppelgänger , from committing suicide , and Carter develops a medicine to recreate the amnesia to allow Ke'ra return to rebuild the collapsing society on her homeplanet .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Stargate_SG-1_characters&diff=prev&oldid=230210683'}
+===================================================
+1.9.0: Counter({'M:VERB:TENSE': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[0, 0, 'M:VERB:TENSE', ',', 0, 1]], 'sentence_gt': 'also screened internationally , was nominated for nine Citra Awards at the 2011 Indonesian Film Festival , winning one .', 'sentence': ', also screened internationally , was nominated for nine Citra Awards at the 2011 Indonesian Film Festival , winning one .', 'url': 'https://en.wikipedia.org/w/index.php?title=%3F_(film)&diff=prev&oldid=548136426'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[18, 21, 'R:VERB:TENSE', 'kisses', 18, 19]], 'sentence_gt': 'At the end of the game , SeeD holds a banquet to celebrate their victory , and Squall is shown kissing Rinoa .', 'sentence': 'At the end of the game , SeeD holds a banquet to celebrate their victory , and Squall kisses Rinoa .', 'url': 'https://en.wikipedia.org/w/index.php?title=Final_Fantasy_VIII&diff=prev&oldid=143064674'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1, 'R:VERB': 1})
+2.2.1: Counter({'U:PREP': 1, 'R:OTHER': 1})
+{'edits': [[1, 2, 'U:VERB:TENSE', '', 1, 1], [2, 3, 'R:VERB', 'aforementioned', 1, 2]], 'sentence_gt': "As before mentioned , the first - person narrator is always a character within his / her own story ( whether the protagonist or not ) and this viewpoint character takes actions , makes judgments and has opinions and biases , therefore , not always allowing the audience to be able to comprehend some of the other character 's thoughts , feelings , or understandings as much as this one character .", 'sentence': "As aforementioned , the first - person narrator is always a character within his / her own story ( whether the protagonist or not ) and this viewpoint character takes actions , makes judgments and has opinions and biases , therefore , not always allowing the audience to be able to comprehend some of the other character 's thoughts , feelings , or understandings as much as this one character .", 'url': 'https://en.wikipedia.org/w/index.php?title=Narration&diff=prev&oldid=487737804'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'U:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1, 'U:CONTR': 1})
+{'edits': [[1, 2, 'R:VERB:TENSE', 'couldnot', 1, 2], [2, 3, 'U:CONTR', '', 2, 2]], 'sentence_gt': "He could n't explain ' ' how '' organisms might change over generations .", 'sentence': "He couldnot explain ' ' how '' organisms might change over generations .", 'url': 'https://en.wikipedia.org/w/index.php?title=Evolution&diff=prev&oldid=95353688'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[2, 5, 'R:VERB:TENSE', 'encroached', 2, 3]], 'sentence_gt': 'Accepting assimilation was meant encroaching on their nationality .', 'sentence': 'Accepting assimilation encroached on their nationality .', 'url': 'https://en.wikipedia.org/w/index.php?title=Rugova_(region)&diff=prev&oldid=721558605'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[0, 1, 'R:VERB:TENSE', 'contains', 0, 1]], 'sentence_gt': 'contained lines that were considered comparable to Eminem \'s " outlandish statements " throughout his career .', 'sentence': 'contains lines that were considered comparable to Eminem \'s " outlandish statements " throughout his career .', 'url': 'https://en.wikipedia.org/w/index.php?title=Flower_Boy&diff=prev&oldid=851075867'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1, 'R:PUNCT': 1})
+{'edits': [[5, 7, 'R:VERB:TENSE', 'leveled', 5, 6], [12, 13, 'R:PUNCT', ',', 11, 12]], 'sentence_gt': 'The 1906 San Francisco earthquake would level two wings of the building ; destroying the Roman , Egyptian and Asian galleries .', 'sentence': 'The 1906 San Francisco earthquake leveled two wings of the building , destroying the Roman , Egyptian and Asian galleries .', 'url': 'https://en.wikipedia.org/w/index.php?title=Iris_%26_B._Gerald_Cantor_Center_for_Visual_Arts&diff=prev&oldid=724547039'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[11, 13, 'R:VERB:TENSE', 'became', 11, 12]], 'sentence_gt': 'and offensive lineman John Hannah ( NFL player ) , who would become the first career Patriot to make the Hall of Fame in 1991.', 'sentence': 'and offensive lineman John Hannah ( NFL player ) , who became the first career Patriot to make the Hall of Fame in 1991.', 'url': 'https://en.wikipedia.org/w/index.php?title=New_England_Patriots&diff=prev&oldid=64188286'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[1, 3, 'R:VERB:TENSE', 'reconciles', 1, 2]], 'sentence_gt': 'Polly is reconciled with her mother after bearing a child who dies shortly after its birth .', 'sentence': 'Polly reconciles with her mother after bearing a child who dies shortly after its birth .', 'url': 'https://en.wikipedia.org/w/index.php?title=Love_in_a_Cold_Climate&diff=prev&oldid=549125425'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[1, 3, 'R:VERB:TENSE', 'started', 1, 2]], 'sentence_gt': 'Trulli will start from 18th on the grid .', 'sentence': 'Trulli started from 18th on the grid .', 'url': 'https://en.wikipedia.org/w/index.php?title=2005_Brazilian_Grand_Prix&diff=prev&oldid=24021033'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:PREP': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:FORM': 1, 'R:PREP': 1})
+{'edits': [[23, 25, 'R:VERB:TENSE', 'conflict', 23, 24], [25, 26, 'R:PREP', 'about', 24, 25]], 'sentence_gt': "He has stated that he attended the Church of England St. George 's School , Jerusalem in 1947 in Jerusalem , although records are conflicting on whether or not this was the case , and indicate Said and his family may have been most closely connected to an affluent area of Cairo.", 'sentence': "He has stated that he attended the Church of England St. George 's School , Jerusalem in 1947 in Jerusalem , although records conflict about whether or not this was the case , and indicate Said and his family may have been most closely connected to an affluent area of Cairo.", 'url': 'https://en.wikipedia.org/w/index.php?title=Edward_Said&diff=prev&oldid=277555689'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[41, 43, 'R:VERB:TENSE', 'receives', 41, 42]], 'sentence_gt': "In 2004 , ' ' Pop Idol '' was axed , and ITV ( TV network ) announced a new show in the United Kingdom , ' ' The X Factor ( UK TV series ) '' in which the winner would receive a $ 5 million recording contract with his record label ; the show had produced highly flourished multi - plantimum artists , such as series one winner Leona Lewis and the group One Direction , respectively .", 'sentence': "In 2004 , ' ' Pop Idol '' was axed , and ITV ( TV network ) announced a new show in the United Kingdom , ' ' The X Factor ( UK TV series ) '' in which the winner receives a $ 5 million recording contract with his record label ; the show had produced highly flourished multi - plantimum artists , such as series one winner Leona Lewis and the group One Direction , respectively .", 'url': 'https://en.wikipedia.org/w/index.php?title=The_X_Factor_(American_TV_series)&diff=prev&oldid=779089367'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:PREP': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1, 'R:PREP': 1})
+{'edits': [[26, 28, 'R:VERB:TENSE', 'competed', 26, 27], [28, 29, 'R:PREP', 'in', 27, 28]], 'sentence_gt': "' ' ' Wang Juan ' '' ( born 1982 - 03 - 05 in Suzhou , Jiangsu ) is a female PR China judoka who will compete at the 2008 Summer Olympics in the Middleweight ( 63–70&nbsp;kg ) event .", 'sentence': "' ' ' Wang Juan ' '' ( born 1982 - 03 - 05 in Suzhou , Jiangsu ) is a female PR China judoka who competed in the 2008 Summer Olympics in the Middleweight ( 63–70&nbsp;kg ) event .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wang_Juan_(judoka)&diff=prev&oldid=436219900'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:VERB:TENSE', "//importScript('User", 0, 1]], 'sentence_gt': "importScript('User : Enterprisey / disable - save - on - click.js ' ) ; //Linkback : User : Enterprisey / disable - save - on - click.js Added by Script installer", 'sentence': "//importScript('User : Enterprisey / disable - save - on - click.js ' ) ; //Linkback : User : Enterprisey / disable - save - on - click.js Added by Script installer", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/common.js&diff=prev&oldid=850101018'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB': 1})
+{'edits': [[18, 19, 'U:VERB:TENSE', '', 18, 18]], 'sentence_gt': "But soon afterwards , Nat loses it that he 'll never find it , and that Rosalina will be move on .", 'sentence': "But soon afterwards , Nat loses it that he 'll never find it , and that Rosalina will move on .", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_The_Naked_Brothers_Band_episodes&diff=prev&oldid=246206818'}
+===================================================
+1.9.0: Counter({'R:PREP': 1, 'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:PREP': 1, 'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[11, 12, 'R:PREP', 'because', 11, 12], [16, 18, 'R:VERB:TENSE', 'continued', 16, 17]], 'sentence_gt': 'The final results of this trial are yet to be published since follow - up evaluations will continue up to 2009 .', 'sentence': 'The final results of this trial are yet to be published because follow - up evaluations continued up to 2009 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Psychotherapy&diff=prev&oldid=346355899'}
+===================================================
+1.9.0: Counter({'M:VERB:TENSE': 1, 'M:PREP': 1})
+2.2.1: Counter({'M:VERB': 1, 'M:PREP': 1})
+{'edits': [[1, 1, 'M:VERB:TENSE', 'is', 1, 2], [2, 2, 'M:PREP', 'to', 3, 4]], 'sentence_gt': 'Allen married former NBA player Norm Nixon , and they are the parents of dancer Vivian Nixon , and basketball player Norman Ellard Nixon Jr. ( Wofford College & Southern University ) .', 'sentence': 'Allen is married to former NBA player Norm Nixon , and they are the parents of dancer Vivian Nixon , and basketball player Norman Ellard Nixon Jr. ( Wofford College & Southern University ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Debbie_Allen&diff=prev&oldid=344450384'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[1, 3, 'R:VERB:TENSE', 'provides', 1, 2]], 'sentence_gt': "Wikipedia must provide an ' ' ' encyclopedic coverage ' '' for fiction ; that is , articles must approach subjects from an ' ' out of universe perspective '' .", 'sentence': "Wikipedia provides an ' ' ' encyclopedic coverage ' '' for fiction ; that is , articles must approach subjects from an ' ' out of universe perspective '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Deckiller/Notability_(fiction)&diff=prev&oldid=137481948'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'M:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[1, 2, 'R:VERB:TENSE', 'may seem', 1, 3]], 'sentence_gt': 'It seems pointless , but that way people can use a CSS rule to alter the appearance of your signature , which should decrease future complaints .', 'sentence': 'It may seem pointless , but that way people can use a CSS rule to alter the appearance of your signature , which should decrease future complaints .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Oshawott_12&diff=prev&oldid=882515121'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'U:VERB:TENSE': 1, 'R:VERB:FORM': 1})
+{'edits': [[17, 18, 'R:VERB:TENSE', 'was', 17, 18], [23, 27, 'R:VERB:FORM', 'took', 23, 24]], 'sentence_gt': "The ' ' ' 2017 ICC World Cricket League East Asia - Pacific Region Qualifiers ' '' is an international cricket tournament that is scheduled to take place in Bendigo , Australia.https://www.icc - cricket.com / media - releases/374290 The teams competing in the tournament are Vanuatu , Fiji , Indonesia , Japan , Philippines and Samoa .", 'sentence': "The ' ' ' 2017 ICC World Cricket League East Asia - Pacific Region Qualifiers ' '' was an international cricket tournament that took place in Bendigo , Australia.https://www.icc - cricket.com / media - releases/374290 The teams competing in the tournament are Vanuatu , Fiji , Indonesia , Japan , Philippines and Samoa .", 'url': 'https://en.wikipedia.org/w/index.php?title=2017_ICC_World_Cricket_League_East_Asia-Pacific_Region_Qualifiers&diff=prev&oldid=789277615'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+{'edits': [[2, 4, 'R:VERB:TENSE', 'ends', 2, 3]], 'sentence_gt': 'Each episode would end or begin with a date ( usually the date the episode aired ) , in keeping with the case file theme .', 'sentence': 'Each episode ends or begin with a date ( usually the date the episode aired ) , in keeping with the case file theme .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mirai_Sentai_Timeranger&diff=prev&oldid=566374294'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[10, 12, 'R:VERB:TENSE', 'became', 10, 11]], 'sentence_gt': "' ' Final Fantasy IV '' introduced several innovations that would become staples of the series and of role - playing game in general .", 'sentence': "' ' Final Fantasy IV '' introduced several innovations that became staples of the series and of role - playing game in general .", 'url': 'https://en.wikipedia.org/w/index.php?title=Final_Fantasy_IV&diff=prev&oldid=66968040'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[3, 5, 'R:VERB:TENSE', 'ceased', 3, 4]], 'sentence_gt': 'Massachusetts ( Racing shall cease January 2010 , banned by Question 3 .', 'sentence': 'Massachusetts ( Racing ceased January 2010 , banned by Question 3 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Greyhound_racing&diff=prev&oldid=356208626'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 2})
+2.2.1: Counter({'R:VERB:FORM': 2, 'U:VERB:TENSE': 1, 'M:VERB:TENSE': 1})
+{'edits': [[5, 7, 'R:VERB:TENSE', 'appear', 5, 6], [8, 9, 'R:VERB:TENSE', 'have opposed', 7, 9]], 'sentence_gt': 'The Blackfriars residents do not have appeared to oppose this move , perhaps because of the difference perceived between " public " theater audiences and the more select clientele of the " private " playhouse .', 'sentence': 'The Blackfriars residents do not appear to have opposed this move , perhaps because of the difference perceived between " public " theater audiences and the more select clientele of the " private " playhouse .', 'url': 'https://en.wikipedia.org/w/index.php?title=Lord_Chamberlain%27s_Men&diff=prev&oldid=163645918'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1})
+2.2.1: Counter({'U:PREP': 1})
+{'edits': [[9, 10, 'U:VERB:TENSE', '', 9, 9]], 'sentence_gt': 'There are several styles which are specific to regions to , religion , etc .', 'sentence': 'There are several styles which are specific to regions , religion , etc .', 'url': 'https://en.wikipedia.org/w/index.php?title=Pagri_(turban)&diff=prev&oldid=347479490'}
+===================================================

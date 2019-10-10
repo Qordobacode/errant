@@ -1,0 +1,308 @@
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[1, 2, 'R:NOUN:INFL', 'launches', 1, 2]], 'sentence_gt': 'Damia launchs rocket for Hoodman , so he can know where is Bosco .', 'sentence': 'Damia launches rocket for Hoodman , so he can know where is Bosco .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bosco_Adventure&diff=prev&oldid=398753996'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:MORPH': 1, 'M:PUNCT': 1})
+{'edits': [[21, 22, 'R:NOUN:INFL', 'bytecode', 21, 22], [33, 33, 'M:PUNCT', ',', 33, 34]], 'sentence_gt': "Another technique , known as ' ' just - in - time compilation '' ( JIT ) , translates the Java bytecodes into native code at the time that the program is run which results in a program that executes faster than interpreted code but also incurs compilation overhead during execution .", 'sentence': "Another technique , known as ' ' just - in - time compilation '' ( JIT ) , translates the Java bytecode into native code at the time that the program is run , which results in a program that executes faster than interpreted code but also incurs compilation overhead during execution .", 'url': 'https://en.wikipedia.org/w/index.php?title=Java_(programming_language)&diff=prev&oldid=171581247'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:INFL': 2})
+{'edits': [[15, 16, 'R:NOUN:INFL', 'counselling', 15, 16], [22, 23, 'R:MORPH', 'counselling', 22, 23]], 'sentence_gt': 'In the early 1980s , NLP was advertised as an important advance in psychotherapy and counseling , and attracted some interest in counseling research and clinical psychology .', 'sentence': 'In the early 1980s , NLP was advertised as an important advance in psychotherapy and counselling , and attracted some interest in counselling research and clinical psychology .', 'url': 'https://en.wikipedia.org/w/index.php?title=Neuro-linguistic_programming&diff=prev&oldid=572791868'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:NOUN:INFL', 'men', 3, 4]], 'sentence_gt': "Scott Cherry , mens 's basketball coach at High Point University , is a native of Ballston Spa and a graduate of Saratoga Central Catholic High School .", 'sentence': "Scott Cherry , men 's basketball coach at High Point University , is a native of Ballston Spa and a graduate of Saratoga Central Catholic High School .", 'url': 'https://en.wikipedia.org/w/index.php?title=Sports_in_New_York%27s_Capital_District&diff=prev&oldid=595514614'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:NOUN:INFL', 'Puget', 3, 4]], 'sentence_gt': '= = = Pugets Sound Agricultural Company===', 'sentence': '= = = Puget Sound Agricultural Company===', 'url': 'https://en.wikipedia.org/w/index.php?title=John_McLoughlin&diff=prev&oldid=842380259'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[19, 20, 'R:NOUN:INFL', 'akuma', 19, 20]], 'sentence_gt': 'When Bak still refuses , Allen expresses his realization that he fights for the sake of both humans and Akumas and black blood drips from his left eye instead of tears .', 'sentence': 'When Bak still refuses , Allen expresses his realization that he fights for the sake of both humans and akuma and black blood drips from his left eye instead of tears .', 'url': 'https://en.wikipedia.org/w/index.php?title=D.Gray-man_(season_2)&diff=prev&oldid=268332549'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[11, 12, 'R:NOUN:INFL', 'Controlled', 11, 12]], 'sentence_gt': 'These are : Human Spirt , Natural World , Communications and Controled World .', 'sentence': 'These are : Human Spirt , Natural World , Communications and Controlled World .', 'url': 'https://en.wikipedia.org/w/index.php?title=Petchey_Academy&diff=prev&oldid=340329667'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[4, 5, 'R:NOUN:INFL', 'Dwarfs', 4, 5]], 'sentence_gt': 'Katharine Briggs , " Dwarves " , \' \' An Encyclopedia of Fairies , Hobgoblins , Brownies , Boogies , and Other Supernatural Creatures \'\' ( Pantheon Books , 1976 ) , p. 115 .', 'sentence': 'Katharine Briggs , " Dwarfs " , \' \' An Encyclopedia of Fairies , Hobgoblins , Brownies , Boogies , and Other Supernatural Creatures \'\' ( Pantheon Books , 1976 ) , p. 115 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Dwarf_(mythology)&diff=prev&oldid=180219790'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[15, 16, 'R:NOUN:INFL', 'octopuses', 15, 16]], 'sentence_gt': 'They belong to the class ( biology ) Cephalopoda , which also includes squid , octopi , and nautiluses .', 'sentence': 'They belong to the class ( biology ) Cephalopoda , which also includes squid , octopuses , and nautiluses .', 'url': 'https://en.wikipedia.org/w/index.php?title=Cuttlefish&diff=prev&oldid=843867968'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[21, 22, 'R:NOUN:INFL', 'beginning', 21, 22]], 'sentence_gt': "' ' ' Raja Parva ' '' or Mithuna Sankranti is a three day long festivals and the second day siginfies begining of the solar month of Mithuna from , which the season of rains starts .", 'sentence': "' ' ' Raja Parva ' '' or Mithuna Sankranti is a three day long festivals and the second day siginfies beginning of the solar month of Mithuna from , which the season of rains starts .", 'url': 'https://en.wikipedia.org/w/index.php?title=Raja_(festival)&diff=prev&oldid=392411715'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:NOUN:INFL', 'Electrophile', 0, 1]], 'sentence_gt': 'Electrophiles', 'sentence': 'Electrophile', 'url': 'https://en.wikipedia.org/w/index.php?title=Nucleophile&diff=prev&oldid=518457022'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'R:MORPH': 1, 'R:VERB:SVA': 1})
+{'edits': [[12, 13, 'R:NOUN:INFL', 'qanuns', 12, 13], [16, 17, 'R:VERB:SVA', 'have', 16, 17]], 'sentence_gt': "Provisions of Islamic law specific to Aceh are promulgated through ' ' qanun '' , which has the legal status of ' ' perda '' ( regional regulation ) .", 'sentence': "Provisions of Islamic law specific to Aceh are promulgated through ' ' qanuns '' , which have the legal status of ' ' perda '' ( regional regulation ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=Islamic_criminal_law_in_Aceh&diff=prev&oldid=764390122'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:NOUN:INFL', 'philanthropists', 3, 4]], 'sentence_gt': 'Category : Spanish philanthropistss', 'sentence': 'Category : Spanish philanthropists', 'url': 'https://en.wikipedia.org/w/index.php?title=Horacio_Echevarrieta&diff=prev&oldid=503104694'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:NOUN:INFL', 'Krooked', 1, 2]], 'sentence_gt': 'Former Krook amateur team rider , Van Wastell , was killed after an accidental fall from a balcony in Berlin , Germany , during a European skate tour on September 5 , 2008 .', 'sentence': 'Former Krooked amateur team rider , Van Wastell , was killed after an accidental fall from a balcony in Berlin , Germany , during a European skate tour on September 5 , 2008 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Deluxe_Distribution&diff=prev&oldid=575112017'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[22, 23, 'R:NOUN:INFL', 'sexes', 22, 23]], 'sentence_gt': 'My main field of study is the sociology of human groups and the taxonomy of their races , ethnicities , nationalities , sexs , genders , ages , disabilities , socioeconomic classes , heights , appearances , mental disorders , weights , sexual orientations , gender identites etc .', 'sentence': 'My main field of study is the sociology of human groups and the taxonomy of their races , ethnicities , nationalities , sexes , genders , ages , disabilities , socioeconomic classes , heights , appearances , mental disorders , weights , sexual orientations , gender identites etc .', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Rainbowofpeace&diff=prev&oldid=401524084'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[9, 10, 'R:NOUN:INFL', 'beginning', 9, 10]], 'sentence_gt': 'POP TV broadcast all seasons of Kmetija since very begining .', 'sentence': 'POP TV broadcast all seasons of Kmetija since very beginning .', 'url': 'https://en.wikipedia.org/w/index.php?title=Kmetija&diff=prev&oldid=447175972'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[18, 19, 'R:NOUN:INFL', 'converso', 18, 19]], 'sentence_gt': 'Apparently , in newly conquered Granada , as in Seville , the other heavily populated Moors and Jewish Conversos city for over two centuries , he was not keen about " miraculous " conversions of thousands to Christianity , men and women .', 'sentence': 'Apparently , in newly conquered Granada , as in Seville , the other heavily populated Moors and Jewish converso city for over two centuries , he was not keen about " miraculous " conversions of thousands to Christianity , men and women .', 'url': 'https://en.wikipedia.org/w/index.php?title=Hernando_de_Talavera&diff=prev&oldid=649524839'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:NOUN:INFL', 'postils', 1, 2]], 'sentence_gt': "Advent Postil ; summer postils '' )", 'sentence': "Advent postils ; summer postils '' )", 'url': 'https://en.wikipedia.org/w/index.php?title=Weimar_edition_of_Martin_Luther%27s_works&diff=prev&oldid=352347473'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[10, 11, 'R:NOUN:INFL', 'modelling', 10, 11]], 'sentence_gt': 'Secondly , the committee members " were impressed with the modeling approach used to develop the technique .', 'sentence': 'Secondly , the committee members " were impressed with the modelling approach used to develop the technique .', 'url': 'https://en.wikipedia.org/w/index.php?title=Neuro-linguistic_programming&diff=prev&oldid=572791524'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:MORPH': 1, 'M:NOUN': 1})
+{'edits': [[40, 41, 'R:NOUN:INFL', 'Naga', 40, 41], [41, 41, 'M:NOUN', 'peoples', 41, 42]], 'sentence_gt': 'The town of Besnagar , 3 km from present - day Vidisha on the west side of the river , became an important trade center in the 6th century BC and 5th century BC , under the Sunga empires , Nagas , Satavahanas , and Guptas , and was mentioned in the Pāli scriptures .', 'sentence': 'The town of Besnagar , 3 km from present - day Vidisha on the west side of the river , became an important trade center in the 6th century BC and 5th century BC , under the Sunga empires , Naga peoples , Satavahanas , and Guptas , and was mentioned in the Pāli scriptures .', 'url': 'https://en.wikipedia.org/w/index.php?title=Vidisha&diff=prev&oldid=88363700'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'R:SPELL': 1})
+2.2.1: Counter({'R:MORPH': 1, 'R:SPELL': 1})
+{'edits': [[4, 5, 'R:NOUN:INFL', 'policies', 4, 5], [17, 18, 'R:SPELL', 'privatization', 17, 18]], 'sentence_gt': 'The two most prominent policys introduced by SAPs are the reduction of trade barriers , and the privitization of public enterprises .', 'sentence': 'The two most prominent policies introduced by SAPs are the reduction of trade barriers , and the privatization of public enterprises .', 'url': 'https://en.wikipedia.org/w/index.php?title=Structural_adjustment&diff=prev&oldid=89393700'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[13, 14, 'R:NOUN:INFL', 'polytopes', 13, 14]], 'sentence_gt': 'Special polytopes are also considered , such as permutohedron , associahedron and Birkhoff polytope .', 'sentence': 'Special polytopes are also considered , such as permutohedron , associahedron and Birkhoff polytopes .', 'url': 'https://en.wikipedia.org/w/index.php?title=Combinatorics&diff=prev&oldid=370547761'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[24, 25, 'R:NOUN:INFL', 'wharf', 24, 25]], 'sentence_gt': 'Corpses and parts thereof were traded like any other merchandise : packed into suitable containers , salted and preserved , stored in cellars and wharfs and transported in carts , waggons and boats .', 'sentence': 'Corpses and parts thereof were traded like any other merchandise : packed into suitable containers , salted and preserved , stored in cellars and wharf and transported in carts , waggons and boats .', 'url': 'https://en.wikipedia.org/w/index.php?title=Resurrectionists_in_the_United_Kingdom&diff=prev&oldid=631822602'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:NOUN:INFL': 1})
+2.2.1: Counter({'M:NOUN': 1, 'R:NOUN:INFL': 1})
+{'edits': [[13, 13, 'M:PUNCT', '-', 13, 14], [14, 15, 'R:NOUN:INFL', 'finishes', 15, 16]], 'sentence_gt': 'Mark made an instant impact at Dings , helping them to consecutive mid table finishs in the 2012–13 National League 2 South and 2013–14 National League 2 South seasons and being the divisions top points scorer in 2013 .', 'sentence': 'Mark made an instant impact at Dings , helping them to consecutive mid - table finishes in the 2012–13 National League 2 South and 2013–14 National League 2 South seasons and being the divisions top points scorer in 2013 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mark_Woodrow&diff=prev&oldid=738351914'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:SPELL': 1, 'R:MORPH': 1})
+{'edits': [[20, 21, 'R:SPELL', 'environmental', 20, 21], [21, 22, 'R:NOUN:INFL', 'policies', 21, 22]], 'sentence_gt': 'In addition , many argue that it is unfair for developed nations ( and IFIs ) to demand that their enviromental policys be followed .', 'sentence': 'In addition , many argue that it is unfair for developed nations ( and IFIs ) to demand that their environmental policies be followed .', 'url': 'https://en.wikipedia.org/w/index.php?title=Structural_adjustment&diff=prev&oldid=89400729'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:NOUN:INFL', 'accounts', 1, 2]], 'sentence_gt': 'Coal accountss for approximately 60 percent of all commercial electricity generation .', 'sentence': 'Coal accounts for approximately 60 percent of all commercial electricity generation .', 'url': 'https://en.wikipedia.org/w/index.php?title=Coal_mining&diff=prev&oldid=447110576'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[26, 27, 'R:NOUN:INFL', 'torpedoes', 26, 27]], 'sentence_gt': "Modern applications : In the climactic scene of ' ' Star Wars '' , Luke uses the Force to successfully destroy the Death Star by firing torpedos down a narrow ventilation shaft of the Death Star .", 'sentence': "Modern applications : In the climactic scene of ' ' Star Wars '' , Luke uses the Force to successfully destroy the Death Star by firing torpedoes down a narrow ventilation shaft of the Death Star .", 'url': 'https://en.wikipedia.org/w/index.php?title=Hero%27s_journey&diff=prev&oldid=105039925'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[17, 18, 'R:NOUN:INFL', 'travelling', 17, 18]], 'sentence_gt': 'The invitations came separately from Cardinal Pietro Bembo and the Farnese family , but the artist disliked traveling and refused the offers .', 'sentence': 'The invitations came separately from Cardinal Pietro Bembo and the Farnese family , but the artist disliked travelling and refused the offers .', 'url': 'https://en.wikipedia.org/w/index.php?title=Pope_Paul_III_and_His_Grandsons&diff=prev&oldid=570019752'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[12, 13, 'R:NOUN:INFL', 'errant', 12, 13]], 'sentence_gt': 'He declares that here is proof of the usefulness of knights - errants : " ¡ Quisiera yo tener aquí delante aquellos que no creen de cuanto provecho sean los caballeros andantes ! "', 'sentence': 'He declares that here is proof of the usefulness of knights - errant : " ¡ Quisiera yo tener aquí delante aquellos que no creen de cuanto provecho sean los caballeros andantes ! "', 'url': 'https://en.wikipedia.org/w/index.php?title=El_retablo_de_maese_Pedro&diff=prev&oldid=622928070'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:NOUN:INFL', 'Commandos', 3, 4]], 'sentence_gt': '= = Indi Commandoes Kerala = =', 'sentence': '= = Indi Commandos Kerala = =', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Tinucherian&diff=prev&oldid=414276188'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[6, 6, 'M:NOUN', 'PTFE', 6, 7], [6, 7, 'R:NOUN:INFL', 'fiber', 7, 8]], 'sentence_gt': 'PTFE can also be drawn into fibers which are used in Seal ( mechanical ) ( seals ) and Dust collector for industries with corrosive exhausts .', 'sentence': 'PTFE can also be drawn into PTFE fiber which are used in Seal ( mechanical ) ( seals ) and Dust collector for industries with corrosive exhausts .', 'url': 'https://en.wikipedia.org/w/index.php?title=Fluorine&diff=prev&oldid=503523217'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[14, 15, 'R:NOUN:INFL', 'Gstanzls', 14, 15]], 'sentence_gt': 'He became famous in the 1950s especially because of the writing and performing of Gstanzl ( short Bavarian mocking songs ) .', 'sentence': 'He became famous in the 1950s especially because of the writing and performing of Gstanzls ( short Bavarian mocking songs ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Roider_Jackl&diff=prev&oldid=786862607'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:MORPH': 1, 'M:NOUN': 1})
+{'edits': [[3, 4, 'R:NOUN:INFL', 'Naga', 3, 4], [4, 4, 'M:NOUN', 'peoples', 4, 5]], 'sentence_gt': 'He subdued the Nagas as he crossed the Naga hills and made his first place of establishment in Assam at Khamjang in 1228 , which is considered as the historical date of the beginning of the Ahom Kingdom .', 'sentence': 'He subdued the Naga peoples as he crossed the Naga hills and made his first place of establishment in Assam at Khamjang in 1228 , which is considered as the historical date of the beginning of the Ahom Kingdom .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sukaphaa&diff=prev&oldid=88432890'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:NOUN:INFL': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:MORPH': 1})
+{'edits': [[14, 14, 'M:PUNCT', '-', 14, 15], [14, 15, 'R:NOUN:INFL', 'gurdy', 15, 16]], 'sentence_gt': 'As the town musicians disliked traditional instruments such as drums , bagpipes and hurdy gurdys , the fiddle was increasingly used for dance music .', 'sentence': 'As the town musicians disliked traditional instruments such as drums , bagpipes and hurdy - gurdy , the fiddle was increasingly used for dance music .', 'url': 'https://en.wikipedia.org/w/index.php?title=Danish_folklore&diff=prev&oldid=648489600'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1, 'R:OTHER': 1})
+{'edits': [[4, 5, 'R:NOUN:INFL', 'Nuremberg', 4, 5], [12, 13, 'R:MORPH', 'II', 12, 13]], 'sentence_gt': 'The origin of the Nuremberger Code began in pre - World War III German politics , particularly during the 1930s and 1940s .', 'sentence': 'The origin of the Nuremberg Code began in pre - World War II German politics , particularly during the 1930s and 1940s .', 'url': 'https://en.wikipedia.org/w/index.php?title=Nuremberg_Code&diff=prev&oldid=804669242'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 2})
+2.2.1: Counter({'R:MORPH': 2})
+{'edits': [[8, 9, 'R:NOUN:INFL', 'liters', 8, 9], [25, 26, 'R:NOUN:INFL', 'liters', 25, 26]], 'sentence_gt': 'The World Health Organization has defined around 20 liter per capita per day as basic access , which implies high health concerns , and 100 liter per capita per day as optimal access , associated with low health concerns .', 'sentence': 'The World Health Organization has defined around 20 liters per capita per day as basic access , which implies high health concerns , and 100 liters per capita per day as optimal access , associated with low health concerns .', 'url': 'https://en.wikipedia.org/w/index.php?title=Water_supply&diff=prev&oldid=190342389'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[10, 11, 'R:NOUN:INFL', 'policies', 10, 11]], 'sentence_gt': 'Local environments can easily become casualties of pro - trade policys .', 'sentence': 'Local environments can easily become casualties of pro - trade policies .', 'url': 'https://en.wikipedia.org/w/index.php?title=Structural_adjustment&diff=prev&oldid=89394126'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[9, 10, 'R:NOUN:INFL', 'wharf', 9, 10]], 'sentence_gt': 'Milepost 0 : Portland , Maine terminal facilities including wharfs , grain elevators , Portland Company shops , and interchange with Portland Terminal CompanyImage : Grand Trunk Railroad Station , Portland , ME.jpg', 'sentence': 'Milepost 0 : Portland , Maine terminal facilities including wharf , grain elevators , Portland Company shops , and interchange with Portland Terminal CompanyImage : Grand Trunk Railroad Station , Portland , ME.jpg', 'url': 'https://en.wikipedia.org/w/index.php?title=St._Lawrence_and_Atlantic_Railroad&diff=prev&oldid=362155135'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:MORPH': 1})
+{'edits': [[10, 11, 'R:NOUN:NUM', 'courts', 10, 11], [12, 13, 'R:NOUN:INFL', 'martial', 12, 13]], 'sentence_gt': 'On October 14 , the retreating Patriot force held drumhead court - martials of various Loyalists on various charges ( treason , desertion from Patriot militias , incitement of Indian rebellion ) .', 'sentence': 'On October 14 , the retreating Patriot force held drumhead courts - martial of various Loyalists on various charges ( treason , desertion from Patriot militias , incitement of Indian rebellion ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Battle_of_Kings_Mountain&diff=prev&oldid=767056435'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[3, 4, 'R:NOUN:INFL', 'degrees', 3, 4]], 'sentence_gt': '( Wales ) degreed for his contributions to the study of the ancient world .', 'sentence': '( Wales ) degrees for his contributions to the study of the ancient world .', 'url': 'https://en.wikipedia.org/w/index.php?title=J._Gwyn_Griffiths&diff=prev&oldid=432757692'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[2, 3, 'R:NOUN:INFL', 'policies', 2, 3]], 'sentence_gt': "Structural Adjustment policys emerged from two of the Bretton Woods institutions , the ' ' ' IMF ' '' and the ' ' ' World Bank ' '' .", 'sentence': "Structural Adjustment policies emerged from two of the Bretton Woods institutions , the ' ' ' IMF ' '' and the ' ' ' World Bank ' '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Structural_adjustment&diff=prev&oldid=89392857'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[32, 33, 'R:NOUN:INFL', 'quadriceps', 32, 33]], 'sentence_gt': "That same year , Lexicon came up with the name of Apple 's Macintosh Quadra desktop computer , hoping to appeal to engineers with a name evoking technical terms like quadrant and quadricep .", 'sentence': "That same year , Lexicon came up with the name of Apple 's Macintosh Quadra desktop computer , hoping to appeal to engineers with a name evoking technical terms like quadrant and quadriceps .", 'url': 'https://en.wikipedia.org/w/index.php?title=Lexicon_Branding&diff=prev&oldid=455713185'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:MORPH': 1, 'M:NOUN': 1})
+{'edits': [[23, 24, 'R:NOUN:INFL', 'Naga', 23, 24], [24, 24, 'M:NOUN', 'people', 24, 25]], 'sentence_gt': 'South Asians are predominantly Caucasoid , with the exception of Tibeto - Burman speaking peoples living in the northeast , such as the Nagas .', 'sentence': 'South Asians are predominantly Caucasoid , with the exception of Tibeto - Burman speaking peoples living in the northeast , such as the Naga people .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mongoloid&diff=prev&oldid=88331867'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:MORPH': 1, 'M:NOUN': 1})
+{'edits': [[11, 12, 'R:NOUN:INFL', 'Naga', 11, 12], [12, 12, 'M:NOUN', 'people', 12, 13]], 'sentence_gt': 'Insurgencies were quelled in the early 1980s , but violence between Nagas and Kukis re - erupted in 1993 , and the Ethnic conflict in Nagaland has been ongoing since , with several involved Nagaland Rebels .', 'sentence': 'Insurgencies were quelled in the early 1980s , but violence between Naga people and Kukis re - erupted in 1993 , and the Ethnic conflict in Nagaland has been ongoing since , with several involved Nagaland Rebels .', 'url': 'https://en.wikipedia.org/w/index.php?title=Nagaland&diff=prev&oldid=88332353'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:NOUN:INFL', 'mechanics', 3, 4]], 'sentence_gt': 'Category : Quantum mechanicss', 'sentence': 'Category : Quantum mechanics', 'url': 'https://en.wikipedia.org/w/index.php?title=Heisenberg%27s_entryway_to_matrix_mechanics&diff=prev&oldid=317877546'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[5, 6, 'R:NOUN:INFL', 'pillarboxed', 5, 6]], 'sentence_gt': 'Newscasts on WKTV remain in Pillarbox 4:3 standard definition and there are currently no plans to upgrade to 16:9 enhanced definition widescreen or even full HD level .', 'sentence': 'Newscasts on WKTV remain in pillarboxed 4:3 standard definition and there are currently no plans to upgrade to 16:9 enhanced definition widescreen or even full HD level .', 'url': 'https://en.wikipedia.org/w/index.php?title=WKTV&diff=prev&oldid=595517182'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[30, 31, 'R:NOUN:INFL', 'centers', 30, 31]], 'sentence_gt': "The ' ' ' ' ' Property Brothers '' franchise ' '' is a media franchise that stars Canadian twins Jonathan Scott ( Canadian actor ) and Drew Scott and center around the selling , purchasing , and renovation of real estate property .", 'sentence': "The ' ' ' ' ' Property Brothers '' franchise ' '' is a media franchise that stars Canadian twins Jonathan Scott ( Canadian actor ) and Drew Scott and centers around the selling , purchasing , and renovation of real estate property .", 'url': 'https://en.wikipedia.org/w/index.php?title=Property_Brothers_(franchise)&diff=prev&oldid=777968725'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:MORPH': 1})
+{'edits': [[17, 18, 'R:NOUN:NUM', 'Oak', 17, 18], [37, 38, 'R:NOUN:INFL', 'alata', 37, 38]], 'sentence_gt': "Less important associates are willow oak(''Quercus phellos '' ) , water oak(''Qercus nigra '' ) , and Oaks ( ' ' Quercus durandii '' ) ; American elm ( ' ' Ulmus americana '' ) and Ulmus alatas ( ' ' Ulmus alata '' ) ; yellow - poplar ( ' ' Liriodendron tulipifera '' ) ; and American beech ( ' ' Fagus grandifolia '' ) .", 'sentence': "Less important associates are willow oak(''Quercus phellos '' ) , water oak(''Qercus nigra '' ) , and Oak ( ' ' Quercus durandii '' ) ; American elm ( ' ' Ulmus americana '' ) and Ulmus alata ( ' ' Ulmus alata '' ) ; yellow - poplar ( ' ' Liriodendron tulipifera '' ) ; and American beech ( ' ' Fagus grandifolia '' ) .", 'url': 'https://en.wikipedia.org/w/index.php?title=Carya_myristiciformis&diff=prev&oldid=368533318'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[38, 39, 'R:NOUN:INFL', 'frameworks', 38, 39]], 'sentence_gt': 'RSS emerged from the Planning and Compulsory Purchase Act 2004 , which abolished structure plans and replaced regional planning guidance ( RPG ) with RSS , which then became the strategic level plan charged with informing local development frameworkss ( LDFs ) .', 'sentence': 'RSS emerged from the Planning and Compulsory Purchase Act 2004 , which abolished structure plans and replaced regional planning guidance ( RPG ) with RSS , which then became the strategic level plan charged with informing local development frameworks ( LDFs ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Regional_spatial_strategy&diff=prev&oldid=424924607'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[13, 14, 'R:NOUN:INFL', 'sphinxes', 13, 14]], 'sentence_gt': 'The theme was expanded to form great Avenue ( landscape ) of guardian sphinges lining the approaches to tombs and temples as well as serving as details atop the posts of flights of stairs to very grand complexes .', 'sentence': 'The theme was expanded to form great Avenue ( landscape ) of guardian sphinxes lining the approaches to tombs and temples as well as serving as details atop the posts of flights of stairs to very grand complexes .', 'url': 'https://en.wikipedia.org/w/index.php?title=Sphinx&diff=prev&oldid=441013532'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:MORPH': 1})
+{'edits': [[22, 23, 'R:NOUN:NUM', 'sturgeon', 22, 23], [24, 25, 'R:NOUN:INFL', 'paddlefish', 24, 25]], 'sentence_gt': 'American paddlefish are closely related to sturgeons in the order Acipenseriformes , an order of basal ray - finned fishes that includes sturgeons and paddlefishes , several species of which are now extinct .', 'sentence': 'American paddlefish are closely related to sturgeons in the order Acipenseriformes , an order of basal ray - finned fishes that includes sturgeon and paddlefish , several species of which are now extinct .', 'url': 'https://en.wikipedia.org/w/index.php?title=American_paddlefish&diff=prev&oldid=630237961'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[15, 16, 'R:NOUN:INFL', 'dwarfs', 15, 16]], 'sentence_gt': 'Like most modern interpretations ( originating with Tolkien and used in Dungeons and Dragons ) dwarves have an antipathy against Elves .', 'sentence': 'Like most modern interpretations ( originating with Tolkien and used in Dungeons and Dragons ) dwarfs have an antipathy against Elves .', 'url': 'https://en.wikipedia.org/w/index.php?title=Dwarf_(mythology)&diff=prev&oldid=180219790'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[13, 14, 'R:NOUN:INFL', 'balisong', 13, 14]], 'sentence_gt': 'Guttmann Cutlery in the Philippines exported a high - quality sandwich - style balisongs marketed as the " \' \' Original Balisong \'\' " , which featured a variety of scale materials and high carbon steel blades .', 'sentence': 'Guttmann Cutlery in the Philippines exported a high - quality sandwich - style balisong marketed as the " \' \' Original Balisong \'\' " , which featured a variety of scale materials and high carbon steel blades .', 'url': 'https://en.wikipedia.org/w/index.php?title=Butterfly_knife&diff=prev&oldid=825233513'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:NOUN:INFL': 1})
+{'edits': [[1, 2, 'R:MORPH', 'Athenians', 1, 2], [3, 4, 'R:NOUN:INFL', 'Eretrians', 3, 4]], 'sentence_gt': 'The Athenian and Eretrian had succeeded in capturing and burning Sardis , but was then forced to retreat with heavy losses .', 'sentence': 'The Athenians and Eretrians had succeeded in capturing and burning Sardis , but was then forced to retreat with heavy losses .', 'url': 'https://en.wikipedia.org/w/index.php?title=Battle_of_Marathon&diff=prev&oldid=310614613'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'M:ADJ': 1})
+2.2.1: Counter({'R:NOUN:POSS': 1})
+{'edits': [[12, 13, 'R:NOUN:INFL', 'child', 12, 13], [13, 13, 'M:ADJ', '’s', 13, 14]], 'sentence_gt': "Firstly the therapist becomes ' non - verbally attuned ' with the childs affective state .", 'sentence': "Firstly the therapist becomes ' non - verbally attuned ' with the child ’s affective state .", 'url': 'https://en.wikipedia.org/w/index.php?title=Dyadic_developmental_psychotherapy&diff=prev&oldid=262445535'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[12, 13, 'R:NOUN:INFL', 'besieging', 12, 13]], 'sentence_gt': 'It was no longer meant to stand on its own against a besiegeing enemy , and instead became only one piece in a larger network of fortifications .', 'sentence': 'It was no longer meant to stand on its own against a besieging enemy , and instead became only one piece in a larger network of fortifications .', 'url': 'https://en.wikipedia.org/w/index.php?title=Boden_Fortress&diff=prev&oldid=419567927'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[4, 5, 'R:NOUN:INFL', 'ON', 4, 5]], 'sentence_gt': 'After attacks on Convoy ONS 166 , the number of VLRs in Newfoundland finally increased .', 'sentence': 'After attacks on Convoy ON 166 , the number of VLRs in Newfoundland finally increased .', 'url': 'https://en.wikipedia.org/w/index.php?title=Mid-Atlantic_gap&diff=prev&oldid=486953962'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'R:ORTH': 1})
+2.2.1: Counter({'R:MORPH': 1, 'R:ORTH': 1})
+{'edits': [[3, 4, 'R:NOUN:INFL', 'Le', 3, 4], [4, 6, 'R:ORTH', 'Chemins Invisibles', 4, 6]], 'sentence_gt': '= = = LES CHEMINS INVISIBLES = = =', 'sentence': '= = = Le Chemins Invisibles = = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Cirque_du_Soleil&diff=prev&oldid=312313431'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'R:MORPH': 1})
+2.2.1: Counter({'R:NOUN:INFL': 1, 'R:NOUN:NUM': 1})
+{'edits': [[1, 2, 'R:NOUN:INFL', 'Brussels', 1, 2], [2, 3, 'R:MORPH', 'sprout', 2, 3]], 'sentence_gt': 'The Brussel sprouts has long been popular in Brussels , Belgium , and may have originated and gained its name there .', 'sentence': 'The Brussels sprout has long been popular in Brussels , Belgium , and may have originated and gained its name there .', 'url': 'https://en.wikipedia.org/w/index.php?title=Brussels_sprout&diff=prev&oldid=768944953'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[2, 3, 'R:NOUN:INFL', 'beginning', 2, 3]], 'sentence_gt': 'During the begining credits , you see Chrystabel Leighton - Porter posing for Norman Pett for a drawing entitled " Jane in the Navy . "', 'sentence': 'During the beginning credits , you see Chrystabel Leighton - Porter posing for Norman Pett for a drawing entitled " Jane in the Navy . "', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Adventures_of_Jane&diff=prev&oldid=554213055'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[3, 4, 'R:NOUN:INFL', 'Statuses', 3, 4]], 'sentence_gt': '= = Wikipedia Statused Earned in 2014==', 'sentence': '= = Wikipedia Statuses Earned in 2014==', 'url': 'https://en.wikipedia.org/w/index.php?title=User:MaynardClark&diff=prev&oldid=673244965'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 2})
+2.2.1: Counter({'R:MORPH': 2})
+{'edits': [[8, 9, 'R:NOUN:INFL', 'liters', 8, 9], [25, 26, 'R:NOUN:INFL', 'liters', 25, 26]], 'sentence_gt': 'The World Health Organization has defined around 20 liter per capita per day as basic access , which implies high health concerns , and 100 liter per capita per day as optimal access , associated with low health concerns .', 'sentence': 'The World Health Organization has defined around 20 liters per capita per day as basic access , which implies high health concerns , and 100 liters per capita per day as optimal access , associated with low health concerns .', 'url': 'https://en.wikipedia.org/w/index.php?title=Water_supply&diff=prev&oldid=190342389'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[1, 2, 'R:NOUN:INFL', 'wavelengths', 1, 2]], 'sentence_gt': 'The wavelengthss listed are as measured in air or vacuum ( see refractive index ) .', 'sentence': 'The wavelengths listed are as measured in air or vacuum ( see refractive index ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Color&diff=prev&oldid=589849419'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[2, 3, 'R:NOUN:INFL', 'conversos', 2, 3]], 'sentence_gt': "Not all converso were accused of being ' ' Marranos '' .", 'sentence': "Not all conversos were accused of being ' ' Marranos '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Marrano&diff=prev&oldid=353738095'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:VERB:INFL': 1})
+{'edits': [[4, 5, 'R:NOUN:INFL', 'pharaohs', 4, 5]], 'sentence_gt': "Out of necessity , pharaohss delegated most of their ritual duties to a host of priests , but most of the Egyptian populace was still excluded from direct participation in ceremonies and forbidden from entering a temple 's most sacred areas .", 'sentence': "Out of necessity , pharaohs delegated most of their ritual duties to a host of priests , but most of the Egyptian populace was still excluded from direct participation in ceremonies and forbidden from entering a temple 's most sacred areas .", 'url': 'https://en.wikipedia.org/w/index.php?title=Egyptian_temple&diff=prev&oldid=416140949'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'M:PREP': 1})
+2.2.1: Counter({'R:MORPH': 1, 'M:PREP': 1})
+{'edits': [[5, 6, 'R:NOUN:INFL', 'dwarfs', 5, 6], [18, 18, 'M:PREP', 'of', 18, 19]], 'sentence_gt': 'The next morning , the dwarves head out for the diamond mine , warning Snow White to beware the evil Queen .', 'sentence': 'The next morning , the dwarfs head out for the diamond mine , warning Snow White to beware of the evil Queen .', 'url': 'https://en.wikipedia.org/w/index.php?title=Snow_White_and_the_Seven_Dwarfs_(1937_film)&diff=prev&oldid=157259304'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[4, 5, 'R:NOUN:INFL', 'canoeing', 4, 5]], 'sentence_gt': 'Typical activities there include canoing , dog walking , birdwatching and fishing .', 'sentence': 'Typical activities there include canoeing , dog walking , birdwatching and fishing .', 'url': 'https://en.wikipedia.org/w/index.php?title=Fishing_Creek_(North_Branch_Susquehanna_River_tributary)&diff=prev&oldid=618169570'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[6, 7, 'R:NOUN:INFL', 'akuma', 6, 7]], 'sentence_gt': 'He tells Allen that level 2 akumas gain new abilities .', 'sentence': 'He tells Allen that level 2 akuma gain new abilities .', 'url': 'https://en.wikipedia.org/w/index.php?title=D.Gray-man_(season_1)&diff=prev&oldid=268333886'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[15, 16, 'R:NOUN:INFL', 'Celtiberians', 15, 16]], 'sentence_gt': 'The first inhabitants to settle the site may have been the Turduli , an ancient Celtiberian tribe .', 'sentence': 'The first inhabitants to settle the site may have been the Turduli , an ancient Celtiberians tribe .', 'url': 'https://en.wikipedia.org/w/index.php?title=History_of_M%C3%A1laga&diff=prev&oldid=541091557'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[5, 6, 'R:NOUN:INFL', 'copyvio', 5, 6]], 'sentence_gt': 'Promotional unsourced article ripe with copyvios images from blocked creator .', 'sentence': 'Promotional unsourced article ripe with copyvio images from blocked creator .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Magneto_The_Mall&diff=prev&oldid=755469668'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'U:NOUN': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[14, 15, 'R:NOUN:INFL', 'Cylons', 14, 15], [15, 16, 'U:NOUN', '', 15, 15]], 'sentence_gt': 'The dialogue among Tyrol , Cally , and Tarn before they are ambushed by Cylon Centurions was improvised by the actors .', 'sentence': 'The dialogue among Tyrol , Cally , and Tarn before they are ambushed by Cylons was improvised by the actors .', 'url': 'https://en.wikipedia.org/w/index.php?title=Scattered_(Battlestar_Galactica)&diff=prev&oldid=440234704'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[4, 5, 'R:NOUN:INFL', 'programmes', 4, 5]], 'sentence_gt': 'Category : Satirical television programes', 'sentence': 'Category : Satirical television programmes', 'url': 'https://en.wikipedia.org/w/index.php?title=Dit_was_het_nieuws&diff=prev&oldid=358536093'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'U:VERB': 1})
+2.2.1: Counter({'R:MORPH': 1, 'U:NOUN': 1})
+{'edits': [[3, 4, 'R:NOUN:INFL', 'Wikipedians', 3, 4], [4, 5, 'U:VERB', '', 4, 4]], 'sentence_gt': ': Category : Wikipedian vegans', 'sentence': ': Category : Wikipedians', 'url': 'https://en.wikipedia.org/w/index.php?title=User:MaynardClark&diff=prev&oldid=634322635'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[12, 13, 'R:NOUN:INFL', 'banduras', 12, 13]], 'sentence_gt': 'Attempts have been made to combine aspects of the Kharkiv and Kyiv bandura into a unified instrument .', 'sentence': 'Attempts have been made to combine aspects of the Kharkiv and Kyiv banduras into a unified instrument .', 'url': 'https://en.wikipedia.org/w/index.php?title=Bandura&diff=prev&oldid=648369437'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1, 'M:NOUN': 1})
+2.2.1: Counter({'R:MORPH': 1, 'M:NOUN': 1})
+{'edits': [[9, 10, 'R:NOUN:INFL', 'Naga', 9, 10], [10, 10, 'M:NOUN', 'people', 10, 11]], 'sentence_gt': 'Soma , the daughter of the king of the Nagas , married Kaundinya and their lineage became the royal dynasty of Funan .', 'sentence': 'Soma , the daughter of the king of the Naga people , married Kaundinya and their lineage became the royal dynasty of Funan .', 'url': 'https://en.wikipedia.org/w/index.php?title=Funan&diff=prev&oldid=88332165'}
+===================================================
+1.9.0: Counter({'R:VERB:FORM': 1, 'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1, 'R:NOUN:INFL': 1})
+{'edits': [[2, 3, 'R:VERB:FORM', 'detailed', 2, 3], [27, 28, 'R:NOUN:INFL', 'encounters', 27, 28]], 'sentence_gt': 'The book details options for character creation , handling Alignment ( Dungeons & Dragons ) , new money and equipment rules , treasure and magical items , encounteres , time and movement , and handling non - player characters .', 'sentence': 'The book detailed options for character creation , handling Alignment ( Dungeons & Dragons ) , new money and equipment rules , treasure and magical items , encounters , time and movement , and handling non - player characters .', 'url': 'https://en.wikipedia.org/w/index.php?title=Dungeon_Master%27s_Guide&diff=prev&oldid=410308592'}
+===================================================
+1.9.0: Counter({'R:NOUN:INFL': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[16, 17, 'R:NOUN:INFL', 'eggs', 16, 17]], 'sentence_gt': 'Around this time , the Nozas started to genocide kill all humans in order to lay eggss and reproduce on the planet .', 'sentence': 'Around this time , the Nozas started to genocide kill all humans in order to lay eggs and reproduce on the planet .', 'url': 'https://en.wikipedia.org/w/index.php?title=Zillion_(TV_series)&diff=prev&oldid=47769586'}
+===================================================

@@ -1,0 +1,184 @@
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'R:VERB:SVA': 2, 'U:VERB:TENSE': 1})
+{'edits': [[13, 15, 'R:VERB:TENSE', 'measures', 13, 14], [22, 23, 'R:VERB:SVA', 'adjusts', 21, 22]], 'sentence_gt': "Color matching software , such as Apple 's ColorSync for Mac OS , will measure a monitor 's color temperature and then adjust its settings accordingly .", 'sentence': "Color matching software , such as Apple 's ColorSync for Mac OS , measures a monitor 's color temperature and then adjusts its settings accordingly .", 'url': 'https://en.wikipedia.org/w/index.php?title=Color_temperature&diff=prev&oldid=776830435'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:SVA', 'Links', 3, 4]], 'sentence_gt': '= = External link = =', 'sentence': '= = External Links = =', 'url': 'https://en.wikipedia.org/w/index.php?title=PHP-FPM&diff=prev&oldid=385272698'}
+===================================================
+1.9.0: Counter({'U:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:VERB:TENSE': 1})
+{'edits': [[2, 3, 'U:VERB:TENSE', '', 2, 2], [4, 5, 'R:VERB:SVA', 'transmits', 3, 4]], 'sentence_gt': 'The CMU would then transmit the message to the ground .', 'sentence': 'The CMU then transmits the message to the ground .', 'url': 'https://en.wikipedia.org/w/index.php?title=ACARS&diff=prev&oldid=536015192'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[15, 16, 'R:VERB:SVA', 'elaborate', 15, 16]], 'sentence_gt': '" The Name of the Doctor " and " The Day of the Doctor " elaborates that the Doctor chose the name as a promise for the sort of man he wants to be : " Never cruel or cowardly .', 'sentence': '" The Name of the Doctor " and " The Day of the Doctor " elaborate that the Doctor chose the name as a promise for the sort of man he wants to be : " Never cruel or cowardly .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Doctor_(Doctor_Who)&diff=prev&oldid=747523581'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[1, 2, 'R:VERB:SVA', 'scales', 1, 2]], 'sentence_gt': 'Snake scale', 'sentence': 'Snake scales', 'url': 'https://en.wikipedia.org/w/index.php?title=Labial_scale&diff=prev&oldid=70775853'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[0, 1, 'R:VERB:SVA', 'identify', 0, 1]], 'sentence_gt': 'identifies six " senses " as opposed to the Western identification of five .', 'sentence': 'identify six " senses " as opposed to the Western identification of five .', 'url': 'https://en.wikipedia.org/w/index.php?title=Ayatana&diff=prev&oldid=442807208'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[6, 7, 'R:VERB:SVA', 'have', 6, 7]], 'sentence_gt': "If it ' ' does '' has one , then it wo n't be categorized , much less if it has too many .", 'sentence': "If it ' ' does '' have one , then it wo n't be categorized , much less if it has too many .", 'url': 'https://en.wikipedia.org/w/index.php?title=Template_talk:Infobox_song&diff=prev&oldid=187498028'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:VERB:FORM': 1})
+{'edits': [[16, 17, 'R:VERB:SVA', 'apply', 16, 17]], 'sentence_gt': 'It may well be that this editor has been editing poorly and BLPCOI does not even applies .', 'sentence': 'It may well be that this editor has been editing poorly and BLPCOI does not even apply .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Arbitration/Requests/Case&diff=prev&oldid=843964003'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[11, 12, 'R:VERB:SVA', 'attacks', 11, 12]], 'sentence_gt': "Matawan 's location made it an unlikely site for a shark attack and when Thomas Cottrell , a sea captain and Matawan resident , spotted an 8-foot - long ( 2.5&nbsp;m ) shark in the creek the town dismissed him .", 'sentence': "Matawan 's location made it an unlikely site for a shark attacks and when Thomas Cottrell , a sea captain and Matawan resident , spotted an 8-foot - long ( 2.5&nbsp;m ) shark in the creek the town dismissed him .", 'url': 'https://en.wikipedia.org/w/index.php?title=Jersey_Shore_shark_attacks_of_1916&diff=prev&oldid=148668918'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'U:DET': 1, 'R:NOUN:NUM': 1})
+{'edits': [[0, 1, 'U:DET', '', 0, 0], [5, 6, 'R:VERB:SVA', 'shields', 4, 5]], 'sentence_gt': "The ' ' ' Chin shield ' '' on a snake are scales found on the underside of the snake 's head towards the anterior and touching the lower labial scales .", 'sentence': "' ' ' Chin shields ' '' on a snake are scales found on the underside of the snake 's head towards the anterior and touching the lower labial scales .", 'url': 'https://en.wikipedia.org/w/index.php?title=Chin_shields&diff=prev&oldid=79346724'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'U:DET': 1, 'R:NOUN:NUM': 1})
+{'edits': [[6, 7, 'U:DET', '', 6, 6], [11, 12, 'R:VERB:SVA', 'caters', 10, 11]], 'sentence_gt': 'The club is a member of the Derry GAA and currently cater for Gaelic football and Camogie .', 'sentence': 'The club is a member of Derry GAA and currently caters for Gaelic football and Camogie .', 'url': 'https://en.wikipedia.org/w/index.php?title=Glack_GAC&diff=prev&oldid=520320666'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[19, 20, 'R:VERB:SVA', 'certify', 19, 20]], 'sentence_gt': 'After the sentence is carried out , a doctor from the prison , along with other prison officials , certifies that the execution has been carried out , and a death certificate is prepared .', 'sentence': 'After the sentence is carried out , a doctor from the prison , along with other prison officials , certify that the execution has been carried out , and a death certificate is prepared .', 'url': 'https://en.wikipedia.org/w/index.php?title=Capital_punishment_in_Belarus&diff=prev&oldid=172438564'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:SVA', 'states', 3, 4]], 'sentence_gt': 'The diagnostic criteria state that symptoms must become apparent before a child is three years old .', 'sentence': 'The diagnostic criteria states that symptoms must become apparent before a child is three years old .', 'url': 'https://en.wikipedia.org/w/index.php?title=Autism&diff=prev&oldid=488281689'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[11, 12, 'R:VERB:SVA', 'share', 11, 12]], 'sentence_gt': "' ' ' Giving ' '' : Those with this gift shares their own possessions with others with extraordinary generosity .", 'sentence': "' ' ' Giving ' '' : Those with this gift share their own possessions with others with extraordinary generosity .", 'url': 'https://en.wikipedia.org/w/index.php?title=Spiritual_gift&diff=prev&oldid=435590988'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:SVA', 'sciences', 3, 4]], 'sentence_gt': 'Category : Atmospheric science', 'sentence': 'Category : Atmospheric sciences', 'url': 'https://en.wikipedia.org/w/index.php?title=Significant_Weather_Observing_Program&diff=prev&oldid=565076569'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'R:ORTH': 1, 'R:NOUN:NUM': 1})
+{'edits': [[21, 22, 'R:ORTH', 'articles', 21, 22], [26, 27, 'R:VERB:SVA', 'drives', 26, 27]], 'sentence_gt': "' ' ' Request ' '' : Review 5 or more Good Articles , tracking progress at Wikipedia : WikiProject Good Articles / GAN backlog elimination drive / Spring 2009 .", 'sentence': "' ' ' Request ' '' : Review 5 or more Good Articles , tracking progress at Wikipedia : WikiProject Good articles / GAN backlog elimination drives / Spring 2009 .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Reward_board&diff=prev&oldid=269549373'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'R:ORTH': 1, 'R:NOUN:NUM': 1})
+{'edits': [[19, 20, 'R:ORTH', 'opening', 19, 20], [20, 21, 'R:VERB:SVA', 'acts', 20, 21]], 'sentence_gt': 'Bryan Adams , The Law ( band ) , Thunder ( band ) , and Little Angels were the Opening act for the show on July 6 , 1991 .', 'sentence': 'Bryan Adams , The Law ( band ) , Thunder ( band ) , and Little Angels were the opening acts for the show on July 6 , 1991 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Recycler_Tour&diff=prev&oldid=368535552'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[8, 9, 'R:VERB:SVA', 'represent', 8, 9]], 'sentence_gt': 'The upper lotus parasol and the crescent moon represents air', 'sentence': 'The upper lotus parasol and the crescent moon represent air', 'url': 'https://en.wikipedia.org/w/index.php?title=Stupa&diff=prev&oldid=754569298'}
+===================================================
+1.9.0: Counter({'R:NOUN:NUM': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:VERB:SVA': 1})
+{'edits': [[1, 2, 'R:NOUN:NUM', 'throughs', 1, 2], [2, 3, 'R:VERB:SVA', 'are', 2, 3]], 'sentence_gt': 'Strike through is not meant in disrespect , only to move the general discussion — I am separating and duplicating content so as to separate the specific from the general discussion .', 'sentence': 'Strike throughs are not meant in disrespect , only to move the general discussion — I am separating and duplicating content so as to separate the specific from the general discussion .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Plagiarism&diff=prev&oldid=686257163'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:MORPH': 1})
+{'edits': [[18, 18, 'M:PUNCT', '-', 18, 19], [21, 22, 'R:VERB:SVA', 'mimic', 22, 23]], 'sentence_gt': 'Ogwehoweh Skills and Trades Training Centre located at 16 Sunrise Court is a complex consisting of three two storey buildings that mimics longhouses .', 'sentence': 'Ogwehoweh Skills and Trades Training Centre located at 16 Sunrise Court is a complex consisting of three two - storey buildings that mimic longhouses .', 'url': 'https://en.wikipedia.org/w/index.php?title=Six_Nations_Polytechnic&diff=prev&oldid=857273529'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[23, 24, 'R:VERB:SVA', 'lives', 23, 24]], 'sentence_gt': 'He details that beneath the first lives Hel ( being ) , under the second live frost jötnar , and beneath the third live mankind .', 'sentence': 'He details that beneath the first lives Hel ( being ) , under the second live frost jötnar , and beneath the third lives mankind .', 'url': 'https://en.wikipedia.org/w/index.php?title=Yggdrasil&diff=prev&oldid=325238030'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[10, 11, 'R:VERB:SVA', 'darken', 10, 11]], 'sentence_gt': 'As soot , smoke and other industrial pollutants from factories darkens the landscape and because many organisms rely on camouflage to avoid predation , this sudden change in their environment makes them highly vulnerable to predators .', 'sentence': 'As soot , smoke and other industrial pollutants from factories darken the landscape and because many organisms rely on camouflage to avoid predation , this sudden change in their environment makes them highly vulnerable to predators .', 'url': 'https://en.wikipedia.org/w/index.php?title=Melanism&diff=prev&oldid=317149050'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'R:VERB:SVA': 2, 'U:VERB:TENSE': 1})
+{'edits': [[20, 22, 'R:VERB:TENSE', 'begins', 20, 21], [27, 28, 'R:VERB:SVA', 'loses', 26, 27]], 'sentence_gt': "However , as soon as a constructed language ' ' does '' have a number of native speakers , it will begin to evolve , and thereby lose its constructed status over time .", 'sentence': "However , as soon as a constructed language ' ' does '' have a number of native speakers , it begins to evolve , and thereby loses its constructed status over time .", 'url': 'https://en.wikipedia.org/w/index.php?title=Constructed_language&diff=prev&oldid=22230139'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[4, 5, 'R:VERB:SVA', 'hike', 4, 5]], 'sentence_gt': 'The von Trapp family hikes over the Alps into Switzerland and to freedom .', 'sentence': 'The von Trapp family hike over the Alps into Switzerland and to freedom .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Sound_of_Music_(film)&diff=prev&oldid=587456305'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[29, 30, 'R:VERB:SVA', 'cause', 29, 30]], 'sentence_gt': 'They hunt out the game , and the clearing destroys the berries , tubers , and honey that the Hadza rely on , and watering holes for their cattle causes the shallow watering holes the Hadza rely on to dry up.', 'sentence': 'They hunt out the game , and the clearing destroys the berries , tubers , and honey that the Hadza rely on , and watering holes for their cattle cause the shallow watering holes the Hadza rely on to dry up.', 'url': 'https://en.wikipedia.org/w/index.php?title=Hadza_people&diff=prev&oldid=538170148'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:VERB:SVA': 1})
+{'edits': [[27, 28, 'R:PRON', 'one', 27, 28], [28, 29, 'R:VERB:SVA', 'is', 28, 29]], 'sentence_gt': "A ' ' ' lucid dream ' '' is any dream in which one , for an uninterrupted and prolonged amount of time , is aware that they are dreaming .", 'sentence': "A ' ' ' lucid dream ' '' is any dream in which one , for an uninterrupted and prolonged amount of time , is aware that one is dreaming .", 'url': 'https://en.wikipedia.org/w/index.php?title=Lucid_dream&diff=prev&oldid=582899352'}
+===================================================
+1.9.0: Counter({'R:WO': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'R:WO': 1, 'R:MORPH': 1})
+{'edits': [[1, 3, 'R:WO', 'fight rules', 1, 3], [3, 4, 'R:VERB:SVA', 'correspond', 3, 4]], 'sentence_gt': "WNA rules fight corresponds to the ' ' kumite '' subsection of Nunchaku - do discipline.", 'sentence': "WNA fight rules correspond to the ' ' kumite '' subsection of Nunchaku - do discipline.", 'url': 'https://en.wikipedia.org/w/index.php?title=Nunchaku&diff=prev&oldid=591522075'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[12, 13, 'R:VERB:SVA', 'command', 12, 13]], 'sentence_gt': 'These are two main passages of the New Testament from God that commands everyone who believes in Christ to preach the gospel .', 'sentence': 'These are two main passages of the New Testament from God that command everyone who believes in Christ to preach the gospel .', 'url': 'https://en.wikipedia.org/w/index.php?title=Evangelism&diff=prev&oldid=347502621'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[7, 8, 'R:VERB:SVA', 'is', 7, 8]], 'sentence_gt': 'Quoting from the body : " Craig i best known for his resuscitation of a version of the cosmological argument . "', 'sentence': 'Quoting from the body : " Craig is best known for his resuscitation of a version of the cosmological argument . "', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:William_Lane_Craig&diff=prev&oldid=673726283'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[1, 2, 'R:VERB:SVA', 'reunites', 1, 2]], 'sentence_gt': 'It reunite the two major French centrists political parties : the Union of Democrats and Independents and the Democratic Movement ( France ) .', 'sentence': 'It reunites the two major French centrists political parties : the Union of Democrats and Independents and the Democratic Movement ( France ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Alternative_(France)&diff=prev&oldid=615485617'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[1, 2, 'R:VERB:SVA', 'yells', 1, 2]], 'sentence_gt': 'Momoko yell this spell of love while holding the Saint Miroir in her hand .', 'sentence': 'Momoko yells this spell of love while holding the Saint Miroir in her hand .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wedding_Peach_(character)&diff=prev&oldid=317067935'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[3, 4, 'R:VERB:SVA', 'adjutants', 3, 4]], 'sentence_gt': '= = State adjutant general = =', 'sentence': '= = State adjutants general = =', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:SBaker43&diff=prev&oldid=527357289'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 2})
+2.2.1: Counter({'R:VERB:SVA': 1, 'R:MORPH': 1})
+{'edits': [[9, 10, 'R:VERB:SVA', 'were', 9, 10], [12, 13, 'R:VERB:SVA', 'rest', 12, 13]], 'sentence_gt': 'Chiang Kai - shek and Chiang Ching - kuo was embalmed and rests at Cihu Mausoleum and Touliao Mausoleum in Daxi District , Taoyuan City , Taiwan .', 'sentence': 'Chiang Kai - shek and Chiang Ching - kuo were embalmed and rest at Cihu Mausoleum and Touliao Mausoleum in Daxi District , Taoyuan City , Taiwan .', 'url': 'https://en.wikipedia.org/w/index.php?title=Embalming&diff=prev&oldid=736601373'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'R:ORTH': 1, 'R:NOUN:NUM': 1})
+{'edits': [[25, 26, 'R:ORTH', 'pit', 25, 26], [26, 27, 'R:VERB:SVA', 'stops', 26, 27]], 'sentence_gt': 'He held the lead for the first lap , and maintained it for the first 18 laps of the race until the first round of Pit stop .', 'sentence': 'He held the lead for the first lap , and maintained it for the first 18 laps of the race until the first round of pit stops .', 'url': 'https://en.wikipedia.org/w/index.php?title=2006_Daytona_500&diff=prev&oldid=899434400'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:VERB:TENSE': 1})
+{'edits': [[10, 11, 'R:VERB:SVA', 'darkens', 10, 11]], 'sentence_gt': 'As soot , smoke and other industrial pollutants from factories darken the landscape and because many organisms rely on camouflage to avoid predation , this sudden change in their environment makes them highly vulnerable to predators .', 'sentence': 'As soot , smoke and other industrial pollutants from factories darkens the landscape and because many organisms rely on camouflage to avoid predation , this sudden change in their environment makes them highly vulnerable to predators .', 'url': 'https://en.wikipedia.org/w/index.php?title=Melanism&diff=prev&oldid=317148468'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[1, 2, 'R:VERB:SVA', 'removes', 1, 2]], 'sentence_gt': "DrilBot remove ' ' ' duplicate categories ' '' .", 'sentence': "DrilBot removes ' ' ' duplicate categories ' '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:DrilBot/Summaries&diff=prev&oldid=292880073'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:MORPH': 1})
+{'edits': [[4, 4, 'M:PUNCT', ',', 4, 5], [8, 9, 'R:VERB:SVA', 'exploit', 9, 10]], 'sentence_gt': 'With this in mind Merkle tree hash structures exploits full potential of such hardware while being appropriate for current uni / dual core architectures .', 'sentence': 'With this in mind , Merkle tree hash structures exploit full potential of such hardware while being appropriate for current uni / dual core architectures .', 'url': 'https://en.wikipedia.org/w/index.php?title=MD6&diff=prev&oldid=285999609'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[1, 2, 'R:VERB:SVA', 'scales', 1, 2]], 'sentence_gt': 'Snake scale', 'sentence': 'Snake scales', 'url': 'https://en.wikipedia.org/w/index.php?title=Nasal_scale&diff=prev&oldid=70775474'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[5, 6, 'R:VERB:SVA', 'runs', 5, 6]], 'sentence_gt': 'Studies have shown that SCSFLS run in families .', 'sentence': 'Studies have shown that SCSFLS runs in families .', 'url': 'https://en.wikipedia.org/w/index.php?title=Spontaneous_cerebrospinal_fluid_leak&diff=prev&oldid=334687412'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:MORPH': 1})
+{'edits': [[16, 17, 'R:VERB:SVA', 'discover', 16, 17]], 'sentence_gt': 'After Carlos is released from prison , he and Gabrielle try for another baby , but discovers she can not get pregnant because of the injuries she suffered when she miscarried .', 'sentence': 'After Carlos is released from prison , he and Gabrielle try for another baby , but discover she can not get pregnant because of the injuries she suffered when she miscarried .', 'url': 'https://en.wikipedia.org/w/index.php?title=Gabrielle_Solis&diff=prev&oldid=307833527'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'U:VERB:TENSE': 1, 'R:MORPH': 1, 'R:VERB:SVA': 1})
+{'edits': [[4, 6, 'R:VERB:TENSE', 'returns', 4, 5], [9, 10, 'R:VERB:SVA', 'becomes', 8, 9]], 'sentence_gt': 'Years later , Obinze has returned to Nigeria and become a wealthy man as a property developer in the newly democratic country .', 'sentence': 'Years later , Obinze returns to Nigeria and becomes a wealthy man as a property developer in the newly democratic country .', 'url': 'https://en.wikipedia.org/w/index.php?title=Americanah&diff=prev&oldid=732413028'}
+===================================================
+1.9.0: Counter({'M:CONJ': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'M:CONJ': 1, 'R:NOUN:NUM': 1})
+{'edits': [[27, 27, 'M:CONJ', 'and', 27, 28], [29, 30, 'R:VERB:SVA', 'worsens', 30, 31]], 'sentence_gt': "It would not surprise me , given the extensive pro - COI sentiment , if a rule is enacted that is weakened from what you 've drafted ' ' worsen '' the current situation .", 'sentence': "It would not surprise me , given the extensive pro - COI sentiment , if a rule is enacted that is weakened from what you 've drafted and ' ' worsens '' the current situation .", 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Coretheapple&diff=prev&oldid=577165330'}
+===================================================
+1.9.0: Counter({'M:PREP': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'M:ADV': 1, 'R:VERB:SVA': 1})
+{'edits': [[11, 11, 'M:PREP', 'about', 11, 12], [13, 14, 'R:VERB:SVA', 'die', 14, 15]], 'sentence_gt': 'More than 13&nbsp;million births worldwide each year face serious complications and 260,000 women dies each year during childbirth .', 'sentence': 'More than 13&nbsp;million births worldwide each year face serious complications and about 260,000 women die each year during childbirth .', 'url': 'https://en.wikipedia.org/w/index.php?title=Odon_device&diff=prev&oldid=582549044'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1, 'R:NOUN': 1})
+2.2.1: Counter({'R:VERB:SVA': 1, 'R:OTHER': 1})
+{'edits': [[8, 9, 'R:VERB:SVA', 'is', 8, 9], [10, 11, 'R:NOUN', 'folk rock', 10, 12]], 'sentence_gt': "' ' ' Mumford & Sons ' '' are a crap band .", 'sentence': "' ' ' Mumford & Sons ' '' is a folk rock band .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mumford_%26_Sons&diff=prev&oldid=386749726'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 2})
+2.2.1: Counter({'R:VERB:SVA': 1, 'R:MORPH': 1})
+{'edits': [[9, 10, 'R:VERB:SVA', 'were', 9, 10], [12, 13, 'R:VERB:SVA', 'rest', 12, 13]], 'sentence_gt': 'Chiang Kai - shek and Chiang Ching - kuo was embalmed and rests at Cihu Mausoleum and Touliao Mausoleum in Daxi District , Taoyuan City , Taiwan .', 'sentence': 'Chiang Kai - shek and Chiang Ching - kuo were embalmed and rest at Cihu Mausoleum and Touliao Mausoleum in Daxi District , Taoyuan City , Taiwan .', 'url': 'https://en.wikipedia.org/w/index.php?title=Embalming&diff=prev&oldid=736601373'}
+===================================================
+1.9.0: Counter({'R:VERB:SVA': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1})
+{'edits': [[8, 9, 'R:VERB:SVA', 'points', 8, 9]], 'sentence_gt': 'Hi ; I redirected the page to Action point because we already have an article on AP .', 'sentence': 'Hi ; I redirected the page to Action points because we already have an article on AP .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:TheYellowShark&diff=prev&oldid=113227621'}
+===================================================

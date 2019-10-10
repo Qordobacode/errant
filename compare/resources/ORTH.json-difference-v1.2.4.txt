@@ -1,0 +1,116 @@
+1.9.0: Counter({'U:NOUN': 1, 'R:ORTH': 1})
+2.2.1: Counter({'U:VERB': 1, 'R:ORTH': 1})
+{'edits': [[2, 3, 'U:NOUN', '', 2, 2], [3, 4, 'R:ORTH', 'Features = =', 2, 5]], 'sentence_gt': '= = CDMA features==', 'sentence': '= = Features = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Code-division_multiple_access&diff=prev&oldid=146703863'}
+===================================================
+1.9.0: Counter({'R:ORTH': 2})
+2.2.1: Counter()
+{'edits': [[8, 9, 'R:ORTH', 'language : مومنپور٥', 8, 11], [11, 12, 'R:ORTH', 'language : मोमिनपूरा', 13, 16]], 'sentence_gt': "' ' ' Mominpura ' '' ( Urdu language:مومنپور٥ , Marathi language:मोमिनपूरा ) is a locality in city of Nagpur in Maharashtra , India .", 'sentence': "' ' ' Mominpura ' '' ( Urdu language : مومنپور٥ , Marathi language : मोमिनपूरा ) is a locality in city of Nagpur in Maharashtra , India .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mominpura,_Nagpur&diff=prev&oldid=808205260'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'M:PUNCT': 1})
+{'edits': [[44, 45, 'R:ORTH', 'normal .', 44, 46], [45, 45, 'M:PUNCT', '"', 46, 47]], 'sentence_gt': "Later on , both Damia and Tarimu 's lower halves become imprisoned in stone when they try to pay back Halcyform for his wrongs , and , to their dismay , they are left to find their own way of turning themselves back to normal.", 'sentence': 'Later on , both Damia and Tarimu \'s lower halves become imprisoned in stone when they try to pay back Halcyform for his wrongs , and , to their dismay , they are left to find their own way of turning themselves back to normal . "', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Slayers_characters&diff=prev&oldid=591345724'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[25, 27, 'R:ORTH', 'design.', 25, 26]], 'sentence_gt': 'The Ayyappa Temple located in R pocket was built by sculptors and carpenters who were flown - in from Kerala and trained in Vedic temple design .', 'sentence': 'The Ayyappa Temple located in R pocket was built by sculptors and carpenters who were flown - in from Kerala and trained in Vedic temple design.', 'url': 'https://en.wikipedia.org/w/index.php?title=Dilshad_Garden&diff=prev&oldid=685929620'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[13, 15, 'R:ORTH', 'workshop.', 13, 14]], 'sentence_gt': 'In his spare time , Kapranos enjoys crafting abstract furniture in his carpentry workshop .', 'sentence': 'In his spare time , Kapranos enjoys crafting abstract furniture in his carpentry workshop.', 'url': 'https://en.wikipedia.org/w/index.php?title=Alex_Kapranos&diff=prev&oldid=853057147'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[13, 15, 'R:ORTH', 'pepper.', 13, 14]], 'sentence_gt': 'It is generally accompanied with one or more chutneys and a green chilli pepper .', 'sentence': 'It is generally accompanied with one or more chutneys and a green chilli pepper.', 'url': 'https://en.wikipedia.org/w/index.php?title=Vada_pav&diff=prev&oldid=802612718'}
+===================================================
+1.9.0: Counter({'U:VERB': 1, 'R:ORTH': 1})
+2.2.1: Counter({'U:ADJ': 1, 'R:ORTH': 1})
+{'edits': [[21, 22, 'U:VERB', '', 21, 21], [23, 24, 'R:ORTH', 'romance', 22, 23]], 'sentence_gt': "' ' ' ' ' Phir Se ' '' '' ( English : ' ' Once Again '' ) is an upcoming Indian Romance film directed by Kunal Kohli and Ajay Bhuyan .", 'sentence': "' ' ' ' ' Phir Se ' '' '' ( English : ' ' Once Again '' ) is an Indian romance film directed by Kunal Kohli and Ajay Bhuyan .", 'url': 'https://en.wikipedia.org/w/index.php?title=Phir_Se...&diff=prev&oldid=698533743'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[13, 15, 'R:ORTH', 'Chairman.', 13, 14]], 'sentence_gt': 'In August 2012 EuroMillions lottery winner Les Scadding succeeded Chris Blight as club Chairman .', 'sentence': 'In August 2012 EuroMillions lottery winner Les Scadding succeeded Chris Blight as club Chairman.', 'url': 'https://en.wikipedia.org/w/index.php?title=Newport_County_A.F.C.&diff=prev&oldid=600616359'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[30, 31, 'R:ORTH', 'sides .', 30, 32]], 'sentence_gt': "The slogans ' ' Liberty or Death '' and ' ' The Land to the Peasants , the Factories to the Workers '' were embroidered in silver on its two sides.", 'sentence': "The slogans ' ' Liberty or Death '' and ' ' The Land to the Peasants , the Factories to the Workers '' were embroidered in silver on its two sides .", 'url': 'https://en.wikipedia.org/w/index.php?title=Revolutionary_Insurrectionary_Army_of_Ukraine&diff=prev&oldid=280936053'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[22, 23, 'R:ORTH', 'Jalisco .', 22, 24]], 'sentence_gt': 'Recent genetic evidence suggests that maize domestication occurred 9000 years ago in central Mexico , perhaps in the highlands between Oaxaca and Jalisco.', 'sentence': 'Recent genetic evidence suggests that maize domestication occurred 9000 years ago in central Mexico , perhaps in the highlands between Oaxaca and Jalisco .', 'url': 'https://en.wikipedia.org/w/index.php?title=Maize&diff=prev&oldid=72347608'}
+===================================================
+1.9.0: Counter({'U:NOUN': 1, 'R:ORTH': 1})
+2.2.1: Counter({'U:ADJ': 1})
+{'edits': [[5, 6, 'U:NOUN', '', 5, 5], [6, 7, 'R:ORTH', 'ghazal', 5, 6]], 'sentence_gt': "Ghulam Ali khan , a veteran Ghazal singer , has reportedly acted in ' ' 498A : The Wedding Gift '' as well.", 'sentence': "Ghulam Ali khan , a ghazal singer , has reportedly acted in ' ' 498A : The Wedding Gift '' as well.", 'url': 'https://en.wikipedia.org/w/index.php?title=498A:_The_Wedding_Gift&diff=prev&oldid=697562331'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[16, 18, 'R:ORTH', '1965.', 16, 17]], 'sentence_gt': 'Sholayar Dam is built in ss , Sholayar Flanking in 1964 and Sholayar Saddle Dam in 1965 .', 'sentence': 'Sholayar Dam is built in ss , Sholayar Flanking in 1964 and Sholayar Saddle Dam in 1965.', 'url': 'https://en.wikipedia.org/w/index.php?title=Solaiyar_Dam&diff=prev&oldid=803539533'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[20, 22, 'R:ORTH', 'Kalyan.', 20, 21]], 'sentence_gt': "One of the earliest kiosks selling Vada Pav is said to be ' ' Khidki Vada Pav '' located in Kalyan .", 'sentence': "One of the earliest kiosks selling Vada Pav is said to be ' ' Khidki Vada Pav '' located in Kalyan.", 'url': 'https://en.wikipedia.org/w/index.php?title=Vada_pav&diff=prev&oldid=803536635'}
+===================================================
+1.9.0: Counter({'M:DET': 1, 'R:ORTH': 1})
+2.2.1: Counter({'M:DET': 1})
+{'edits': [[11, 11, 'M:DET', 'the', 11, 12], [11, 13, 'R:ORTH', 'UK.', 12, 13]], 'sentence_gt': 'Karbonn is the first Android One phone to be sold in UK .', 'sentence': 'Karbonn is the first Android One phone to be sold in the UK.', 'url': 'https://en.wikipedia.org/w/index.php?title=Karbonn_Mobiles&diff=prev&oldid=802595150'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[20, 22, 'R:ORTH', 'Twitter.', 20, 21]], 'sentence_gt': 'Some operators use USSD to provide access to real - time updates from social - networking websites like Facebook and Twitter .', 'sentence': 'Some operators use USSD to provide access to real - time updates from social - networking websites like Facebook and Twitter.', 'url': 'https://en.wikipedia.org/w/index.php?title=Unstructured_Supplementary_Service_Data&diff=prev&oldid=809786995'}
+===================================================
+1.9.0: Counter({'U:DET': 1, 'R:ORTH': 1})
+2.2.1: Counter({'U:DET': 1})
+{'edits': [[3, 4, 'U:DET', '', 3, 3], [4, 5, 'R:ORTH', 'the', 3, 4]], 'sentence_gt': "In May 2018 the The University of Thessaly in Vangelis ' home town of Volos awarded him an Honorary Doctorate degree in Electrical and Computer Engineering .", 'sentence': "In May 2018 the University of Thessaly in Vangelis ' home town of Volos awarded him an Honorary Doctorate degree in Electrical and Computer Engineering .", 'url': 'https://en.wikipedia.org/w/index.php?title=Vangelis&diff=prev&oldid=842734591'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:ORTH': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:ORTH': 1})
+{'edits': [[28, 29, 'R:NOUN', '1980s', 28, 29], [30, 31, 'R:ORTH', 'early', 30, 31]], 'sentence_gt': "In a case of life limitating art , when a series of original novels based upon ' ' Murder , She Wrote '' was published in the late 1980's / Early 1990s , these books were credited to Jessica Fletcher .", 'sentence': "In a case of life limitating art , when a series of original novels based upon ' ' Murder , She Wrote '' was published in the late 1980s / early 1990s , these books were credited to Jessica Fletcher .", 'url': 'https://en.wikipedia.org/w/index.php?title=Jessica_Fletcher&diff=prev&oldid=26467155'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[25, 27, 'R:ORTH', 'Muslims.', 25, 26]], 'sentence_gt': 'The area is quite densely populated with a mix of people from all income groups , castes and religions including Hindus , Christians , and Muslims .', 'sentence': 'The area is quite densely populated with a mix of people from all income groups , castes and religions including Hindus , Christians , and Muslims.', 'url': 'https://en.wikipedia.org/w/index.php?title=Dilshad_Garden&diff=prev&oldid=685928494'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[22, 24, 'R:ORTH', 'well.', 22, 23]], 'sentence_gt': "Ghulam Ali khan , a veteran Ghazal singer , has reportedly acted in ' ' 498A : The Wedding Gift '' as well .", 'sentence': "Ghulam Ali khan , a veteran Ghazal singer , has reportedly acted in ' ' 498A : The Wedding Gift '' as well.", 'url': 'https://en.wikipedia.org/w/index.php?title=498A:_The_Wedding_Gift&diff=prev&oldid=697505596'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[37, 39, 'R:ORTH', 'Vietnam.', 37, 38]], 'sentence_gt': 'In 1959 , again recalling his Asian military experience , Hedrick painted " Anger " ( or " Madame Nhu ’s Bar - B - Q " ) , the first artistic denunciation of American policy in Vietnam .', 'sentence': 'In 1959 , again recalling his Asian military experience , Hedrick painted " Anger " ( or " Madame Nhu ’s Bar - B - Q " ) , the first artistic denunciation of American policy in Vietnam.', 'url': 'https://en.wikipedia.org/w/index.php?title=Wally_Hedrick&diff=prev&oldid=821414183'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[21, 23, 'R:ORTH', 'ones.', 21, 22]], 'sentence_gt': 'They feared they might even accelerate their settlement program in the long run , by building more settlements and expanding existing ones .', 'sentence': 'They feared they might even accelerate their settlement program in the long run , by building more settlements and expanding existing ones.', 'url': 'https://en.wikipedia.org/w/index.php?title=Oslo_I_Accord&diff=prev&oldid=274033891'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1, 'U:PUNCT': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[12, 14, 'R:ORTH', 'terrorism.', 12, 13], [14, 15, 'U:PUNCT', '', 13, 13]], 'sentence_gt': 'And tragically , more ordinary citizens are likely to die from transnational terrorism . "', 'sentence': 'And tragically , more ordinary citizens are likely to die from transnational terrorism.', 'url': 'https://en.wikipedia.org/w/index.php?title=Intelligence_cycle_management&diff=prev&oldid=571604400'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[21, 23, 'R:ORTH', 'updates.', 21, 22]], 'sentence_gt': 'Only if desired , the indexing task can run as a file - system monitoring daemon for real - time index updates .', 'sentence': 'Only if desired , the indexing task can run as a file - system monitoring daemon for real - time index updates.', 'url': 'https://en.wikipedia.org/w/index.php?title=Recoll&diff=prev&oldid=364775253'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[21, 23, 'R:ORTH', 'Campaign.', 21, 22]], 'sentence_gt': 'Zapatista action continues now with the implementation of the Sixth Declaration of the Lacandon Jungle and the launching of The Other Campaign .', 'sentence': 'Zapatista action continues now with the implementation of the Sixth Declaration of the Lacandon Jungle and the launching of The Other Campaign.', 'url': 'https://en.wikipedia.org/w/index.php?title=Chiapas&diff=prev&oldid=285133124'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[19, 20, 'R:ORTH', 'act .', 19, 21]], 'sentence_gt': 'Possession holds a special place in that it has been criminalized but under common law does not constitute an act.', 'sentence': 'Possession holds a special place in that it has been criminalized but under common law does not constitute an act .', 'url': 'https://en.wikipedia.org/w/index.php?title=Actus_reus&diff=prev&oldid=355061163'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[26, 28, 'R:ORTH', 'Boulogne.', 26, 27]], 'sentence_gt': 'After his playing career , he became a coach with Toulouse FC ( 1937 ) , FC Nancy , LB Châteauroux , FC Mulhouse and US Boulogne .', 'sentence': 'After his playing career , he became a coach with Toulouse FC ( 1937 ) , FC Nancy , LB Châteauroux , FC Mulhouse and US Boulogne.', 'url': 'https://en.wikipedia.org/w/index.php?title=L%C3%A9on_Deladerri%C3%A8re&diff=prev&oldid=679969848'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[11, 12, 'R:ORTH', 'rate .', 11, 13]], 'sentence_gt': 'Also , most ARMs limit the amount of change in a rate.', 'sentence': 'Also , most ARMs limit the amount of change in a rate .', 'url': 'https://en.wikipedia.org/w/index.php?title=Subprime_lending&diff=prev&oldid=311371098'}
+===================================================
+1.9.0: Counter({'R:ORTH': 2})
+2.2.1: Counter()
+{'edits': [[8, 9, 'R:ORTH', 'language : مومنپور٥', 8, 11], [11, 12, 'R:ORTH', 'language : मोमिनपूरा', 13, 16]], 'sentence_gt': "' ' ' Mominpura ' '' ( Urdu language:مومنپور٥ , Marathi language:मोमिनपूरा ) is a locality in city of Nagpur in Maharashtra , India .", 'sentence': "' ' ' Mominpura ' '' ( Urdu language : مومنپور٥ , Marathi language : मोमिनपूरा ) is a locality in city of Nagpur in Maharashtra , India .", 'url': 'https://en.wikipedia.org/w/index.php?title=Mominpura,_Nagpur&diff=prev&oldid=808205260'}
+===================================================
+1.9.0: Counter({'R:ORTH': 1})
+2.2.1: Counter()
+{'edits': [[20, 22, 'R:ORTH', 'Kalyan.', 20, 21]], 'sentence_gt': "One of the earliest kiosks selling Vada Pav is said to be ' ' Khidki Vada Pav '' located in Kalyan .", 'sentence': "One of the earliest kiosks selling Vada Pav is said to be ' ' Khidki Vada Pav '' located in Kalyan.", 'url': 'https://en.wikipedia.org/w/index.php?title=Vada_pav&diff=prev&oldid=802614160'}
+===================================================

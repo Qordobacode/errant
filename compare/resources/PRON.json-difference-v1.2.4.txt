@@ -1,0 +1,464 @@
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:PRON', 'work===', 4, 5]], 'sentence_gt': '= = = Early work===gnhjmh', 'sentence': '= = = Early work===', 'url': 'https://en.wikipedia.org/w/index.php?title=Karl_Pilkington&diff=prev&oldid=531162121'}
+===================================================
+1.9.0: Counter({'R:VERB': 1, 'R:PRON': 1})
+2.2.1: Counter({'R:VERB': 1, 'R:OTHER': 1})
+{'edits': [[21, 22, 'R:VERB', 'given', 21, 22], [22, 23, 'R:PRON', 'them', 22, 23]], 'sentence_gt': 'Freedmen were eager to vote , tending to support the Republican Party ( United States ) that had emancipated them and achieved their citizenship and suffrage .', 'sentence': 'Freedmen were eager to vote , tending to support the Republican Party ( United States ) that had emancipated them and given them citizenship and suffrage .', 'url': 'https://en.wikipedia.org/w/index.php?title=Wilmington_insurrection_of_1898&diff=prev&oldid=865193251'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Second', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Second Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Evil_of_the_Daleks&diff=prev&oldid=33754638'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Third', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Third Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Mind_of_Evil&diff=prev&oldid=33753310'}
+===================================================
+1.9.0: Counter({'R:PREP': 1, 'M:PRON': 1})
+2.2.1: Counter({'M:PREP': 1, 'R:OTHER': 1})
+{'edits': [[5, 6, 'R:PREP', 'that', 5, 6], [6, 6, 'M:PRON', 'you', 6, 7]], 'sentence_gt': "If you are too IMMATURE to IMPOSTER someone , you do n't deserve to EDIT THIS WEBSITE .", 'sentence': "If you are too IMMATURE that you IMPOSTER someone , you do n't deserve to EDIT THIS WEBSITE .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:DeckiIler&diff=prev&oldid=31810443'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [8, 9, 'R:PRON', 'help==', 7, 8]], 'sentence_gt': '= = = Learn how to ask for help===', 'sentence': '= = Learn how to ask for help==', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Best_practices_for_editors_with_close_associations&diff=prev&oldid=619132113'}
+===================================================
+1.9.0: Counter({'U:PRON': 1, 'R:NOUN': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[9, 10, 'U:PRON', '', 9, 9], [10, 11, 'R:NOUN', 'Ra', 9, 10]], 'sentence_gt': '= = = Rationale of fair use for " Me Gusta ( Inna song ) " sample = = =', 'sentence': '= = = Rationale of fair use for " Ra ( Inna song ) " sample = = =', 'url': 'https://en.wikipedia.org/w/index.php?title=File:Inna_Ra_Sample.ogg&diff=prev&oldid=868542353'}
+===================================================
+1.9.0: Counter({'M:PRON': 1, 'R:VERB:TENSE': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:VERB:FORM': 1})
+{'edits': [[7, 7, 'M:PRON', 'it', 7, 8], [7, 8, 'R:VERB:TENSE', 'is believed', 8, 10]], 'sentence_gt': 'In Pentecostal and Charismatic movement Christianity , believe that God continues to operate this gift through believers with the gift of faith .', 'sentence': 'In Pentecostal and Charismatic movement Christianity , it is believed that God continues to operate this gift through believers with the gift of faith .', 'url': 'https://en.wikipedia.org/w/index.php?title=Gift_of_miracles&diff=prev&oldid=435003566'}
+===================================================
+1.9.0: Counter({'R:VERB:TENSE': 1, 'R:PRON': 1})
+2.2.1: Counter({'M:VERB:TENSE': 1, 'R:VERB:FORM': 1, 'R:PRON': 1})
+{'edits': [[1, 2, 'R:VERB:TENSE', 'had begun', 1, 3], [29, 30, 'R:PRON', 'him', 30, 31]], 'sentence_gt': 'Majid began his career during the Second Chechen War , fighting under Mashkadov and Ibn al - Khattab , before joining the Jamaat in 2005 ; this helped legitimize himself as a rebel leader in Dagestan with the leaderships of both Chechen rebels and foreign fighters .', 'sentence': 'Majid had begun his career during the Second Chechen War , fighting under Mashkadov and Ibn al - Khattab , before joining the Jamaat in 2005 ; this helped legitimize him as a rebel leader in Dagestan with the leaderships of both Chechen rebels and foreign fighters .', 'url': 'https://en.wikipedia.org/w/index.php?title=Shariat_Jamaat&diff=prev&oldid=417543127'}
+===================================================
+1.9.0: Counter({'R:PREP': 1, 'M:PRON': 1})
+2.2.1: Counter({'M:PREP': 1, 'R:OTHER': 1})
+{'edits': [[5, 6, 'R:PREP', 'that', 5, 6], [6, 6, 'M:PRON', 'you', 6, 7]], 'sentence_gt': "If you are too IMMATURE to IMPOSTER someone , you do n't deserve to EDIT THIS WEBSITE .", 'sentence': "If you are too IMMATURE that you IMPOSTER someone , you do n't deserve to EDIT THIS WEBSITE .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Deckiller/header&diff=prev&oldid=31810545'}
+===================================================
+1.9.0: Counter({'R:MORPH': 1, 'R:PRON': 1})
+2.2.1: Counter({'R:NOUN:NUM': 1, 'R:PRON': 1})
+{'edits': [[19, 20, 'R:MORPH', 'runs', 19, 20], [35, 36, 'R:PRON', 'it', 35, 36]], 'sentence_gt': 'It was announced in December 2011 that when the franchise is renewed in 2013 , all services that FCC run will continue in the new Thameslink franchise and be merged with the Southern franchise when that ends .', 'sentence': 'It was announced in December 2011 that when the franchise is renewed in 2013 , all services that FCC runs will continue in the new Thameslink franchise and be merged with the Southern franchise when it ends .', 'url': 'https://en.wikipedia.org/w/index.php?title=First_Capital_Connect&diff=prev&oldid=609870049'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [6, 7, 'R:PRON', 'withdrawal===', 5, 6]], 'sentence_gt': '= = = = Achievements and withdrawal====', 'sentence': '= = = Achievements and withdrawal===', 'url': 'https://en.wikipedia.org/w/index.php?title=An-Nasir_Muhammad&diff=prev&oldid=271990855'}
+===================================================
+1.9.0: Counter({'U:PRON': 1})
+2.2.1: Counter({'U:OTHER': 1})
+{'edits': [[6, 7, 'U:PRON', '', 6, 6]], 'sentence_gt': '= = Old Paludians = = yyy', 'sentence': '= = Old Paludians = =', 'url': 'https://en.wikipedia.org/w/index.php?title=Upton_Court_Grammar_School&diff=prev&oldid=394215048'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[8, 9, 'R:PRON', 'we', 8, 9]], 'sentence_gt': "PLEASE answer the questions with more thought so us voters do n't have to hold back ... &mdash ; ' ' ' User : DeckillerUser : Deckiller / EAUser talk : Deckiller ' '' 19:55 , 7 April 2006 ( UTC )", 'sentence': "PLEASE answer the questions with more thought so we voters do n't have to hold back ... &mdash ; ' ' ' User : DeckillerUser : Deckiller / EAUser talk : Deckiller ' '' 19:55 , 7 April 2006 ( UTC )", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_adminship/Royboycrashfan&diff=prev&oldid=47451682'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [4, 5, 'R:PRON', 'years==', 3, 4]], 'sentence_gt': '= = = Early years===', 'sentence': '= = Early years==', 'url': 'https://en.wikipedia.org/w/index.php?title=Hermann_Grab&diff=prev&oldid=269129666'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:VERB': 1})
+{'edits': [[9, 10, 'R:PRON', 'split.', 9, 10]], 'sentence_gt': 'It also permitted churches divided over the issue to separate.', 'sentence': 'It also permitted churches divided over the issue to split.', 'url': 'https://en.wikipedia.org/w/index.php?title=Half-Way_Covenant&diff=prev&oldid=848597252'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[3, 4, 'R:PRON', 'with==', 3, 4]], 'sentence_gt': '= = Compare with:==', 'sentence': '= = Compare with==', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Saint_(Simon_Templar)&diff=prev&oldid=286121165'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Third', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Third Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Claws_of_Axos&diff=prev&oldid=33753567'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Third', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Third Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=Frontier_in_Space&diff=prev&oldid=33753822'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'U:NOUN': 1})
+2.2.1: Counter({'R:PRON': 1, 'U:OTHER': 1})
+{'edits': [[0, 1, 'R:PRON', 'They', 0, 1], [1, 3, 'U:NOUN', '', 1, 1]], 'sentence_gt': 'The Creek refugees were described as " absolute skin and bone " , having lost everything they ever owned.', 'sentence': 'They were described as " absolute skin and bone " , having lost everything they ever owned.', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Deisenbe/sandbox&diff=prev&oldid=835476027'}
+===================================================
+1.9.0: Counter({'U:PRON': 1, 'R:MORPH': 1})
+2.2.1: Counter({'U:PRON': 1, 'R:VERB:SVA': 1})
+{'edits': [[18, 19, 'U:PRON', '', 18, 18], [19, 20, 'R:MORPH', 'limit', 18, 19]], 'sentence_gt': 'To " " “ preserve the historic , artistic and architectural history of the monument ” " , it limits derogations to the existing heritage , planning , environmental and construction codes to the minimum .', 'sentence': 'To " " “ preserve the historic , artistic and architectural history of the monument ” " , limit derogations to the existing heritage , planning , environmental and construction codes to the minimum .', 'url': 'https://en.wikipedia.org/w/index.php?title=Notre-Dame_de_Paris_fire&diff=prev&oldid=912859797'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:NOUN': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [5, 6, 'R:PRON', 'you!===', 6, 7]], 'sentence_gt': '= = A kitten for you!==', 'sentence': '= = = A kitten for you!===', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Cartoon_network_freak/Work&diff=prev&oldid=702121062'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:NOUN': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [6, 7, 'R:PRON', "Him''==", 5, 6]], 'sentence_gt': "= = = ' ' Contacting Him''===", 'sentence': "= = ' ' Contacting Him''==", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Yellowfeverlime&diff=prev&oldid=293814716'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:SPELL': 1})
+{'edits': [[10, 11, 'R:PRON', 'thick!', 10, 11]], 'sentence_gt': 'But well orchestrated , old boy , not too uniformly thicc!', 'sentence': 'But well orchestrated , old boy , not too uniformly thick!', 'url': 'https://en.wikipedia.org/w/index.php?title=Academic_Festival_Overture&diff=prev&oldid=795865046'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Third', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Third Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=Colony_in_Space&diff=prev&oldid=33753660'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[10, 11, 'R:PRON', 'ti', 10, 11]], 'sentence_gt': "' ' Este vino es solamente para mí y para tí . ''", 'sentence': "' ' Este vino es solamente para mí y para ti . ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Spanish_pronouns&diff=prev&oldid=667031047'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:OTHER': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [4, 5, 'R:PRON', 'Francis==', 3, 4]], 'sentence_gt': '= = = Milly Francis===', 'sentence': '= = Milly Francis==', 'url': 'https://en.wikipedia.org/w/index.php?title=Josiah_Francis_(Hillis_Hadjo)&diff=prev&oldid=833112808'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:NOUN': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [2, 3, 'R:PRON', 'islands==', 3, 4]], 'sentence_gt': '= Inland islands=', 'sentence': '= = Inland islands==', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_islands_of_Iran&diff=prev&oldid=268365287'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [3, 4, 'R:PRON', 'worklist===', 4, 5]], 'sentence_gt': '= = Review worklist==', 'sentence': '= = = Review worklist===', 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_India/Assessment/Tag_%26_Assess_2012&diff=prev&oldid=486947468'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:PRON', 'years===', 4, 5]], 'sentence_gt': '= = = Early ys===', 'sentence': '= = = Early years===', 'url': 'https://en.wikipedia.org/w/index.php?title=Spain_national_football_team&diff=prev&oldid=372967098'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[13, 14, 'R:PRON', 'the', 13, 14]], 'sentence_gt': 'At that time , McCracken gave an interview disparaging what she described as he " over - commercialization " of television , which might have hurt her career in the new medium .', 'sentence': 'At that time , McCracken gave an interview disparaging what she described as the " over - commercialization " of television , which might have hurt her career in the new medium .', 'url': 'https://en.wikipedia.org/w/index.php?title=Joan_McCracken&diff=prev&oldid=598608456'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Fourth', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Fourth Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=Logopolis&diff=prev&oldid=33739823'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[4, 5, 'R:PRON', 'time.svg\u200e', 4, 5]], 'sentence_gt': 'File : Equation of time.png\u200e', 'sentence': 'File : Equation of time.svg\u200e', 'url': 'https://en.wikipedia.org/w/index.php?title=Sundial&diff=prev&oldid=433178956'}
+===================================================
+1.9.0: Counter({'R:SPELL': 1, 'U:PRON': 1})
+2.2.1: Counter({'R:SPELL': 1, 'U:NOUN': 1})
+{'edits': [[2, 3, 'R:SPELL', 'Ringelpiez', 2, 3], [3, 4, 'U:PRON', '', 3, 3]], 'sentence_gt': 'de : Ringelpiezhell ya', 'sentence': 'de : Ringelpiez', 'url': 'https://en.wikipedia.org/w/index.php?title=Ring_a_Ring_o%27_Roses&diff=prev&oldid=340203004'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:PUNCT': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [5, 6, 'R:PRON', 'movement===', 4, 5]], 'sentence_gt': '= = = = Holiness movement====', 'sentence': '= = = Holiness movement===', 'url': 'https://en.wikipedia.org/w/index.php?title=Methodist_Episcopal_Church&diff=prev&oldid=726565522'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [5, 6, 'R:PRON', 'technology==', 4, 5]], 'sentence_gt': '= = = Science and technology===', 'sentence': '= = Science and technology==', 'url': 'https://en.wikipedia.org/w/index.php?title=CAC&diff=prev&oldid=269211799'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:NOUN': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [7, 8, 'R:PRON', 'military==', 6, 7]], 'sentence_gt': '= = = Politics , religion and military===', 'sentence': '= = Politics , religion and military==', 'url': 'https://en.wikipedia.org/w/index.php?title=CAC&diff=prev&oldid=269211799'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'M:PRON': 1})
+2.2.1: Counter({'R:NOUN': 1, 'M:PRON': 1})
+{'edits': [[39, 40, 'R:PUNCT', 'documents).http://laserfiche.mountainview.gov', 39, 40], [44, 44, 'M:PRON', 'It', 44, 45]], 'sentence_gt': 'The project , launched in 1994 was built on the site of one of the few working farms in the area and was city owned at the time ( identified as " Farmer \'s Field " in the planning documents),http://laserfiche.mountainview.gov / WebLink / DocView.aspx?id=14618&page=1&dbid=0 was a creative collaboration between SGI , SWA Group of San Francisco , Sausalito , and the Planning and Community Development Agency of the City of Mountain View .', 'sentence': 'The project , launched in 1994 was built on the site of one of the few working farms in the area and was city owned at the time ( identified as " Farmer \'s Field " in the planning documents).http://laserfiche.mountainview.gov / WebLink / DocView.aspx?id=14618&page=1&dbid=0 It was a creative collaboration between SGI , SWA Group of San Francisco , Sausalito , and the Planning and Community Development Agency of the City of Mountain View .', 'url': 'https://en.wikipedia.org/w/index.php?title=Googleplex&diff=prev&oldid=670197222'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Third', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Third Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=Day_of_the_Daleks&diff=prev&oldid=33754531'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Third', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Third Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=The_D%C3%A6mons&diff=prev&oldid=33753234'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [5, 6, 'R:PRON', 'marriage==', 4, 5]], 'sentence_gt': '= = = Touring and marriage===', 'sentence': '= = Touring and marriage==', 'url': 'https://en.wikipedia.org/w/index.php?title=Anna_Haining_Bates&diff=prev&oldid=272194523'}
+===================================================
+1.9.0: Counter({'R:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'R:PUNCT': 1, 'R:NOUN': 1})
+{'edits': [[3, 4, 'R:PUNCT', "' '", 3, 5], [6, 7, 'R:PRON', "writer''===", 7, 8]], 'sentence_gt': '= = = : Poet , writer.===', 'sentence': "= = = ' ' Poet , writer''===", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Yellowfeverlime&diff=prev&oldid=293435689'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[5, 6, 'R:PRON', 'misconduct===', 5, 6]], 'sentence_gt': '= = = Change to misconduct==', 'sentence': '= = = Change to misconduct===', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Roy_Moore_sexual_misconduct_allegations&diff=prev&oldid=810814657'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [4, 5, 'R:PRON', 'work====', 5, 6]], 'sentence_gt': '= = = Published work===', 'sentence': '= = = = Published work====', 'url': 'https://en.wikipedia.org/w/index.php?title=Mickey_Rooney&diff=prev&oldid=604732455'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:PRON', 'operation===', 4, 5]], 'sentence_gt': '= = = Motivating operations===', 'sentence': '= = = Motivating operation===', 'url': 'https://en.wikipedia.org/w/index.php?title=Applied_behavior_analysis&diff=prev&oldid=871598402'}
+===================================================
+1.9.0: Counter({'R:PREP': 1, 'M:PRON': 1})
+2.2.1: Counter({'M:PREP': 1, 'R:OTHER': 1})
+{'edits': [[5, 6, 'R:PREP', 'that', 5, 6], [6, 6, 'M:PRON', 'you', 6, 7]], 'sentence_gt': "If you are too IMMATURE to IMPOSTER someone , you do n't deserve to EDIT THIS WEBSITE .", 'sentence': "If you are too IMMATURE that you IMPOSTER someone , you do n't deserve to EDIT THIS WEBSITE .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:DeckilIer&diff=prev&oldid=31810504'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:PUNCT': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [4, 5, 'R:PRON', 'tag====', 5, 6]], 'sentence_gt': '= = = GOCEreviewed tag===', 'sentence': '= = = = GOCEreviewed tag====', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Dtgriffith/CEGuideDraft&diff=prev&oldid=358293816'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'R:VERB': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[8, 9, 'R:PRON', 'it', 8, 9], [9, 11, 'R:VERB', 'needs', 9, 10]], 'sentence_gt': "It 's a really good start ; all that 's left is a good copy - edit .", 'sentence': "It 's a really good start ; all it needs is a good copy - edit .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Peer_review/Karmichael_Hunt/archive2&diff=prev&oldid=135359502'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[4, 5, 'R:PRON', 'humans==', 4, 5]], 'sentence_gt': '= = Relationship with humans====', 'sentence': '= = Relationship with humans==', 'url': 'https://en.wikipedia.org/w/index.php?title=Scorpion&diff=prev&oldid=354461210'}
+===================================================
+1.9.0: Counter({'M:PRON': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:PRON': 1, 'U:VERB': 1})
+{'edits': [[11, 11, 'M:PRON', 'who', 11, 12], [21, 22, 'U:PRON', '', 22, 22]], 'sentence_gt': "It is the story of a girl of questionable mental stability escapes from incarceration and ends up at a plantation where s she disrupts a working family 's daily routines and chemistry .", 'sentence': "It is the story of a girl of questionable mental stability who escapes from incarceration and ends up at a plantation where she disrupts a working family 's daily routines and chemistry .", 'url': 'https://en.wikipedia.org/w/index.php?title=Susana_(film)&diff=prev&oldid=240996806'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [5, 6, 'R:PRON', 'work===', 4, 5]], 'sentence_gt': '= = = = Published work====', 'sentence': '= = = Published work===', 'url': 'https://en.wikipedia.org/w/index.php?title=Mickey_Rooney&diff=prev&oldid=604733650'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[1, 2, 'R:PRON', 'str', 1, 2]], 'sentence_gt': 'return txt ;', 'sentence': 'return str ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Drilnoth/scriptlab.js&diff=prev&oldid=315925470'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[5, 6, 'R:PRON', 'Industries====', 5, 6]], 'sentence_gt': '= = = = Major Industries:====', 'sentence': '= = = = Major Industries====', 'url': 'https://en.wikipedia.org/w/index.php?title=Cebu&diff=prev&oldid=281497500'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [9, 10, 'R:PRON', 'investments===', 8, 9]], 'sentence_gt': '= = = = 1997/1998 : Disastrous season despite investments====', 'sentence': '= = = 1997/1998 : Disastrous season despite investments===', 'url': 'https://en.wikipedia.org/w/index.php?title=History_of_Deportivo_La_Coru%C3%B1a&diff=prev&oldid=289349676'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:PRON', 'musicals===', 4, 5]], 'sentence_gt': '= = = Book musýcals===', 'sentence': '= = = Book musicals===', 'url': 'https://en.wikipedia.org/w/index.php?title=Musical_theatre&diff=prev&oldid=581235898'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [5, 6, 'R:PRON', 'you!===', 6, 7]], 'sentence_gt': '= = A barnstar for you!==', 'sentence': '= = = A barnstar for you!===', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Cartoon_network_freak/Work&diff=prev&oldid=702121062'}
+===================================================
+1.9.0: Counter({'M:PRON': 1, 'U:NOUN': 1})
+2.2.1: Counter({'M:PRON': 1, 'U:VERB': 1})
+{'edits': [[13, 13, 'M:PRON', 'it', 13, 14], [14, 15, 'U:NOUN', '', 15, 15]], 'sentence_gt': 'Counseling outcome addresses whether or not counseling is effective , under what conditions is counseling effective , and what outcomes are considered effective- such as symptom reduction , behavior change , or quality of life improvement .', 'sentence': 'Counseling outcome addresses whether or not counseling is effective , under what conditions it is effective , and what outcomes are considered effective- such as symptom reduction , behavior change , or quality of life improvement .', 'url': 'https://en.wikipedia.org/w/index.php?title=Counseling_psychology&diff=prev&oldid=344521698'}
+===================================================
+1.9.0: Counter({'U:PRON': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[4, 5, 'U:PRON', '', 4, 4]], 'sentence_gt': 'The reign of Kenneth I MacAlpin begins what is often called the House of Alpin , an entirely modern concept .', 'sentence': 'The reign of Kenneth MacAlpin begins what is often called the House of Alpin , an entirely modern concept .', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Scottish_monarchs&diff=prev&oldid=889979426'}
+===================================================
+1.9.0: Counter({'U:PRON': 1})
+2.2.1: Counter({'U:NOUN': 1})
+{'edits': [[4, 5, 'U:PRON', '', 4, 4]], 'sentence_gt': 'The descendants of Kenneth I MacAlpin were divided into two branches ; the crown would alternate between the two , the death of a king from one branch often hastened by war or assassination by a pretender from the other .', 'sentence': 'The descendants of Kenneth MacAlpin were divided into two branches ; the crown would alternate between the two , the death of a king from one branch often hastened by war or assassination by a pretender from the other .', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Scottish_monarchs&diff=prev&oldid=889979426'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Second', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Second Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Abominable_Snowmen&diff=prev&oldid=33735815'}
+===================================================
+1.9.0: Counter({'M:PRON': 1})
+2.2.1: Counter({'M:NOUN': 1})
+{'edits': [[2, 2, 'M:PRON', 'm', 2, 3]], 'sentence_gt': 'Bengali renaissance', 'sentence': 'Bengali renaissance m', 'url': 'https://en.wikipedia.org/w/index.php?title=Template:Culture_of_Bengal&diff=prev&oldid=841193361'}
+===================================================
+1.9.0: Counter({'R:NOUN': 1, 'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:PRON': 1})
+{'edits': [[2, 3, 'R:NOUN', 'underfed', 2, 3], [5, 6, 'R:PRON', 'he', 5, 6]], 'sentence_gt': 'Underclothed and fed , once she started working for Grice and Norfolk merchant Moses Myers , he had better food , shoes , and a coat .', 'sentence': 'Underclothed and underfed , once he started working for Grice and Norfolk merchant Moses Myers , he had better food , shoes , and a coat .', 'url': 'https://en.wikipedia.org/w/index.php?title=Moses_Grandy&diff=prev&oldid=918791240'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'U:CONTR': 1})
+2.2.1: Counter({'R:DET': 1, 'U:CONTR': 1})
+{'edits': [[6, 7, 'R:PRON', 'your', 6, 7], [7, 8, 'U:CONTR', '', 7, 7]], 'sentence_gt': "Or maybe I 'm confused with you 're raising the same point at the RfC at Talk : Adam Milstein?", 'sentence': "Or maybe I 'm confused with your raising the same point at the RfC at Talk : Adam Milstein?", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Reliable_sources/Noticeboard&diff=prev&oldid=863292576'}
+===================================================
+1.9.0: Counter({'M:PRON': 1, 'R:ADV': 1})
+2.2.1: Counter({'M:PRON': 1, 'R:OTHER': 1})
+{'edits': [[13, 13, 'M:PRON', 'me', 13, 14], [13, 14, 'R:ADV', 'as', 14, 15]], 'sentence_gt': 'Your " outing " protestations here , which seem totally unfair , strike mas particularly inappropriate in light of your involvement in this article that you did n\'t care to tell us about .', 'sentence': 'Your " outing " protestations here , which seem totally unfair , strike me as particularly inappropriate in light of your involvement in this article that you did n\'t care to tell us about .', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Jimbo_Wales&diff=prev&oldid=591009608'}
+===================================================
+1.9.0: Counter({'M:PRON': 1, 'R:VERB:FORM': 1})
+2.2.1: Counter({'M:PRON': 1, 'R:VERB:TENSE': 1})
+{'edits': [[37, 37, 'M:PRON', 'they', 37, 38], [37, 38, 'R:VERB:FORM', 'surrendered', 38, 39]], 'sentence_gt': 'Fujimori was publicly acclaimed for the decisive action , but the affair was later tainted by subsequent revelations that at least three , and perhaps as many as eight , of the MRTistas were summarily executed after surrendering .', 'sentence': 'Fujimori was publicly acclaimed for the decisive action , but the affair was later tainted by subsequent revelations that at least three , and perhaps as many as eight , of the MRTistas were summarily executed after they surrendered .', 'url': 'https://en.wikipedia.org/w/index.php?title=T%C3%BApac_Amaru_Revolutionary_Movement&diff=prev&oldid=693561835'}
+===================================================
+1.9.0: Counter({'U:PRON': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'U:PRON': 1, 'R:NOUN': 1})
+{'edits': [[2, 3, 'U:PRON', '', 2, 2], [9, 10, 'R:PUNCT', 'borrowers==', 8, 9]], 'sentence_gt': '= = What DTI limits are used in qualifying borrowers?==', 'sentence': '= = DTI limits are used in qualifying borrowers==', 'url': 'https://en.wikipedia.org/w/index.php?title=Debt-to-income_ratio&diff=prev&oldid=648945322'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[4, 5, 'R:PRON', 'India==', 4, 5]], 'sentence_gt': '= = Return to India==Skylar', 'sentence': '= = Return to India==', 'url': 'https://en.wikipedia.org/w/index.php?title=Ram_Manohar_Lohia&diff=prev&oldid=582539600'}
+===================================================
+1.9.0: Counter({'U:PRON': 1})
+2.2.1: Counter({'U:OTHER': 1})
+{'edits': [[8, 9, 'U:PRON', '', 8, 8]], 'sentence_gt': 'At the same time , CNoR was also hi directed to assume management of Canadian Government Railways ( CGR ) , a system comprising the Intercolonial Railway of Canada ( IRC ) , National Transcontinental Railway ( NTR ) , and the Prince Edward Island Railway ( PEIR ) , among others .', 'sentence': 'At the same time , CNoR was also directed to assume management of Canadian Government Railways ( CGR ) , a system comprising the Intercolonial Railway of Canada ( IRC ) , National Transcontinental Railway ( NTR ) , and the Prince Edward Island Railway ( PEIR ) , among others .', 'url': 'https://en.wikipedia.org/w/index.php?title=Canadian_National_Railway&diff=prev&oldid=354657312'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1})
+{'edits': [[0, 1, 'R:PRON', 'I', 0, 1]], 'sentence_gt': "'I can not have done this , ' says my Pride , and remains inexorable .", 'sentence': "I can not have done this , ' says my Pride , and remains inexorable .", 'url': 'https://en.wikipedia.org/w/index.php?title=Rat_Man&diff=prev&oldid=594053014'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [4, 5, 'R:PRON', 'sessions====', 5, 6]], 'sentence_gt': '= = = Recording sessions===', 'sentence': '= = = = Recording sessions====', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Blind_Willie_Johnson/GA1&diff=prev&oldid=747710950'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [10, 11, 'R:PRON', "Forever''===", 9, 10]], 'sentence_gt': "= = = = ' ' I Love You Always Forever''====", 'sentence': "= = = ' ' I Love You Always Forever''===", 'url': 'https://en.wikipedia.org/w/index.php?title=Jukebox_the_Ghost_discography&diff=prev&oldid=818787258'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:PRON', 'operations===', 4, 5]], 'sentence_gt': '= = = Motivating operation===', 'sentence': '= = = Motivating operations===', 'url': 'https://en.wikipedia.org/w/index.php?title=Applied_behavior_analysis&diff=prev&oldid=871870891'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [6, 7, 'R:PRON', 'materials==', 5, 6]], 'sentence_gt': '= = = Constraints on underlying materials===', 'sentence': '= = Constraints on underlying materials==', 'url': 'https://en.wikipedia.org/w/index.php?title=Cognitive_Constraints_on_Compositional_Systems&diff=prev&oldid=268611494'}
+===================================================
+1.9.0: Counter({'M:PRON': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:PRON': 1, 'U:VERB': 1})
+{'edits': [[11, 11, 'M:PRON', 'who', 11, 12], [21, 22, 'U:PRON', '', 22, 22]], 'sentence_gt': "It is the story of a girl of questionable mental stability escapes from incarceration and ends up at a plantation where s she disrupts a working family 's daily routines and chemistry .", 'sentence': "It is the story of a girl of questionable mental stability who escapes from incarceration and ends up at a plantation where she disrupts a working family 's daily routines and chemistry .", 'url': 'https://en.wikipedia.org/w/index.php?title=Susana_(film)&diff=prev&oldid=240996806'}
+===================================================
+1.9.0: Counter({'R:VERB': 1, 'M:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[4, 5, 'R:VERB', "'ve got", 4, 6], [5, 5, 'M:PRON', 'them', 6, 7]], 'sentence_gt': "' ' Now we are on the run ! ''", 'sentence': "' ' Now we 've got them on the run ! ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Las_Plumas_High_School&diff=prev&oldid=393153736'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Fourth', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Fourth Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=Destiny_of_the_Daleks&diff=prev&oldid=33755327'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [4, 5, 'R:PRON', 'ideal==', 3, 4]], 'sentence_gt': '= = = Renaissance ideal===', 'sentence': '= = Renaissance ideal==', 'url': 'https://en.wikipedia.org/w/index.php?title=Polymath&diff=prev&oldid=566292331'}
+===================================================
+1.9.0: Counter({'U:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 1, 'U:PUNCT', '', 0, 0], [4, 5, 'R:PRON', 'years==', 3, 4]], 'sentence_gt': '= = = Early years===', 'sentence': '= = Early years==', 'url': 'https://en.wikipedia.org/w/index.php?title=Helen_O%27Hara&diff=prev&oldid=268393284'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[14, 15, 'R:PRON', 'him', 14, 15]], 'sentence_gt': 'It was illegally modified , and William confiscates the chainsaw from Grell , giving her scissors instead .', 'sentence': 'It was illegally modified , and William confiscates the chainsaw from Grell , giving him scissors instead .', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Black_Butler_characters&diff=prev&oldid=501438140'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[1, 2, 'R:PRON', "haven'r", 1, 2]], 'sentence_gt': 'I haven;r had my coffee yet because I ran out of it but will go get some .', 'sentence': "I haven'r had my coffee yet because I ran out of it but will go get some .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Teahouse&diff=prev&oldid=844485909'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[3, 4, 'R:PRON', 'methods==', 3, 4]], 'sentence_gt': '= = Sampling method==', 'sentence': '= = Sampling methods==', 'url': 'https://en.wikipedia.org/w/index.php?title=Sampling_(statistics)&diff=prev&oldid=880742576'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'R:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:PUNCT': 1})
+{'edits': [[32, 33, 'R:PRON', 'whomever', 32, 33], [37, 38, 'R:PUNCT', ',', 37, 38]], 'sentence_gt': 'For approximately 4 years , ( the exact period is debated ) , he would travel back and forth from Berlin to remote locations , taking thousands of pictures and living with whoever would take him in ; at the same time supporting his family in Berlin .', 'sentence': 'For approximately 4 years , ( the exact period is debated ) , he would travel back and forth from Berlin to remote locations , taking thousands of pictures and living with whomever would take him in , at the same time supporting his family in Berlin .', 'url': 'https://en.wikipedia.org/w/index.php?title=Roman_Vishniac&diff=prev&oldid=70541932'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[25, 26, 'R:PRON', 'they', 25, 26]], 'sentence_gt': "Nash , ' ' The Colonel '' , p.290 - 295 He phoned Presley 's father to suggest the break , but Vernon told him th≤ey could n't afford to stop touring .", 'sentence': "Nash , ' ' The Colonel '' , p.290 - 295 He phoned Presley 's father to suggest the break , but Vernon told him they could n't afford to stop touring .", 'url': 'https://en.wikipedia.org/w/index.php?title=Colonel_Tom_Parker&diff=prev&oldid=572819901'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Fourth', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Fourth Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Leisure_Hive&diff=prev&oldid=33739680'}
+===================================================
+1.9.0: Counter({'U:PRON': 1})
+2.2.1: Counter({'U:OTHER': 1})
+{'edits': [[13, 14, 'U:PRON', '', 13, 13]], 'sentence_gt': 'Appeal to probability – is a statement that takes something for granted because yay it would probably be the case ( or might be the case ) .', 'sentence': 'Appeal to probability – is a statement that takes something for granted because it would probably be the case ( or might be the case ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_fallacies&diff=prev&oldid=673474885'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Fourth', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Fourth Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=Nightmare_of_Eden&diff=prev&oldid=33740321'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Second', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Second Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Invasion_(Doctor_Who)&diff=prev&oldid=33752985'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Fourth', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Fourth Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Android_Invasion&diff=prev&oldid=33736052'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Fourth', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Fourth Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=Genesis_of_the_Daleks&diff=prev&oldid=33755194'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Fourth', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Fourth Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Androids_of_Tara&diff=prev&oldid=33736138'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Fourth', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Fourth Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Talons_of_Weng-Chiang&diff=prev&oldid=33739259'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'M:OTHER': 1, 'R:NOUN': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [5, 6, 'R:PRON', 'you!===', 6, 7]], 'sentence_gt': '= = A barnstar for you!==', 'sentence': '= = = A barnstar for you!===', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Cartoon_network_freak/Work&diff=prev&oldid=702121062'}
+===================================================
+1.9.0: Counter({'R:PREP': 1, 'M:PRON': 1})
+2.2.1: Counter({'M:PREP': 1, 'R:OTHER': 1})
+{'edits': [[5, 6, 'R:PREP', 'that', 5, 6], [6, 6, 'M:PRON', 'you', 6, 7]], 'sentence_gt': "If you are too IMMATURE to IMPOSTER someone , you do n't deserve to EDIT THIS WEBSITE .", 'sentence': "If you are too IMMATURE that you IMPOSTER someone , you do n't deserve to EDIT THIS WEBSITE .", 'url': 'https://en.wikipedia.org/w/index.php?title=User:DeckiIIer&diff=prev&oldid=31810471'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[40, 41, 'R:PRON', 'this', 40, 41], [41, 41, 'M:PUNCT', '.', 41, 42]], 'sentence_gt': "James and Lily left Harry a large inheritance of wizard money , which he uses for his Hogwarts supplies ; Harry 's friend Ronald Weasley , who comes from a large and relatively poor family , is sometimes envious of this.hello", 'sentence': "James and Lily left Harry a large inheritance of wizard money , which he uses for his Hogwarts supplies ; Harry 's friend Ronald Weasley , who comes from a large and relatively poor family , is sometimes envious of this .", 'url': 'https://en.wikipedia.org/w/index.php?title=Harry_Potter_(character)&diff=prev&oldid=70193551'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'R:VERB:SVA': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:VERB:SVA': 1})
+{'edits': [[27, 28, 'R:PRON', 'one', 27, 28], [28, 29, 'R:VERB:SVA', 'is', 28, 29]], 'sentence_gt': "A ' ' ' lucid dream ' '' is any dream in which one , for an uninterrupted and prolonged amount of time , is aware that they are dreaming .", 'sentence': "A ' ' ' lucid dream ' '' is any dream in which one , for an uninterrupted and prolonged amount of time , is aware that one is dreaming .", 'url': 'https://en.wikipedia.org/w/index.php?title=Lucid_dream&diff=prev&oldid=582899352'}
+===================================================
+1.9.0: Counter({'M:PRON': 1})
+2.2.1: Counter({'M:NOUN': 1})
+{'edits': [[37, 37, 'M:PRON', 'I', 37, 38]], 'sentence_gt': "The two hatched a plan to commemorate the fiftieth anniversary of Charles Lindbergh ’s flight , and engaged balloonist Ed Yost ( whose transatlantic bid had failed in 1958 ) to build the ' ' Double Eagle '' .", 'sentence': "The two hatched a plan to commemorate the fiftieth anniversary of Charles Lindbergh ’s flight , and engaged balloonist Ed Yost ( whose transatlantic bid had failed in 1958 ) to build the ' ' Double Eagle I '' .", 'url': 'https://en.wikipedia.org/w/index.php?title=Maxie_Anderson&diff=prev&oldid=472449479'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[4, 5, 'R:PRON', 'technology==', 4, 5]], 'sentence_gt': '= = Science and technology==3', 'sentence': '= = Science and technology==', 'url': 'https://en.wikipedia.org/w/index.php?title=IPI&diff=prev&oldid=905113243'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'R:VERB:TENSE': 1})
+2.2.1: Counter({'R:OTHER': 1, 'R:VERB:TENSE': 1})
+{'edits': [[0, 1, 'R:PRON', 'They', 0, 1], [9, 10, 'R:VERB:TENSE', 'get', 9, 10]], 'sentence_gt': 'Thy end up going everywhere because the other locations got into trouble .', 'sentence': 'They end up going everywhere because the other locations get into trouble .', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Hi_Hi_Puffy_AmiYumi_episodes&diff=prev&oldid=179756003'}
+===================================================
+1.9.0: Counter({'M:PRON': 1, 'R:VERB': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 0, 'M:PRON', 'It', 0, 1], [0, 1, 'R:VERB', 'may refer', 1, 3]], 'sentence_gt': 'Ifer to :', 'sentence': 'It may refer to :', 'url': 'https://en.wikipedia.org/w/index.php?title=Halima&diff=prev&oldid=902605437'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:NOUN': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [3, 4, 'R:PRON', 'Years===', 4, 5]], 'sentence_gt': '= = Early Years==', 'sentence': '= = = Early Years===', 'url': 'https://en.wikipedia.org/w/index.php?title=Utz_Quality_Foods&diff=prev&oldid=227860803'}
+===================================================
+1.9.0: Counter({'U:VERB': 1, 'R:PRON': 1})
+2.2.1: Counter({'U:ADJ': 1, 'R:PRON': 1})
+{'edits': [[2, 3, 'U:VERB', '', 2, 2], [3, 4, 'R:PRON', 'it', 2, 3]], 'sentence_gt': 'I get see that now .', 'sentence': 'I get it now .', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:The_Hunger_Games&diff=prev&oldid=648357994'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:ADV': 1})
+{'edits': [[21, 22, 'R:PRON', 'so', 21, 22]], 'sentence_gt': 'Douglass was born on the Eastern Shore of Maryland , where slaves were punished for learning to read or write and therefore could not keep records .', 'sentence': 'Douglass was born on the Eastern Shore of Maryland , where slaves were punished for learning to read or write and so could not keep records .', 'url': 'https://en.wikipedia.org/w/index.php?title=Frederick_Douglass&diff=prev&oldid=200254965'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Sixth', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Sixth Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=Vengeance_on_Varos&diff=prev&oldid=33739912'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'R:CONTR': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[2, 3, 'R:PRON', 'it', 2, 3], [3, 4, 'R:CONTR', 'has', 3, 4]], 'sentence_gt': "To date they 've raised more than $ 76 million for groups like Planned Parenthood , Rainforest Action Network and Oxfam America .", 'sentence': 'To date it has raised more than $ 76 million for groups like Planned Parenthood , Rainforest Action Network and Oxfam America .', 'url': 'https://en.wikipedia.org/w/index.php?title=CREDO_Mobile&diff=prev&oldid=644769482'}
+===================================================
+1.9.0: Counter({'R:PRON': 1, 'M:PUNCT': 1})
+2.2.1: Counter({'R:OTHER': 1, 'M:PUNCT': 1})
+{'edits': [[28, 29, 'R:PRON', 'this', 28, 29], [29, 29, 'M:PUNCT', '?', 29, 30]], 'sentence_gt': '\' \' The Office Assistant ... \'\' " Clippy " is the more well - known name for the feature - maybe add a parenthetical note to explain this?g', 'sentence': '\' \' The Office Assistant ... \'\' " Clippy " is the more well - known name for the feature - maybe add a parenthetical note to explain this ?', 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Microsoft_Office_XP/GA1&diff=prev&oldid=817107928'}
+===================================================
+1.9.0: Counter({'M:PUNCT': 1, 'R:PRON': 1})
+2.2.1: Counter({'M:PUNCT': 1, 'R:OTHER': 1})
+{'edits': [[0, 0, 'M:PUNCT', '=', 0, 1], [4, 5, 'R:PRON', 'mean==', 5, 6]], 'sentence_gt': '= sorry 4 being mean=', 'sentence': '= = sorry 4 being mean==', 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Crazyswordsman&diff=prev&oldid=135089904'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[3, 4, 'R:PRON', 'years==', 3, 4]], 'sentence_gt': '= = Early yearz==', 'sentence': '= = Early years==', 'url': 'https://en.wikipedia.org/w/index.php?title=Pablo_Escobar&diff=prev&oldid=317108297'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Third', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Third Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Ambassadors_of_Death&diff=prev&oldid=33735969'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[10, 11, 'R:PRON', 'we', 10, 11]], 'sentence_gt': "Please add some detail and thought into your questions so us voters do n't have to make a tough choice .", 'sentence': "Please add some detail and thought into your questions so we voters do n't have to make a tough choice .", 'url': 'https://en.wikipedia.org/w/index.php?title=User_talk:Royboycrashfan&diff=prev&oldid=47451851'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[0, 1, 'R:PRON', 'Image:3-MethylPentaneHighlighted.svg', 0, 1]], 'sentence_gt': 'Image:3-MethylPentaneHighlighted.png', 'sentence': 'Image:3-MethylPentaneHighlighted.svg', 'url': 'https://en.wikipedia.org/w/index.php?title=Alkyl&diff=prev&oldid=893020918'}
+===================================================
+1.9.0: Counter({'U:PRON': 1})
+2.2.1: Counter({'U:DET': 1})
+{'edits': [[2, 4, 'U:PRON', 'Life==', 2, 3]], 'sentence_gt': '= = Her life==', 'sentence': '= = Life==', 'url': 'https://en.wikipedia.org/w/index.php?title=Empress_Elisabeth_of_Austria&diff=prev&oldid=207461256'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Sixth', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Sixth Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=The_Mark_of_the_Rani&diff=prev&oldid=33754000'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:NOUN': 1})
+{'edits': [[4, 5, 'R:PRON', 'Interests===', 4, 5]], 'sentence_gt': '= = = Chinese Investment===', 'sentence': '= = = Chinese Interests===', 'url': 'https://en.wikipedia.org/w/index.php?title=Gwadar&diff=prev&oldid=549143108'}
+===================================================
+1.9.0: Counter({'R:PRON': 1})
+2.2.1: Counter({'R:OTHER': 1})
+{'edits': [[16, 17, 'R:PRON', 'them', 16, 17]], 'sentence_gt': 'During its promotion , Avex Trax and Hamasaki received over 100,000 messages from fans , telling her their opinions about the unfinished demo .', 'sentence': 'During its promotion , Avex Trax and Hamasaki received over 100,000 messages from fans , telling them their opinions about the unfinished demo .', 'url': 'https://en.wikipedia.org/w/index.php?title=A_Ballads&diff=prev&oldid=728715740'}
+===================================================
+1.9.0: Counter({'M:NOUN': 1, 'U:PRON': 1})
+2.2.1: Counter({'M:ADJ': 1, 'U:PRON': 1})
+{'edits': [[2, 2, 'M:NOUN', 'Third', 2, 3], [3, 4, 'U:PRON', '', 4, 4]], 'sentence_gt': 'Category : Doctor Who serials', 'sentence': 'Category : Third Doctor serials', 'url': 'https://en.wikipedia.org/w/index.php?title=Death_to_the_Daleks&diff=prev&oldid=33754703'}
+===================================================
+1.9.0: Counter({'R:PREP': 1, 'R:PRON': 1})
+2.2.1: Counter({'R:PREP': 1, 'R:OTHER': 1})
+{'edits': [[3, 4, 'R:PREP', 'of', 3, 4], [4, 5, 'R:PRON', 'he', 4, 5]], 'sentence_gt': 'In the background od the foundation of the World AIDS Museum is a failed project to create an AIDS Museum in Newark , New Jersey .', 'sentence': 'In the background of he foundation of the World AIDS Museum is a failed project to create an AIDS Museum in Newark , New Jersey .', 'url': 'https://en.wikipedia.org/w/index.php?title=World_AIDS_Museum_and_Educational_Center&diff=prev&oldid=775669172'}
+===================================================
