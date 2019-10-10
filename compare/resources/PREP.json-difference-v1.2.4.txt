@@ -1,0 +1,4 @@
+gec: Counter({'R:PREP': 1})
+1.9.0: Counter({'M:PUNCT': 1}) --------- [A 35 35|||M:PUNCT|||)|||REQUIRED|||-NONE-|||0]
+{'edits': [[34, 35, 'R:PREP', '1886).', 34, 35]], 'sentence_gt': "' ' ' Joseph Lalor ' '' ( 1811 - 18/8/1886 ) was a pioneering Irish mental health administrator and a reforming superintendent of the Richmond District Asylum for 29 years ( 1857 - 1886.", 'sentence': "' ' ' Joseph Lalor ' '' ( 1811 - 18/8/1886 ) was a pioneering Irish mental health administrator and a reforming superintendent of the Richmond District Asylum for 29 years ( 1857 - 1886).", 'url': 'https://en.wikipedia.org/w/index.php?title=Joseph_Lalor&diff=prev&oldid=561608638'}
+===================================================

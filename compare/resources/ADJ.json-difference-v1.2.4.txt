@@ -1,0 +1,16 @@
+gec: Counter({'R:ADJ': 1})
+1.9.0: Counter({'R:OTHER': 1}) --------- [A 4 5|||R:OTHER|||new|||REQUIRED|||-NONE-|||0]
+{'edits': [[3, 4, 'R:ADJ', 'new', 3, 4]], 'sentence_gt': "I 'm pretty knew to film stories , but I hope to do more film and theatrical articles , so I had a question that has come up .", 'sentence': "I 'm pretty new to film stories , but I hope to do more film and theatrical articles , so I had a question that has come up .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Film&diff=prev&oldid=595012708'}
+===================================================
+gec: Counter({'U:SPACE': 1, 'U:ADJ': 1})
+1.9.0: Counter({'U:ADJ': 1}) --------- [A 3 5|||U:ADJ|||Semi|||REQUIRED|||-NONE-|||0]
+{'edits': [[3, 5, 'U:ADJ', 'Semi', 3, 4], [12, 13, 'U:SPACE', '', 11, 11]], 'sentence_gt': "' ' ' Indefinite semi - protection : ' '' Persistent vandalism \xa0 – Recurrent vandalism .", 'sentence': "' ' ' Semi - protection : ' '' Persistent vandalism \xa0 – Recurrent vandalism .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_page_protection&diff=prev&oldid=578592871'}
+===================================================
+gec: Counter({'R:ADJ': 1})
+1.9.0: Counter({'U:PUNCT': 1}) --------- [A 0 1|||U:PUNCT||||||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 1, 'R:ADJ', "''Dynamic", 0, 1]], 'sentence_gt': '"\'\'Dynamic forces in Capitalist Development : A Long - Run Comparative View \'\' , by Angus Maddison .', 'sentence': "''Dynamic forces in Capitalist Development : A Long - Run Comparative View '' , by Angus Maddison .", 'url': 'https://en.wikipedia.org/w/index.php?title=Friedrich_List&diff=prev&oldid=282300080'}
+===================================================
+gec: Counter({'R:ADJ': 1})
+1.9.0: Counter({'R:OTHER': 1}) --------- [A 12 13|||R:OTHER|||Out""Hardcore|||REQUIRED|||-NONE-|||0]
+{'edits': [[8, 9, 'R:ADJ', 'Out""Hardcore', 8, 9]], 'sentence_gt': '\'\'\'Songs Performed : \' \'\' " I \'m Out\'\'"Hardcore Wrestler ( with Inner Feelings)"\'\'\'Music Produced by : \' \'\' Michael Wolff , Michael A. Levine\'\'\'Music Supervised by : \' \'\' Michael Wolff\'\'\'Music Composed by : \' \'\' Nat Wolff ( Lead Vocals and Lyrics)\'\'\'Special Guest Appearance by : \' \'\' Snoop Dogg', 'sentence': '\'\'\'Songs Performed : \' \'\' " I \'m Out""Hardcore Wrestler ( with Inner Feelings)"\'\'\'Music Produced by : \' \'\' Michael Wolff , Michael A. Levine\'\'\'Music Supervised by : \' \'\' Michael Wolff\'\'\'Music Composed by : \' \'\' Nat Wolff ( Lead Vocals and Lyrics)\'\'\'Special Guest Appearance by : \' \'\' Snoop Dogg', 'url': 'https://en.wikipedia.org/w/index.php?title=User:ATC/Opinion_of_the_ordering_on_The_Naked_Brothers_Band_production&diff=prev&oldid=437322513'}
+===================================================

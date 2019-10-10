@@ -50,15 +50,17 @@ class Checker:
             Checker()
         return Checker.__instance
 
-    def __init__(self):
+    def __init__(self, nlp=None):
         if Checker.__instance is not None:
-            raise Exception("This class is a singleton!")
+            raise Exception("Checker class is a singleton!")
         else:
             self.tokenizer = TreebankWordTokenizer()
             # Get base working directory.
             basename = os.path.dirname(os.path.realpath(__file__))
             # Load Tokenizer and other resources
-            self.nlp = spacy.load("en")
+            self.nlp = nlp
+            if not self.nlp:
+                self.nlp = spacy.load("en")
             # Lancaster Stemmer
             self.stemmer = LancasterStemmer()
             # GB English word list (inc -ise and -ize)
@@ -88,14 +90,14 @@ class Checker:
             errors = []
             edits = []
             # Markup the original sentence with spacy (assume tokenized)
-            proc_orig = Toolbox.apply_spacy(orig_sent.split(), self.nlp)
+            proc_orig = Toolbox.apply_spacy(orig_sent, self.nlp)
             # Identical sentences have no edits, so just write noop.
             if orig_sent == cor_sent:
                 return errors, edits
             # Otherwise, do extra processing.
             else:
                 # Markup the corrected sentence with spacy (assume tokenized)
-                proc_cor = Toolbox.apply_spacy(cor_sent.strip().split(), self.nlp)
+                proc_cor = Toolbox.apply_spacy(cor_sent, self.nlp)
                 # Auto align the parallel sentences and extract the edits.
                 auto_edits = AlignText.get_auto_aligned_edits(proc_orig, proc_cor, merge_strategy, levenshtein)
                 # Loop through the edits.

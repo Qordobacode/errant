@@ -37,6 +37,7 @@ class Toolbox:
         # Add some spacy PTB tags not in the original mapping.
         map_dict['""'] = "PUNCT"
         map_dict["SP"] = "SPACE"
+        map_dict["_SP"] = "SPACE"   # spacy 2.2.1
         map_dict["ADD"] = "X"
         map_dict["GW"] = "X"
         map_dict["NFP"] = "X"
@@ -121,10 +122,11 @@ class Toolbox:
         :return: Annotate tokens with POS, lemma and parse info.
         """
         # Convert tokens to spacy tokens and POS tag and parse.
-        sent = nlp.tokenizer.tokens_from_list(sent)
-        nlp.tagger(sent)
-        nlp.parser(sent)
-        return sent
+        # sent = nlp.tokenizer.tokens_from_list(sent)
+        # nlp.tagger(sent)
+        # nlp.parser(sent)
+        # return sent
+        return nlp(sent)
 
     @staticmethod
     def minimise_edit(edit, orig, cor):

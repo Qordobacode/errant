@@ -1,0 +1,20 @@
+gec: Counter({'R:PRON': 1})
+1.9.0: Counter({'R:VERB': 1}) --------- [A 9 10|||R:VERB|||split|||REQUIRED|||-NONE-|||0]
+{'edits': [[9, 10, 'R:PRON', 'split.', 9, 10]], 'sentence_gt': 'It also permitted churches divided over the issue to separate.', 'sentence': 'It also permitted churches divided over the issue to split.', 'url': 'https://en.wikipedia.org/w/index.php?title=Half-Way_Covenant&diff=prev&oldid=848597252'}
+===================================================
+gec: Counter({'R:PRON': 1})
+1.9.0: Counter({'R:SPELL': 1}) --------- [A 10 11|||R:SPELL|||thick|||REQUIRED|||-NONE-|||0]
+{'edits': [[10, 11, 'R:PRON', 'thick!', 10, 11]], 'sentence_gt': 'But well orchestrated , old boy , not too uniformly thicc!', 'sentence': 'But well orchestrated , old boy , not too uniformly thick!', 'url': 'https://en.wikipedia.org/w/index.php?title=Academic_Festival_Overture&diff=prev&oldid=795865046'}
+===================================================
+gec: Counter({'R:PRON': 1})
+1.9.0: Counter({'U:PUNCT': 1}) --------- [A 0 1|||U:PUNCT||||||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 1, 'R:PRON', 'I', 0, 1]], 'sentence_gt': "'I can not have done this , ' says my Pride , and remains inexorable .", 'sentence': "I can not have done this , ' says my Pride , and remains inexorable .", 'url': 'https://en.wikipedia.org/w/index.php?title=Rat_Man&diff=prev&oldid=594053014'}
+===================================================
+gec: Counter({'R:VERB': 1, 'M:PRON': 1})
+1.9.0: Counter({'R:OTHER': 1}) --------- [A 4 5|||R:OTHER|||' ve got them|||REQUIRED|||-NONE-|||0]
+{'edits': [[4, 5, 'R:VERB', "'ve got", 4, 6], [5, 5, 'M:PRON', 'them', 6, 7]], 'sentence_gt': "' ' Now we are on the run ! ''", 'sentence': "' ' Now we 've got them on the run ! ''", 'url': 'https://en.wikipedia.org/w/index.php?title=Las_Plumas_High_School&diff=prev&oldid=393153736'}
+===================================================
+gec: Counter({'R:PRON': 1, 'R:CONTR': 1})
+1.9.0: Counter({'R:OTHER': 1}) --------- [A 2 5|||R:OTHER|||it has|||REQUIRED|||-NONE-|||0]
+{'edits': [[2, 3, 'R:PRON', 'it', 2, 3], [3, 4, 'R:CONTR', 'has', 3, 4]], 'sentence_gt': "To date they 've raised more than $ 76 million for groups like Planned Parenthood , Rainforest Action Network and Oxfam America .", 'sentence': 'To date it has raised more than $ 76 million for groups like Planned Parenthood , Rainforest Action Network and Oxfam America .', 'url': 'https://en.wikipedia.org/w/index.php?title=CREDO_Mobile&diff=prev&oldid=644769482'}
+===================================================

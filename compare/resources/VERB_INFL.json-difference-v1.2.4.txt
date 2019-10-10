@@ -1,0 +1,4 @@
+gec: Counter({'R:ORTH': 1, 'R:VERB:INFL': 1})
+1.9.0: Counter({'R:VERB:INFL': 1}) --------- [A 28 29|||R:VERB:INFL|||sought|||REQUIRED|||-NONE-|||0]
+{'edits': [[28, 29, 'R:VERB:INFL', 'sought', 28, 29], [38, 40, 'R:ORTH', 'time.', 38, 39]], 'sentence_gt': "The chapel bears a sign in Latin stating ' ' NON GODE L’IMMUNITA ECCLESIAS '' , meaning that the church did not offer sanctuary to criminal offenders who seeked asylum within the church , something common at that time .", 'sentence': "The chapel bears a sign in Latin stating ' ' NON GODE L’IMMUNITA ECCLESIAS '' , meaning that the church did not offer sanctuary to criminal offenders who sought asylum within the church , something common at that time.", 'url': 'https://en.wikipedia.org/w/index.php?title=St_George%27s_Chapel,_Bir%C5%BCebbu%C4%A1a&diff=prev&oldid=795616823'}
+===================================================

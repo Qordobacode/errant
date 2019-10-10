@@ -1,0 +1,8 @@
+gec: Counter({'R:NOUN:POSS': 1})
+1.9.0: Counter({'U:PUNCT': 1}) --------- [A 0 2|||U:PUNCT||||||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 1, 'R:NOUN:POSS', 'His', 0, 1]], 'sentence_gt': "''His sexuality is most clearly reflected in his intensely homoerotic portraits of working class men .", 'sentence': 'His sexuality is most clearly reflected in his intensely homoerotic portraits of working class men .', 'url': 'https://en.wikipedia.org/w/index.php?title=Carl_Van_Vechten&diff=prev&oldid=796011786'}
+===================================================
+gec: Counter({'R:NOUN:POSS': 1})
+1.9.0: Counter({'R:PUNCT': 1}) --------- [A 7 8|||R:PUNCT|||—|||REQUIRED|||-NONE-|||0]
+{'edits': [[7, 8, 'R:NOUN:POSS', '—', 7, 8]], 'sentence_gt': 'Pine Avenue , Long Beach , California - restaurants and nightclubs', 'sentence': 'Pine Avenue , Long Beach , California — restaurants and nightclubs', 'url': 'https://en.wikipedia.org/w/index.php?title=Downtown_Long_Beach&diff=prev&oldid=748470021'}
+===================================================

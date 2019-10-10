@@ -1,0 +1,32 @@
+gec: Counter({'R:ORTH': 1, 'M:PUNCT': 1})
+1.9.0: Counter({'M:PUNCT': 1}) --------- [A 46 46|||M:PUNCT|||"|||REQUIRED|||-NONE-|||0]
+{'edits': [[44, 45, 'R:ORTH', 'normal .', 44, 46], [45, 45, 'M:PUNCT', '"', 46, 47]], 'sentence_gt': "Later on , both Damia and Tarimu 's lower halves become imprisoned in stone when they try to pay back Halcyform for his wrongs , and , to their dismay , they are left to find their own way of turning themselves back to normal.", 'sentence': 'Later on , both Damia and Tarimu \'s lower halves become imprisoned in stone when they try to pay back Halcyform for his wrongs , and , to their dismay , they are left to find their own way of turning themselves back to normal . "', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_Slayers_characters&diff=prev&oldid=591345724'}
+===================================================
+gec: Counter({'M:PUNCT': 1})
+1.9.0: Counter({'M:OTHER': 1}) --------- [A 0 0|||M:OTHER|||; 	 |||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 0, 'M:PUNCT', ';', 0, 1]], 'sentence_gt': 'var splitted = s.parenSplit(conditionalSplitRegex ) ;', 'sentence': '; \t var splitted = s.parenSplit(conditionalSplitRegex ) ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/popups.js&diff=prev&oldid=787981890'}
+===================================================
+gec: Counter({'M:PUNCT': 1})
+1.9.0: Counter({'M:OTHER': 1}) --------- [A 0 0|||M:OTHER|||// 	 |||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 0, 'M:PUNCT', '//', 0, 1]], 'sentence_gt': "buttonText = ' The proposed title is blacklisted ' ;", 'sentence': "// \t buttonText = ' The proposed title is blacklisted ' ;", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/afch-master.js/submissions.js&diff=prev&oldid=908069282'}
+===================================================
+gec: Counter({'M:PUNCT': 1})
+1.9.0: Counter({'M:OTHER': 1}) --------- [A 0 0|||M:OTHER|||( ( cn ) )|||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 0, 'M:PUNCT', '((cn ) )', 0, 3]], 'sentence_gt': 'It was started in the late 1960s by the Vaze family , who used to hand out Vada Pav from a \' \' khidki \'\' ( the Marathi word for " window " ) of their house facing the road.', 'sentence': '((cn ) ) It was started in the late 1960s by the Vaze family , who used to hand out Vada Pav from a \' \' khidki \'\' ( the Marathi word for " window " ) of their house facing the road.', 'url': 'https://en.wikipedia.org/w/index.php?title=Vada_pav&diff=prev&oldid=802614160'}
+===================================================
+gec: Counter({'U:NOUN': 1, 'R:PUNCT': 1})
+1.9.0: Counter({'R:OTHER': 1, 'U:NOUN': 1, 'R:PUNCT': 1}) --------- [A 0 1|||U:NOUN||||||REQUIRED|||-NONE-|||0, A 1 3|||R:PUNCT|||//|||REQUIRED|||-NONE-|||0, A 3 4|||R:OTHER|||	 |||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 1, 'U:NOUN', '', 0, 0], [1, 4, 'R:PUNCT', '//', 0, 1]], 'sentence_gt': 'console.log ( ) ; //return ;', 'sentence': '// \t //return ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/afch-dev.js/submissions.js&diff=prev&oldid=819044362'}
+===================================================
+gec: Counter({'M:PUNCT': 1})
+1.9.0: Counter({'M:OTHER': 1}) --------- [A 0 0|||M:OTHER|||//         |||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 0, 'M:PUNCT', '//', 0, 1]], 'sentence_gt': 'portletLink.accessKey = " d " ;', 'sentence': '//         portletLink.accessKey = " d " ;', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/hover-edit-section.js&diff=prev&oldid=874597667'}
+===================================================
+gec: Counter({'M:NOUN': 1, 'R:PUNCT': 1})
+1.9.0: Counter({'M:PUNCT': 2, 'M:NOUN': 1, 'R:PUNCT': 1}) --------- [A 16 16|||M:PUNCT|||{|||REQUIRED|||-NONE-|||0, A 16 16|||M:PUNCT|||{|||REQUIRED|||-NONE-|||0, A 16 16|||M:NOUN|||Ref|||REQUIRED|||-NONE-|||0, A 16 17|||R:PUNCT|||?|||REQUIRED|||-NONE-|||0]
+{'edits': [[16, 17, 'R:PUNCT', '{ {', 16, 18], [17, 17, 'M:NOUN', 'Ref?', 18, 19]], 'sentence_gt': "' ' ' Birsanagar ' '' a part of Jamshedpur is the biggest slum of Asia .", 'sentence': "' ' ' Birsanagar ' '' a part of Jamshedpur is the biggest slum of Asia { { Ref?", 'url': 'https://en.wikipedia.org/w/index.php?title=Birsanagar&diff=prev&oldid=840414731'}
+===================================================
+gec: Counter({'M:PUNCT': 1})
+1.9.0: Counter({'M:OTHER': 1}) --------- [A 0 0|||M:OTHER|||// 	 |||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 0, 'M:PUNCT', '//', 0, 1]], 'sentence_gt': "errorHtml = ' Shoot ! '", 'sentence': "// \t errorHtml = ' Shoot ! '", 'url': 'https://en.wikipedia.org/w/index.php?title=User:Enterprisey/afch-master.js/submissions.js&diff=prev&oldid=908069282'}
+===================================================

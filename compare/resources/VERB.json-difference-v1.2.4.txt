@@ -1,0 +1,16 @@
+gec: Counter({'U:VERB': 1})
+1.9.0: Counter({'U:ADJ': 1}) --------- [A 35 36|||U:ADJ||||||REQUIRED|||-NONE-|||0]
+{'edits': [[35, 36, 'U:VERB', '', 35, 35]], 'sentence_gt': '\' \' \' Robert Andrew " Robin " Inskip , 2nd Viscount Caldecote \' \'\' ( 8 October 1917 – 20 September 1999 ) , was a United Kingdom Peerage of the United Kingdom and renound engineer.', 'sentence': '\' \' \' Robert Andrew " Robin " Inskip , 2nd Viscount Caldecote \' \'\' ( 8 October 1917 – 20 September 1999 ) , was a United Kingdom Peerage of the United Kingdom and engineer.', 'url': 'https://en.wikipedia.org/w/index.php?title=Robin_Inskip,_2nd_Viscount_Caldecote&diff=prev&oldid=561866870'}
+===================================================
+gec: Counter({'R:ORTH': 1, 'R:VERB': 1})
+1.9.0: Counter({'R:ORTH': 1, 'M:PUNCT': 1}) --------- [A 0 0|||M:PUNCT|||' '|||REQUIRED|||-NONE-|||0, A 76 81|||R:ORTH|||Wolff'''Music|||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 1, 'R:VERB', "'''''Directed", 0, 1], [73, 78, 'R:ORTH', "Wolff'''Music", 73, 74]], 'sentence_gt': "'''Directed by : ' '' Melanie Mayron'''Written by : ' '' Magda Liolis'''Produced by : ' '' Polly Draper ( Executive ) , Albie Hecht ( Executive ) , Michael Wolff ( Co - Executive ) , Tim Draper ( Producer ) , Ken H. Keller ( Producer ) , Caron Rudner ( Producer / Line)'''Music Produced by : ' '' Michael Wolff , Michael A. Levine'''Music Supervised by : ' '' Michael Wolff ' ' ' Music Composed by : ' '' Alex Wolff ( Vocals and Lyrics )", 'sentence': "'''''Directed by : ' '' Melanie Mayron'''Written by : ' '' Magda Liolis'''Produced by : ' '' Polly Draper ( Executive ) , Albie Hecht ( Executive ) , Michael Wolff ( Co - Executive ) , Tim Draper ( Producer ) , Ken H. Keller ( Producer ) , Caron Rudner ( Producer / Line)'''Music Produced by : ' '' Michael Wolff , Michael A. Levine'''Music Supervised by : ' '' Michael Wolff'''Music Composed by : ' '' Alex Wolff ( Vocals and Lyrics )", 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_The_Naked_Brothers_Band_episodes&diff=prev&oldid=200603258'}
+===================================================
+gec: Counter({'R:VERB': 1})
+1.9.0: Counter({'R:OTHER': 1}) --------- [A 1 4|||R:OTHER|||got|||REQUIRED|||-NONE-|||0]
+{'edits': [[1, 3, 'R:VERB', 'got', 1, 2]], 'sentence_gt': "I 've started the ball rolling , but this is going to be a collaborative effort ; I never played DoC , and FF7 is n't my favorite game in the series , so my knowledge of the plot details is n't great .", 'sentence': "I got the ball rolling , but this is going to be a collaborative effort ; I never played DoC , and FF7 is n't my favorite game in the series , so my knowledge of the plot details is n't great .", 'url': 'https://en.wikipedia.org/w/index.php?title=Talk:Vincent_Valentine&diff=prev&oldid=395943108'}
+===================================================
+gec: Counter({'M:VERB': 1})
+1.9.0: Counter({'M:OTHER': 1}) --------- [A 11 11|||M:OTHER|||        see|||REQUIRED|||-NONE-|||0]
+{'edits': [[11, 11, 'M:VERB', 'see', 11, 12]], 'sentence_gt': 'ICC ODI award is one of the award given by ICC ICC Awards', 'sentence': 'ICC ODI award is one of the award given by ICC        see ICC Awards', 'url': 'https://en.wikipedia.org/w/index.php?title=ICC_ODI_Player_of_the_Year_Award&diff=prev&oldid=331219300'}
+===================================================

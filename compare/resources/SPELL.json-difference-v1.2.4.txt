@@ -1,0 +1,12 @@
+gec: Counter({'R:SPELL': 1, 'M:PUNCT': 1})
+1.9.0: Counter({'M:PUNCT': 2}) --------- [A 0 0|||M:PUNCT|||' ' '|||REQUIRED|||-NONE-|||0, A 2 2|||M:PUNCT|||' ''|||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 1, 'R:SPELL', "'''Seifer", 0, 1], [2, 2, 'M:PUNCT', "' ''", 2, 4]], 'sentence_gt': 'Seifer : " What did you say !', 'sentence': '\'\'\'Seifer : \' \'\' " What did you say !', 'url': 'https://en.wikipedia.org/w/index.php?title=Characters_of_Final_Fantasy_VIII&diff=prev&oldid=115152648'}
+===================================================
+gec: Counter({'R:SPELL': 1})
+1.9.0: Counter({'M:PUNCT': 1}) --------- [A 0 0|||M:PUNCT|||"|||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 1, 'R:SPELL', '"Aristide', 0, 1]], 'sentence_gt': 'Aristide Development " .', 'sentence': '"Aristide Development " .', 'url': 'https://en.wikipedia.org/w/index.php?title=Haiti&diff=prev&oldid=340608551'}
+===================================================
+gec: Counter({'R:SPELL': 1, 'M:PUNCT': 1})
+1.9.0: Counter({'M:PUNCT': 2}) --------- [A 0 0|||M:PUNCT|||' ' '|||REQUIRED|||-NONE-|||0, A 2 2|||M:PUNCT|||' ''|||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 1, 'R:SPELL', "'''Seifer", 0, 1], [2, 2, 'M:PUNCT', "' ''", 2, 4]], 'sentence_gt': 'Seifer : " I was hoping you \'d be there , Squall .', 'sentence': '\'\'\'Seifer : \' \'\' " I was hoping you \'d be there , Squall .', 'url': 'https://en.wikipedia.org/w/index.php?title=Characters_of_Final_Fantasy_VIII&diff=prev&oldid=115152648'}
+===================================================

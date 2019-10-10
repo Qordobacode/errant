@@ -1,0 +1,16 @@
+gec: Counter({'R:VERB:FORM': 1, 'R:CONTR': 1})
+1.9.0: Counter({'R:OTHER': 1, 'R:VERB:FORM': 1}) --------- [A 11 13|||R:OTHER|||have|||REQUIRED|||-NONE-|||0, A 13 14|||R:VERB:FORM|||began|||REQUIRED|||-NONE-|||0]
+{'edits': [[11, 12, 'R:CONTR', 'have', 11, 12], [12, 13, 'R:VERB:FORM', 'began', 12, 13]], 'sentence_gt': "Since the border post has been in rebel hands , they 've begun bringing supplies from Tunisia into the besieged towns of the Nafusa Mountains .", 'sentence': 'Since the border post has been in rebel hands , they have began bringing supplies from Tunisia into the besieged towns of the Nafusa Mountains .', 'url': 'https://en.wikipedia.org/w/index.php?title=Battle_of_Wazzin&diff=prev&oldid=426525437'}
+===================================================
+gec: Counter({'R:VERB:FORM': 1, 'R:ORTH': 1})
+1.9.0: Counter({'R:VERB:FORM': 1}) --------- [A 5 6|||R:VERB:FORM|||awarded|||REQUIRED|||-NONE-|||0]
+{'edits': [[5, 6, 'R:VERB:FORM', 'awarded', 5, 6], [17, 21, 'R:ORTH', 'Award").', 17, 18]], 'sentence_gt': 'In 1987 , Isaksson was award the Swedish \' \' Stora Journalistpriset \'\' ( " Great Journalist Award " ) .', 'sentence': 'In 1987 , Isaksson was awarded the Swedish \' \' Stora Journalistpriset \'\' ( " Great Journalist Award").', 'url': 'https://en.wikipedia.org/w/index.php?title=Anders_Isaksson&diff=prev&oldid=264811380'}
+===================================================
+gec: Counter({'R:VERB:FORM': 1, 'R:CONTR': 1})
+1.9.0: Counter({'R:OTHER': 1, 'R:VERB:FORM': 1}) --------- [A 14 16|||R:OTHER|||am|||REQUIRED|||-NONE-|||0, A 16 17|||R:VERB:FORM|||headed|||REQUIRED|||-NONE-|||0]
+{'edits': [[14, 15, 'R:CONTR', 'am', 14, 15], [15, 16, 'R:VERB:FORM', 'headed', 15, 16]], 'sentence_gt': "= = Articles I might like to edit , from SuggestBot ( where I 'm heading next ) = =", 'sentence': '= = Articles I might like to edit , from SuggestBot ( where I am headed next ) = =', 'url': 'https://en.wikipedia.org/w/index.php?title=User:Frank_Niro&diff=prev&oldid=602201728'}
+===================================================
+gec: Counter({'R:VERB:FORM': 1})
+1.9.0: Counter({'R:NOUN:NUM': 1}) --------- [A 3 4|||R:NOUN:NUM|||guessing|||REQUIRED|||-NONE-|||0]
+{'edits': [[2, 3, 'R:VERB:FORM', 'guessing', 2, 3]], 'sentence_gt': "I 'm guess he 's pretty confused right now .", 'sentence': "I 'm guessing he 's pretty confused right now .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Hotrayrain&diff=prev&oldid=640205605'}
+===================================================

@@ -1,0 +1,8 @@
+gec: Counter({'U:DET': 1, 'R:ORTH': 1})
+1.9.0: Counter({'U:DET': 1}) --------- [A 15 16|||U:DET||||||REQUIRED|||-NONE-|||0]
+{'edits': [[15, 16, 'U:DET', '', 15, 15], [17, 19, 'R:ORTH', 'languages.', 16, 17]], 'sentence_gt': 'The Mordvinic languages are more closely related to the Finno - Lappic languages than to the Mari languages .', 'sentence': 'The Mordvinic languages are more closely related to the Finno - Lappic languages than to Mari languages.', 'url': 'https://en.wikipedia.org/w/index.php?title=Uralic_languages&diff=prev&oldid=257390313'}
+===================================================
+gec: Counter({'R:ORTH': 1, 'M:DET': 1})
+1.9.0: Counter({'M:DET': 1}) --------- [A 11 11|||M:DET|||the|||REQUIRED|||-NONE-|||0]
+{'edits': [[11, 11, 'M:DET', 'the', 11, 12], [11, 13, 'R:ORTH', 'UK.', 12, 13]], 'sentence_gt': 'Karbonn is the first Android One phone to be sold in UK .', 'sentence': 'Karbonn is the first Android One phone to be sold in the UK.', 'url': 'https://en.wikipedia.org/w/index.php?title=Karbonn_Mobiles&diff=prev&oldid=802595150'}
+===================================================

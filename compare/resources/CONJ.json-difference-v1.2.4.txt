@@ -1,0 +1,12 @@
+gec: Counter({'M:CONJ': 1, 'R:PUNCT': 1})
+1.9.0: Counter({'U:PUNCT': 1}) --------- [A 0 1|||U:PUNCT||||||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 1, 'R:PUNCT', ',', 0, 1], [1, 1, 'M:CONJ', 'or', 1, 2]], 'sentence_gt': '",or just " cooter " ) .', 'sentence': ', or just " cooter " ) .', 'url': 'https://en.wikipedia.org/w/index.php?title=Teletubbies&diff=prev&oldid=293827767'}
+===================================================
+gec: Counter({'U:CONJ': 1})
+1.9.0: Counter({'R:OTHER': 1}) --------- [A 5 6|||R:OTHER|||  |||REQUIRED|||-NONE-|||0]
+{'edits': [[5, 6, 'U:CONJ', '', 5, 5]], 'sentence_gt': 'As the battle finished , and a ferocious storm unleashed hail and wind .', 'sentence': 'As the battle finished ,   a ferocious storm unleashed hail and wind .', 'url': 'https://en.wikipedia.org/w/index.php?title=Battle_of_Schliengen&diff=prev&oldid=350693367'}
+===================================================
+gec: Counter({'R:CONJ': 1, 'R:PUNCT': 1})
+1.9.0: Counter({'R:OTHER': 1, 'R:PUNCT': 1}) --------- [A 31 32|||R:OTHER|||–|||REQUIRED|||-NONE-|||0, A 34 35|||R:PUNCT|||–|||REQUIRED|||-NONE-|||0]
+{'edits': [[31, 32, 'R:CONJ', '–', 31, 32], [34, 35, 'R:PUNCT', '–', 34, 35]], 'sentence_gt': 'The basis of One - Nation Conservatism is a belief in social cohesion , and its adherents support social institutions that maintain harmony between different interest groups , classes , and — more recently — different races or religions .', 'sentence': 'The basis of One - Nation Conservatism is a belief in social cohesion , and its adherents support social institutions that maintain harmony between different interest groups , classes , and – more recently – different races or religions .', 'url': 'https://en.wikipedia.org/w/index.php?title=Conservative_Party_(UK)&diff=prev&oldid=793246503'}
+===================================================

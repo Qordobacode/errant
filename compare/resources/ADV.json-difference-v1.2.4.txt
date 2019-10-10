@@ -1,0 +1,12 @@
+gec: Counter({'R:ORTH': 1, 'U:ADV': 1})
+1.9.0: Counter({'U:ADV': 1}) --------- [A 7 8|||U:ADV||||||REQUIRED|||-NONE-|||0]
+{'edits': [[7, 8, 'U:ADV', '', 7, 7], [26, 28, 'R:ORTH', 'delegates.', 25, 26]], 'sentence_gt': 'The decisions made by the communities are then passed to elected delegates whose only job is to give the decided upon information to a council of delegates .', 'sentence': 'The decisions made by the communities are passed to elected delegates whose only job is to give the decided upon information to a council of delegates.', 'url': 'https://en.wikipedia.org/w/index.php?title=List_of_anarchist_communities&diff=prev&oldid=280966167'}
+===================================================
+gec: Counter({'R:ADV': 1})
+1.9.0: Counter({'R:VERB:INFL': 1}) --------- [A 4 5|||R:VERB:INFL|||annulled|||REQUIRED|||-NONE-|||0]
+{'edits': [[4, 5, 'R:ADV', 'annulled.', 4, 5]], 'sentence_gt': 'All their results were annuled.', 'sentence': 'All their results were annulled.', 'url': 'https://en.wikipedia.org/w/index.php?title=2010_A_Lyga&diff=prev&oldid=375917197'}
+===================================================
+gec: Counter({'U:SPACE': 1, 'M:ADV': 1})
+1.9.0: Counter({'M:ADV': 1}) --------- [A 25 25|||M:ADV|||inadvertently|||REQUIRED|||-NONE-|||0]
+{'edits': [[12, 13, 'U:SPACE', '', 12, 12], [25, 25, 'M:ADV', 'inadvertently', 24, 25]], 'sentence_gt': "' ' ' Temporary semi - protection : ' '' Persistent vandalism \xa0 – This page has been vandalized so much that automated users are restoring vandalized versions .", 'sentence': "' ' ' Temporary semi - protection : ' '' Persistent vandalism \xa0 – This page has been vandalized so much that automated users are inadvertently restoring vandalized versions .", 'url': 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_page_protection&diff=prev&oldid=685780190'}
+===================================================

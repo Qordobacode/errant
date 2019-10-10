@@ -1,0 +1,4 @@
+gec: Counter({'R:PART': 1, 'R:PUNCT': 1})
+1.9.0: Counter({'R:PUNCT': 2}) --------- [A 0 1|||R:PUNCT|||"|||REQUIRED|||-NONE-|||0, A 23 24|||R:PUNCT|||"|||REQUIRED|||-NONE-|||0]
+{'edits': [[0, 1, 'R:PART', '"The', 0, 1], [22, 23, 'R:PUNCT', '"', 22, 23]], 'sentence_gt': "'The visit of South African Prime Minister Mr P W Botha is causing a rising storm of protest in Britain and Europe ' , ' ' The Guardian '' ( 8 May 1984 ) , p. 2 .", 'sentence': '"The visit of South African Prime Minister Mr P W Botha is causing a rising storm of protest in Britain and Europe " , \' \' The Guardian \'\' ( 8 May 1984 ) , p. 2 .', 'url': 'https://en.wikipedia.org/w/index.php?title=Premiership_of_Margaret_Thatcher&diff=prev&oldid=628290754'}
+===================================================
