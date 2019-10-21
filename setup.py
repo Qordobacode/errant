@@ -4,13 +4,13 @@ import setuptools
 setup(
     name='errant',
     packages=setuptools.find_packages(),
-    version='1.1.5',
+    version='1.1.6',
     license='MIT',
     description='ERRor ANnotation Toolkit: Automatically extract and classify grammatical errors in parallel original and corrected sentences.',
     author='Christopher Bryant, Mariano Felice',
     python_requires='>=3.4.0',
     url='https://github.com/Qordobacode/errant',
-    download_url='https://github.com/Qordobacode/errant/archive/1.1.5.tar.gz',
+    download_url='https://github.com/Qordobacode/errant/archive/1.1.6.tar.gz',
     keywords=['error annotation toolkit', 'grammatical correction errors', '', 'grammatical errors', '', 'grammatical correction', 'GEC'],
     install_requires=[
         'spacy==1.9.0',

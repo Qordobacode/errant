@@ -53,7 +53,7 @@ class ParallelToM2:
                 # Write the original sentence to the output m2 file.
                 out_m2.write("S " + orig_sent + "\n")
                 # Markup the original sentence with spacy (assume tokenized)
-                proc_orig = Toolbox.apply_spacy(orig_sent.split(), nlp)
+                proc_orig = nlp(orig_sent)
                 # Loop through the corrected sentences
                 for cor_id, cor_sent in enumerate(cor_sents):
                     cor_sent = cor_sent.strip()
@@ -63,7 +63,7 @@ class ParallelToM2:
                     # Otherwise, do extra processing.
                     else:
                         # Markup the corrected sentence with spacy (assume tokenized)
-                        proc_cor = Toolbox.apply_spacy(cor_sent.strip().split(), nlp)
+                        proc_cor = nlp(cor_sent)
                         # Auto align the parallel sentences and extract the edits.
                         auto_edits = AlignText.get_auto_aligned_edits(proc_orig, proc_cor, merge_strategy, levenshtein)
                         # Loop through the edits.

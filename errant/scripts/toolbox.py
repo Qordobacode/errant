@@ -122,11 +122,10 @@ class Toolbox:
         :return: Annotate tokens with POS, lemma and parse info.
         """
         # Convert tokens to spacy tokens and POS tag and parse.
-        # sent = nlp.tokenizer.tokens_from_list(sent)
-        # nlp.tagger(sent)
-        # nlp.parser(sent)
-        # return sent
-        return nlp(sent)
+        sent = nlp.tokenizer.tokens_from_list(sent)
+        nlp.tagger(sent)
+        nlp.parser(sent)
+        return sent
 
     @staticmethod
     def minimise_edit(edit, orig, cor):
